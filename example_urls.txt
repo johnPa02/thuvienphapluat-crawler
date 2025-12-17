@@ -1,0 +1,30 @@
+# Example URLs for batch crawler
+# Each line should contain one URL
+# Lines starting with # are comments
+
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-67-VBHN-VPQH-2025-Luat-Doanh-nghiep-671127.aspx
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-26-VBHN-VPQH-2025-Luat-Ngan-sach-nha-nuoc-651531.aspx
+https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-16-VBHN-VPQH-2025-Luat-Thuy-loi-650941.aspx
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-12-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-651007.aspx
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2024-Bo-luat-To-tung-dan-su-629877.aspx
+https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-43-VBHN-VPQH-2023-Luat-Thuy-loi-602390.aspx
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-48-VBHN-VPQH-2023-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-603862.aspx
+https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-07-VBHN-VPQH-2023-Luat-Thuy-loi-2017-589373.aspx
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2023-Bo-luat-To-tung-dan-su-589914.aspx
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2022-Bo-luat-To-tung-dan-su-559869.aspx
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-07-VBHN-VPQH-2022-Luat-Doanh-nghiep-547841.aspx
+https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-35-VBHN-VPQH-2020-Luat-Thuy-loi-469845.aspx
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-06-VBHN-VPQH-2020-Luat-Ngan-sach-nha-nuoc-457491.aspx
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2020-Luat-Phong-chong-tham-nhung-457498.aspx
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-10-VBHN-VPQH-2020-Luat-To-cao-457497.aspx
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-09-VBHN-VPQH-2020-hop-nhat-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-457496.aspx
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-08-VBHN-VPQH-2020-Bo-luat-To-tung-dan-su-457495.asp
+https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Dau-tu-cong-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-486653.aspx
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-sua-doi-2025-so-76-2025-QH15-659899.aspx
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-2025-so-89-2025-QH15-650061.aspx
+https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-247-2025-ND-CP-sua-doi-Nghi-dinh-171-2016-ND-CP-dang-ky-mua-ban-dong-moi-tau-bien-672761.aspx
+https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3397-BKHDT-QLKTTW-2019-ap-dung-quy-dinh-tai-Dieu-162-Luat-Doanh-nghiep-2014-416870.aspx
+https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-2739-VPCP-DMDN-2019-quan-tri-doanh-nghiep-tai-Luat-Doanh-nghiep-chua-duoc-thuc-thi-411049.aspx
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Thong-tu-04-2016-TT-BKHDT-bieu-mau-su-dung-dang-ky-doanh-nghiep-xa-hoi-Nghi-dinh-96-2015-ND-CP-311752.aspx
+https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Dau-tu-cong-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-486653.aspx
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-sua-doi-2025-so-76-2025-QH15-659899.aspx

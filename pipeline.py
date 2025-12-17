@@ -17,6 +17,7 @@ import sys
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from table_converter import is_data_table, process_tables_in_content
 
 
 def load_cookies_from_file(cookie_file: str) -> list:
@@ -213,27 +214,37 @@ def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
             element.string = note_content
 
 
-def extract_content(html: str) -> str:
+def extract_content(html: str, url: str = None) -> str:
     """
     Trích xuất nội dung text từ HTML.
-    
+
     Args:
         html: HTML content
-        
+        url: URL of the page (for resolving relative links)
+
     Returns:
         Text content đã được chuẩn hóa
     """
     print("📄 Đang trích xuất nội dung...")
-    
+
+    # Debug: Print raw HTML after Playwright crawl but before BeautifulSoup processing
+    print("\n" + "="*80)
+    print("🔍 DEBUG: Raw HTML data after Playwright crawl:")
+    print("="*80)
+    print(html[:10000])  # Print first 2000 characters to avoid too much output
+    if len(html) > 2000:
+        print("... (truncated, showing first 2000 characters)")
+    print("="*80 + "\n")
+
     soup = BeautifulSoup(html, "html.parser")
     content_div = soup.find("div", class_="content1")
-    
+
     if content_div is None:
         raise ValueError("Không tìm thấy thẻ <div class='content1'> trên trang")
-    
+
     # Xử lý hover tooltips
     process_element_with_hover(soup, content_div)
-    
+
     # Xử lý các thẻ <b> chứa "Điều X." để tách tên điều và nội dung
     # 1. Normalize tên điều (bỏ newline trong thẻ <b>)
     # 2. Thêm marker sau thẻ <b> để xuống dòng
@@ -247,7 +258,30 @@ def extract_content(html: str) -> str:
             # Thêm marker sau thẻ <b> này
             from bs4 import NavigableString
             b_tag.insert_after(NavigableString(DIEU_MARKER))
-    
+
+    # Xử lý các bảng - chuyển đổi thành Markdown và lưu lại
+    print("🔄 Đang chuyển đổi bảng thành Markdown...")
+    markdown_tables = []
+    table_placeholders = []
+
+    # Find all tables and convert them
+    tables = content_div.find_all('table')
+    for idx, table in enumerate(tables):
+        if is_data_table(table):
+            # Convert table to markdown
+            from table_converter import convert_table_to_markdown
+            markdown = convert_table_to_markdown(table, base_url=url)
+            markdown_tables.append(markdown)
+
+            # Create placeholder
+            placeholder = f"<<<TABLE_{idx}>>>"
+            table_placeholders.append(placeholder)
+
+            # Replace table with placeholder
+            placeholder_div = BeautifulSoup('<div></div>', 'html.parser').div
+            placeholder_div.string = placeholder
+            table.replace_with(placeholder_div)
+
     # Lấy text
     text = content_div.get_text()
     
@@ -318,8 +352,17 @@ def extract_content(html: str) -> str:
     
     if buffer:
         result.append(buffer)
-    
-    return '\n'.join(result)
+
+    # Join result
+    final_text = '\n'.join(result)
+
+    # Replace table placeholders with actual markdown
+    for placeholder, markdown in zip(table_placeholders, markdown_tables):
+        # Add proper spacing around tables
+        markdown_with_spacing = f"\n{markdown.strip()}\n"
+        final_text = final_text.replace(placeholder, markdown_with_spacing)
+
+    return final_text
 
 
 def postprocess(content: str, doc_name: str) -> str:
@@ -364,12 +407,16 @@ def postprocess(content: str, doc_name: str) -> str:
     # Không xử lý khi:
     # - "Điều X." ở cuối câu hoặc đứng một mình
     # - "Điều X." nằm trong ngoặc kép (trích dẫn)
+    # - "Điều X." đã có doc_name phía trước
     # Pattern: ký tự không phải newline và không phải dấu ngoặc kép (cả ASCII " và Unicode "" ) + "Điều X." + space + chữ cái + tên điều
-    content = re.sub(r'([^\n""\u201c\u201d])(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)', rf'\1\n\n{doc_name}. \2', content)
+    pattern = r'([^\n""\u201c\u201d])(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)'
+    replacement = rf'\1\n\n{doc_name}. \2'
+    content = re.sub(pattern, replacement, content)
     # Thêm doc_name cho Điều đã ở đầu dòng (chưa có doc_name) và theo sau là tên điều, không bắt đầu bằng ngoặc kép
-    content = re.sub(r'^(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)', rf'{doc_name}. \1', content, flags=re.MULTILINE)
-    # Thêm doc_name cho Điều X. nằm riêng một dòng (tên điều ở dòng tiếp theo bắt đầu bằng chữ hoa)
-    content = re.sub(r'^(Điều\s+\d+\.)\n([A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ])', rf'{doc_name}. \1 \2', content, flags=re.MULTILINE)
+    # Chỉ thêm khi chưa có doc_name phía trước
+    content = re.sub(r'^(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)', rf'{doc_name}. \1', content, flags=re.MULTILINE)
+    # REMOVED: Thêm doc_name cho Điều X. nằm riêng một dòng - This pattern was causing title truncation
+    # The extract_content function already handles proper formatting of Điều titles
     # Loại bỏ doc_name nếu dòng bắt đầu bằng ngoặc kép + Điều (trích dẫn) - hỗ trợ cả ASCII " và Unicode ""
     content = re.sub(r'["\u201c\u201d]' + re.escape(doc_name) + r'\. (Điều)', r'"\1', content)
     # Thêm dòng trống trước các dòng bắt đầu bằng doc_name. Điều (đảm bảo có 1 dòng trống)
@@ -411,7 +458,7 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
     print(f"   ✓ Đã tải {len(html):,} bytes HTML")
     
     # Step 2: Extract content
-    content = extract_content(html)
+    content = extract_content(html, url=url)
     print(f"   ✓ Đã trích xuất {len(content):,} ký tự")
     
     # Step 3: Postprocess
@@ -422,7 +469,7 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
     processed = f"{doc_name}\n{processed}"
     
     # Step 5: Save output
-    output_file = f"{doc_name.replace(' ', '_').replace('/','-')}.txt"
+    output_file = f"{doc_name.replace(' ', '_').replace('/', '_')}.txt"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(processed)
     print(f"   ✓ Đã lưu vào: {output_file}")
