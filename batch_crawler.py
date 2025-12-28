@@ -68,7 +68,7 @@ class BatchCrawler:
         self.completed_urls = set()
         self.failed_urls = set()
 
-        # Pipeline command
+        # # Pipeline command
         self.pipeline_cmd = ["uv", "run", "python", "pipeline.py"]
 
     def extract_doc_name_from_url(self, url: str) -> str:
@@ -210,10 +210,12 @@ class BatchCrawler:
             # Run subprocess from original directory
             result = subprocess.run(
                 cmd,
+                cwd=os.getcwd(),
                 capture_output=True,
                 text=True,
-                encoding='utf-8',
-                timeout=300  # 5 minutes timeout
+                encoding='utf-8',          # 👈 Thêm dòng này
+                errors='replace',          # 👈 Thay ký tự lỗi bằng 
+                timeout=300
             )
 
             if result.returncode == 0:
@@ -318,6 +320,10 @@ class BatchCrawler:
         threading.current_thread().name = thread_name
 
         while True:
+            url_item = None
+            processed = False
+            skipped = False
+
             try:
                 # Get URL from queue
                 url_item = self.url_queue.get(timeout=1)
@@ -333,44 +339,40 @@ class BatchCrawler:
                         print(f"   [{thread_name}] ⏭️  Bỏ qua (đã hoàn thành): {doc_name}")
                     with self.stats_lock:
                         self.stats['skipped'] += 1
-                    self.url_queue.task_done()
-                    continue
-
-                # Run pipeline via subprocess
-                success, result = self.run_pipeline_subprocess(url, doc_name)
-
-                if success:
-                    # Update statistics
-                    with self.stats_lock:
-                        self.stats['completed'] += 1
-                        self.completed_urls.add(url)
-
-                    filename = result  # result contains filename when success=True
-                    self.completed_queue.put((url, doc_name, filename))
+                    skipped = True
                 else:
-                    with self.stats_lock:
-                        self.stats['failed'] += 1
-                        self.failed_urls.add(url)
+                    # Run pipeline via subprocess
+                    success, result = self.run_pipeline_subprocess(url, doc_name)
 
-                    self.failed_queue.put((url, doc_name, result))
+                    if success:
+                        with self.stats_lock:
+                            self.stats['completed'] += 1
+                            self.completed_urls.add(url)
+                        self.completed_queue.put((url, doc_name, result))
+                    else:
+                        with self.stats_lock:
+                            self.stats['failed'] += 1
+                            self.failed_urls.add(url)
+                        self.failed_queue.put((url, doc_name, result))
 
-                # Random delay to avoid being blocked
-                delay = random.uniform(*self.delay_range)
-                time.sleep(delay)
-
-                self.url_queue.task_done()
+                    processed = True
 
             except queue.Empty:
                 continue
             except Exception as e:
                 with self.print_lock:
                     print(f"   [{thread_name}] 🚨 Lỗi worker: {e}")
-
                 with self.stats_lock:
                     self.stats['failed'] += 1
+                processed = True  # Đánh dấu đã xử lý lỗi
 
-                self.url_queue.task_done()
+            finally:
+                if url_item is not None:
+                    self.url_queue.task_done()
 
+                    # 👇 ÁP DỤNG DELAY SAU MỌI XỬ LÝ (kể cả skip, lỗi, thành công)
+                    delay = random.uniform(*self.delay_range)
+                    time.sleep(delay)
     def load_resume_state(self, resume_file: str = "crawl_state.json"):
         """Load resume state from file"""
         if os.path.exists(resume_file):
@@ -408,13 +410,32 @@ class BatchCrawler:
         try:
             with open(url_file, 'r', encoding='utf-8') as f:
                 for line_num, line in enumerate(f, 1):
-                    line = line.strip()
-                    if line and not line.startswith('#'):
-                        if line.startswith('http'):
-                            doc_name = self.extract_doc_name_from_url(line)
-                            urls.append((line, doc_name))
-                        else:
-                            print(f"⚠️  Dòng {line_num}: URL không hợp lệ - {line}")
+                    raw = line.rstrip('\n')
+                    line = raw.strip()
+                    if not line or line.startswith('#'):
+                        continue
+
+                    # Support lines with optional doc-name after the URL
+                    # e.g. "<url> Luật ngân sách 2025"
+                    parts = line.split()
+                    if parts and parts[0].startswith('http'):
+                        url = parts[0]
+
+                        # If there's additional text after the URL, treat it as the doc_name
+                        doc_name = None
+                        if len(parts) > 1:
+                            # Preserve the original spacing for the doc_name portion
+                            first_space = raw.find(' ')
+                            if first_space != -1:
+                                doc_name = raw[first_space + 1 :].strip()
+
+                        # Fallback to extractor when doc_name not provided
+                        if not doc_name:
+                            doc_name = self.extract_doc_name_from_url(url)
+
+                        urls.append((url, doc_name))
+                    else:
+                        print(f"⚠️  Dòng {line_num}: URL không hợp lệ - {line}")
 
             print(f"📋 Đã tải {len(urls)} URL từ {url_file}")
             return urls
@@ -573,8 +594,8 @@ Examples:
                        help="Number of concurrent threads (default: 4)")
     parser.add_argument("-c", "--cookies", default="cookies.txt",
                        help="Cookie file (default: cookies.txt)")
-    parser.add_argument("-d", "--delay", nargs=2, type=float, default=[1.0, 3.0],
-                       metavar=("MIN", "MAX"), help="Delay range between requests (default: 1.0 3.0)")
+    parser.add_argument("-d", "--delay", nargs=2, type=float, default=[3.0, 5.0],
+                   metavar=("MIN", "MAX"), help="Delay range between requests (default: 5.0 10.0)")
     parser.add_argument("-r", "--retry", type=int, default=3,
                        help="Number of retries per URL (default: 3)")
     parser.add_argument("--resume", action="store_true",

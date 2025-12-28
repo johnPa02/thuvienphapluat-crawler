@@ -1,0 +1,320 @@
+Văn bản hợp nhất 28/VBHN-VPQH năm 2025
+VĂN PHÒNG QUỐC HỘI --------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 28/VBHN-VPQH
+Hà Nội, ngày 26 tháng 02 năm 2025 LUẬT THUẾ THU NHẬP CÁ NHÂN Luật Thuế thu nhập cá nhân số 04/2007/QH12 ngày 21 tháng 11 năm 2007 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2009, được sửa đổi, bổ sung bởi:
+1. Luật số 26/2012/QH13 ngày 22 tháng 11 năm 2012 của Quốc hội sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013;
+2. Luật số 71/2014/QH13 ngày 26 tháng 11 năm 2014 của Quốc hội sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015;
+3. Luật Đất đai số 31/2024/QH15 ngày 18 tháng 01 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 8 năm 2024[1];
+4. Luật số 43/2024/QH15 ngày 29 tháng 6 năm 2024 của Quốc hội sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15, có hiệu lực kể từ ngày 01 tháng 8 năm 2024;
+5. Luật Thuế giá trị gia tăng số 48/2024/QH15 ngày 26 tháng 11 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025;
+6. Luật số 56/2024/QH15 ngày 29 tháng 11 năm 2024 của Quốc hội sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế tiêu thụ cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025.
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+Quốc hội ban hành Luật Thuế thu nhập cá nhân[2].
+Chương I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Luật này quy định về đối tượng nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, giảm thuế và căn cứ tính thuế thu nhập cá nhân.
+Điều 2. Đối tượng nộp thuế
+1. Đối tượng nộp thuế thu nhập cá nhân là cá nhân cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát sinh trong và ngoài lãnh thổ Việt Nam và cá nhân không cư trú có thu nhập chịu thuế quy định tại Điều 3 của Luật này phát sinh trong lãnh thổ Việt Nam.
+2. Cá nhân cư trú là người đáp ứng một trong các điều kiện sau đây:
+a) Có mặt tại Việt Nam từ 183 ngày trở lên tính trong một năm dương lịch hoặc tính theo 12 tháng liên tục kể từ ngày đầu tiên có mặt tại Việt Nam;
+b) Có nơi ở thường xuyên tại Việt Nam, bao gồm có nơi ở đăng ký thường trú hoặc có nhà thuê để ở tại Việt Nam theo hợp đồng thuê có thời hạn.
+3. Cá nhân không cư trú là người không đáp ứng điều kiện quy định tại khoản 2 Điều này.
+Điều 3. Thu nhập chịu thuế
+Thu nhập chịu thuế thu nhập cá nhân gồm các loại thu nhập sau đây, trừ thu nhập được miễn thuế quy định tại Điều 4 của Luật này:
+1.[3] Thu nhập từ kinh doanh, bao gồm:
+a) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;
+b) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật.
+Thu nhập từ kinh doanh quy định tại khoản này không bao gồm thu nhập của hộ, cá nhân sản xuất, kinh doanh có doanh thu dưới mức quy định tại khoản 25 Điều 5 của Luật Thuế giá trị gia tăng.
+2.[4] Thu nhập từ tiền lương, tiền công, bao gồm:
+a) Tiền lương, tiền công và các khoản có tính chất tiền lương, tiền công;
+b) Các khoản phụ cấp, trợ cấp, trừ các khoản: phụ cấp, trợ cấp theo quy định của pháp luật về ưu đãi người có công; phụ cấp quốc phòng, an ninh; phụ cấp độc hại, nguy hiểm đối với ngành, nghề hoặc công việc ở nơi làm việc có yếu tố độc hại, nguy hiểm; phụ cấp thu hút, phụ cấp khu vực theo quy định của pháp luật; trợ cấp khó khăn đột xuất, trợ cấp tai nạn lao động, bệnh nghề nghiệp, trợ cấp một lần khi sinh con hoặc nhận nuôi con nuôi, trợ cấp do suy giảm khả năng lao động, trợ cấp hưu trí một lần, tiền tuất hàng tháng và các khoản trợ cấp khác theo quy định của pháp luật về bảo hiểm xã hội; trợ cấp thôi việc, trợ cấp mất việc làm theo quy định của Bộ luật Lao động; trợ cấp mang tính chất bảo trợ xã hội và các khoản phụ cấp, trợ cấp khác không mang tính chất tiền lương, tiền công theo quy định của Chính phủ.
+3. Thu nhập từ đầu tư vốn, bao gồm:
+a) Tiền lãi cho vay;
+b) Lợi tức cổ phần;
+c) Thu nhập từ đầu tư vốn dưới các hình thức khác, trừ thu nhập từ lãi trái phiếu Chính phủ.
+4. Thu nhập từ chuyển nhượng vốn, bao gồm:
+a) Thu nhập từ chuyển nhượng phần vốn trong các tổ chức kinh tế;
+b) Thu nhập từ chuyển nhượng chứng khoán;
+c) Thu nhập từ chuyển nhượng vốn dưới các hình thức khác.
+5.[5] Thu nhập từ chuyển nhượng bất động sản, bao gồm:
+a) Thu nhập từ chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất;
+b) Thu nhập từ chuyển nhượng quyền sở hữu hoặc sử dụng nhà ở;
+c) Thu nhập từ chuyển nhượng quyền thuê đất, quyền thuê mặt nước;
+d) Các khoản thu nhập khác nhận được từ chuyển nhượng bất động sản dưới mọi hình thức.
+6. Thu nhập từ trúng thưởng, bao gồm:
+a) Trúng thưởng xổ số;
+b) Trúng thưởng trong các hình thức khuyến mại;
+c)[6] Trúng thưởng trong các hình thức cá cược;
+d) Trúng thưởng trong các trò chơi, cuộc thi có thưởng và các hình thức trúng thưởng khác.
+7. Thu nhập từ bản quyền, bao gồm:
+a) Thu nhập từ chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ;
+b) Thu nhập từ chuyển giao công nghệ.
+8. Thu nhập từ nhượng quyền thương mại.
+9. Thu nhập từ nhận thừa kế là chứng khoán, phần vốn trong các tổ chức kinh tế, cơ sở kinh doanh, bất động sản và tài sản khác phải đăng ký sở hữu hoặc đăng ký sử dụng.
+10. Thu nhập từ nhận quà tặng là chứng khoán, phần vốn trong các tổ chức kinh tế, cơ sở kinh doanh, bất động sản và tài sản khác phải đăng ký sở hữu hoặc đăng ký sử dụng.
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+Điều 4. Thu nhập được miễn thuế
+1. Thu nhập từ chuyển nhượng bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau.
+2. Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở và tài sản gắn liền với đất ở của cá nhân trong trường hợp cá nhân chỉ có một nhà ở, đất ở duy nhất.
+3. Thu nhập từ giá trị quyền sử dụng đất của cá nhân được Nhà nước giao đất.
+4. Thu nhập từ nhận thừa kế, quà tặng là bất động sản giữa vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau.
+5. Thu nhập của hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, lâm nghiệp, làm muối, nuôi trồng, đánh bắt thủy sản chưa qua chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường.
+6. Thu nhập từ chuyển đổi đất nông nghiệp của hộ gia đình, cá nhân được Nhà nước giao để sản xuất.
+7. Thu nhập từ lãi tiền gửi tại tổ chức tín dụng, lãi từ hợp đồng bảo hiểm nhân thọ.
+8. Thu nhập từ kiều hối.
+9. Phần tiền lương làm việc ban đêm, làm thêm giờ được trả cao hơn so với tiền lương làm việc ban ngày, làm trong giờ theo quy định của pháp luật.
+10.[7] Tiền lương hưu do Quỹ Bảo hiểm xã hội chi trả; tiền lương hưu do quỹ hưu trí tự nguyện chi trả hàng tháng.
+11. Thu nhập từ học bổng, bao gồm:
+a) Học bổng nhận được từ ngân sách nhà nước;
+b) Học bổng nhận được từ tổ chức trong nước và ngoài nước theo chương trình hỗ trợ khuyến học của tổ chức đó.
+12. Thu nhập từ bồi thường hợp đồng bảo hiểm nhân thọ, phi nhân thọ, tiền bồi thường tai nạn lao động, khoản bồi thường nhà nước và các khoản bồi thường khác theo quy định của pháp luật.
+13. Thu nhập nhận được từ quỹ từ thiện được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, không nhằm mục đích lợi nhuận.
+14. Thu nhập nhận được từ nguồn viện trợ nước ngoài vì mục đích từ thiện, nhân đạo dưới hình thức chính phủ và phi chính phủ được cơ quan nhà nước có thẩm quyền phê duyệt.
+15.[8] Thu nhập từ tiền lương, tiền công của thuyền viên là người Việt Nam làm việc cho các hãng tàu nước ngoài hoặc các hãng tàu Việt Nam vận tải quốc tế.
+16.[9] Thu nhập của cá nhân là chủ tàu, cá nhân có quyền sử dụng tàu và cá nhân làm việc trên tàu từ hoạt động cung cấp hàng hóa, dịch vụ trực tiếp phục vụ hoạt động khai thác, đánh bắt thủy sản xa bờ.
+Điều 5. Giảm thuế
+Đối tượng nộp thuế gặp khó khăn do thiên tai, hỏa hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế thì được xét giảm thuế tương ứng với mức độ thiệt hại nhưng không vượt quá số thuế phải nộp.
+Điều 6. Quy đổi thu nhập chịu thuế ra Đồng Việt Nam
+1.[10] Thu nhập chịu thuế nhận được bằng ngoại tệ phải được quy đổi ra Đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh thu nhập.
+2. Thu nhập chịu thuế nhận được không bằng tiền phải được quy đổi ra Đồng Việt Nam theo giá thị trường của sản phẩm, dịch vụ đó hoặc sản phẩm, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh thu nhập.
+Điều 7. Kỳ tính thuế
+1. Kỳ tính thuế đối với cá nhân cư trú được quy định như sau:
+a) Kỳ tính thuế theo năm áp dụng đối với thu nhập từ kinh doanh; thu nhập từ tiền lương, tiền công;
+b) Kỳ tính thuế theo từng lần phát sinh thu nhập áp dụng đối với thu nhập từ đầu tư vốn; thu nhập từ chuyển nhượng vốn, trừ thu nhập từ chuyển nhượng chứng khoán; thu nhập từ chuyển nhượng bất động sản; thu nhập từ trúng thưởng; thu nhập từ bản quyền; thu nhập từ nhượng quyền thương mại; thu nhập từ thừa kế; thu nhập từ quà tặng;
+c)[11] Kỳ tính thuế theo từng lần chuyển nhượng hoặc theo năm đối với thu nhập từ chuyển nhượng chứng khoán.
+2. Kỳ tính thuế đối với cá nhân không cư trú được tính theo từng lần phát sinh thu nhập áp dụng đối với tất cả thu nhập chịu thuế.
+Điều 8. Quản lý thuế và hoàn thuế
+1. Việc đăng ký thuế, kê khai, khấu trừ thuế, nộp thuế, quyết toán thuế, hoàn thuế, xử lý vi phạm pháp luật về thuế và các biện pháp quản lý thuế được thực hiện theo quy định của pháp luật về quản lý thuế.
+2. Cá nhân được hoàn thuế trong các trường hợp sau đây:
+a) Số tiền thuế đã nộp lớn hơn số thuế phải nộp;
+b) Cá nhân đã nộp thuế nhưng có thu nhập tính thuế chưa đến mức phải nộp thuế;
+c) Các trường hợp khác theo quyết định của cơ quan nhà nước có thẩm quyền.
+Điều 9. Áp dụng điều ước quốc tế
+Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định về thuế thu nhập cá nhân khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.
+Chương II CĂN CỨ TÍNH THUẾ ĐỐI VỚI CÁ NHÂN CƯ TRÚ
+
+Văn bản hợp nhất 28/VBHN-VPQH năm 2025. Mục 1. XÁC ĐỊNH THU NHẬP CHỊU THUẾ VÀ THU NHẬP TÍNH THUẾ
+Điều 10. Thuế đối với cá nhân kinh doanh
+[12]
+1. Cá nhân kinh doanh nộp thuế thu nhập cá nhân theo tỷ lệ trên doanh thu đối với từng lĩnh vực, ngành nghề sản xuất, kinh doanh.
+2. Doanh thu là toàn bộ tiền bán hàng, tiền gia công, tiền hoa hồng, tiền cung ứng dịch vụ phát sinh trong kỳ tính thuế từ các hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ.
+Trường hợp cá nhân kinh doanh không xác định được doanh thu thì cơ quan thuế có thẩm quyền ấn định doanh thu theo quy định của pháp luật về quản lý thuế.
+3. Thuế suất:
+a) Phân phối, cung cấp hàng hóa: 0,5%;
+b) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 2%.
+Riêng hoạt động cho thuê tài sản, đại lý bảo hiểm, đại lý xổ số, đại lý bán hàng đa cấp: 5%;
+c) Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu: 1,5%;
+d) Hoạt động kinh doanh khác:
+1%.
+Điều 11. Thu nhập chịu thuế từ tiền lương, tiền công
+1. Thu nhập chịu thuế từ tiền lương, tiền công được xác định bằng tổng số thu nhập quy định tại khoản 2 Điều 3 của Luật này mà đối tượng nộp thuế nhận được trong kỳ tính thuế.
+2. Thời điểm xác định thu nhập chịu thuế từ tiền lương, tiền công là thời điểm tổ chức, cá nhân trả thu nhập cho đối tượng nộp thuế hoặc thời điểm đối tượng nộp thuế nhận được thu nhập.
+Điều 12. Thu nhập chịu thuế từ đầu tư vốn
+1. Thu nhập chịu thuế từ đầu tư vốn là tổng số các khoản thu nhập từ đầu tư vốn quy định tại khoản 3 Điều 3 của Luật này mà đối tượng nộp thuế nhận được trong kỳ tính thuế.
+2. Thời điểm xác định thu nhập chịu thuế từ đầu tư vốn là thời điểm tổ chức, cá nhân trả thu nhập cho đối tượng nộp thuế hoặc thời điểm đối tượng nộp thuế nhận được thu nhập.
+Điều 13. Thu nhập chịu thuế từ chuyển nhượng vốn
+[13]
+1. Thu nhập chịu thuế từ chuyển nhượng vốn được xác định bằng giá bán trừ giá mua và các khoản chi phí hợp lý liên quan đến việc tạo ra thu nhập từ chuyển nhượng vốn.
+Đối với hoạt động chuyển nhượng chứng khoán, thu nhập chịu thuế được xác định là giá chuyển nhượng từng lần.
+2. Thời điểm xác định thu nhập chịu thuế từ chuyển nhượng vốn là thời điểm giao dịch chuyển nhượng vốn hoàn thành theo quy định của pháp luật.
+Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.
+Điều 14. Thu nhập chịu thuế từ chuyển nhượng bất động sản
+[14] 1.[15] Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần; trường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá đất.
+2. Chính phủ quy định nguyên tắc, phương pháp xác định giá chuyển nhượng bất động sản.
+3. Thời điểm xác định thu nhập chịu thuế từ chuyển nhượng bất động sản là thời điểm hợp đồng chuyển nhượng có hiệu lực theo quy định của pháp luật.
+Điều 15. Thu nhập chịu thuế từ trúng thưởng
+1. Thu nhập chịu thuế từ trúng thưởng là phần giá trị giải thưởng vượt trên 10 triệu đồng mà đối tượng nộp thuế nhận được theo từng lần trúng thưởng.
+2. Thời điểm xác định thu nhập chịu thuế từ trúng thưởng là thời điểm tổ chức, cá nhân trả thu nhập cho đối tượng nộp thuế.
+Điều 16. Thu nhập chịu thuế từ bản quyền
+1. Thu nhập chịu thuế từ bản quyền là phần thu nhập vượt trên 10 triệu đồng mà đối tượng nộp thuế nhận được khi chuyển giao, chuyển quyền sử dụng các đối tượng của quyền sở hữu trí tuệ, chuyển giao công nghệ theo từng hợp đồng.
+2. Thời điểm xác định thu nhập chịu thuế từ bản quyền là thời điểm tổ chức, cá nhân trả thu nhập cho đối tượng nộp thuế.
+Điều 17. Thu nhập chịu thuế từ nhượng quyền thương mại
+1. Thu nhập chịu thuế từ nhượng quyền thương mại là phần thu nhập vượt trên 10 triệu đồng mà đối tượng nộp thuế nhận được theo từng hợp đồng nhượng quyền thương mại.
+2. Thời điểm xác định thu nhập chịu thuế từ nhượng quyền thương mại là thời điểm tổ chức, cá nhân trả thu nhập cho đối tượng nộp thuế.
+Điều 18. Thu nhập chịu thuế từ thừa kế, quà tặng
+1. Thu nhập chịu thuế từ thừa kế, quà tặng là phần giá trị tài sản thừa kế, quà tặng vượt trên 10 triệu đồng mà đối tượng nộp thuế nhận được theo từng lần phát sinh.
+2. Thời điểm xác định thu nhập chịu thuế được quy định như sau:
+a) Đối với thu nhập từ thừa kế là thời điểm đối tượng nộp thuế nhận được thừa kế;
+b) Đối với thu nhập từ quà tặng là thời điểm tổ chức, cá nhân tặng cho đối tượng nộp thuế hoặc thời điểm đối tượng nộp thuế nhận được thu nhập.
+Điều 19. Giảm trừ gia cảnh
+1.[16] Giảm trừ gia cảnh là số tiền được trừ vào thu nhập chịu thuế trước khi tính thuế đối với thu nhập từ kinh doanh, tiền lương, tiền công của đối tượng nộp thuế là cá nhân cư trú. Giảm trừ gia cảnh gồm hai phần sau đây:
+a) Mức giảm trừ đối với đối tượng nộp thuế là 9 triệu đồng/tháng (108 triệu đồng/năm);
+b) Mức giảm trừ đối với mỗi người phụ thuộc là 3,6 triệu đồng/tháng.
+Trường hợp chỉ số giá tiêu dùng (CPI) biến động trên 20% so với thời điểm Luật có hiệu lực thi hành hoặc thời điểm điều chỉnh mức giảm trừ gia cảnh gần nhất thì Chính phủ trình Ủy ban thường vụ Quốc hội điều chỉnh mức giảm trừ gia cảnh quy định tại khoản này phù hợp với biến động của giá cả để áp dụng cho kỳ tính thuế tiếp theo.
+2. Việc xác định mức giảm trừ gia cảnh đối với người phụ thuộc thực hiện theo nguyên tắc mỗi người phụ thuộc chỉ được tính giảm trừ một lần vào một đối tượng nộp thuế.
+3. Người phụ thuộc là người mà đối tượng nộp thuế có trách nhiệm nuôi dưỡng, bao gồm:
+a) Con chưa thành niên; con bị tàn tật, không có khả năng lao động;
+b) Các cá nhân không có thu nhập hoặc có thu nhập không vượt quá mức quy định, bao gồm con thành niên đang học đại học, cao đẳng, trung học chuyên nghiệp hoặc học nghề; vợ hoặc chồng không có khả năng lao động; bố, mẹ đã hết tuổi lao động hoặc không có khả năng lao động; những người khác không nơi nương tựa mà người nộp thuế phải trực tiếp nuôi dưỡng.
+Chính phủ quy định mức thu nhập, kê khai để xác định người phụ thuộc được tính giảm trừ gia cảnh.
+Điều 20. Giảm trừ đối với các khoản đóng góp từ thiện, nhân đạo
+1.[17] Các khoản đóng góp từ thiện, nhân đạo được trừ vào thu nhập trước khi tính thuế đối với thu nhập từ kinh doanh, tiền lương, tiền công của đối tượng nộp thuế là cá nhân cư trú, bao gồm:
+a) Khoản đóng góp vào tổ chức, cơ sở chăm sóc, nuôi dưỡng trẻ em có hoàn cảnh đặc biệt khó khăn, người tàn tật, người già không nơi nương tựa;
+b) Khoản đóng góp vào quỹ từ thiện, quỹ nhân đạo, quỹ khuyến học.
+2. Tổ chức, cơ sở và các quỹ quy định tại điểm a và điểm b khoản 1 Điều này phải được cơ quan nhà nước có thẩm quyền cho phép thành lập hoặc công nhận, hoạt động vì mục đích từ thiện, nhân đạo, khuyến học, không nhằm mục đích lợi nhuận.
+Điều 21. Thu nhập tính thuế
+1.[18] Thu nhập tính thuế đối với thu nhập từ kinh doanh, tiền lương, tiền công là tổng thu nhập chịu thuế quy định tại Điều 10 và Điều 11 của Luật này, trừ các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành, nghề phải tham gia bảo hiểm bắt buộc, quỹ hưu trí tự nguyện, các khoản giảm trừ quy định tại Điều 19 và Điều 20 của Luật này.
+Chính phủ quy định mức tối đa được trừ đối với khoản đóng góp quỹ hưu trí tự nguyện quy định tại khoản này.
+2. Thu nhập tính thuế đối với thu nhập từ đầu tư vốn, chuyển nhượng vốn, chuyển nhượng bất động sản, trúng thưởng, tiền bản quyền, nhượng quyền thương mại, nhận thừa kế, quà tặng là thu nhập chịu thuế quy định tại các điều 12, 13, 14, 15, 16, 17 và 18 của Luật này.
+
+Văn bản hợp nhất 28/VBHN-VPQH năm 2025. Mục 2. BIỂU THUẾ
+Điều 22. Biểu thuế lũy tiến từng phần
+1. Biểu thuế lũy tiến từng phần áp dụng đối với thu nhập tính thuế quy định tại khoản 1 Điều 21 của Luật này.
+2. Biểu thuế lũy tiến từng phần được quy định như sau:
+
+| Bậc thuế | Phần thu nhập tính thuế/năm (triệu đồng) | Phần thu nhập tính thuế/tháng (triệu đồng) | Thuế suất (%) |
+| --- | --- | --- | --- |
+| 1 | Đến 60 | Đến 5 | 5 |
+| 2 | Trên 60 đến 120 | Trên 5 đến 10 | 10 |
+| 3 | Trên 120 đến 216 | Trên 10 đến 18 | 15 |
+| 4 | Trên 216 đến 384 | Trên 18 đến 32 | 20 |
+| 5 | Trên 384 đến 624 | Trên 32 đến 52 | 25 |
+| 6 | Trên 624 đến 960 | Trên 52 đến 80 | 30 |
+| 7 | Trên 960 | Trên 80 | 35 |
+Điều 23. Biểu thuế toàn phần
+1. Biểu thuế toàn phần áp dụng đối với thu nhập tính thuế quy định tại khoản 2 Điều 21 của Luật này.
+2.[19] Biểu thuế toàn phần được quy định như sau:
+
+| Thu nhập tính thuế | Thuế suất (%) |
+| --- | --- |
+| a) Thu nhập từ đầu tư vốn | 5 |
+| b) Thu nhập từ bản quyền, nhượng quyền thương mại | 5 |
+| c) Thu nhập từ trúng thưởng | 10 |
+| d) Thu nhập từ thừa kế, quà tặng | 10 |
+| khoản 1 Điều 13 của Luật này [ID: tc_10] đ) Thu nhập từ chuyển nhượng vốn quy định tại | 20 |
+| khoản 1 Điều 13 của Luật này [ID: tc_11] Thu nhập từ chuyển nhượng chứng khoán quy định tại | 0,1 |
+| e) Thu nhập từ chuyển nhượng bất động sản | 2 |
+Điều 24. Trách nhiệm của tổ chức, cá nhân trả thu nhập, tổ chức là nhà quản lý sàn giao dịch thương mại điện tử, nhà quản lý nền tảng số có chức năng thanh toán, các tổ chức có hoạt động kinh tế số khác; trách nhiệm của đối tượng nộp thuế là cá nhân cư trú
+[20]
+1. Trách nhiệm kê khai, khấu trừ, nộp thuế, quyết toán thuế được quy định như sau:
+a) Tổ chức, cá nhân trả thu nhập có trách nhiệm kê khai, khấu trừ, nộp thuế vào ngân sách nhà nước và quyết toán thuế đối với các loại thu nhập chịu thuế trả cho đối tượng nộp thuế;
+a1)[21] Tổ chức là nhà quản lý sàn giao dịch thương mại điện tử, nhà quản lý nền tảng số có chức năng thanh toán, các tổ chức có hoạt động kinh tế số khác theo quy định của Chính phủ thực hiện khấu trừ, nộp thuế thay, kê khai số thuế đã khấu trừ đối với các giao dịch kinh doanh trên nền tảng thương mại điện tử, nền tảng số của các hộ, cá nhân;
+b) Cá nhân có thu nhập chịu thuế có trách nhiệm kê khai, nộp thuế vào ngân sách nhà nước và quyết toán thuế theo quy định của pháp luật.
+2. Tổ chức, cá nhân trả thu nhập có trách nhiệm cung cấp thông tin về thu nhập và người phụ thuộc của đối tượng nộp thuế thuộc đơn vị mình quản lý theo quy định của pháp luật.
+3. Chính phủ quy định mức khấu trừ thuế phù hợp với từng loại thu nhập quy định tại điểm a khoản 1 Điều này và việc quyết toán thuế quy định tại khoản 1 Điều này.
+Chương III CĂN CỨ TÍNH THUẾ ĐỐI VỚI CÁ NHÂN KHÔNG CƯ TRÚ
+Điều 25. Thuế đối với thu nhập từ kinh doanh
+1. Thuế đối với thu nhập từ kinh doanh của cá nhân không cư trú được xác định bằng doanh thu từ hoạt động sản xuất, kinh doanh quy định tại khoản 2 Điều này nhân với thuế suất quy định tại khoản 3 Điều này.
+2. Doanh thu là toàn bộ số tiền phát sinh từ việc cung ứng hàng hóa, dịch vụ bao gồm cả chi phí do bên mua hàng hóa, dịch vụ trả thay cho cá nhân không cư trú mà không được hoàn trả.
+Trường hợp thỏa thuận hợp đồng không bao gồm thuế thu nhập cá nhân thì doanh thu tính thuế phải quy đổi là toàn bộ số tiền mà cá nhân không cư trú nhận được dưới bất kỳ hình thức nào từ việc cung cấp hàng hóa, dịch vụ tại Việt Nam không phụ thuộc vào địa điểm tiến hành các hoạt động kinh doanh.
+3. Thuế suất đối với thu nhập từ kinh doanh quy định đối với từng lĩnh vực, ngành nghề sản xuất, kinh doanh như sau:
+a) 1% đối với hoạt động kinh doanh hàng hóa;
+b) 5% đối với hoạt động kinh doanh dịch vụ;
+c) 2% đối với hoạt động sản xuất, xây dựng, vận tải và hoạt động kinh doanh khác.
+Điều 26. Thuế đối với thu nhập từ tiền lương, tiền công
+1. Thuế đối với thu nhập từ tiền lương, tiền công của cá nhân không cư trú được xác định bằng thu nhập chịu thuế từ tiền lương, tiền công quy định tại khoản 2 Điều này nhân với thuế suất 20%.
+2. Thu nhập chịu thuế từ tiền lương, tiền công là tổng số tiền lương, tiền công mà cá nhân không cư trú nhận được do thực hiện công việc tại Việt Nam, không phân biệt nơi trả thu nhập.
+Điều 27. Thuế đối với thu nhập từ đầu tư vốn
+Thuế đối với thu nhập từ đầu tư vốn của cá nhân không cư trú được xác định bằng tổng số tiền mà cá nhân không cư trú nhận được từ việc đầu tư vốn vào tổ chức, cá nhân tại Việt Nam nhân với thuế suất 5%.
+Điều 28. Thuế đối với thu nhập từ chuyển nhượng vốn
+Thuế đối với thu nhập từ chuyển nhượng vốn của cá nhân không cư trú được xác định bằng tổng số tiền mà cá nhân không cư trú nhận được từ việc chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam nhân với thuế suất 0,1%, không phân biệt việc chuyển nhượng được thực hiện tại Việt Nam hay tại nước ngoài.
+Điều 29. Thuế đối với thu nhập từ chuyển nhượng bất động sản
+Thuế đối với thu nhập từ chuyển nhượng bất động sản tại Việt Nam của cá nhân không cư trú được xác định bằng giá chuyển nhượng bất động sản nhân với thuế suất 2%.
+Điều 30. Thuế đối với thu nhập từ bản quyền, nhượng quyền thương mại
+1. Thuế đối với thu nhập từ bản quyền của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên 10 triệu đồng theo từng hợp đồng chuyển giao, chuyển quyền sử dụng các đối tượng quyền sở hữu trí tuệ, chuyển giao công nghệ tại Việt Nam nhân với thuế suất 5%.
+2. Thuế đối với thu nhập từ nhượng quyền thương mại của cá nhân không cư trú được xác định bằng phần thu nhập vượt trên 10 triệu đồng theo từng hợp đồng nhượng quyền thương mại tại Việt Nam nhân với thuế suất 5%.
+Điều 31. Thuế đối với thu nhập từ trúng thưởng, thừa kế, quà tặng
+1. Thuế đối với thu nhập từ trúng thưởng, thừa kế, quà tặng của cá nhân không cư trú được xác định bằng thu nhập chịu thuế quy định tại khoản 2 Điều này nhân với thuế suất 10%.
+2. Thu nhập chịu thuế từ trúng thưởng của cá nhân không cư trú là phần giá trị giải thưởng vượt trên 10 triệu đồng theo từng lần trúng thưởng tại Việt Nam; thu nhập từ nhận thừa kế, quà tặng là phần giá trị tài sản thừa kế, quà tặng vượt trên 10 triệu đồng theo từng lần phát sinh thu nhập mà cá nhân không cư trú nhận được tại Việt Nam.
+Điều 32. Thời điểm xác định thu nhập chịu thuế
+1. Thời điểm xác định thu nhập chịu thuế đối với thu nhập quy định tại Điều 25 của Luật này là thời điểm cá nhân không cư trú nhận được thu nhập hoặc thời điểm xuất hóa đơn bán hàng hóa, cung cấp dịch vụ.
+2. Thời điểm xác định thu nhập chịu thuế đối với thu nhập quy định tại các điều 26, 27, 30 và 31 của Luật này là thời điểm tổ chức, cá nhân ở Việt Nam trả thu nhập cho cá nhân không cư trú hoặc thời điểm cá nhân không cư trú nhận được thu nhập từ tổ chức, cá nhân ở nước ngoài.
+3. Thời điểm xác định thu nhập chịu thuế đối với thu nhập quy định tại Điều 28 và Điều 29 của Luật này là thời điểm hợp đồng chuyển nhượng có hiệu lực.
+Điều 33. Trách nhiệm của tổ chức, cá nhân trả thu nhập, tổ chức là nhà quản lý sàn giao dịch thương mại điện tử, nhà quản lý nền tảng số có chức năng thanh toán, các tổ chức có hoạt động kinh tế số khác; trách nhiệm của đối tượng nộp thuế là cá nhân không cư trú
+[22]
+1. Tổ chức, cá nhân trả thu nhập có trách nhiệm khấu trừ và nộp thuế vào ngân sách nhà nước theo từng lần phát sinh đối với các khoản thu nhập chịu thuế trả cho đối tượng nộp thuế.
+2. Tổ chức là nhà quản lý sàn giao dịch thương mại điện tử, nhà quản lý nền tảng số có chức năng thanh toán, các tổ chức có hoạt động kinh tế số khác theo quy định của Chính phủ thực hiện khấu trừ, nộp thuế thay, kê khai số thuế đã khấu trừ đối với các giao dịch kinh doanh trên nền tảng thương mại điện tử, nền tảng số của các hộ, cá nhân.
+3. Đối tượng nộp thuế là cá nhân không cư trú có trách nhiệm kê khai, nộp thuế đối với thu nhập chịu thuế theo quy định của pháp luật về quản lý thuế.
+Chương IV ĐIỀU KHOẢN THI HÀNH[23]
+Điều 34. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009.
+2. Bãi bỏ các văn bản, quy định sau đây:
+a) Pháp lệnh Thuế thu nhập đối với người có thu nhập cao số 35/2001/PL-UBTVQH10  đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 14/2004/PL-UBTVQH11 ;
+b) Luật Thuế chuyển quyền sử dụng đất ban hành ngày 22 tháng 6 năm 1994 đã được sửa đổi, bổ sung một số điều theo Luật số 17/1999/QH10;
+c) Quy định về thuế thu nhập doanh nghiệp đối với cá nhân sản xuất, kinh doanh không bao gồm doanh nghiệp tư nhân theo quy định của Luật Thuế thu nhập doanh nghiệp số 09/2003/QH11;
+d) Các quy định khác về thuế đối với thu nhập của cá nhân trái với quy định của Luật này.
+3. Những khoản thu nhập của cá nhân được ưu đãi về thuế quy định tại các văn bản quy phạm pháp luật trước ngày Luật này có hiệu lực thi hành thì tiếp tục được hưởng ưu đãi.
+Điều 35. Hướng dẫn thi hành
+Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này./.
+XÁC THỰC VĂN BẢN HỢP NHẤT CHỦ NHIỆM Lê Quang Tùng
+[1] Luật Đất đai số 31/2024/QH15 có hiệu lực kể từ ngày 01 tháng 01 năm 2025 được sửa đổi hiệu lực thành từ ngày 01 tháng 8 năm 2024 theo quy định tại khoản 2 Điều 1 của Luật số 43/2024/QH15 sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15, có hiệu lực kể từ ngày 01 tháng 8 năm 2024.
+[2] Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân số 04/2007/QH12.”.
+Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật Thuế giá trị gia tăng số 13/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2013/QH13, Luật Thuế tài nguyên số 45/2009/QH12, Luật Quản lý thuế số 78/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2012/QH13, Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12, Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11, Luật Hải quan số 54/2014/QH13.”.
+Luật Đất đai số 31/2024/QH15 có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Đất đai.”.
+Luật số 43/2024/QH15 sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15.”.
+Luật Thuế giá trị gia tăng số 48/2024/QH15 có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Thuế giá trị gia tăng.”.
+Luật số 56/2024/QH15 sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế tiêu thụ cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính có căn cứ ban hành như sau:
+“Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán số 54/2019/QH14, Luật Kế toán số 88/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 38/2019/QH14, Luật Kiểm toán độc lập số 67/2011/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 97/2015/QH13, Luật Ngân sách nhà nước số 83/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 59/2020/QH14, Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15 và Luật số 43/2024/QH15, Luật Quản lý thuế số 38/2019/QH14, Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15 và Luật số 43/2024/QH15, Luật Dự trữ quốc gia số 22/2012/QH13 đã được sửa đổi, bổ sung một số điều theo số 21/2017/QH14, Luật Xử lý vi phạm hành chính số 15/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 54/2014/QH13, Luật số 18/2017/QH14, Luật số 67/2020/QH14, Luật số 09/2022/QH15 và Luật số 11/2022/QH15.”.
+[3] Khoản này được sửa đổi, bổ sung lần thứ nhất theo quy định tại khoản 1 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+Khoản này được sửa đổi, bổ sung lần thứ hai theo quy định tại Điều 17 của Luật Thuế giá trị gia tăng số 48/2024/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2025. Quy định về mức doanh thu của hộ, cá nhân sản xuất, kinh doanh thuộc đối tượng không chịu thuế có hiệu lực kể từ ngày 01 tháng 01 năm 2026 theo quy định tại khoản 2 Điều 18 của Luật Thuế Giá trị gia tăng số 48/2024/QH15.
+[4] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+[5] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+[6] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 2 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[7] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 2 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+[8] Khoản này được bổ sung theo quy định tại khoản 3 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[9] Khoản này được bổ sung theo quy định tại khoản 3 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[10] Bãi bỏ các nội dung quy định về tỷ giá khi xác định doanh thu, chi phí, giá tính thuế, thu nhập tính thuế, thu nhập chịu thuế và thuế nộp ngân sách nhà nước tại khoản này theo quy định tại điểm b khoản 2 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[11] Điểm này được sửa đổi theo quy định tại khoản 3
+Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+[12] Điều này được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[13] Điều này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[14] Điều này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[15] Khoản này được sửa đổi, bổ sung theo quy định tại Điều 247 của Luật Đất đai số 31/2024/QH15, có hiệu lực kể từ ngày 01 tháng 8 năm 2024 theo quy định tại khoản 2 Điều 1 của Luật số 43/2024/QH15 sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15.
+[16] Khoản này được sửa đổi, bổ sung lần thứ nhất theo quy định tại khoản 4 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+Bãi bỏ các quy định liên quan đến việc xác định thuế đối với cá nhân kinh doanh tại khoản này theo quy định tại khoản 4 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[17] Bãi bỏ các quy định liên quan đến việc xác định thuế đối với cá nhân kinh doanh tại khoản này theo quy định tại khoản 4 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[18] Khoản này được sửa đổi, bổ sung lần thứ nhất theo quy định tại khoản 5 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+Bãi bỏ các quy định liên quan đến việc xác định thuế đối với cá nhân kinh doanh tại khoản này theo quy định tại khoản 4 Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[19] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 2 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015.
+[20] Điều này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013.
+Tên Điều này được sửa đổi, bổ sung theo quy định tại điểm a khoản 1 Điều 8 của Luật số 56/2024/QH15 sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025.
+[21] Điểm này được bổ sung theo quy định tại điểm b khoản 1 Điều 8 của Luật số 56/2024/QH15 sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025.
+[22] Điều này được sửa đổi, bổ sung theo quy định tại khoản 2 Điều 8 của Luật số 56/2024/QH15 sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025.
+[23] Điều 2 của Luật số 26/2012/QH13 sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân, có hiệu lực kể từ ngày 01 tháng 7 năm 2013 quy định như sau:
+“Điều 2
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2013.
+2. Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.”.
+Điều 6 của Luật số 71/2014/QH13 sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01 tháng 01 năm 2015 quy định như sau:
+“Điều 6
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015.
+2. Bãi bỏ các nội dung quy định về tỷ giá khi xác định doanh thu, chi phí, giá tính thuế, thu nhập tính thuế, thu nhập chịu thuế và thuế nộp ngân sách nhà nước tại:
+a) Điều 8 và khoản 3 Điều 9 của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13;
+b) Khoản 1 Điều 6 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13;
+c) Khoản 3 Điều 7 của Luật Thuế giá trị gia tăng số 13/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2013/QH13;
+d) Điều 6 của Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12;
+đ) Khoản 3 Điều 9 và Điều 14 của Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11;
+e) Khoản 4 Điều 86 của Luật Hải quan số 54/2014/QH13.
+3. Bãi bỏ điểm c khoản 1 Điều 49 của Luật Quản lý thuế số 78/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2012/QH13.
+4. Bãi bỏ các quy định liên quan đến việc xác định thuế đối với cá nhân kinh doanh tại khoản 1 Điều 19, khoản 1 Điều 20 và khoản 1 Điều 21 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13.
+5. Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật.”.
+Điều 252 và Điều 253 của Luật Đất đai số 31/2024/QH15, có hiệu lực kể từ ngày 01 tháng 8 năm 2024 quy định như sau:
+“Điều 252. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.
+2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.
+3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021
+- 2030.
+Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.
+4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
+Điều 253. Quy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi hành
+1. Quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt trước ngày Luật này có hiệu lực thi hành thì được tiếp tục thực hiện và được điều chỉnh khi rà soát quy hoạch, kế hoạch sử dụng đất theo quy định tại Điều 73 của Luật này.
+2. Đối với địa phương đã được phê duyệt quy hoạch tỉnh thời kỳ 2021 - 2030 theo quy định của pháp luật về quy hoạch trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng phương án phân bổ và khoanh vùng đất đai trong quy hoạch tỉnh để thực hiện công tác quản lý đất đai cho đến hết kỳ quy hoạch. Việc điều chỉnh quy hoạch tỉnh thực hiện theo quy định của Luật Quy hoạch số 21/2017/QH14.”.
+Điều 5 của Luật số 43/2024/QH15 sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15, có hiệu lực kể từ ngày 01 tháng 8 năm 2024 quy định như sau:
+“Luật này có hiệu lực thi hành từ ngày 01 tháng 8 năm 2024.”.
+Điều 18 của Luật Thuế giá trị gia tăng số 48/2024/QH15, có hiệu lực kể từ ngày 01 tháng 7 năm 2025 quy định như sau:
+“Điều 18. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025, trừ trường hợp quy định tại khoản 2 Điều này.
+2. Quy định về mức doanh thu của hộ, cá nhân sản xuất, kinh doanh thuộc đối tượng không chịu thuế tại khoản 25 Điều 5 của Luật này và Điều 17 của Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
+3. Luật Thuế giá trị gia tăng số 13/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2013/QH13, Luật số 71/2014/QH13 và Luật số 106/2016/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.”.
+Khoản 1 Điều 10 của Luật số 56/2024/QH15 sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025 quy định như sau:
+“1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại các khoản 2, 3, 4 và 5 Điều này.”.

@@ -1,0 +1,461 @@
+Luật Công nghiệp công nghệ số 2025
+QUỐC HỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Luật số: 71/2025/QH15
+Hà Nội, ngày 14 tháng 6 năm 2025 LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Công nghiệp công nghệ số.
+Chương I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Luật này quy định về phát triển công nghiệp công nghệ số, công nghiệp bán dẫn, trí tuệ nhân tạo, tài sản số, quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+2. Luật này không điều chỉnh hoạt động công nghiệp công nghệ số chỉ phục vụ mục đích quốc phòng, an ninh, hoạt động cơ yếu để bảo vệ thông tin bí mật nhà nước.
+Điều 2. Đối tượng áp dụng
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và ngoài nước tham gia hoặc có liên quan đến công nghiệp công nghệ số tại Việt Nam.
+Điều 3. Giải thích từ ngữ
+1. Công nghệ số là tập hợp các phương pháp khoa học, quy trình công nghệ, công cụ kỹ thuật để sản xuất, truyền đưa, thu thập, xử lý, lưu trữ, trao đổi thông tin, dữ liệu số và số hóa thế giới thực.
+2. Công nghiệp công nghệ số là ngành kinh tế - kỹ thuật dựa trên sự kết hợp của khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số nhằm tạo ra các sản phẩm, dịch vụ công nghệ số; là bước phát triển tiếp theo của công nghiệp công nghệ thông tin.
+3. Thiết bị công nghệ số là thiết bị được sử dụng để sản xuất, truyền đưa, thu thập, xử lý, lưu trữ, trao đổi thông tin, dữ liệu số, số hóa thế giới thực.
+4. Nhân lực công nghiệp công nghệ số là người có trình độ, kỹ năng, kiến thức chuyên môn công nghệ số tham gia hoạt động sản xuất sản phẩm công nghệ số, cung cấp dịch vụ công nghệ số, quản lý hoạt động công nghiệp công nghệ số.
+5. Doanh nghiệp công nghệ số là doanh nghiệp sản xuất sản phẩm công nghệ số, cung cấp dịch vụ công nghệ số.
+6. Khu công nghệ số tập trung là khu chức năng, tập trung các hoạt động nghiên cứu và phát triển, hỗ trợ, đào tạo, thúc đẩy đổi mới sáng tạo, ươm tạo công nghệ số và doanh nghiệp công nghệ số, sản xuất và kinh doanh sản phẩm, dịch vụ công nghệ số, cung cấp hạ tầng, cung ứng dịch vụ cho các tổ chức, doanh nghiệp, cá nhân và các hoạt động khác trong khu.
+7. Công nghiệp bán dẫn là ngành công nghiệp thực hiện các hoạt động nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm bán dẫn và sản xuất thiết bị, máy móc, công cụ phục vụ cho các hoạt động này. Công nghiệp bán dẫn đóng vai trò thiết yếu, nền tảng đối với công nghiệp công nghệ số.
+8. Sản phẩm bán dẫn bao gồm vật liệu bán dẫn, thiết bị hoặc linh kiện điện tử được chế tạo từ vật liệu bán dẫn; là một trong những đầu vào quan trọng để tạo ra sản phẩm công nghệ số.
+9. Hệ thống trí tuệ nhân tạo là hệ thống dựa trên máy móc được thiết kế để hoạt động với các mức độ tự chủ khác nhau và có khả năng thích ứng sau khi triển khai nhằm đạt được những mục tiêu rõ ràng hoặc ngầm định, suy luận từ dữ liệu đầu vào mà hệ thống này nhận được để tạo ra dự đoán, nội dung, khuyến nghị, quyết định có thể ảnh hưởng đến môi trường thực hoặc môi trường điện tử. Hệ thống trí tuệ nhân tạo là sản phẩm công nghệ số tích hợp giữa phần cứng, phần mềm và dữ liệu. [Khoản này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+Điều 4. Chính sách phát triển công nghiệp công nghệ số
+1. Huy động nguồn lực đầu tư cho nghiên cứu, phát triển, thiết kế, chuyển giao công nghệ; từng bước làm chủ công nghệ số; xây dựng hạ tầng công nghiệp công nghệ số dùng chung quy mô vùng, quốc gia nhằm thúc đẩy hoạt động công nghiệp công nghệ số.
+2. Đào tạo, phát triển nguồn nhân lực công nghiệp công nghệ số; phát triển cơ sở giáo dục chuyên ngành công nghệ số; có cơ chế ưu đãi đặc biệt nhằm thu hút, trọng dụng nhân lực công nghiệp công nghệ số chất lượng cao, nhân tài công nghệ số.
+3. Có cơ chế thử nghiệm có kiểm soát đối với sản phẩm, dịch vụ ứng dụng công nghệ số trong các ngành, lĩnh vực, trong đó có cơ chế loại trừ trách nhiệm đối với cơ quan, tổ chức, doanh nghiệp, cá nhân trong thử nghiệm.
+4. Có cơ chế ưu đãi về đất đai, tín dụng, thuế và các cơ chế ưu đãi khác trong nghiên cứu, thử nghiệm, phát triển, sản xuất, ứng dụng sản phẩm, dịch vụ công nghệ số.
+5. Phát triển thị trường cho công nghiệp công nghệ số; có cơ chế đặt hàng, ưu tiên đầu tư, thuê, mua sắm sản phẩm, dịch vụ công nghệ số sử dụng nguồn vốn ngân sách nhà nước.
+6. Phát triển dữ liệu số trong hoạt động công nghiệp công nghệ số trở thành tài nguyên, tư liệu sản xuất quan trọng và là nền tảng phục vụ nghiên cứu, thúc đẩy phát triển công nghiệp công nghệ số.
+7. Đẩy mạnh phát triển, ứng dụng trí tuệ nhân tạo trong các ngành, lĩnh vực và các mặt của đời sống kinh tế - xã hội; đưa trí tuệ nhân tạo trở thành phương thức sản xuất mới; thúc đẩy mạnh mẽ năng lực nội sinh quốc gia, tạo ra những mô hình kinh tế mới với năng suất và giá trị vượt trội. Nhà nước có chính sách ưu đãi cao nhất để thúc đẩy nghiên cứu, phát triển, triển khai, sử dụng trí tuệ nhân tạo. [Khoản này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+8. Có chính sách ưu đãi vượt trội để phát triển công nghiệp bán dẫn, hình thành hệ sinh thái bán dẫn Việt Nam.
+9. Phát triển công nghiệp công nghệ số bền vững, sử dụng năng lượng tiết kiệm và hiệu quả, giảm thiểu tác động xấu đến môi trường.
+Điều 5. Quản lý nhà nước về công nghiệp công nghệ số
+1. Nội dung quản lý nhà nước:
+a) Xây dựng, ban hành, tổ chức thi hành văn bản quy phạm pháp luật, chiến lược, quy hoạch, kế hoạch, chương trình, đề án, dự án và chính sách phát triển công nghiệp công nghệ số;
+tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu kỹ thuật, định mức kinh tế - kỹ thuật, chất lượng sản phẩm, dịch vụ trong công nghiệp công nghệ số;
+b) Công tác thống kê, đo lường, báo cáo về công nghiệp công nghệ số;
+c) Quản lý khu công nghệ số tập trung; hệ thống thông tin quốc gia, cơ sở dữ liệu công nghiệp công nghệ số;
+d) Tuyên truyền, phổ biến chính sách, pháp luật về công nghiệp công nghệ số;
+đ) Quản lý công tác đào tạo, bồi dưỡng, phát triển nguồn nhân lực công nghiệp công nghệ số;
+e) Cấp, tạm đình chỉ, đình chỉ, thu hồi các loại giấy phép, giấy chứng nhận về công nghiệp công nghệ số;
+g) Hợp tác quốc tế về công nghiệp công nghệ số;
+h) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về công nghiệp công nghệ số.
+2. Trách nhiệm quản lý nhà nước:
+a) Chính phủ thống nhất quản lý nhà nước về công nghiệp công nghệ số;
+b) Bộ Khoa học và Công nghệ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công nghiệp công nghệ số;
+c) Các Bộ, cơ quan ngang Bộ, Bộ trưởng Bộ Quốc phòng, Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với Bộ Khoa học và Công nghệ trong việc quản lý nhà nước về công nghiệp công nghệ số trong các ngành, lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công.
+Điều 6. Hợp tác quốc tế về công nghiệp công nghệ số
+1. Ký kết, gia nhập điều ước quốc tế, thỏa thuận quốc tế; tham gia tổ chức quốc tế, hội, hiệp hội ở nước ngoài về công nghiệp công nghệ số.
+2. Phát triển mạng lưới đại diện công nghiệp công nghệ số Việt Nam ở nước ngoài.
+3. Hỗ trợ phát triển thị trường công nghệ số Việt Nam ở nước ngoài; tổ chức hoạt động nghiên cứu và phát triển, đào tạo, tư vấn, hội nghị, hội thảo quốc tế và các hoạt động xúc tiến thương mại quốc tế cho sản phẩm, dịch vụ công nghệ số Việt Nam; xây dựng và thực hiện chương trình, dự án hợp tác quốc tế về công nghiệp công nghệ số trong khuôn khổ thỏa thuận song phương, đa phương.
+4. Chuyển giao công nghệ số, sản phẩm, dịch vụ công nghệ số của nước ngoài vào Việt Nam và từ Việt Nam ra nước ngoài.
+5. Hỗ trợ các doanh nghiệp công nghệ số của Việt Nam hợp tác với các doanh nghiệp công nghệ số nước ngoài, mở rộng thị trường quốc tế, thành lập văn phòng đại diện, chi nhánh ở nước ngoài, hướng tới phát triển thành doanh nghiệp đa quốc gia, nâng cao năng lực cạnh tranh toàn cầu và phát triển thị trường quốc tế.
+6. Chủ động hợp tác, kết nối với hệ sinh thái công nghiệp bán dẫn của các đối tác chiến lược; thúc đẩy hoạt động liên doanh giữa doanh nghiệp Việt Nam và nhà đầu tư nước ngoài để thực hiện dự án đầu tư, sản xuất sản phẩm bán dẫn tại Việt Nam; hợp tác nghiên cứu và phát triển, thiết kế, sản xuất, thương mại hóa sản phẩm bán dẫn.
+Điều 7. Quản lý chất lượng trong hoạt động công nghiệp công nghệ số
+1. Bộ trưởng Bộ Khoa học và Công nghệ ban hành quy chuẩn kỹ thuật; yêu cầu kỹ thuật; quy định áp dụng tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia trong công nghiệp công nghệ số theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.
+2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ xây dựng, ban hành quy chuẩn kỹ thuật, đề nghị công bố tiêu chuẩn quốc gia, hướng dẫn áp dụng tiêu chuẩn về công nghiệp công nghệ số đối với các sản phẩm, dịch vụ công nghệ số ứng dụng trong các ngành, lĩnh vực được phân công.
+3. Bộ, cơ quan ngang Bộ thực hiện quản lý nhà nước về quản lý chất lượng sản phẩm, dịch vụ công nghệ số theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa trong các ngành, lĩnh vực được phân công.
+4. Nhà nước hỗ trợ doanh nghiệp công nghệ số tham gia xây dựng, áp dụng các tiêu chuẩn quốc tế trong Chương trình phát triển công nghiệp công nghệ số.
+Điều 8. Thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số
+Tổ chức, doanh nghiệp được triển khai thử nghiệm có kiểm soát đối với sản phẩm, dịch vụ ứng dụng công nghệ số theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo và pháp luật về công nghiệp công nghệ số.
+Điều 9. Chương trình phát triển công nghiệp công nghệ số
+1. Chương trình phát triển công nghiệp công nghệ số là tập hợp các nội dung, nhiệm vụ về hoạt động xúc tiến, hỗ trợ, thúc đẩy phát triển công nghiệp công nghệ số do Bộ Khoa học và Công nghệ xây dựng, trình Thủ tướng Chính phủ ban hành theo từng thời kỳ.
+2. Kinh phí thực hiện Chương trình phát triển công nghiệp công nghệ số từ nguồn tài chính cho phát triển công nghiệp công nghệ số được quy định tại Điều 11 của Luật này.
+Điều 10. Bảo đảm an toàn, an ninh mạng trong hoạt động công nghiệp công nghệ số
+Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động công nghiệp công nghệ số phải tuân thủ quy định của pháp luật về an toàn thông tin mạng, an ninh mạng, pháp luật về dữ liệu, dữ liệu cá nhân và pháp luật khác có liên quan.
+Điều 11. Tài chính cho phát triển công nghiệp công nghệ số
+[Nguồn tài chính cho hoạt động hợp tác công tư trong lĩnh vực nghiên cứu khoa học, phát triển công nghệ, đổi mới sáng tạo và chuyển đổi số được hướng dẫn bởi Điều 4 Nghị định 180/2025/NĐ-CP có hiệu lực từ ngày 01/07/2025]
+1. Nguồn tài chính cho phát triển công nghiệp công nghệ số:
+a) Nguồn ngân sách nhà nước cho khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số theo quy định của pháp luật về ngân sách nhà nước; khoa học, công nghệ và đổi mới sáng tạo; chuyển đổi số;
+b) Nguồn ngân sách nhà nước chi đầu tư phát triển và chi thường xuyên cho các hoạt động kinh tế theo quy định của pháp luật về ngân sách nhà nước; Quỹ hỗ trợ đầu tư theo quy định của pháp luật về đầu tư;
+c) Nguồn vốn vay, đóng góp, tài trợ, đầu tư của các doanh nghiệp, tổ chức, cá nhân trong và ngoài nước bao gồm Quỹ phát triển khoa học và công nghệ của doanh nghiệp và các quỹ, nguồn tài chính hợp pháp khác theo quy định của pháp luật.
+2. Việc lập kế hoạch, dự toán, phân bổ, quản lý, sử dụng ngân sách nhà nước hàng năm quy định tại điểm a khoản 1 Điều này thực hiện theo quy định của pháp luật về ngân sách nhà nước; khoa học, công nghệ và đổi mới sáng tạo; đầu tư công; chuyển đổi số.
+3.
+Chính phủ quy định nội dung chi, lập dự toán, phân bổ, quản lý, sử dụng nguồn tài chính quy định tại điểm a khoản 1 Điều này; hướng dẫn sử dụng các nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại khoản 1 Điều này.
+Điều 12. Các hành vi bị nghiêm cấm
+1. Lợi dụng hoạt động công nghiệp công nghệ số xâm phạm đến lợi ích quốc gia, dân tộc, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, lợi ích công cộng; quyền con người, quyền công dân, quyền và lợi ích hợp pháp của tổ chức, cá nhân; ảnh hưởng đạo đức xã hội, sức khỏe, tính mạng của con người.
+2. Vi phạm quyền sở hữu trí tuệ trong công nghiệp công nghệ số.
+3. Sử dụng sản phẩm, dịch vụ công nghệ số để thực hiện hành vi vi phạm pháp luật.
+4. Giả mạo, gian dối để được hưởng chính sách ưu đãi, hỗ trợ của Nhà nước; để được loại trừ trách nhiệm trong thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số.
+5. Cản trở hoạt động hợp pháp; hỗ trợ hoạt động bất hợp pháp về công nghiệp công nghệ số của tổ chức, cá nhân.
+6. Sử dụng, cung cấp, triển khai hệ thống trí tuệ nhân tạo để xâm phạm lợi ích quốc gia, dân tộc, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, lợi ích công cộng; quyền con người, quyền công dân, quyền và lợi ích hợp pháp của tổ chức, cá nhân và phá hoại thuần phong mỹ tục. [Khoản này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026] Chương II PHÁT TRIỂN CÔNG NGHIỆP CÔNG NGHỆ SỐ 
+Luật Công nghiệp công nghệ số 2025. Mục
+1. HOẠT ĐỘNG CÔNG NGHIỆP CÔNG NGHỆ SỐ VÀ SẢN PHẨM, DỊCH VỤ CÔNG NGHỆ SỐ
+Điều 13. Hoạt động công nghiệp công nghệ số
+1. Hoạt động công nghiệp công nghệ số bao gồm sản xuất sản phẩm công nghệ số và cung cấp dịch vụ công nghệ số.
+2. Sản xuất sản phẩm công nghệ số là việc thực hiện một hoặc một số công việc nghiên cứu và phát triển, thiết kế, lắp ráp, chế tạo, thử nghiệm, kiểm thử sản phẩm công nghệ số và các công việc khác để sản xuất ra các sản phẩm công nghệ số sau:
+a) Sản phẩm phần cứng là sản phẩm thiết bị công nghệ số, bộ phận của thiết bị công nghệ số, bao gồm: máy tính, thiết bị mạng, thiết bị ngoại vi; thiết bị viễn thông; thiết bị đa phương tiện; thiết bị truyền dẫn; thiết bị điện tử; thiết bị điện tử tích hợp công nghệ số; bộ phận và cụm linh kiện, linh kiện điện tử, chip bán dẫn và các sản phẩm phần cứng khác;
+b) Sản phẩm phần mềm là tập hợp các hướng dẫn, lệnh, dữ liệu số được thiết kế để điều khiển thiết bị công nghệ số thực hiện chức năng nhất định, bao gồm: phần mềm hệ thống; phần mềm ứng dụng; phần mềm tiện ích; phần mềm công cụ; phần mềm nền tảng số và các phần mềm khác;
+c) Sản phẩm nội dung số là thông tin được tạo ra, xử lý, lưu trữ và phân phối dưới dạng dữ liệu số, phục vụ mục đích giải trí, giáo dục, truyền thông, thương mại hoặc các nhu cầu xã hội khác. Sản phẩm nội dung số bao gồm: văn bản, dữ liệu số, hình ảnh, bản ghi âm, bản ghi hình hoặc các định dạng số khác.
+3. Cung cấp dịch vụ công nghệ số là việc thực hiện một hoặc một số hoạt động: tư vấn, thiết kế, cài đặt, tích hợp, quản lý, vận hành, đào tạo, số hóa, xử lý dữ liệu, bảo hành, bảo trì, sửa chữa, tân trang, xuất bản, phân phối sản phẩm công nghệ số; cung cấp các sản phẩm công nghệ số dưới dạng dịch vụ và dịch vụ công nghệ số khác.
+4.
+Chính phủ quy định chi tiết Điều này.
+Điều 14. Sản phẩm, dịch vụ công nghệ số trọng điểm
+1. Sản phẩm, dịch vụ công nghệ số trọng điểm là sản phẩm, dịch vụ công nghệ số đáp ứng một trong những tiêu chí sau:
+a) Thị trường trong nước có nhu cầu lớn và tạo ra giá trị gia tăng cao;
+b) Thị trường thế giới đang có nhu cầu và có tiềm năng xuất khẩu;
+c) Thực hiện các nhiệm vụ trọng điểm chuyển đổi số quốc gia; có tác động tích cực, đột phá về đổi mới công nghệ và hiệu quả kinh tế các ngành, lĩnh vực.
+2. Bộ trưởng Bộ Khoa học và Công nghệ ban hành Danh mục sản phẩm, dịch vụ công nghệ số trọng điểm trong từng thời kỳ phù hợp với yêu cầu quản lý của các ngành, lĩnh vực. [Khoản này được hướng dẫn bởi Thông tư 31/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026]
+Điều 15. Sản phẩm, dịch vụ công nghệ số hạn chế chuyển giao
+Danh mục sản phẩm, dịch vụ công nghệ số hạn chế chuyển giao; thẩm quyền, trình tự, thủ tục xem xét chấp thuận chuyển giao đối với sản phẩm, dịch vụ công nghệ số hạn chế chuyển giao được thực hiện theo quy định của pháp luật về chuyển giao công nghệ và pháp luật khác có liên quan.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+2. NGHIÊN CỨU VÀ PHÁT TRIỂN SẢN PHẨM, DỊCH VỤ CÔNG NGHỆ SỐ
+Điều 16. Thúc đẩy nghiên cứu và phát triển sản phẩm, dịch vụ công nghệ số
+1. Hoạt động nghiên cứu và phát triển sản phẩm, dịch vụ công nghệ số được hưởng ưu đãi cao nhất theo quy định pháp luật về khoa học, công nghệ và đổi mới sáng tạo; chuyển đổi số.
+2. Nhà nước bố trí kinh phí để thực hiện, hỗ trợ nghiên cứu và phát triển sản phẩm, dịch vụ công nghệ số từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+3. Tổ chức, cá nhân thực hiện hoạt động nghiên cứu và phát triển công nghệ số được ưu tiên, tạo điều kiện sử dụng trang thiết bị tại phòng thí nghiệm trọng điểm quốc gia, cơ sở ươm tạo công nghệ, cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao, cơ sở ươm tạo doanh nghiệp khoa học và công nghệ, cơ sở nghiên cứu khoa học và công nghệ của nhà nước.
+4. Các khoản chi của doanh nghiệp cho nghiên cứu và phát triển công nghệ số được tăng mức chi bổ sung khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo quy định pháp luật về thuế thu nhập doanh nghiệp.
+Điều 17. Phát triển cơ sở nghiên cứu và phát triển công nghệ số
+1. Bộ, cơ quan ngang Bộ, chính quyền địa phương ưu tiên đầu tư thành lập và phát triển các cơ sở thực hiện hoạt động nghiên cứu và phát triển, đổi mới sáng tạo công nghệ số trong các ngành, lĩnh vực, địa bàn thuộc phạm vi, nhiệm vụ, quyền hạn được phân công phù hợp với mục tiêu phát triển kinh tế - xã hội, định hướng phát triển công nghiệp công nghệ số từng thời kỳ.
+2. Nhà nước ưu tiên bố trí nguồn lực và cân đối ngân sách nhà nước hằng năm để hỗ trợ, tài trợ kinh phí cho các chương trình, nhiệm vụ nghiên cứu và phát triển, đổi mới sáng tạo công nghệ số của tổ chức, doanh nghiệp từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+3. NHÂN LỰC CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 18. Phát triển nhân lực công nghiệp công nghệ số
+[Hoạt động đào tạo nhân lực công nghiệp công nghệ số được hướng dẫn bởi Khoản 4 Điều 2 Nghị định 180/2025/NĐ-CP có hiệu lực từ ngày 01/07/2025]
+1. Nhà nước có chính sách hỗ trợ phát triển nhân lực công nghiệp công nghệ số trong cơ sở giáo dục như sau:
+a) Thúc đẩy hoạt động đào tạo, đào tạo lại, bồi dưỡng về công nghệ số trong hệ thống giáo dục quốc dân;
+b) Có chính sách tín dụng ưu đãi về lãi suất, điều kiện và thời hạn vay tiền cho người học ngành đào tạo về công nghệ số theo quy định của pháp luật về giáo dục, tài chính;
+c) Có chính sách cấp học bổng, trợ cấp xã hội; miễn, giảm học phí, hỗ trợ tiền học phí và chi phí sinh hoạt cho người học ngành đào tạo về công nghệ số theo quy định của pháp luật về giáo dục, tài chính;
+d) Phát triển nền tảng dạy và học trực tuyến mở, mô hình đào tạo công nghệ số thích ứng với quá trình chuyển đổi số, đào tạo liên ngành kết hợp giữa công nghệ số và các ngành, lĩnh vực khác;
+đ) Hỗ trợ đầu tư cơ sở vật chất bao gồm thiết bị đào tạo, phòng thí nghiệm, bản quyền phần mềm, nền tảng số dùng chung và công cụ kỹ thuật cần thiết khác phục vụ đào tạo nhân lực công nghiệp công nghệ số.
+2.
+Nhà nước có chính sách hỗ trợ phát triển nhân lực công nghiệp công nghệ số trong doanh nghiệp và cơ quan nhà nước như sau:
+a) Hỗ trợ đánh giá kỹ năng công nghệ số;
+b) Hỗ trợ hợp tác, kết nối giữa doanh nghiệp với viện nghiên cứu, cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp trong đào tạo nhân lực công nghiệp công nghệ số, trong đó ưu tiên doanh nghiệp nhỏ và vừa;
+c) Tổ chức tập huấn, bồi dưỡng nâng cao kiến thức, kỹ năng công nghệ số cho nhân lực công nghiệp công nghệ số;
+d) Hỗ trợ thu nhập tăng thêm đối với người làm công tác chuyên trách về công nghiệp công nghệ số theo vị trí việc làm được cơ quan, người có thẩm quyền phê duyệt.
+3. Địa phương có chính sách hỗ trợ phát triển nhân lực công nghiệp công nghệ số làm việc tại các dự án nghiên cứu, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo như sau:
+a) Hỗ trợ một phần chi phí thuê nhân lực công nghiệp công nghệ số chất lượng cao;
+b) Hỗ trợ một phần chi phí đào tạo, đào tạo lại, bồi dưỡng nâng cao chất lượng nguồn nhân lực của doanh nghiệp.
+4. Khuyến khích các tổ chức, cá nhân đào tạo, đào tạo lại, bồi dưỡng, đánh giá, công nhận kỹ năng công nghệ số của người học theo các chuẩn quốc tế, chuẩn khu vực, chuẩn nước ngoài được công nhận rộng rãi.
+5.
+Trách nhiệm của Bộ, cơ quan ngang Bộ, Hội đồng nhân dân cấp tỉnh:
+a) Bộ Giáo dục và Đào tạo thực hiện quy định tại khoản 1 Điều này; Bộ Khoa học và Công nghệ thực hiện quy định tại khoản 2 Điều này từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này;
+b) Hội đồng nhân dân cấp tỉnh bố trí ngân sách địa phương, quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ quy định tại khoản 3 Điều này.
+Điều 19. Thu hút nguồn nhân lực công nghiệp công nghệ số chất lượng cao
+1. Nhân lực công nghiệp công nghệ số chất lượng cao là người Việt Nam, người Việt Nam ở nước ngoài, người nước ngoài đáp ứng tiêu chí theo quy định của Chính phủ.
+2. Nhân lực công nghiệp công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú có thời hạn 05 năm và được gia hạn theo quy định pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam. Vợ hoặc chồng, con dưới 18 tuổi của nhân lực công nghiệp công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú với thời hạn tương ứng với thời hạn cấp cho nhân lực công nghiệp công nghệ số chất lượng cao; được chính quyền địa phương và các cơ quan chức năng tạo điều kiện, hỗ trợ về thủ tục khi tìm kiếm việc làm và tuyển sinh, học tập tại các cơ sở giáo dục tại Việt Nam.
+3. Nhân lực công nghiệp công nghệ số chất lượng cao được hưởng ưu đãi thuế thu nhập cá nhân theo quy định của pháp luật về thuế thu nhập cá nhân.
+4. Chính sách thu hút nhân lực công nghiệp công nghệ số trong cơ quan nhà nước:
+a) Nhân lực trong tổ chức, doanh nghiệp là công dân Việt Nam, có nguyện vọng, đáp ứng tiêu chí nhân lực công nghiệp công nghệ số chất lượng cao thì được xem xét, quyết định tiếp nhận vào làm công chức, viên chức mà không cần thông qua thi tuyển, xét tuyển; được xem xét bổ nhiệm chức vụ lãnh đạo quản lý mà không cần đáp ứng điều kiện về thời gian công tác, quy hoạch và các điều kiện khác theo quy định nếu cơ quan, đơn vị có nhu cầu; được hưởng các chính sách thu hút, trọng dụng, đãi ngộ khác của Nhà nước đối với nhân lực chất lượng cao theo quy định của pháp luật về cán bộ, công chức, pháp luật về viên chức;
+b) Trường hợp công chức, viên chức đã chuyển sang làm việc tại tổ chức, doanh nghiệp, đáp ứng tiêu chí nhân lực công nghiệp công nghệ số chất lượng cao, có nguyện vọng quay lại làm công chức, viên chức thì được ưu tiên tiếp nhận vào làm công chức, viên chức, bố trí vị trí việc làm phù hợp với chuyên môn, nghiệp vụ, được hưởng chế độ, chính sách về lương, phụ cấp, ngạch công chức, hạng chức danh nghề nghiệp viên chức và các chế độ, chính sách khác tương đương hoặc cao hơn chế độ, chính sách đã được hưởng trước đây; được xem xét là trường hợp đặc biệt khi bổ nhiệm chức vụ lãnh đạo, quản lý nếu cơ quan, đơn vị có nhu cầu;
+c) Nhân lực công nghiệp công nghệ số chất lượng cao trong tổ chức, doanh nghiệp công nghệ số được tiếp nhận có thời hạn làm việc tại cơ quan nhà nước hoặc đơn vị sự nghiệp công lập trên cơ sở thống nhất của người đứng đầu cơ quan, đơn vị và tổ chức, doanh nghiệp về hình thức tiếp nhận, thời gian làm việc, vị trí việc làm và quyền lợi của người được tiếp nhận; đồng thời bảo đảm sự đồng thuận của người được tiếp nhận;
+d) Công chức, viên chức có năng lực, trình độ chuyên môn, nghiệp vụ về công nghệ số có thể được điều động, luân chuyển, biệt phái sang cơ quan, tổ chức khác theo quy định của pháp luật về cán bộ, công chức, pháp luật về viên chức.
+Điều 20. Thu hút, trọng dụng nhân tài công nghệ số
+1. Nhân tài công nghệ số là nhân lực công nghiệp công nghệ số chất lượng cao đáp ứng tiêu chí nhân tài trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo.
+2. Chính sách hỗ trợ, ưu đãi đối với nhân tài công nghệ số:
+a) Được hưởng các ưu đãi đối với nhân lực công nghiệp công nghệ số chất lượng cao quy định tại khoản 2 và khoản 3 Điều 19 của Luật này;
+b) Được hưởng cơ chế đặc biệt về lương, thưởng cạnh tranh với mức lương, thưởng trên thế giới; được ưu tiên tuyển dụng, sử dụng, bổ nhiệm theo quy định pháp luật về cán bộ, công chức;
+viên chức;
+c) Được hỗ trợ về môi trường làm việc, không gian sống, nhà ở, phương tiện đi lại;
+d) Được hỗ trợ tham gia hoạt động hợp tác quốc tế về công nghiệp công nghệ số;
+đ) Được hỗ trợ tài chính và cơ sở vật chất cho nghiên cứu và phát triển trong lĩnh vực công nghệ số;
+e) Được tôn vinh, khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.
+3. Chính phủ quy định chi tiết Điều này.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+4. HẠ TẦNG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 21. Đầu tư, thu hút nguồn lực phát triển hạ tầng công nghiệp công nghệ số
+1. Hoạt động đầu tư xây dựng hạ tầng công nghiệp công nghệ số là ngành, nghề đặc biệt ưu đãi đầu tư, được hưởng ưu đãi, hỗ trợ theo quy định của pháp luật về đầu tư; thuế; đất đai và pháp luật khác có liên quan.
+2. Nhà nước ưu tiên bố trí nguồn vốn ngân sách để đầu tư xây dựng hạ tầng công nghiệp công nghệ số thiết yếu, dùng chung như sau:
+a) Cơ sở nghiên cứu, thiết kế, sản xuất thử nghiệm sản phẩm, dịch vụ công nghệ số;
+b) Phòng thí nghiệm trọng điểm dùng chung quốc gia về công nghệ số;
+c) Cơ sở đo kiểm, thử nghiệm, đánh giá sản phẩm, dịch vụ công nghệ số;
+d) Trung tâm dữ liệu;
+đ) Khu công nghệ số tập trung;
+e) Hạ tầng công nghiệp công nghệ số thiết yếu, dùng chung khác.
+3. Hạ tầng công nghiệp công nghệ số được nhà nước đầu tư quy định tại khoản 2 Điều này là một loại tài sản kết cấu hạ tầng và được quản lý, khai thác, vận hành theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+4. Tổ chức, doanh nghiệp được nhập khẩu dây chuyền công nghệ, thiết bị, máy móc, công cụ đã qua sử dụng phục vụ hoạt động đào tạo, nghiên cứu và phát triển sản phẩm, dịch vụ công nghệ số đáp ứng tiêu chí do Bộ trưởng Bộ Khoa học và Công nghệ quy định. [Khoản này được hướng dẫn bởi Thông tư 30/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026]
+5. Chính phủ quy định chi tiết Điều này.
+Điều 22. Thành lập, mở rộng khu công nghệ số tập trung
+1. Điều kiện thành lập, mở rộng khu công nghệ số tập trung:
+a) Phù hợp với chính sách của Nhà nước về phát triển công nghệ số, công nghiệp công nghệ số;
+b) Phù hợp với định hướng, mục tiêu của quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh và quy hoạch sử dụng đất của địa phương;
+c) Có quy mô diện tích, phân khu chức năng phù hợp bảo đảm điều kiện thuận lợi để phát triển công nghiệp công nghệ số;
+d) Có phương án thành lập, mở rộng phù hợp với chức năng của khu công nghệ số tập trung; đáp ứng quy định về bảo đảm quốc phòng, an ninh, bảo vệ môi trường và ứng phó với biến đổi khí hậu, bảo vệ tài nguyên thiên nhiên và di tích lịch sử, văn hóa, di sản thiên nhiên;
+đ) Điều kiện khác phù hợp với thực tiễn phát triển và yêu cầu quản lý.
+2. Việc thành lập, mở rộng khu công nghệ số tập trung được thực hiện thông qua lập dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung theo các phương thức:
+a) Sử dụng ngân sách nhà nước theo quy định của pháp luật về đầu tư công;
+b) Đầu tư theo phương thức đối tác công tư;
+c) Sử dụng vốn doanh nghiệp.
+3. Trình tự, thủ tục lập dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung:
+a) Dự án đầu tư sử dụng ngân sách nhà nước thực hiện theo quy định của Luật này, pháp luật về đầu tư công; ngân sách nhà nước; quản lý, sử dụng tài sản công và pháp luật khác có liên quan.
+Trường hợp nhà đầu tư thực hiện dự án đầu tư trong khu công nghệ số tập trung, Ủy ban nhân dân cấp tỉnh quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư không thông qua đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư. Trình tự, thủ tục chấp thuận chủ trương đầu tư thực hiện theo quy định pháp luật về đầu tư;
+b) Dự án đầu tư theo phương thức đối tác công tư thực hiện theo quy định pháp luật về đầu tư theo phương thức đối tác công tư;
+c) Dự án đầu tư sử dụng vốn doanh nghiệp thực hiện theo quy định của pháp luật về đầu tư và công nghiệp công nghệ số.
+4. Khu công nghệ số tập trung được xác định là đã được thành lập, mở rộng kể từ ngày cấp có thẩm quyền:
+a) Phê duyệt chủ trương đầu tư dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung đối với dự án sử dụng vốn đầu tư công quy định tại điểm a khoản 2 Điều này;
+b) Phê duyệt chủ trương đầu tư dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung đối với dự án thực hiện theo phương thức đối tác công tư quy định tại điểm b khoản 2 Điều này;
+c) Chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư hoặc chấp thuận nhà đầu tư thực hiện dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung đối với dự án sử dụng vốn doanh nghiệp quy định tại điểm c khoản 2 Điều này.
+5.
+Chính phủ quy định chi tiết khoản 1 và khoản 3 Điều này.
+Điều 23. Công nhận khu chức năng là khu công nghệ số tập trung
+1. Khu chức năng đang có hoạt động công nghiệp công nghệ số được xem xét công nhận là khu công nghệ số tập trung khi đáp ứng các tiêu chí sau:
+a) Phù hợp với định hướng, mục tiêu của quy hoạch ngành quốc gia có liên quan đến khu công nghệ số tập trung và quy hoạch tỉnh;
+b) Đáp ứng các tiêu chí về chức năng, quy mô diện tích, quy hoạch xây dựng, nhân lực của khu công nghệ số tập trung.
+2. Ủy ban nhân dân cấp tỉnh quyết định công nhận khu công nghệ số tập trung quy định tại khoản 1 Điều này.
+3. Chính phủ quy định chi tiết khoản 1 Điều này; trình tự, thủ tục công nhận khu công nghệ số tập trung.
+Điều 24. Ưu đãi đối với khu công nghệ số tập trung
+1. Khu công nghệ số tập trung được áp dụng chính sách ưu đãi đầu tư đối với địa bàn có điều kiện kinh tế
+- xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư và pháp luật khác có liên quan.
+2. Dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung, dự án đầu tư về lĩnh vực công nghiệp công nghệ số trong khu công nghệ số tập trung được áp dụng chính sách ưu đãi đầu tư đối với ngành, nghề đặc biệt ưu đãi đầu tư theo quy định của pháp luật về đầu tư và pháp luật khác có liên quan.
+3. Dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung và dự án đầu tư về lĩnh vực công nghiệp công nghệ số có sử dụng đất tại khu công nghệ số tập trung được miễn, giảm tiền thuê đất theo quy định pháp luật về đất đai và pháp luật khác có liên quan.
+4. Nhà đầu tư thực hiện dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghệ số tập trung có thể được nhà nước hỗ trợ:
+a) Đầu tư hệ thống hạ tầng kỹ thuật bên trong khu và các hạ tầng kết nối đến khu gồm đường giao thông, điện, nước sạch, cấp nước, thoát nước, thu gom và xử lý nước thải, chất thải rắn và công trình khác;
+b) Tổ chức hệ thống giao thông vận chuyển hành khách công cộng đến khu công nghệ số tập trung.
+5. Dự án đầu tư xây dựng nhà ở, công trình dịch vụ, tiện ích công cộng cho người lao động làm việc trong khu công nghệ số tập trung được hưởng ưu đãi theo quy định của pháp luật về nhà ở; kinh doanh bất động sản và pháp luật khác có liên quan.
+Điều 25. Quản lý, vận hành, sử dụng và khai thác tài sản kết cấu hạ tầng khu công nghệ số tập trung
+1. Kết cấu hạ tầng khu công nghệ số tập trung bao gồm:
+a) Hạ tầng số gồm mạng viễn thông và Internet; hệ thống thông tin, trung tâm dữ liệu, hệ thống giám sát và bảo đảm an toàn thông tin;
+b) Cơ sở nghiên cứu, thiết kế, chế tạo, đo kiểm, sản xuất thử nghiệm; phòng thí nghiệm;
+c) Các tòa nhà, nhà xưởng sản xuất;
+d) Hệ thống hạ tầng kỹ thuật gồm đường giao thông, điện, nước sạch, cấp nước, thoát nước, thu gom và xử lý nước thải, chất thải rắn và hệ thống hạ tầng kỹ thuật khác;
+đ) Các công trình khác phục vụ hoạt động của khu công nghệ số tập trung.
+2. Kết cấu hạ tầng khu công nghệ số tập trung được đầu tư bằng nguồn vốn ngân sách nhà nước thì được quản lý, sử dụng và khai thác theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+3. Đơn vị quản lý, vận hành và khai thác khu công nghệ số tập trung là tổ chức được thành lập hoặc được giao nhiệm vụ để thực hiện công tác quản lý, vận hành và khai thác khu công nghệ số tập trung; cung ứng dịch vụ phục vụ cho hoạt động đầu tư, sản xuất, kinh doanh sản phẩm công nghệ số và các hoạt động khác có liên quan của doanh nghiệp trong khu công nghệ số tập trung.
+4.
+Chính phủ quy định chi tiết Điều này.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+5. DỮ LIỆU SỐ TRONG HOẠT ĐỘNG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 26. Quản lý, thúc đẩy phát triển dữ liệu số trong hoạt động công nghiệp công nghệ số
+1. Nhà nước có chính sách quản lý, thúc đẩy phát triển dữ liệu số trong hoạt động công nghiệp công nghệ số.
+2. Tổ chức, doanh nghiệp, cá nhân cung cấp sản phẩm, dịch vụ công nghệ số không được áp đặt, gây trở ngại thương mại, kỹ thuật và biện pháp khác nhằm ngăn cản khách hàng thực hiện lưu trữ dữ liệu số được tạo ra khi sử dụng sản phẩm, dịch vụ công nghệ số hoặc chuyển sang sử dụng trên sản phẩm, dịch vụ công nghệ số của tổ chức, doanh nghiệp, cá nhân khác.
+Điều 27. Bảo đảm chất lượng dữ liệu số trong công nghiệp công nghệ số
+1. Bảo đảm chất lượng dữ liệu số trong công nghiệp công nghệ số là bảo đảm tính chính xác, hợp lệ, toàn vẹn, đầy đủ, cập nhật kịp thời, thống nhất của dữ liệu số.
+2. Khuyến khích tổ chức, doanh nghiệp, cá nhân tự đánh giá, công bố về chất lượng dữ liệu số trong hoạt động công nghiệp công nghệ số trước khi đưa sản phẩm, dịch vụ công nghệ số ra thị trường.
+3. Bộ trưởng Bộ Khoa học và Công nghệ có trách nhiệm hướng dẫn việc áp dụng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về bảo đảm chất lượng dữ liệu số trong công nghiệp công nghệ số theo quy định của pháp luật về dữ liệu.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+6. HỖ TRỢ, ƯU ĐÃI ĐẦU TƯ CHO HOẠT ĐỘNG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 28. Hỗ trợ, ưu đãi đầu tư đối với sản xuất sản phẩm, cung cấp dịch vụ công nghệ số
+1. Sản xuất sản phẩm, cung cấp dịch vụ công nghệ số là ngành, nghề ưu đãi đầu tư, được hưởng các ưu đãi, hỗ trợ theo quy định của pháp luật về đầu tư; thuế; đất đai và pháp luật khác có liên quan.
+2. Sản xuất sản phẩm, cung cấp dịch vụ công nghệ số trọng điểm; sản xuất sản phẩm phần mềm; phát triển hệ thống trí tuệ nhân tạo; nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn; đầu tư xây dựng trung tâm dữ liệu trí tuệ nhân tạo là ngành, nghề đặc biệt ưu đãi đầu tư, được hưởng ưu đãi, hỗ trợ theo quy định của pháp luật về đầu tư; thuế; đất đai và pháp luật khác có liên quan.
+3. Dự án sản xuất sản phẩm công nghệ số trọng điểm; dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn; dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo có quy mô đầu tư lớn thuộc đối tượng dự án ưu đãi, hỗ trợ đầu tư đặc biệt theo quy định tại Luật Đầu tư thì được hưởng ưu đãi theo quy định của pháp luật về thuế thu nhập doanh nghiệp; đất đai và pháp luật khác có liên quan.
+4. Dự án sản xuất sản phẩm công nghệ số trọng điểm; dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn; dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo được nhà nước hỗ trợ trực tiếp chi phí đầu tư xây dựng nhà máy, hạ tầng kỹ thuật, trang thiết bị máy móc từ nguồn chi đầu tư phát triển từ ngân sách địa phương theo quy định của pháp luật về ngân sách nhà nước và các quy định pháp luật khác có liên quan.
+Hội đồng nhân dân cấp tỉnh quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ từ ngân sách địa phương cho các dự án quy định tại khoản này phù hợp với điều kiện của địa phương.
+5. Doanh nghiệp thực hiện dự án sản xuất sản phẩm công nghệ số trọng điểm, dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn, dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo được hưởng chế độ ưu tiên theo quy định của pháp luật về hải quan.
+Điều 29. Hỗ trợ, ưu đãi dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số
+1. Dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số là ngành, nghề đặc biệt ưu đãi đầu tư, được hưởng ưu đãi, hỗ trợ theo quy định của pháp luật về đầu tư; thuế; đất đai và pháp luật khác có liên quan.
+2. Dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số được hỗ trợ kinh phí trực tiếp từ ngân sách địa phương theo quy định của Luật Ngân sách nhà nước hoặc từ Chương trình phát triển công nghiệp công nghệ số cho các hoạt động bao gồm:
+a) Đào tạo phát triển nguồn nhân lực công nghiệp công nghệ số;
+b) Thu hút nguồn nhân lực công nghiệp công nghệ số chất lượng cao, nhân tài công nghệ số;
+c) Nghiên cứu và phát triển;
+sản xuất thử nghiệm;
+d) Tư vấn khởi nghiệp;
+đ) Mua công nghệ và đổi mới công nghệ.
+3. Hội đồng nhân dân cấp tỉnh quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ từ ngân sách địa phương cho các nội dung quy định tại khoản 2 Điều này phù hợp với điều kiện của địa phương.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+7. PHÁT TRIỂN THỊ TRƯỜNG CHO CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 30. Hoạt động phát triển thị trường cho doanh nghiệp công nghệ số
+1. Hoạt động phát triển thị trường cho doanh nghiệp công nghệ số:
+a) Cung cấp thông tin thị trường, nhu cầu, xu hướng phát triển của công nghệ, tiêu chuẩn và các chuỗi cung ứng quốc tế về sản phẩm, dịch vụ công nghệ số;
+b) Nâng cao năng lực tổ chức sản xuất, chất lượng sản phẩm, dịch vụ công nghệ số đáp ứng tiêu chuẩn, quy chuẩn, yêu cầu kỹ thuật trong nước và quốc tế;
+c) Tuyên truyền quảng bá các sản phẩm, dịch vụ công nghệ số Việt Nam trên các phương tiện truyền thông;
+d) Thúc đẩy chuyển đổi số trong hoạt động công nghiệp công nghệ số;
+đ) Tổ chức các hoạt động kết nối cung cầu cho doanh nghiệp công nghệ số với các tổ chức, cá nhân trong và ngoài nước, ưu tiên các sản phẩm, dịch vụ có lợi thế cạnh tranh mà trong nước sản xuất được;
+e) Thúc đẩy hợp tác, liên kết giữa các doanh nghiệp công nghệ số, viện, trường để hình thành hệ sinh thái sản xuất sản phẩm, cung cấp dịch vụ công nghệ số;
+g) Hỗ trợ người dân tiếp cận, sử dụng sản phẩm, dịch vụ công nghệ số sản xuất trong nước;
+h) Hỗ trợ doanh nghiệp, cá nhân cung cấp thông tin, quảng bá, giới thiệu, trao đổi, giao dịch sản phẩm, dịch vụ công nghệ số;
+i) Các biện pháp khác nhằm phát triển thị trường cho doanh nghiệp công nghệ số.
+2. Các hoạt động phát triển thị trường cho doanh nghiệp công nghệ số quy định tại khoản 1 Điều này được thực hiện từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+Điều 31. Ưu đãi thuê, mua sắm sản phẩm, dịch vụ công nghệ số sử dụng vốn ngân sách nhà nước
+1.
+Các sản phẩm, dịch vụ công nghệ số đáp ứng quy định của Bộ trưởng Bộ Khoa học và Công nghệ thì được hưởng ưu đãi về lựa chọn nhà thầu theo quy định của pháp luật về đấu thầu. [Khoản này được hướng dẫn bởi Thông tư 34/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026]
+2. Đối với gói thầu thuê, mua sắm sản phẩm, dịch vụ công nghệ số sử dụng ngân sách nhà nước để thực hiện các nhiệm vụ trọng điểm về chuyển đổi số quốc gia hoặc theo yêu cầu tại nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ, quyết định của Thủ tướng Chính phủ được thực hiện theo hình thức chỉ định thầu hoặc lựa chọn nhà thầu trong trường hợp đặc biệt theo quy định của pháp luật về đấu thầu.
+3. Nhà nước đặt hàng cho tổ chức, doanh nghiệp, cá nhân nghiên cứu, sản xuất và cung cấp sản phẩm, dịch vụ công nghệ số trọng điểm; sản phẩm, dịch vụ công nghệ số thuộc các dự án quan trọng quốc gia, dự án có tính chất, yêu cầu đặc biệt của Chính phủ, Thủ tướng Chính phủ, Bộ, ngành và địa phương thực hiện theo quy định pháp luật về khoa học, công nghệ và đổi mới sáng tạo; đấu thầu.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+8. PHÁT TRIỂN BỀN VỮNG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 32. Phát triển bền vững trong công nghiệp công nghệ số
+1. Nhà nước có cơ chế hỗ trợ, ưu tiên thực hiện hoạt động tái sử dụng, tái chế, tái sản xuất, tân trang, sửa chữa và chia sẻ nguồn lực để hình thành chu trình khép kín trong công nghiệp công nghệ số, bảo đảm tiết kiệm nguồn tài nguyên, giảm tác động ô nhiễm môi trường;
+ưu tiên đầu tư, thuê, mua sắm, đặt hàng sản phẩm, dịch vụ công nghệ số thân thiện với môi trường.
+2. Doanh nghiệp công nghệ số có trách nhiệm tuân thủ các quy định pháp luật về bảo vệ môi trường; thu hồi, xử lý sản phẩm thải bỏ trong công nghiệp công nghệ số; thực hiện nghĩa vụ thuế bảo vệ môi trường theo quy định của pháp luật về thuế bảo vệ môi trường, pháp luật về thuế.
+Điều 33. Phát triển sản phẩm, dịch vụ công nghệ số thân thiện môi trường
+1. Sản phẩm, dịch vụ công nghệ số thân thiện môi trường được ưu tiên thực hiện mua sắm xanh đối với dự án đầu tư, nhiệm vụ có sử dụng ngân sách nhà nước theo quy định của pháp luật về bảo vệ môi trường và pháp luật khác có liên quan.
+2. Nhà nước có cơ chế hỗ trợ tổ chức, doanh nghiệp nghiên cứu, cải tiến, chuyển đổi hoạt động công nghiệp công nghệ số để tạo ra sản phẩm, dịch vụ công nghệ số là sản phẩm, dịch vụ thân thiện môi trường theo quy định pháp luật về bảo vệ môi trường từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+
+Luật Công nghiệp công nghệ số 2025. Mục
+9. THÔNG TIN VỀ CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Điều 34. Hệ thống thông tin quốc gia, cơ sở dữ liệu công nghiệp công nghệ số
+1. Hệ thống thông tin quốc gia về công nghiệp công nghệ số do Bộ Khoa học và Công nghệ xây dựng, duy trì, nâng cấp và quản lý phục vụ công tác quản lý nhà nước về công nghiệp công nghệ số; kết nối, chia sẻ dữ liệu với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu của Bộ, cơ quan ngang Bộ, địa phương.
+2. Cơ sở dữ liệu công nghiệp công nghệ số thuộc Hệ thống thông tin quốc gia về công nghiệp công nghệ số, bao gồm các thông tin sau:
+a) Thông tin chung, thông tin về nhân lực, sản phẩm, dịch vụ công nghệ số, báo cáo tài chính công khai của doanh nghiệp công nghệ số;
+b) Cơ quan, tổ chức, cá nhân, cơ sở nghiên cứu, cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp có hoạt động, liên quan đến công nghiệp công nghệ số, doanh nghiệp công nghệ số;
+c) Sản phẩm, dịch vụ công nghệ số; sản phẩm, dịch vụ công nghệ số trọng điểm; sản phẩm, dịch vụ công nghệ số hạn chế chuyển giao; sản phẩm công nghệ số đã qua sử dụng thuộc Danh mục hàng hóa cấm nhập khẩu; nguyên liệu, vật liệu, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn được khuyến khích đầu tư phát triển; sản phẩm, dịch vụ ứng dụng công nghệ số được cấp phép thử nghiệm có kiểm soát;
+d) Thông tin về khu công nghệ số tập trung;
+đ) Hệ thống trí tuệ nhân tạo rủi ro cao; hệ thống trí tuệ nhân tạo tác động lớn; sản phẩm công nghệ số tạo ra bởi trí tuệ nhân tạo phải có dấu hiệu nhận dạng; [Điểm này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+e) Thông tin về các dự án đầu tư, thuê, mua sắm sản phẩm, dịch vụ công nghệ số của cơ quan nhà nước đã triển khai; nhu cầu, kế hoạch đầu tư, thuê, mua sắm sản phẩm, dịch vụ công nghệ số của cơ quan nhà nước sẽ triển khai;
+g) Kết quả nghiên cứu và phát triển sản phẩm, dịch vụ công nghệ số, đề tài, quyền sở hữu trí tuệ trong lĩnh vực công nghệ số trừ thông tin bí mật nhà nước, bí mật kinh doanh theo quy định pháp luật;
+h) Nguồn nhân lực, dự báo nhu cầu việc làm trong ngành công nghiệp công nghệ số;
+i) Chính sách, văn bản quy phạm pháp luật liên quan đến công nghiệp công nghệ số;
+k) Thông tin về kỹ năng công nghệ số;
+l) Thông tin khác có liên quan đến công nghiệp công nghệ số.
+3. Nhà nước bảo đảm một phần hoặc toàn bộ kinh phí đầu tư, mua sắm, thuê để xây dựng, duy trì, quản lý, vận hành, bảo trì, nâng cấp Hệ thống thông tin quốc gia về công nghiệp công nghệ số và xây dựng, duy trì, cập nhật cơ sở dữ liệu công nghiệp công nghệ số từ nguồn tài chính cho công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+Điều 35. Trách nhiệm cung cấp, thu thập, cập nhật và quản lý cơ sở dữ liệu công nghiệp công nghệ số
+1. Trách nhiệm cung cấp, thu thập, cập nhật cơ sở dữ liệu công nghiệp công nghệ số:
+a) Cơ quan, tổ chức, cá nhân, cơ sở nghiên cứu, cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp có hoạt động liên quan đến công nghiệp công nghệ số có trách nhiệm cung cấp, cập nhật thông tin trực tuyến hoặc áp dụng phương thức kết nối, chia sẻ dữ liệu trực tuyến vào cơ sở dữ liệu công nghiệp công nghệ số định kỳ hằng quý hoặc đột xuất theo yêu cầu của cơ quan quản lý nhà nước; bảo đảm thông tin được cung cấp chính xác, đầy đủ, kịp thời;
+b) Cơ quan quản lý nhà nước về công nghiệp công nghệ số có trách nhiệm thu thập, cập nhật các thông tin trong cơ sở dữ liệu công nghiệp công nghệ số từ cơ sở dữ liệu dùng chung trong cơ quan nhà nước theo quy định của pháp luật.
+2. Quản lý cơ sở dữ liệu công nghiệp công nghệ số:
+a) Cơ sở dữ liệu công nghiệp công nghệ số được kết nối, liên thông với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu bộ, ngành, địa phương để cập nhật, chia sẻ, khai thác, sử dụng thông tin, phục vụ quản lý nhà nước về công nghiệp công nghệ số theo quy định của Luật này và pháp luật khác có liên quan;
+b) Việc xây dựng, cập nhật, duy trì và khai thác, sử dụng cơ sở dữ liệu công nghiệp công nghệ số; chia sẻ cơ sở dữ liệu công nghiệp công nghệ số với các cơ quan nhà nước và tổ chức, cá nhân khác theo quy định của Chính phủ;
+c) Bộ Khoa học và Công nghệ quyết định giá sản phẩm, dịch vụ gia tăng sử dụng thông tin từ Hệ thống thông tin quốc gia về công nghiệp công nghệ số, cơ sở dữ liệu công nghiệp công nghệ số theo quy định của pháp luật về giá.
+Chương III CÔNG NGHIỆP BÁN DẪN
+Điều 36. Nguyên tắc phát triển công nghiệp bán dẫn
+1. Phát triển công nghiệp bán dẫn với trọng tâm là phát triển sản phẩm chip bán dẫn có tính đột phá trong các ngành, lĩnh vực; liên kết chặt chẽ với hệ sinh thái bán dẫn toàn cầu, bao gồm các công đoạn nghiên cứu, thiết kế, sản xuất, đóng gói, kiểm thử.
+2. Phát triển công nghiệp bán dẫn phải đồng bộ với công nghiệp điện tử theo hướng tập trung vào thiết bị điện tử chuyên dụng trong các ngành, lĩnh vực.
+3. Phát triển nguồn nhân lực cho công nghiệp bán dẫn bảo đảm số lượng, chất lượng đáp ứng các yêu cầu phát triển.
+4. Khuyến khích thu hút đầu tư nước ngoài, huy động nguồn lực trong và ngoài nước nhằm thúc đẩy phát triển công nghiệp bán dẫn, hướng tới làm chủ công nghệ, thiết kế và sản xuất chip bán dẫn.
+Điều 37. Chiến lược phát triển công nghiệp bán dẫn
+1. Chiến lược phát triển công nghiệp bán dẫn được xây dựng trên cơ sở các nguyên tắc quy định tại Điều 36 của Luật này và căn cứ theo chiến lược phát triển kinh tế - xã hội, yêu cầu quản lý trong từng thời kỳ.
+2. Nội dung cơ bản của Chiến lược phát triển công nghiệp bán dẫn:
+a) Quan điểm, tầm nhìn và mục tiêu;
+b) Nhiệm vụ;
+c) Giải pháp thực hiện;
+d) Chương trình, đề án, dự án trọng điểm;
+đ) Kế hoạch, nguồn lực thực hiện.
+3. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, các cơ quan có liên quan, chính quyền địa phương xây dựng, trình Thủ tướng Chính phủ ban hành Chiến lược phát triển công nghiệp bán dẫn phù hợp với thực tiễn.
+Điều 38. Hoạt động công nghiệp bán dẫn
+1. Nghiên cứu và phát triển về bán dẫn.
+2. Sản xuất nguyên liệu, vật liệu cho công nghiệp bán dẫn.
+3. Sản xuất thiết bị, máy móc, công cụ cho công nghiệp bán dẫn.
+4. Thiết kế sản phẩm bán dẫn.
+5. Sản xuất sản phẩm bán dẫn.
+6. Đóng gói, kiểm thử sản phẩm bán dẫn.
+Điều 39. Cơ chế, chính sách đặc thù cho phát triển công nghiệp bán dẫn
+1. Hoạt động sản xuất nguyên liệu, vật liệu, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn thuộc Danh mục nguyên liệu, vật liệu, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn được khuyến khích đầu tư phát triển là ngành, nghề đặc biệt ưu đãi đầu tư theo quy định của pháp luật về đầu tư và pháp luật khác có liên quan.
+2. Doanh nghiệp thực hiện dự án thiết kế chip bán dẫn được hỗ trợ kinh phí đào tạo phát triển nguồn nhân lực, nghiên cứu và phát triển, sản xuất thử nghiệm, mua sắm máy móc, thiết bị, công nghệ và đổi mới công nghệ từ ngân sách địa phương theo quy định của pháp luật về ngân sách nhà nước hoặc từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+Hội đồng nhân dân cấp tỉnh quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ từ ngân sách địa phương cho các nội dung quy định tại khoản này phù hợp với điều kiện của địa phương.
+3. Dự án sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn được nhập khẩu dây chuyền công nghệ, thiết bị, máy móc, công cụ đã qua sử dụng phục vụ trực tiếp hoạt động sản xuất đáp ứng các tiêu chí theo quy định của Bộ trưởng Bộ Khoa học và Công nghệ.
+4. Bộ trưởng Bộ Khoa học và Công nghệ ban hành:
+a) Danh mục nguyên liệu, vật liệu bán dẫn, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn được khuyến khích đầu tư phát triển quy định tại khoản 1 Điều này; [Điểm này được hướng dẫn bởi Thông tư 32/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026] b) Tiêu chí đối với dây chuyền công nghệ, thiết bị, máy móc, công cụ đã qua sử dụng được nhập khẩu phục vụ trực tiếp dự án sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn quy định tại khoản 3 Điều này. [Điểm này được hướng dẫn bởi Thông tư 30/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026]
+5. Doanh nghiệp tự chứng minh việc đáp ứng các tiêu chí quy định tại khoản 4 Điều này để được hưởng các cơ chế hỗ trợ, ưu đãi tại Điều này và chịu trách nhiệm về tính chính xác đối với thông tin cung cấp.
+Điều 40. Hỗ trợ, ưu đãi doanh nghiệp tham gia chuỗi cung ứng bán dẫn
+1. Dự án sản xuất sản phẩm phụ trợ trực tiếp trong công nghiệp bán dẫn là dự án sản xuất nguyên liệu, vật tư, linh kiện để cung cấp trực tiếp cho dự án sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn.
+2. Dự án theo quy định tại khoản 1 Điều này được hưởng các hỗ trợ, ưu đãi như đối với dự án sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn quy định tại các khoản 2, 3 và 4 Điều 28 của Luật này.
+3. Doanh nghiệp thực hiện dự án theo quy định tại khoản 1 Điều này được hưởng chế độ ưu tiên quy định tại khoản 5 Điều 28 của Luật này.
+4.
+Thủ tục xuất khẩu, nhập khẩu tại chỗ giữa các doanh nghiệp chế xuất thực hiện dự án sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn, doanh nghiệp chế xuất thực hiện dự án sản xuất thiết bị điện tử, doanh nghiệp chế xuất thực hiện dự án sản xuất sản phẩm phụ trợ trực tiếp trong công nghiệp bán dẫn theo chỉ định giao và nhận hàng hóa của các thương nhân nước ngoài thực hiện quy định của pháp luật về hải quan.
+Khoản thu nhập phát sinh tại Việt Nam của thương nhân nước ngoài từ hoạt động xuất khẩu, nhập khẩu tại chỗ thực hiện theo quy định của pháp luật về thuế thu nhập doanh nghiệp và được bảo đảm không bị đánh trùng thuế.
+5.
+Doanh nghiệp thực hiện dự án sản xuất thiết bị điện tử đáp ứng tiêu chí do Bộ trưởng Bộ Khoa học và Công nghệ quy định được hưởng hỗ trợ, ưu đãi về thuế thu nhập doanh nghiệp theo quy định của pháp luật về thuế thu nhập doanh nghiệp. [Tiêu chí doanh nghiệp thực hiện dự án sản xuất thiết bị điện tử được hưởng ưu đãi về thuế thu nhập doanh nghiệp được hướng dẫn bởi Thông tư 33/2025/TT-BKHCN có hiệu lực từ ngày 01/01/2026] Doanh nghiệp tự chứng minh việc đáp ứng tiêu chí để được hưởng ưu đãi quy định tại khoản này và chịu trách nhiệm về tính chính xác đối với thông tin cung cấp.
+6. Dự án sản xuất sản phẩm phụ trợ trực tiếp trong công nghiệp bán dẫn và dự án sản xuất thiết bị điện tử được hỗ trợ một phần hoặc toàn bộ kinh phí để sản xuất mẫu thử, mua công nghệ và đổi mới công nghệ theo quy định của pháp luật về chuyển giao công nghệ từ nguồn ngân sách địa phương theo quy định của pháp luật về ngân sách nhà nước hoặc từ nguồn tài chính cho phát triển công nghiệp công nghệ số quy định tại Điều 11 của Luật này.
+Hội đồng nhân dân cấp tỉnh quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ từ ngân sách địa phương cho các dự án quy định tại khoản này phù hợp với điều kiện của địa phương.
+Chương IV [Chương này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026] TRÍ TUỆ NHÂN TẠO [Chương này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+Điều 41. Nguyên tắc phát triển, cung cấp, triển khai sử dụng trí tuệ nhân tạo
+[Điều này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+1. Nguyên tắc phát triển, cung cấp, triển khai sử dụng trí tuệ nhân tạo:
+a) Phục vụ sự thịnh vượng và hạnh phúc của con người, lấy con người làm trung tâm, nâng cao năng suất, hiệu quả công việc, thúc đẩy thông minh hóa; tiếp cận bao trùm, linh hoạt, công bằng và không phân biệt đối xử; tôn trọng các giá trị đạo đức, dân tộc; quyền con người, quyền công dân, quyền và lợi ích hợp pháp của tổ chức, cá nhân;
+b) Bảo đảm minh bạch, trách nhiệm giải trình, khả năng giải thích được; bảo đảm không vượt qua tầm kiểm soát của con người;
+c) Bảo đảm an toàn, an ninh mạng;
+d) Bảo đảm tuân thủ quy định pháp luật về dữ liệu, bảo vệ dữ liệu cá nhân;
+đ) Bảo đảm khả năng kiểm soát thuật toán, mô hình trí tuệ nhân tạo;
+e) Kiểm soát rủi ro trong suốt vòng đời của hệ thống trí tuệ nhân tạo;
+g) Bảo đảm tuân thủ pháp luật về bảo vệ quyền lợi người tiêu dùng và pháp luật khác có liên quan.
+2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ căn cứ tình hình thực tiễn để hướng dẫn nguyên tắc phát triển, cung cấp, triển khai sử dụng trí tuệ nhân tạo trong các ngành, lĩnh vực được phân công quy định tại Điều này.
+Điều 42. Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo
+[Điều này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+1. Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo được xây dựng trên cơ sở định hướng phát triển kinh tế - xã hội, quốc phòng, an ninh; xu thế công nghệ toàn cầu; điều kiện, tiềm năng và thế mạnh của quốc gia nhằm nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo trong ngành, lĩnh vực bảo đảm hiệu quả, bền vững và có trách nhiệm.
+2. Nội dung cơ bản của Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo:
+a) Quan điểm, tầm nhìn và mục tiêu;
+b) Nhiệm vụ;
+c) Giải pháp thực hiện;
+d) Chương trình, đề án, dự án trọng điểm;
+đ) Kế hoạch, nguồn lực thực hiện.
+3. Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo được xây dựng theo từng thời kỳ và có kế hoạch triển khai hằng năm.
+4. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, chính quyền địa phương xây dựng, trình Thủ tướng Chính phủ ban hành Chiến lược nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo.
+Điều 43. Quản lý hệ thống trí tuệ nhân tạo
+[Điều này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+1. Hệ thống trí tuệ nhân tạo rủi ro cao là hệ thống trí tuệ nhân tạo trong một số trường hợp sử dụng có khả năng gây ra rủi ro, tổn hại nghiêm trọng tới sức khỏe con người, quyền con người, quyền công dân, quyền và lợi ích hợp pháp của tổ chức, cá nhân, lợi ích công cộng và trật tự, an toàn xã hội, trừ một trong các trường hợp sau:
+a) Nhằm thực hiện một hoặc một số công việc cụ thể, tác động trong phạm vi hẹp;
+b) Nhằm hỗ trợ con người trong việc tối ưu hóa kết quả công việc;
+c) Nhằm thực hiện kiểm ưa lỗi của các công việc do con người hoàn thành trước đó và không nhằm mục đích thay thế quyết định của con người.
+2. Hệ thống trí tuệ nhân tạo tác động lớn là hệ thống trí tuệ nhân tạo được sử dụng đa mục đích, có số lượng người sử dụng lớn, số lượng tham số lớn, khối lượng dữ liệu lớn.
+3. Yêu cầu quản lý đối với hệ thống trí tuệ nhân tạo quy định tại khoản 1 và khoản 2 Điều này bao gồm:
+a) Yêu cầu kỹ thuật;
+b) Minh bạch trong lưu trữ và cung cấp thông tin;
+c) Quản trị dữ liệu;
+d) Giám sát, kiểm tra;
+đ) An toàn, an ninh mạng;
+e) Yêu cầu cần thiết khác.
+4. Chính phủ quy định chi tiết khoản 3 Điều này theo yêu cầu quản lý hệ thống trí tuệ nhân tạo của từng ngành, lĩnh vực.
+Điều 44. Quy định dấu hiệu nhận dạng đối với hệ thống trí tuệ nhân tạo
+[Điều này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+1. Hệ thống trí tuệ nhân tạo tương tác trực tiếp với con người phải có thông báo cho người sử dụng biết việc đang tương tác với hệ thống trí tuệ nhân tạo, trừ trường hợp người sử dụng hiển nhiên biết về việc đang tương tác với hệ thống trí tuệ nhân tạo.
+2. Sản phẩm công nghệ số thuộc Danh mục sản phẩm công nghệ số tạo ra bởi trí tuệ nhân tạo phải có dấu hiệu nhận dạng để người sử dụng hoặc máy nhận biết.
+3. Bộ trưởng Bộ Khoa học và Công nghệ có trách nhiệm:
+a) Ban hành Danh mục sản phẩm công nghệ số tạo ra bởi trí tuệ nhân tạo quy định tại khoản 2 Điều này;
+b) Tổ chức kiểm tra việc thực hiện quy định tại khoản 1 và khoản 2 Điều này.
+Điều 45. Trách nhiệm của các chủ thể trong hoạt động phát triển, cung cấp, triển khai sử dụng hệ thống trí tuệ nhân tạo
+[Điều này bị bãi bỏ bởi Điều 33 Luật Trí tuệ nhân tạo 2025 có hiệu lực từ ngày 01/03/2026]
+1. Chủ thể trong hoạt động phát triển, cung cấp, triển khai sử dụng hệ thống trí tuệ nhân tạo bao gồm:
+a) Chủ thể phát triển hệ thống trí tuệ nhân tạo là tổ chức, cá nhân thực hiện hoạt động nghiên cứu và phát triển hệ thống trí tuệ nhân tạo;
+b) Chủ thể cung cấp hệ thống trí tuệ nhân tạo là tổ chức, cá nhân đưa hệ thống trí tuệ nhân tạo ra thị trường dưới tên nhãn hiệu thuộc sở hữu của chính chủ thể đó;
+c) Chủ thể triển khai sử dụng hệ thống trí tuệ nhân tạo là tổ chức, cá nhân có thẩm quyền quản lý đối với hệ thống trí tuệ nhân tạo.
+2. Chủ thể phát triển hệ thống trí tuệ nhân tạo có trách nhiệm tuân thủ nguyên tắc quy định tại Điều 41 của Luật này.
+3. Chủ thể cung cấp hệ thống trí tuệ nhân tạo có trách nhiệm:
+a) Tuân thủ nguyên tắc quy định tại Điều 41 của Luật này;
+b) Tuân thủ quy định tại Điều 44 của Luật này;
+c) Tuân thủ yêu cầu quản lý quy định tại Điều 43 của Luật này khi cung cấp hệ thống trí tuệ nhân tạo rủi ro cao, hệ thống trí tuệ nhân tạo tác động lớn.
+4. Chủ thể triển khai sử dụng hệ thống trí tuệ nhân tạo có trách nhiệm:
+a) Tuân thủ nguyên tắc quy định tại các điểm a, b, c, d, e và g khoản 1 và khoản 2 Điều 41 của Luật này;
+b) Tuân thủ yêu cầu quản lý quy định tại Điều 43 của Luật này khi triển khai sử dụng hệ thống trí tuệ nhân tạo rủi ro cao, hệ thống trí tuệ nhân tạo tác động lớn.
+Chương V TÀI SẢN SỐ
+Điều 46. Tài sản số
+Tài sản số là tài sản theo quy định của Bộ luật Dân sự, được thể hiện dưới dạng dữ liệu số, được tạo lập, phát hành, lưu trữ, chuyển giao và xác thực bởi công nghệ số trên môi trường điện tử.
+Điều 47. Phân loại tài sản số
+1. Tài sản số được phân loại theo một hoặc một số tiêu chí sau:
+a) Mục đích sử dụng;
+b) Công nghệ;
+c) Tiêu chí khác.
+2. Tài sản số bao gồm:
+a) Tài sản ảo trên môi trường điện tử là một loại tài sản số có thể được dùng cho mục đích trao đổi hoặc đầu tư. Tài sản ảo không bao gồm chứng khoán, các dạng số của tiền pháp định và tài sản tài chính khác theo quy định của pháp luật về dân sự; tài chính;
+b) Tài sản mã hóa là một loại tài sản số sử dụng công nghệ mã hóa hoặc công nghệ số có chức năng tương tự để xác thực đối với tài sản trong quá trình tạo lập, phát hành, lưu trữ, chuyển giao. Tài sản mã hóa không bao gồm chứng khoán, các dạng số của tiền pháp định và tài sản tài chính khác theo quy định của pháp luật về dân sự; tài chính;
+c) Tài sản số khác.
+Điều 48. Quản lý tài sản số
+1. Nội dung quản lý tài sản số:
+a) Việc tạo lập, phát hành, lưu trữ, chuyển giao, xác lập quyền sở hữu tài sản số;
+b) Quyền, nghĩa vụ của các bên đối với hoạt động có liên quan đến tài sản số;
+c) Biện pháp bảo đảm an toàn, an ninh mạng; phòng, chống rửa tiền; phòng, chống tài trợ khủng bố, tài trợ phổ biến vũ khí hủy diệt hàng loạt;
+d) Thanh tra, kiểm tra, xử lý hành vi vi phạm pháp luật;
+đ) Điều kiện kinh doanh đối với cung cấp dịch vụ tài sản mã hóa;
+e) Nội dung quản lý khác.
+2.
+Thẩm quyền, nội dung quản lý tài sản số tại khoản 1 Điều này; phân loại tài sản số tại điểm c khoản 1 và điểm c khoản 2 Điều 47 của Luật này được thực hiện theo quy định của Chính phủ phù hợp với thực tiễn, yêu cầu quản lý trong ngành, lĩnh vực.
+Chương VI ĐIỀU KHOẢN THI HÀNH
+Điều 49. Sửa đổi, bổ sung, thay thế, bãi bỏ một số điều của các luật có liên quan
+1.
+Bãi bỏ các khoản 9, 10, 11 và 12 Điều 4; Mục 3 và Mục 4 Chương III của Luật Công nghệ thông tin số 67/2006/QH11 đã được sửa đổi, bổ sung theo Luật số 21/2017/QH14, Luật số 20/2023/QH15 và Luật số 24/2023/QH15.
+2. Sửa đổi, bổ sung điểm a khoản 1
+Điều 5 của Luật Công nghệ cao số 21/2008/QH12 đã được sửa đổi, bổ sung theo Luật số 32/2013/QH13 và Luật số 67/2014/QH13 như sau:
+"a) Công nghệ thông tin, công nghệ số;".
+3. Bổ sung khoản 17 vào sau khoản 16 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 48/2024/QH15 và Luật số 56/2024/QH15 như sau:
+“17. Các khoản thu nhập bao gồm tiền lương, tiền công của nhân lực công nghiệp công nghệ số chất lượng cao là các khoản thu nhập miễn thuế thu nhập cá nhân trong thời hạn 05 năm kể từ ngày ký hợp đồng đầu tiên với cơ quan, tổ chức, cá nhân Việt Nam thuộc các trường hợp sau:
+a) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;
+b) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;
+c) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số.”.
+4. Bổ sung khoản 8a vào sau khoản 8 và trước khoản 9 Điều 154 của Bộ luật Lao động số 45/2019/QH14 như sau:
+“8a. Nhân lực công nghiệp công nghệ số chất lượng cao theo quy định của pháp luật về công nghiệp công nghệ số.”.
+5.
+Thay thế cụm từ “khu công nghệ thông tin tập trung” bằng cụm từ “khu công nghệ số tập trung” tại các luật, nghị quyết sau đây:
+a) Khoản 22 Điều 79 và khoản 1 Điều 202 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung theo Luật số 43/2024/QH15, Luật số 47/2024/QH15 và Luật số 58/2024/QH15;
+b) Khoản 1
+Điều 24 của Luật Thủ đô số 39/2024/QH15 đã được sửa đổi, bổ sung theo Luật số 47/2024/QH15, Luật số 55/2024/QH15, Luật số 57/2024/QH15, Luật số 58/2024/QH15 và Luật số 65/2025/QH15;
+c) Khoản 5
+Điều 2 và khoản 2 Điều 16 của Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15;
+d) Điều 36a của Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15, Luật số 09/2022/QH15, Luật số 20/2023/QH15, Luật số 26/2023/QH15, Luật số 27/2023/QH15, Luật số 28/2023/QH15, Luật số 31/2024/QH15, Luật số 33/2024/QH15, Luật số 43/2024/QH15 và Luật số 57/2024/QH15;
+đ) Điểm b khoản 1 Điều 3 và khoản 3 Điều 9 của Nghị quyết số 81/2023/QH15 ngày 09 tháng 01 năm 2023 của Quốc hội về Quy hoạch tổng thể quốc gia thời kỳ 2021-2030, tầm nhìn đến năm 2050;
+e) Điểm d khoản 1 Điều 8 của Nghị quyết số 98/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc hội về thí điểm cơ chế, chính sách đặc thù phát triển Thành phố Hồ Chí Minh;
+g) Khoản 3, điểm a khoản 5 Điều 11 và điểm a khoản 2 Điều 14 của Nghị quyết số 136/2024/QH15 ngày 26 tháng 6 năm 2024 của Quốc hội về tổ chức chính quyền đô thị và thí điểm một số cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng.
+Điều 50. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026, trừ trường hợp quy định tại khoản 2 Điều này.
+2. Các điều 11, 28 và 29 của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
+3. Trường hợp có quy định khác nhau về cùng một vấn đề giữa Luật này với luật, nghị quyết khác của Quốc hội thì áp dụng quy định của Luật này. Trừ trường hợp văn bản quy phạm pháp luật khác có quy định cơ chế, chính sách ưu đãi hoặc thuận lợi hơn Luật này thì đối tượng được ưu đãi được áp dụng mức ưu đãi có lợi nhất.
+Điều 51. Quy định chuyển tiếp
+1. Khu công nghệ thông tin tập trung đã được quy hoạch, thành lập, công nhận, mở rộng, đang hoạt động theo quy định của pháp luật được tự động chuyển thành khu công nghệ số tập trung và thực hiện theo quy định tại Luật này.
+2. Trong thời gian luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội chưa được sửa đổi, bổ sung trong thời hạn 02 năm từ ngày Luật này có hiệu lực thi hành, giao Chính phủ ban hành văn bản quy phạm pháp luật điều chỉnh để giải quyết khó khăn, vướng mắc cho phát triển công nghiệp công nghệ số được quy định tại luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội để thống nhất áp dụng, định kỳ báo cáo Ủy ban Thường vụ Quốc hội; trường hợp liên quan đến luật, nghị quyết của Quốc hội thì báo cáo Quốc hội tại kỳ họp gần nhất.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 9 thông qua ngày 14 tháng 6 năm 2025.
+CHỦ TỊCH QUỐC HỘI Trần Thanh Mẫn

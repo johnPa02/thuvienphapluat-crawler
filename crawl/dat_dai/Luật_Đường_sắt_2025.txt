@@ -1,0 +1,511 @@
+Luật Đường sắt 2025
+QUỐC HỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Luật số:
+95/2025/QH15
+Hà Nội, ngày 27 tháng 6 năm 2025 LUẬT ĐƯỜNG SẮT
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15;
+Quốc hội ban hành Luật Đường sắt.
+Chương I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Luật này quy định về hoạt động đường sắt; quyền, nghĩa vụ và trách nhiệm của tổ chức, cá nhân liên quan đến hoạt động đường sắt.
+Điều 2. Đối tượng áp dụng
+Luật này áp dụng đối với tổ chức, cá nhân trong nước;
+tổ chức, cá nhân nước ngoài có liên quan đến hoạt động đường sắt trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+Điều 3. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+1. Hoạt động đường sắt là hoạt động của tổ chức, cá nhân trong lĩnh vực: quy hoạch, đầu tư xây dựng, quản lý, bảo trì, bảo vệ kết cấu hạ tầng đường sắt; vận tải đường sắt; công nghiệp đường sắt; an toàn giao thông đường sắt; kinh doanh đường sắt và các hoạt động khác có liên quan.
+2. Chạy tàu là hoạt động để di chuyển phương tiện giao thông đường sắt.
+3. Công trình đường sắt là công trình xây dựng phục vụ giao thông vận tải đường sắt, bao gồm: đường, cầu, cống, hầm, kè, tường chắn, ga, khu tập kết bảo dưỡng, sửa chữa tàu (đề-pô), hệ thống thông tin, hệ thống tín hiệu, hệ thống báo hiệu cố định, hệ thống cấp điện sức kéo đường sắt và các công trình, thiết bị phụ trợ khác của đường sắt.
+4. Công trình hạ tầng kỹ thuật đầu nối với công trình đường sắt bao gồm: hệ thống cấp điện từ lưới điện cho công trình đường sắt; hệ thống cấp, thoát nước cho công trình đường sắt; đường bộ vào ga đường sắt;
+bãi đỗ xe cá nhân; điểm trung chuyển giữa đường bộ với đường sắt.
+5. Công trình công nghiệp đường sắt là công trình được xây dựng phục vụ cho các hoạt động sản xuất, lắp ráp, sửa chữa, hoán cải phương tiện giao thông đường sắt; sản xuất linh kiện, phụ tùng, vật tư, thiết bị chuyên dùng cho đường sắt.
+6. Phát triển đô thị theo định hướng giao thông công cộng (Transit-Oriented Development, gọi tắt là TOD) là giải pháp quy hoạch, đầu tư cải tạo, chỉnh trang và phát triển đô thị, lấy điểm kết nối giao thông đường sắt làm điểm tập trung dân cư, kinh doanh dịch vụ thương mại, văn phòng.
+7. Dự án đường sắt địa phương theo mô hình TOD là dự án đầu tư được lập cho toàn tuyến hoặc một phần tuyến đường sắt địa phương kết hợp với đầu tư phát triển đô thị trong khu vực TOD.
+8. Dự án đường sắt là dự án đầu tư đường sắt quốc gia, đường sắt địa phương hoặc dự án đường sắt địa phương theo mô hình TOD.
+9. Đường ngang là đoạn đường bộ giao nhau đồng mức với đường sắt được cơ quan có thẩm quyền cho phép xây dựng và khai thác.
+10. Ga đường sắt là nơi để phương tiện giao thông đường sắt dừng, tránh, vượt, đón, trả khách, xếp, dỡ hàng hóa, thực hiện tác nghiệp kỹ thuật và các dịch vụ khác.
+11. Hành lang an toàn giao thông đường sắt là dải đất dọc hai bên đường sắt, tính từ mép ngoài phần đất thuộc phạm vi bảo vệ đường sắt.
+12. Kết cấu hạ tầng đường sắt là công trình đường sắt, phạm vi bảo vệ công trình đường sắt và hành lang an toàn giao thông đường sắt.
+13. Ke ga (đường lên, xuống tàu) là công trình trong ga đường sắt để phục vụ hành khách lên, xuống tàu, xếp, dỡ hàng hóa.
+14. Khổ đường sắt là khoảng cách ngắn nhất giữa hai má trong của đường ray.
+15. Khu gian là đoạn đường sắt nối hai ga liền kề, được tính từ vị trí xác định tín hiệu vào ga của ga phía bên này đến vị trí xác định tín hiệu vào ga gần nhất của ga phía bên kia.
+16. Khu đoạn là tập hợp một số khu gian và ga đường sắt kế tiếp nhau phù hợp với tác nghiệp chạy tàu.
+17. Kinh doanh đường sắt bao gồm kinh doanh kết cấu hạ tầng đường sắt và kinh doanh vận tải đường sắt.
+18. Lối đi tự mở là đoạn đường bộ giao nhau đồng mức với đường sắt do tổ chức, cá nhân tự xây dựng, sử dụng, khai thác khi chưa được cơ quan có thẩm quyền cho phép.
+19. Phạm vi bảo vệ công trình đường sắt là giới hạn được xác định bởi khoảng không, vùng đất, vùng nước xung quanh liền kề với công trình đường sắt.
+20. Phương tiện giao thông đường sắt là đầu máy, toa xe, phương tiện chuyên dùng đường sắt.
+21. Quy hoạch khu vực TOD là quy hoạch được phát triển chuyên biệt theo định hướng ưu tiên đi lại bằng giao thông công cộng cho khu vực bao gồm nhà ga và vùng phụ cận.
+22. Tàu được lập bởi đầu máy và toa xe hoặc đầu máy chạy đơn, phương tiện động lực chuyên dùng di chuyển trên đường sắt.
+Điều 4. Nguyên tắc cơ bản trong hoạt động đường sắt
+1. Bảo đảm hoạt động giao thông vận tải thông suốt, trật tự, an toàn, chính xác và hiệu quả; đáp ứng nhu cầu vận tải hàng hóa và hành khách; phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh và bảo vệ môi trường.
+2. Phát triển đường sắt theo quy hoạch, kế hoạch, gắn với các loại hình giao thông vận tải khác và kết nối quốc tế, bảo đảm văn minh, hiện đại và đồng bộ.
+3. Điều hành thống nhất, tập trung hoạt động giao thông vận tải đường sắt.
+4. Tách bạch giữa chức năng quản lý nhà nước của cơ quan nhà nước với hoạt động kinh doanh của doanh nghiệp, giữa kinh doanh kết cấu hạ tầng với kinh doanh vận tải trên đường sắt quốc gia do Nhà nước đầu tư.
+5. Bảo đảm cạnh tranh lành mạnh, bình đẳng giữa các tổ chức, cá nhân trong nước và nước ngoài thuộc mọi thành phần kinh tế tham gia kinh doanh đường sắt.
+6. Hợp tác quốc tế trong hoạt động đường sắt phải phù hợp với đường lối và chính sách đối ngoại của Việt Nam; bảo đảm nguyên tắc hòa bình, hợp tác, hữu nghị cùng phát triển trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, bình đẳng, cùng có lợi, bảo đảm cao nhất lợi ích quốc gia, tuân thủ pháp luật Việt Nam và các điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+Điều 5. Chính sách ưu đãi, hỗ trợ của Nhà nước về phát triển đường sắt
+1. Ưu tiên phân bổ ngân sách để đầu tư phát triển, nâng cấp, bảo trì, bảo vệ kết cấu hạ tầng đường sắt quốc gia, đường sắt địa phương, phát triển công nghiệp đường sắt và đào tạo nguồn nhân lực để bảo đảm giao thông vận tải đường sắt đóng vai trò chủ đạo trong hệ thống giao thông vận tải cả nước, phục vụ nhiệm vụ phát triển kinh tế - xã hội gắn với bảo đảm quốc phòng, an ninh.
+2. Huy động nguồn lực của địa phương tham gia bồi thường, hỗ trợ tái định cư, đầu tư xây dựng một số hạng mục thuộc kết cấu hạ tầng đường sắt quốc gia trong phạm vi địa phương có dự án đường sắt đi qua.
+3. Ưu tiên dành quỹ đất để phát triển kết cấu hạ tầng đường sắt, công trình công nghiệp đường sắt trong quá trình quy hoạch sử dụng đất.
+4. Kinh doanh kết cấu hạ tầng đường sắt phục vụ cho hoạt động vận tải đường sắt; kinh doanh vận tải đường sắt; công nghiệp đường sắt và đào tạo nguồn nhân lực đường sắt là các ngành, nghề ưu đãi đầu tư.
+5. Tổ chức tham gia kinh doanh kết cấu hạ tầng đường sắt được sử dụng dải tần số vô tuyến điện dành riêng cho công tác điều hành giao thông vận tải đường sắt và hệ thống cấp điện sức kéo phục vụ chạy tàu.
+6. Tổ chức, cá nhân tham gia hoạt động kinh doanh đường sắt được hưởng ưu đãi, hỗ trợ như sau:
+a) Được miễn, giảm tiền sử dụng đất, tiền thuê đất đối với đất dành cho đường sắt theo quy định của pháp luật về đất đai;
+b) Được vay vốn tín dụng đầu tư của Nhà nước theo quy định của pháp luật về tín dụng đầu tư của Nhà nước hoặc được cấp bảo lãnh Chính phủ về vốn vay theo quy định của pháp luật về quản lý nợ công khi đầu tư phát triển kết cấu hạ tầng đường sắt quốc gia, đường sắt địa phương; mua sắm phương tiện giao thông đường sắt, máy móc, thiết bị phục vụ bảo trì kết cấu hạ tầng đường sắt; phát triển công nghiệp đường sắt;
+c) Nhà nước hỗ trợ một phần vốn ngân sách nhà nước và vốn tín dụng ưu đãi cho tổ chức tham gia hoạt động kinh doanh đường sắt tại địa bàn có điều kiện kinh tế - xã hội khó khăn; trợ giá cho hoạt động vận tải hành khách công cộng bằng đường sắt đô thị;
+d) Ưu tiên mua, sử dụng hàng hóa, dịch vụ trong nước hoặc phải mua, sử dụng hàng hóa, dịch vụ từ nhà sản xuất hoặc cung ứng dịch vụ trong nước, trừ dự án đầu tư xây dựng đường sắt và dự án mua sắm, đóng mới đầu máy, toa xe đường sắt.
+7. Doanh nghiệp tham gia đầu tư, phát triển công nghiệp đường sắt, kinh doanh kết cấu hạ tầng đường sắt được hưởng ưu đãi về thuế suất thuế thu nhập doanh nghiệp.
+8. Khuyến khích, hỗ trợ, tạo điều kiện và bảo vệ quyền, lợi ích hợp pháp của tổ chức, cá nhân trong nước và nước ngoài đầu tư, kinh doanh kết cấu hạ tầng đường sắt và kinh doanh vận tải đường sắt; kết nối đường sắt với các phương thức vận tải khác; phát triển công nghiệp đường sắt, nghiên cứu, ứng dụng khoa học công nghệ, chuyển giao công nghệ, chuyển đổi số và đào tạo, phát triển nguồn nhân lực.
+Điều 6. Các hành vi bị nghiêm cấm trong hoạt động đường sắt
+1. Phá hoại công trình đường sắt, phương tiện giao thông đường sắt; gây rối trật tự an toàn giao thông đường sắt.
+2. Lấn, chiếm hành lang an toàn giao thông đường sắt, phạm vi bảo vệ công trình đường sắt; tự mở lối đi qua đường sắt khi chưa được cơ quan có thẩm quyền cho phép.
+3. Làm sai lệch, che lấp hệ thống báo hiệu, tín hiệu giao thông đường sắt.
+4. Tự ý báo hiệu hoặc sử dụng các thiết bị để dừng tàu, trừ trường hợp phát hiện có sự cố gây mất an toàn giao thông đường sắt.
+5. Tự ý để chướng ngại vật, chất dễ cháy, chất dễ nổ, chất độc hại trong phạm vi bảo vệ công trình đường sắt và hành lang an toàn giao thông đường sắt.
+6. Điều khiển tàu chạy quá tốc độ quy định.
+7. Nhân viên đường sắt trong khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn; trong cơ thể có chất ma túy hoặc có chất kích thích khác mà pháp luật cấm sử dụng.
+Điều 7. Phân loại đường sắt và cấp kỹ thuật đường sắt
+1. Hệ thống đường sắt Việt Nam bao gồm:
+a) Đường sắt quốc gia là đường sắt phục vụ nhu cầu vận tải chung của cả nước và liên vận quốc tế;
+b) Đường sắt địa phương là đường sắt phục vụ nhu cầu vận tải của địa phương và vùng kinh tế. Đường sắt đô thị là một loại hình của đường sắt địa phương phục vụ nhu cầu vận tải hành khách ở khu vực đô thị và vùng phụ cận;
+c) Đường sắt chuyên dùng là đường sắt phục vụ nhu cầu vận tải riêng của tổ chức, cá nhân.
+2. Cấp kỹ thuật đường sắt được xác định theo tiêu chuẩn quốc gia; việc tổ chức xây dựng, thẩm định, công bố tiêu chuẩn về cấp kỹ thuật đường sắt thực hiện theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật, cấp kỹ thuật đường sắt bao gồm:
+a) Đường sắt có tốc độ thiết kế từ 200 km/h trở lên là đường sắt tốc độ cao;
+b) Đường sắt có tốc độ thiết kế dưới 200 km/h được phân thành các cấp I, II, III, IV.
+Điều 8. Khổ đường sắt
+1. Khổ đường sắt có khổ đường tiêu chuẩn là 1435 mm và khổ đường hẹp là 1000 mm.
+2. Đường sắt quốc gia, đường sắt địa phương đầu tư xây dựng mới phải áp dụng khổ đường tiêu chuẩn, trừ trường hợp đường sắt kết nối với đường sắt khổ hẹp.
+3. Đối với đường sắt chuyên dùng:
+a) Đường sắt chuyên dùng nối ray với đường sắt quốc gia do Bộ trưởng Bộ Xây dựng quyết định khổ đường;
+b) Đường sắt chuyên dùng không nối ray với đường sắt quốc gia do chủ đầu tư quyết định khổ đường.
+Điều 9. Yêu cầu chung đối với kết cấu hạ tầng đường sắt
+1. Kết cấu hạ tầng đường sắt phải bảo đảm công năng sử dụng, khai thác, phát huy hiệu quả và phù hợp với quy hoạch mạng lưới giao thông.
+2. Việc đầu tư xây dựng mới, cải tạo, nâng cấp kết cấu hạ tầng đường sắt phải bảo đảm ổn định, bền vững, đồng bộ, đáp ứng yêu cầu kỹ thuật, bảo đảm yêu cầu về an toàn, môi trường, phòng, chống cháy, nổ, thiên tai theo quy định của pháp luật, bảo đảm nhiệm vụ quốc phòng, an ninh.
+Điều 10. Quy tắc giao thông đường sắt
+1. Quy tắc giao thông đường sắt gồm chỉ huy chạy tàu, lập tàu, dồn tàu, chạy tàu, tránh tàu, vượt tàu, dừng tàu, lùi tàu.
+2. Tùy theo yêu cầu của từng loại hình đường sắt quốc gia, đường sắt địa phương, đường sắt chuyên dùng, quy tắc giao thông đường sắt có thể là một hoặc một số các nội dung được quy định tại khoản 1 Điều này.
+3. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 11. Hệ thống tín hiệu giao thông đường sắt
+1. Hệ thống tín hiệu giao thông đường sắt bao gồm hiệu lệnh của người tham gia điều khiển chạy tàu, hệ thống điều khiển chạy tàu, tín hiệu trên tàu, tín hiệu dưới mặt đất, biển báo hiệu, pháo hiệu phòng vệ, đuốc.
+Biểu thị của tín hiệu là mệnh lệnh và điều kiện chạy tàu, dồn tàu, dừng tàu.
+2. Hệ thống tín hiệu giao thông đường sắt phải đầy đủ, chính xác, rõ ràng, bảo đảm an toàn và nâng cao năng lực chạy tàu.
+3. Nhân viên đường sắt và người tham gia giao thông phải chấp hành tín hiệu giao thông đường sắt.
+4. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 12. Hệ thống báo hiệu cố định trên đường sắt
+1. Hệ thống báo hiệu cố định trên đường sắt bao gồm:
+biển hiệu, mốc hiệu; biển báo; rào, chắn; cọc mốc chỉ giới; các báo hiệu khác.
+2. Hệ thống báo hiệu cố định trên đường sắt phải được xây dựng, lắp đặt đầy đủ phù hợp với cấp kỹ thuật đường sắt và loại đường sắt, bảo đảm thường xuyên hoạt động tốt.
+Điều 13. Hệ thống cấp điện sức kéo đường sắt
+1. Hệ thống cấp điện sức kéo đường sắt bao gồm: trạm biến áp, đường dây tải điện, trạm phân phối điện, hệ thống cấp điện cho phương tiện giao thông đường sắt; hệ thống điều khiển; giám sát bảo vệ, an toàn điện.
+2. Hệ thống cấp điện sức kéo đường sắt phải được điều khiển, giám sát tập trung; được Nhà nước ưu tiên bảo đảm nguồn cấp điện ổn định, liên tục, không làm gián đoạn chạy tàu.
+Điều 14. Kết nối đường sắt
+1. Kết nối đường sắt là việc kết nối các tuyến đường sắt với nhau về kết nối kết cấu hạ tầng, điều hành giao thông vận tải đường sắt;
+kết nối đường sắt với đường bộ tại ga đường sắt hoặc kết nối giữa tuyến đường sắt với cảng hàng không, cảng biển, cảng cạn, cảng thủy nội địa.
+2. Việc đầu tư xây dựng đường sắt phải bảo đảm kết nối đồng bộ, hiệu quả với các phương thức vận tải khác.
+3. Cảng hàng không có công suất từ 30 triệu hành khách/năm trở lên, cảng biển loại I trở lên và cảng cạn có công suất từ 50.000 TEU/năm trở lên tại các tỉnh, thành phố có đường sắt quốc gia, đường sắt địa phương đi qua phải được quy hoạch kết nối với đường sắt vào trong cảng để đáp ứng nhu cầu vận tải, phát triển kinh tế - xã hội, quốc phòng, an ninh và bảo vệ môi trường.
+4. Khi lập, điều chỉnh quy hoạch, đầu tư xây dựng công trình cảng hàng không, cảng biển, cảng cạn quy định tại khoản 3 Điều này phải dành quỹ đất để xây dựng công trình kết nối đường sắt. Chủ đầu tư công trình cảng có trách nhiệm chủ trì, phối hợp xây dựng đồng bộ các công trình kết nối đường sắt theo kế hoạch thực hiện quy hoạch đã được phê duyệt.
+5. Kết nối ray giữa các tuyến đường sắt với nhau:
+a) Vị trí kết nối ray các tuyến đường sắt trong nước tại ga đường sắt;
+b) Chỉ đường sắt quốc gia được phép kết nối ray với đường sắt nước ngoài;
+c) Chủ sở hữu đường sắt chuyên dùng quyết định việc kết nối ray đường sắt chuyên dùng với đường sắt chuyên dùng do mình đầu tư.
+6. Bộ trưởng Bộ Xây dựng quyết định việc kết nối ray giữa đường sắt quốc gia với đường sắt nước ngoài; quy định điều kiện, trình tự, thủ tục thực hiện việc kết nối ray giữa các tuyến đường sắt trong nước, trừ trường hợp quy định tại điểm c khoản 5 Điều này. [Điều kiện, trình tự, thủ tục thực hiện việc kết nối ray giữa các tuyến đường sắt trong nước được hướng dẫn bởi Chương II Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+Điều 15. Tuyến đường sắt, ga đường sắt
+1. Tuyến đường sắt là một hoặc nhiều khu đoạn liên tiếp tính từ ga đường sắt đầu tiên đến ga đường sắt cuối cùng. Tuyến đường sắt phải bảo đảm phù hợp quy hoạch đường sắt quy định tại Điều 19 của Luật này, bảo đảm an toàn kỹ thuật, kết nối hiệu quả với các phương thức vận tải khác. Việc đặt tên, đưa vào khai thác, dừng khai thác, tháo dỡ tuyến đường sắt do người có thẩm quyền quyết định.
+2. Phân loại ga đường sắt:
+a) Ga đường sắt được phân loại theo công năng sử dụng gồm: ga hành khách, ga hàng hóa, ga kỹ thuật và ga hỗn hợp;
+b) Ga đường sắt được phân loại theo tính chất kết nối vận tải gồm: ga liên vận quốc tế, ga biên giới, ga đầu mối, ga trong đô thị.
+3. Cấp kỹ thuật ga đường sắt:
+a) Ga đường sắt được phân thành các cấp kỹ thuật khác nhau gồm: nhà ga, quảng trường, kho, bãi hàng, ke ga, tường rào, khu dịch vụ phục vụ đón khách, trả khách, phòng chờ, quầy bán vé, khu dịch vụ ăn uống, vệ sinh công cộng, trang thiết bị cần thiết và công trình khác có liên quan đến hoạt động đường sắt;
+b) Bộ trưởng Bộ Xây dựng quy định chi tiết khoản này.
+4. Các tỉnh, thành phố có đường sắt quốc gia đi qua phải bố trí ga hành khách tại khu vực trung tâm hoặc vị trí thuận lợi để tiếp cận và kết nối các phương thức vận tải khác.
+5. Tại ga đường sắt biên giới, ga liên vận quốc tế, ga trên đường sắt quốc gia nằm tại trung tâm các tỉnh, thành phố phải bố trí nơi làm việc cho cơ quan quản lý nhà nước có liên quan hoạt động thường xuyên.
+6. Ga biên giới, ga liên vận quốc tế phải có nơi làm việc, lưu trú cho nhân viên đường sắt của nước láng giềng làm nhiệm vụ; bố trí không gian để đặt trang thiết bị kỹ thuật cần thiết liên quan đến xuất, nhập cảnh, kiểm dịch y tế, xuất khẩu, nhập khẩu hàng hóa.
+7. Tại ga đường sắt phải bố trí điểm đón, trả khách của xe buýt, phương tiện vận tải ô tô; tại ga được phép xây dựng công trình kinh doanh dịch vụ thương mại, văn phòng, điểm cung cấp dịch vụ viễn thông công cộng.
+8. Chính phủ quy định việc đặt tên, đưa vào khai thác, dừng khai thác, tháo dỡ tuyến đường sắt, ga đường sắt.
+Điều 16. Đường sắt giao nhau với đường sắt hoặc với đường bộ
+1. Đường sắt giao nhau với đường sắt phải giao khác mức, trừ trường hợp đường sắt chuyên dùng giao nhau với đường sắt chuyên dùng.
+2. Đường sắt giao nhau với đường bộ phải xây dựng nút giao khác mức đối với các trường hợp theo quy định của Bộ trưởng Bộ Xây dựng. [Khoản này được hướng dẫn bởi Điều 9 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+3. Chủ đầu tư xây dựng đường sắt mới phải chịu trách nhiệm xây dựng nút giao khác mức theo quy định tại khoản 1 và khoản 2 Điều này. Chủ đầu tư xây dựng đường bộ mới phải chịu trách nhiệm xây dựng nút giao khác mức theo quy định tại khoản 2 Điều này.
+4. Khi cải tạo, nâng cấp đường ngang hiện hữu trên đường sắt quốc gia đối với các trường hợp quy định tại khoản 2 Điều này phải xây dựng nút giao khác mức. Trường hợp chưa đủ nguồn lực để giải phóng mặt bằng, đầu tư xây dựng nút giao khác mức thì được phép tiếp tục giao đồng mức.
+5. Việc xây dựng, cải tạo, nâng cấp đường ngang phải được cơ quan có thẩm quyền cấp, gia hạn giấy phép theo quy định tại khoản 8 Điều này.
+6. Đối với những vị trí đường sắt giao nhau đồng mức với đường sắt hiện hữu đang tồn tại trước thời điểm Luật này có hiệu lực mà chưa thực hiện được theo quy định tại khoản 2 Điều này thì doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt phải có biện pháp bảo đảm an toàn chạy tàu tại những vị trí này.
+7. Bộ trưởng Bộ Xây dựng quy định:
+a) Đường ngang, giao thông tại khu vực đường ngang; cấp, gia hạn giấy phép xây dựng, cải tạo, nâng cấp, bãi bỏ đường ngang; [Điểm này được hướng dẫn bởi Mục 1 Chương III, Điều 106 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+b) Cầu có mặt cầu đường sắt dùng chung với đường bộ; giao thông trên khu vực cầu có mặt cầu đường sắt dùng chung với đường bộ, trong hầm; [Điểm này được hướng dẫn bởi Mục 3, 4 Chương III; Điều 106 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+c) Kết nối tín hiệu đèn giao thông đường bộ với tín hiệu đèn báo hiệu trên đường bộ tại đường ngang, cung cấp thông tin hỗ trợ cảnh giới tại các điểm giao cắt đồng mức giữa đường bộ và đường sắt. [Điểm này được hướng dẫn bởi Mục 2, Muc 5 Chương III; Điều 107 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+8. Thẩm quyền cấp, gia hạn giấy phép xây dựng, cải tạo, nâng cấp, bãi bỏ đường ngang:
+a) Bộ trưởng Bộ Xây dựng có thẩm quyền đối với đường ngang do mình quản lý trên đường sắt quốc gia;
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh có thẩm quyền đối với đường ngang do mình quản lý, đường ngang do doanh nghiệp đầu tư, quản lý trên đường sắt quốc gia, đường sắt địa phương và đường ngang trên đường sắt chuyên dùng.
+9. Chính phủ quy định lộ trình, trách nhiệm xử lý các vị trí đường sắt giao nhau với đường sắt, đường sắt giao nhau với đường bộ không phù hợp với quy định tại Điều này.
+Điều 17. Đường sắt và đường bộ chạy song song
+1. Đường sắt và đường bộ chạy song song phải bảo đảm phạm vi bảo vệ công trình của đường sắt nằm ngoài phần đất để bảo vệ, bảo trì đường bộ.
+2. Trường hợp không thể bố trí được theo quy định tại khoản 1 Điều này, trên lề đường bộ phía giáp với đường sắt phải xây dựng công trình phòng hộ ngăn cách.
+3. Trường hợp đường sắt chạy song song phía trên đường bộ thì khoảng cách theo phương thẳng đứng từ điểm cao nhất của mặt đường bộ đến điểm thấp nhất của kết cấu công trình đường sắt phía trên phải bảo đảm tĩnh không của đường bộ.
+4. Trường hợp đường bộ chạy song song phía trên đường sắt thì khoảng cách từ đỉnh ray đường sắt đến điểm thấp nhất của kết cấu công trình đường bộ phải bảo đảm khổ giới hạn tiếp giáp kiến trúc của đường sắt.
+Điều 18. Quản lý nhà nước về hoạt động đường sắt
+1. Nội dung quản lý nhà nước về hoạt động đường sắt:
+a) Xây dựng, ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật chuyên ngành đường sắt; tuyên truyền, phổ biến, giáo dục pháp luật và kiến thức về hoạt động đường sắt;
+b) Xây dựng, tổ chức thực hiện quy hoạch mạng lưới đường sắt, quy hoạch tuyến đường sắt, ga đường sắt và quy hoạch khác có liên quan; xây dựng, tổ chức thực hiện kế hoạch và chính sách phát triển đường sắt;
+c) Hướng dẫn, kiểm tra và đánh giá việc thực hiện công tác quản lý chất lượng công trình xây dựng, công tác quản lý, bảo trì kết cấu hạ tầng đường sắt;
+d) Hướng dẫn, kiểm tra hoạt động vận tải đường sắt, hoạt động điều hành giao thông vận tải đường sắt và phương tiện giao thông đường sắt;
+đ) Kiểm tra công tác bảo đảm an ninh, an toàn cho hoạt động đường sắt;
+e) Hợp tác quốc tế trong hoạt động đường sắt;
+g) Quản lý giá, phí và lệ phí trong hoạt động đường sắt;
+h) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động đường sắt.
+2. Trách nhiệm của các cơ quan quản lý nhà nước đối với hoạt động đường sắt:
+a) Chính phủ thống nhất quản lý nhà nước về hoạt động đường sắt;
+b) Bộ Xây dựng là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về hoạt động đường sắt;
+c) Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chủ trì, phối hợp thực hiện quản lý nhà nước về hoạt động đường sắt;
+d) Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện quản lý nhà nước về hoạt động đường sắt tại địa phương.
+Chương II ĐẦU TƯ XÂY DỰNG ĐƯỜNG SẮT
+
+Luật Đường sắt 2025. Mục 1. QUY ĐỊNH CHUNG VỀ ĐẦU TƯ XÂY DỰNG ĐƯỜNG SẮT
+Điều 19. Quy hoạch đường sắt
+1. Quy hoạch mạng lưới đường sắt:
+a) Quy hoạch mạng lưới đường sắt là quy hoạch ngành quốc gia, làm cơ sở định hướng đầu tư, phát triển, khai thác mạng lưới đường sắt quốc gia;
+b) Bộ trưởng Bộ Xây dựng tổ chức lập, thẩm định, phê duyệt quy hoạch mạng lưới đường sắt.
+2. Quy hoạch tuyến đường sắt, ga đường sắt:
+a) Quy hoạch tuyến đường sắt, ga đường sắt là quy hoạch có tính chất kỹ thuật, chuyên ngành, cụ thể hóa quy hoạch tổng thể quốc gia, quy hoạch mạng lưới đường sắt, được lập cho tuyến đường sắt quốc gia, ga đường sắt quốc gia trong đô thị, ga đầu mối đường sắt quốc gia, ga liên vận quốc tế, ga biên giới bảo đảm phù hợp với quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh;
+b) Bộ trưởng Bộ Xây dựng tổ chức lập, thẩm định, phê duyệt quy hoạch tuyến đường sắt, ga đường sắt;
+c) Việc công bố công khai quy hoạch tuyến đường sắt, ga đường sắt được thực hiện theo quy định của pháp luật về quy hoạch và pháp luật về đường sắt;
+d) Chính phủ quy định chi tiết việc lập, thẩm định, phê duyệt, công bố, tổ chức thực hiện, đánh giá và điều chỉnh quy hoạch tuyến đường sắt, ga đường sắt.
+3. Phương án phát triển đường sắt địa phương, đường sắt chuyên dùng là một nội dung trong quy hoạch vùng, quy hoạch tỉnh, quy hoạch đô thị và nông thôn.
+Điều 20. Đầu tư xây dựng công trình đường sắt
+1. Đường sắt quốc gia do Bộ Xây dựng, doanh nghiệp đầu tư xây dựng.
+2. Đường sắt địa phương do Ủy ban nhân dân cấp tỉnh, doanh nghiệp đầu tư xây dựng.
+3. Đường sắt chuyên dùng do tổ chức, doanh nghiệp đầu tư xây dựng.
+4. Cơ quan, tổ chức, doanh nghiệp quy định tại các khoản 1, 2 và 3 Điều này được phép đầu tư xây dựng, cải tạo, nâng cấp công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt sau khi có sự thống nhất với tổ chức, cá nhân quản lý công trình hạ tầng kỹ thuật.
+5. Đối với việc đầu tư xây dựng công trình đường sắt quốc gia dùng chung với đường sắt địa phương, đường sắt dùng chung với đường bộ, các cơ quan quản lý công trình thống nhất đề xuất cấp có thẩm quyền quyết định chủ trương đầu tư để giao cho một cơ quan là chủ đầu tư.
+Điều 21. Đầu tư xây dựng công trình hạ tầng kỹ thuật sử dụng chung với đường sắt
+1. Công trình hạ tầng kỹ thuật sử dụng chung với đường sắt là công trình được xây dựng để bố trí, lắp đặt đường cáp thông tin, công trình viễn thông, đường dây tải điện, dây dẫn điện, chiếu sáng công cộng; đường ống cấp nước, thoát nước, cấp năng lượng.
+2. Việc xây dựng công trình hạ tầng kỹ thuật sử dụng chung với đường sắt phải đáp ứng các yêu cầu sau đây:
+a) Phù hợp với quy hoạch, quy mô của dự án, cấp kỹ thuật của đường sắt;
+b) Tiêu chuẩn, quy chuẩn kỹ thuật trong xây dựng;
+quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ; bảo đảm an toàn công trình; bảo đảm cảnh quan và môi trường;
+c) Tuân thủ quy định của Luật này, quy định của pháp luật về xây dựng và quy định khác của pháp luật có liên quan.
+3. Tổ chức, cá nhân khi xây dựng công trình hạ tầng kỹ thuật sử dụng chung với đường sắt phải được cơ quan có thẩm quyền cấp giấy phép theo quy định tại khoản 5 Điều 44 của Luật này.
+4. Tổ chức được giao quản lý, sử dụng tài sản kết cấu hạ tầng đường sắt khai thác, cho thuê hạ tầng kỹ thuật sử dụng chung theo quy định của pháp luật.
+
+Luật Đường sắt 2025. Mục 2. ĐẦU TƯ XÂY DỰNG DỰ ÁN ĐƯỜNG SẮT QUAN TRỌNG QUỐC GIA, DỰ ÁN ĐƯỜNG SẮT DO QUỐC HỘI QUYẾT ĐỊNH CHỦ TRƯƠNG ĐẦU TƯ
+Điều 22. Điều chỉnh quy hoạch
+Trường hợp việc lập, thẩm định, phê duyệt, điều chỉnh dự án đường sắt, dự án tái định cư phục vụ giải phóng mặt bằng cho dự án đường sắt theo quy hoạch mạng lưới đường sắt, quy hoạch tỉnh nhưng có thay đổi so với quy hoạch khác có liên quan thì dự án được phê duyệt mà không phải thực hiện thủ tục điều chỉnh quy hoạch; quy hoạch có liên quan phải được kịp thời cập nhật cho phù hợp và công bố theo quy định.
+Điều 23. Phân chia dự án đường sắt
+1. Cấp có thẩm quyền quyết định đầu tư dự án đường sắt được quyết định phân chia dự án thành các dự án thành phần, dự án thành phần độc lập, tiểu dự án trong đó có dự án bồi thường, hỗ trợ, tái định cư trong quá trình lập dự án đầu tư xây dựng, dự án thành phần được quản lý như dự án độc lập.
+2. Việc phân chia dự án thành phần không phải đáp ứng yêu cầu về vận hành độc lập như quy định của pháp luật về xây dựng.
+Điều 24. Đầu tư dự án đường sắt bằng nguồn vốn ngoài nhà nước
+1. Dự án đường sắt đầu tư theo quy định của pháp luật về đầu tư, pháp luật về đầu tư theo phương thức đối tác công tư được Nhà nước bảo đảm toàn bộ kinh phí bồi thường, hỗ trợ, tái định cư từ ngân sách nhà nước đối với đất dành cho đường sắt; việc bồi thường, hỗ trợ, tái định cư được tách thành dự án đầu tư công độc lập.
+2. Đối với dự án đường sắt thực hiện theo phương thức đối tác công tư, phần kinh phí bồi thường, hỗ trợ, tái định cư không tính vào tỷ lệ vốn nhà nước tham gia vào dự án.
+3. Đối với dự án đường sắt thực hiện theo quy định của pháp luật về đầu tư:
+a) Trường hợp chỉ có một nhà đầu tư đề xuất, cấp có thẩm quyền chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư theo quy định của pháp luật về đầu tư;
+b) Nhà đầu tư không được chuyển nhượng dự án, chuyển nhượng doanh nghiệp dự án, vốn, tài sản hình thành trong và sau đầu tư cho tổ chức, cá nhân nước ngoài hoặc tổ chức có vốn nước ngoài;
+c) Nhà đầu tư chuyển giao không bồi hoàn cho Nhà nước toàn bộ tài sản hình thành từ dự án sau khi hết thời hạn hoạt động của dự án;
+d) Bộ Xây dựng giao cơ quan chuyên môn trực thuộc thực hiện chức năng của cơ quan chuyên môn về xây dựng theo quy định của Luật Xây dựng đối với đường sắt quốc gia; Ủy ban nhân dân cấp tỉnh giao cơ quan chuyên môn trực thuộc thực hiện chức năng của cơ quan chuyên môn về xây dựng theo quy định của Luật Xây dựng đối với đường sắt địa phương;
+đ) Bộ trưởng Bộ Xây dựng chấp thuận danh mục tiêu chuẩn áp dụng cho dự án trước khi người quyết định đầu tư phê duyệt dự án đối với đường sắt quốc gia; Chủ tịch Ủy ban nhân dân cấp tỉnh chấp thuận danh mục tiêu chuẩn áp dụng cho dự án trước khi người quyết định đầu tư phê duyệt dự án đối với đường sắt địa phương;
+e) Ủy ban nhân dân cấp tỉnh được quyết định việc chỉ định nhà đầu tư dự án đường sắt quốc gia do cơ quan có thẩm quyền lựa chọn theo quy định của pháp luật để thực hiện đầu tư dự án phát triển đô thị theo mô hình TOD thuộc phạm vi dự án.
+4. Đối với dự án đường sắt thực hiện theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư, sau khi dự án đầu tư được phê duyệt:
+a) Người có thẩm quyền phê duyệt dự án được lựa chọn áp dụng một trong các hình thức đấu thầu hạn chế, chỉ định thầu hoặc hình thức phù hợp khác theo quy định của pháp luật để lựa chọn nhà đầu tư;
+b) Nhà đầu tư được chỉ định phải đủ năng lực và chứng minh năng lực về khả năng thu xếp vốn chủ sở hữu, huy động vốn vay, nguồn vốn hợp pháp khác; chứng minh có đủ kinh nghiệm hoặc có thỏa thuận hợp tác với đối tác có kinh nghiệm thực hiện các dự án tương tự;
+c) Trước khi quyết định áp dụng hình thức lựa chọn nhà đầu tư, cơ quan có thẩm quyền phải lấy ý kiến thống nhất bằng văn bản của Bộ Quốc phòng, Bộ Công an đối với yêu cầu về bảo đảm quốc phòng, an ninh quốc gia, bảo vệ bí mật nhà nước.
+Điều 25. Phát triển đô thị theo mô hình TOD đối với đường sắt
+1. Ủy ban nhân dân cấp tỉnh tổ chức lập, thẩm định, phê duyệt quy hoạch khu vực TOD đối với đường sắt quốc gia, đường sắt địa phương, phương án tuyến công trình, vị trí công trình, tổng mặt bằng tuyến đối với đường sắt địa phương và có thẩm quyền:
+a) Quyết định điều chỉnh các chỉ tiêu kinh tế - kỹ thuật, chức năng sử dụng các khu đất, chỉ tiêu sử dụng đất quy hoạch xây dựng trong khu vực TOD khác với quy chuẩn kỹ thuật về quy hoạch xây dựng nhưng phải bảo đảm không vượt quá khả năng đáp ứng của hệ thống công trình hạ tầng kỹ thuật, hạ tầng xã hội trong khu vực TOD và vùng phụ cận;
+b) Quyết định phạm vi khu vực TOD và nội dung, trình tự, thủ tục thực hiện khác với quy hoạch đô thị và nông thôn, quy hoạch sử dụng đất, kế hoạch sử dụng đất đã được phê duyệt mà không phải thực hiện thủ tục điều chỉnh kế hoạch sử dụng đất và các quy hoạch có liên quan. Sau khi phê duyệt quy hoạch khu vực TOD, kế hoạch sử dụng đất, các quy hoạch khác có liên quan phải được kịp thời cập nhật và công bố;
+c) Trường hợp quy hoạch chung của thành phố trực thuộc trung ương chưa được cấp có thẩm quyền phê duyệt, Ủy ban nhân dân thành phố căn cứ quy hoạch tỉnh đã được phê duyệt để tổ chức lập, thẩm định, phê duyệt phương án tuyến công trình, vị trí công trình, tổng mặt bằng tuyến, quy hoạch khu vực TOD.
+2. Hội đồng nhân dân cấp tỉnh được quyết định sử dụng ngân sách địa phương để triển khai dự án đầu tư công độc lập thực hiện công tác bồi thường, hỗ trợ, tái định cư theo quy hoạch khu vực TOD tạo quỹ đất đấu giá theo quy định của pháp luật.
+3. Số tiền thu được từ khai thác quỹ đất khu vực TOD:
+a) Đối với đường sắt quốc gia, sau khi trừ đi chi phí tổ chức thực hiện công tác bồi thường, hỗ trợ, tái định cư khu vực TOD và chi phí khác có liên quan theo quy định của pháp luật, chính quyền địa phương cấp tỉnh được giữ lại 50% nộp vào ngân sách địa phương và 50% nộp vào ngân sách trung ương;
+b) Đối với đường sắt địa phương, chính quyền địa phương cấp tỉnh được giữ lại 100% nộp vào ngân sách địa phương.
+4. Hội đồng nhân dân cấp tỉnh quy định chi tiết khoản 1 Điều này.
+Điều 26. Trình tự, thủ tục đầu tư dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD
+Khi thực hiện trình tự, thủ tục đầu tư dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD, Ủy ban nhân dân cấp tỉnh có thẩm quyền:
+1. Tổ chức lập, thẩm định, quyết định đầu tư và quyết định điều chỉnh dự án theo trình tự, thủ tục tương tự như dự án nhóm A do địa phương quản lý theo quy định của pháp luật có liên quan;
+2. Quyết định gia hạn thời gian thực hiện dự án trong trường hợp không làm tăng tổng mức đầu tư và không phải thực hiện thủ tục điều chỉnh dự án;
+3. Quyết định lựa chọn tiêu chuẩn áp dụng cho tuyến đường sắt địa phương sau khi có ý kiến thống nhất của Bộ Xây dựng.
+Điều 27. Thiết kế kỹ thuật tổng thể
+1. Dự án đường sắt được lập thiết kế kỹ thuật tổng thể (Front-End Engineering Design, gọi tắt là thiết kế FEED) thay thế cho thiết kế cơ sở trong Báo cáo nghiên cứu khả thi; việc lựa chọn nhà thầu theo hình thức hợp đồng EPC, EC, EP được thực hiện trên cơ sở dự án đầu tư được phê duyệt; chủ đầu tư được quyết định việc phê duyệt đối với các bước thiết kế sau thiết kế FEED.
+2. Cho phép chủ đầu tư, tổ chức, cơ quan được giao nhiệm vụ lập báo cáo nghiên cứu khả thi tham vấn các nhà thầu, tổ chức trong nước và nước ngoài về công nghệ, mức giá tham chiếu và các rủi ro tiềm ẩn; việc tham vấn phải được thực hiện minh bạch và không được mang lại lợi thế không công bằng cho bất kỳ nhà cung cấp nào.
+3. Chính phủ quy định chi tiết Điều này.
+Điều 28. Thi tuyển phương án kiến trúc
+Người quyết định đầu tư được quyết định việc thi tuyển hoặc không thi tuyển phương án kiến trúc đối với các công trình nhà ga, nút giao, cầu, các hạng mục công trình liên quan thuộc dự án đường sắt nhưng phải bảo đảm yêu cầu về lịch sử, văn hóa, thẩm mỹ của công trình.
+Điều 29. Hoạt động thực hiện trước khi quyết định đầu tư dự án đường sắt
+1. Các hoạt động được thực hiện trước khi quyết định đầu tư dự án đường sắt gồm:
+a) Đào tạo nguồn nhân lực của cơ quan nhà nước, chủ đầu tư, đơn vị quản lý dự án, đơn vị vận hành khai thác, cơ sở đào tạo, cơ sở nghiên cứu;
+b) Dịch vụ tư vấn;
+c) Quy hoạch liên quan đến phương án tuyến công trình, vị trí công trình, tổng mặt bằng tuyến đường sắt địa phương và quy hoạch khu vực TOD;
+d) Bồi thường, hỗ trợ, tái định cư;
+đ) Truyền thông và công việc khác phục vụ chuẩn bị đầu tư dự án.
+2. Đối với dự án đầu tư xây dựng đường sắt quốc gia theo hình thức đầu tư công, sau khi được cấp có thẩm quyền quyết định chủ trương đầu tư, dự án được bổ sung danh mục trong kế hoạch đầu tư công trung hạn và bố trí vốn kế hoạch đầu tư công hằng năm để chi trả cho các hoạt động quy định tại các điểm a, b, d và đ khoản 1 Điều này.
+3. Đối với dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD theo hình thức đầu tư công, Ủy ban nhân dân cấp tỉnh được quyết định bố trí vốn từ ngân sách địa phương trong kế hoạch đầu tư công trung hạn và kế hoạch đầu tư công hằng năm để chi trả cho các hoạt động quy định tại khoản 1 Điều này.
+Điều 30. Thực hiện đồng thời một số công việc chuẩn bị dự án đường sắt
+1. Chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án đường sắt được triển khai thực hiện đồng thời việc lập, thẩm định, phê duyệt Báo cáo nghiên cứu khả thi, thiết kế xây dựng triển khai sau thiết kế cơ sở hoặc thiết kế FEED, hồ sơ mời thầu, hồ sơ yêu cầu.
+2. Chủ tịch Ủy ban nhân dân cấp tỉnh được quyết định triển khai thực hiện đồng thời việc lập, thẩm định, phê duyệt Báo cáo nghiên cứu khả thi, thiết kế xây dựng triển khai sau thiết kế cơ sở của dự án bồi thường, hỗ trợ, tái định cư, di dời hạ tầng kỹ thuật phục vụ dự án đường sắt.
+Điều 31. Lựa chọn nhà thầu
+1. Người có thẩm quyền quyết định đầu tư dự án đường sắt được lựa chọn áp dụng một trong các hình thức đấu thầu hạn chế, chỉ định thầu theo quy định của pháp luật về đấu thầu khi lựa chọn nhà đầu tư, nhà thầu cung cấp hàng hóa, dịch vụ tư vấn, dịch vụ phi tư vấn, nhà thầu xây lắp, nhà thầu thực hiện hợp đồng EPC, EC, EP, chìa khóa trao tay; trình tự, thủ tục thực hiện theo quy định của pháp luật về đấu thầu, quy định khác của pháp luật có liên quan và phù hợp với các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Chủ đầu tư được quyết định sử dụng nhà thầu nước ngoài cho hoạt động tư vấn và hoạt động thực hiện trước cho dự án đường sắt.
+3. Chủ đầu tư không phải áp dụng quy định về bảo đảm cạnh tranh trong đấu thầu đối với các nhà thầu tư vấn lập Báo cáo nghiên cứu khả thi, thiết kế FEED, thiết kế kỹ thuật trong trường hợp chỉ định thầu để thực hiện các gói thầu xây lắp, EPC, EC, EP, chìa khóa trao tay nhưng vẫn phải bảo đảm tuân thủ các quy định khác của pháp luật về đấu thầu.
+Điều 32. Lập tổng mức đầu tư, dự toán xây dựng, dự toán gói thầu, chi phí vận hành và bảo trì công trình
+1. Đối với các hạng mục công việc có nhưng chưa phù hợp hoặc chưa có trong hệ thống định mức, giá xây dựng công trình, suất vốn đầu tư, mức chi phí, dữ liệu về chi phí được cấp có thẩm quyền ban hành, dự án đường sắt được sử dụng hệ thống định mức, giá xây dựng công trình, suất vốn đầu tư, mức chi phí do các tổ chức trong nước, nước ngoài công bố của hạng mục công việc tương tự hoặc của dự án đường sắt tương tự trong nước, nước ngoài và được quy đổi về thời điểm tính toán.
+2. Trường hợp không thể xác định chi phí theo khoản 1 Điều này thì được phép xác định chi phí theo suất vốn đầu tư của dự án tương tự trên thế giới và được quy đổi về thời điểm tính toán.
+3. Trường hợp hệ thống định mức, đơn giá vận hành và bảo trì do cấp có thẩm quyền ban hành không có hoặc chưa phù hợp với công trình, dự án đường sắt được sử dụng hệ thống định mức, đơn giá vận hành và bảo trì do các tổ chức trong nước, nước ngoài công bố hoặc của dự án đường sắt tương tự trong nước, nước ngoài và được quy đổi về thời điểm tính toán.
+4. Chi phí vận hành thử, đào tạo, tiếp nhận chuyển giao công nghệ được tính trong tổng mức đầu tư xây dựng công trình đường sắt.
+5. Trường hợp dự án đường sắt có các khoản mục chi phí chưa được quy định trong pháp luật Việt Nam hoặc chưa phù hợp, khi lập tổng mức đầu tư, dự toán xây dựng, dự toán gói thầu, chi phí vận hành và bảo trì công trình được áp dụng các khoản mục chi phí của các dự án đường sắt có tính chất, điều kiện triển khai tương tự trên thế giới.
+Điều 33. Hợp đồng xây dựng
+Chủ đầu tư được quyết định và chịu trách nhiệm về việc lựa chọn áp dụng một số quy định của bộ mẫu điều kiện hợp đồng của Hiệp hội Quốc tế các kỹ sư tư vấn (Fédération Internationale Des Ingénieurs - Conseils, gọi tắt là FIDIC) khi lập hồ sơ mời thầu, hồ sơ yêu cầu, xác lập và thực hiện hợp đồng xây dựng gồm:
+1. Được áp dụng quyền chỉ dẫn của tư vấn giám sát theo nguyên tắc hợp đồng FIDIC;
+2. Được áp dụng cơ chế xử lý khiếu nại, giải quyết tranh chấp theo nguyên tắc của hợp đồng FIDIC;
+3. Được giao Giám sát trưởng quyết định một số nội dung thuộc trách nhiệm của chủ đầu tư theo các điều kiện riêng của hợp đồng để đẩy nhanh tiến độ thực hiện, bảo đảm chất lượng, hiệu quả sử dụng vốn của dự án đối với một số hạng mục, công tác có yêu cầu kỹ thuật cao, kỹ thuật mới.
+Điều 34. Bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất
+1. Đối với dự án đường sắt đã được cấp có thẩm quyền quyết định chủ trương đầu tư, Ủy ban nhân dân cấp tỉnh có dự án đi qua được lập, thẩm định, quyết định đầu tư các dự án thành phần, dự án thành phần độc lập về bồi thường, hỗ trợ, tái định cư trên cơ sở hồ sơ thiết kế sơ bộ trong Báo cáo nghiên cứu tiền khả thi, các dự án bồi thường, hỗ trợ, tái định cư không phải quyết định chủ trương đầu tư; bố trí tạm cư cho người có đất bị thu hồi, bảo đảm ổn định đời sống của người dân.
+2. Cơ quan có thẩm quyền được quyết định việc chỉ định thầu đối với các gói thầu tư vấn, phi tư vấn, xây lắp thực hiện bồi thường, hỗ trợ, tái định cư. Trình tự, thủ tục chỉ định thầu thực hiện theo quy định của pháp luật về đấu thầu.
+3. Đối với dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD:
+a) Ủy ban nhân dân cấp tỉnh quyết định tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án thành phần, dự án thành phần độc lập trên cơ sở phương án tuyến công trình, vị trí công trình, tổng mặt bằng tuyến đường sắt địa phương hoặc quy hoạch khu vực TOD đã được cơ quan có thẩm quyền phê duyệt;
+b) Dự án bồi thường, hỗ trợ, tái định cư không phải quyết định chủ trương đầu tư. Việc lập, thẩm định, quyết định đầu tư dự án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đầu tư công.
+Điều 35. Bảo đảm phòng, chống tham nhũng, lãng phí, tiêu cực
+1. Đối với việc lựa chọn nhà đầu tư, nhà thầu thực hiện các gói thầu EPC, EC, EP, gói thầu tư vấn sử dụng nhà thầu nước ngoài, Bộ Quốc phòng, Bộ Công an, Bộ Xây dựng, Bộ Tài chính, Bộ Khoa học và Công nghệ, Thanh tra Chính phủ, Kiểm toán nhà nước có trách nhiệm cử đại diện tham gia tổ thẩm định hồ sơ mời thầu, hồ sơ yêu cầu, kết quả lựa chọn nhà thầu; thành viên tổ thẩm định là đại diện các cơ quan nêu trên không phải áp dụng điều kiện, năng lực, kinh nghiệm theo quy định của pháp luật về đấu thầu.
+2. Kiểm toán nhà nước có trách nhiệm kiểm toán hồ sơ tổng mức đầu tư đã được hoàn thiện theo báo cáo thẩm định của cấp quyết định đầu tư để làm cơ sở phê duyệt dự án và gửi kết quả kiểm toán cho cấp quyết định đầu tư trong thời hạn 30 ngày kể từ khi nhận được đầy đủ hồ sơ đề nghị kiểm toán.
+
+Luật Đường sắt 2025. Mục 3. ĐẦU TƯ PHÁT TRIỂN CÔNG NGHIỆP ĐƯỜNG SẮT
+Điều 36. Công nghiệp đường sắt
+1. Công nghiệp đường sắt bao gồm:
+a) Sản xuất, lắp ráp, sửa chữa, hoán cải phương tiện giao thông đường sắt;
+b) Sản xuất, chế tạo linh kiện, thiết bị của hệ thống thông tin, tín hiệu đường sắt, hệ thống cấp điện sức kéo đường sắt;
+c) Chế tạo máy móc; sản xuất ray, ghi, phụ kiện liên kết, phụ tùng, vật tư, thiết bị có yêu cầu kỹ thuật đặc biệt chuyên dùng cho đường sắt.
+2. Sản phẩm, hàng hóa công nghiệp đường sắt gồm:
+phương tiện giao thông đường sắt, hệ thống thông tin, tín hiệu, hệ thống cấp điện sức kéo đường sắt, ray, ghi, phụ kiện liên kết và phụ tùng, vật tư, thiết bị có yêu cầu kỹ thuật đặc biệt thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quyết định của Thủ tướng Chính phủ.
+Điều 37. Yêu cầu về phát triển công nghiệp đường sắt
+1. Phù hợp với quy hoạch mạng lưới đường sắt, quy hoạch có tính chất kỹ thuật, chuyên ngành đường sắt và chiến lược phát triển công nghiệp Việt Nam theo từng thời kỳ.
+2. Đồng bộ với phát triển kết cấu hạ tầng đường sắt, dịch vụ vận tải đường sắt và bảo đảm an toàn, bảo vệ môi trường theo quy định của pháp luật.
+3. Đối với gói thầu thuộc dự án đường sắt được tổ chức đấu thầu quốc tế, tổng thầu, nhà thầu phải cam kết việc chuyển giao công nghệ, đào tạo nguồn nhân lực cho đối tác Việt Nam để làm chủ công tác quản lý, vận hành, bảo trì.
+4. Việc đầu tư, nhập khẩu dây chuyền công nghệ sản xuất, lắp ráp máy móc, thiết bị, phương tiện giao thông đường sắt phải bảo đảm tính đồng bộ, tiên tiến, hiện đại; phải thực hiện chuyển giao công nghệ một phần hoặc toàn bộ theo quy định của pháp luật về chuyển giao công nghệ.
+Điều 38. Đầu tư phát triển công nghiệp đường sắt
+1. Nhà nước hỗ trợ đầu tư xây dựng, bảo trì kết cấu hạ tầng đường sắt kết nối từ đường sắt quốc gia, đường sắt địa phương đến các cơ sở sản xuất, lắp ráp, sửa chữa, hoán cải phương tiện giao thông đường sắt.
+2. Thủ tướng Chính phủ quyết định ban hành danh mục dịch vụ, hàng hóa công nghiệp đường sắt được giao nhiệm vụ hoặc đặt hàng cho tổ chức, doanh nghiệp Việt Nam.
+3. Chính phủ quy định việc giao nhiệm vụ, đặt hàng và tiêu chí lựa chọn tổ chức, doanh nghiệp Việt Nam được giao nhiệm vụ, đặt hàng cung cấp dịch vụ, hàng hóa công nghiệp đường sắt;
+nghiên cứu, ứng dụng, nhận chuyển giao công nghệ.
+4. Chủ đầu tư, nhà thầu phải ưu tiên sử dụng dịch vụ, hàng hóa công nghiệp đường sắt theo quy định tại khoản 2 Điều này; ưu tiên sử dụng các sản phẩm, hàng hóa, dịch vụ mà trong nước có thể sản xuất, cung cấp.
+5. Đối với đầu tư xây dựng dự án tổ hợp công nghiệp đường sắt:
+a) Tổ hợp công nghiệp đường sắt là hệ thống liên kết, hợp tác các cơ sở công nghiệp liên quan đến đường sắt nhằm nghiên cứu phát triển, thiết kế, thử nghiệm, sản xuất, lắp ráp, bảo trì, vận hành và cung cấp sản phẩm công nghiệp chuyên dùng phục vụ cho hoạt động đường sắt;
+b) Dự án xây dựng tổ hợp công nghiệp đường sắt được áp dụng quy định tại Điều 22, khoản 1 Điều 31 và Điều 32 của Luật này.
+Điều 39. Nghiên cứu, ứng dụng khoa học, công nghệ, chuyển giao công nghệ và đào tạo nguồn nhân lực phát triển công nghiệp đường sắt
+1. Việc nghiên cứu, ứng dụng khoa học, công nghệ, chuyển giao công nghệ phải bảo đảm tiên tiến, hiện đại, đẩy mạnh ứng dụng công nghệ số, trí tuệ nhân tạo, phù hợp với quy hoạch mạng lưới đường sắt, pháp luật về đường sắt, pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về chuyển giao công nghệ và quy định khác của pháp luật có liên quan.
+2. Doanh nghiệp tham gia đầu tư, nghiên cứu, ứng dụng khoa học, công nghệ, chuyển giao công nghệ, phát triển công nghiệp đường sắt được trích tối đa 20% thu nhập tính thuế thu nhập doanh nghiệp để lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp. Việc sử dụng Quỹ này theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về thuế thu nhập doanh nghiệp và quy định khác của pháp luật có liên quan.
+3. Tổ chức, cá nhân tham gia hoạt động khoa học, công nghệ phục vụ phát triển công nghiệp đường sắt được áp dụng các chính sách sau đây:
+a) Tổ chức, cá nhân chủ trì hoạt động khoa học, công nghệ phục vụ dự án được quyết định việc đấu thầu hạn chế, chỉ định thầu, đặt hàng, giao nhiệm vụ để lựa chọn nhà cung cấp dịch vụ, hàng hóa;
+b) Miễn thuế thu nhập doanh nghiệp, miễn thuế thu nhập cá nhân từ việc thực hiện nhiệm vụ khoa học, công nghệ phục vụ dự án;
+c) Doanh nghiệp được hưởng ưu đãi như doanh nghiệp công nghệ cao theo quy định của pháp luật về công nghệ cao trong thời gian thực hiện nhiệm vụ khoa học, công nghệ;
+d) Nhận hỗ trợ từ ngân sách nhà nước để mua sắm, vận hành máy móc, thiết bị phục vụ thực hiện nhiệm vụ theo quy định của pháp luật về khoa học và công nghệ.
+4. Tổ chức, cá nhân tham gia đào tạo phát triển nguồn nhân lực công nghiệp đường sắt được hưởng các chính sách theo quy định của pháp luật về công nghệ cao.
+Chương III QUẢN LÝ, KHAI THÁC ĐƯỜNG SẮT
+
+Luật Đường sắt 2025. Mục 1. KẾT CẤU HẠ TẦNG ĐƯỜNG SẮT
+Điều 40. Tài sản kết cấu hạ tầng đường sắt
+1. Tài sản kết cấu hạ tầng đường sắt gồm tài sản kết cấu hạ tầng đường sắt quốc gia, đường sắt địa phương và đường sắt chuyên dùng.
+2. Trách nhiệm quản lý tài sản kết cấu hạ tầng đường sắt do Nhà nước đầu tư:
+a) Bộ Xây dựng thực hiện chức năng của đại diện chủ sở hữu, thống nhất quản lý tài sản kết cấu hạ tầng đường sắt quốc gia theo quy định của pháp luật về quản lý, sử dụng tài sản công;
+b) Ủy ban nhân dân cấp tỉnh thực hiện chức năng của đại diện chủ sở hữu, thống nhất quản lý tài sản kết cấu hạ tầng đường sắt địa phương theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+3. Trách nhiệm quản lý tài sản kết cấu hạ tầng đường sắt do doanh nghiệp đầu tư: Doanh nghiệp tự quản lý, sử dụng, khai thác, bảo trì và bảo vệ tài sản kết cấu hạ tầng đường sắt theo quy định của pháp luật.
+4. Tổ chức được giao quản lý, cho thuê hoặc chuyển nhượng có thời hạn tài sản kết cấu hạ tầng đường sắt do Nhà nước đầu tư có trách nhiệm quản lý, sử dụng, khai thác, bảo trì và bảo vệ tài sản kết cấu hạ tầng đường sắt theo quy định của pháp luật.
+Điều 41. Quản lý, bảo trì kết cấu hạ tầng đường sắt
+1. Kết cấu hạ tầng đường sắt đưa vào khai thác phải được quản lý, bảo trì.
+2. Trách nhiệm tổ chức quản lý, bảo trì kết cấu hạ tầng đường sắt:
+a) Cơ quan thực hiện chức năng của đại diện chủ sở hữu tài sản quy định tại khoản 2 Điều 40 của Luật này có trách nhiệm tổ chức quản lý, bảo trì kết cấu hạ tầng đường sắt quốc gia, đường sắt địa phương do Nhà nước đầu tư;
+b) Tổ chức được giao quản lý, cho thuê, chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường sắt do Nhà nước đầu tư tổ chức thực hiện quản lý, bảo trì kết cấu hạ tầng đường sắt theo quy định của pháp luật;
+c) Doanh nghiệp quản lý, bảo trì kết cấu hạ tầng đường sắt do mình đầu tư theo quy định của pháp luật.
+3. Thẩm quyền quy định quản lý, bảo trì kết cấu hạ tầng đường sắt:
+a) Bộ trưởng Bộ Xây dựng quy định việc quản lý, bảo trì kết cấu hạ tầng đường sắt quốc gia; [Điểm này được hướng dẫn bởi Chương IV; Điều 109 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+b) Ủy ban nhân dân cấp tỉnh quy định việc quản lý, bảo trì kết cấu hạ tầng đường sắt địa phương thuộc địa bàn quản lý.
+Điều 42. Quản lý, bảo trì công trình đường sắt dùng chung với đường bộ và công trình hạ tầng kỹ thuật đấu nối, sử dụng chung với công trình đường sắt
+1. Đối với công trình đường sắt quốc gia dùng chung với đường sắt địa phương, đường sắt dùng chung với đường bộ phải được tách riêng hạng mục công trình để giao cho tổ chức quản lý, vận hành, khai thác và bảo trì. Việc tách các hạng mục phải bảo đảm công trình được khai thác an toàn, hiệu quả.
+2. Công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt phải được các tổ chức quản lý tài sản thống nhất về phạm vi, trách nhiệm quản lý, bảo trì và khai thác.
+3. Tổ chức, cá nhân quản lý, bảo trì công trình hạ tầng kỹ thuật sử dụng chung với đường sắt do mình đầu tư theo quy định của pháp luật.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 43. Kinh phí quản lý, bảo trì và bảo vệ tài sản kết cấu hạ tầng đường sắt
+1. Kinh phí quản lý, bảo trì và bảo vệ tài sản kết cấu hạ tầng đường sắt, công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt, lập hồ sơ quản lý đất, cắm mốc, khôi phục mốc giới đất dành cho đường sắt do Nhà nước đầu tư được bảo đảm từ nguồn ngân sách nhà nước và các nguồn vốn hợp pháp khác.
+2. Cơ quan thực hiện chức năng của đại diện chủ sở hữu tài sản quy định tại điểm a khoản 2 Điều 40 của Luật này tổ chức quản lý nguồn kinh phí được bố trí cho công tác quản lý, bảo trì, bảo vệ tài sản kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư, công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt quốc gia và các hạng mục công trình đường sắt quốc gia do Nhà nước đầu tư sử dụng chung với đường bộ do mình quản lý.
+3. Ủy ban nhân dân cấp tỉnh bố trí và quản lý, sử dụng nguồn kinh phí được bố trí cho công tác quản lý, bảo trì, bảo vệ tài sản kết cấu hạ tầng đường sắt địa phương do mình đầu tư hoặc tài sản kết cấu hạ tầng đường sắt được giao quản lý, công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt địa phương do mình đầu tư và các hạng mục công trình đường sắt địa phương do mình đầu tư sử dụng chung với đường bộ.
+4. Doanh nghiệp có trách nhiệm bảo đảm kinh phí để quản lý, bảo trì, bảo vệ tài sản kết cấu hạ tầng đường sắt do mình đầu tư, công trình hạ tầng kỹ thuật đấu nối với công trình đường sắt và các hạng mục công trình đường sắt sử dụng chung với đường bộ khi được giao quản lý.
+Điều 44. Bảo vệ kết cấu hạ tầng đường sắt
+1. Bảo vệ kết cấu hạ tầng đường sắt bao gồm: các hoạt động nhằm bảo đảm an toàn cho công trình đường sắt; phòng ngừa, ngăn chặn và xử lý hành vi xâm phạm, phá hoại công trình đường sắt; lấn, chiếm phạm vi bảo vệ công trình đường sắt, hành lang an toàn giao thông đường sắt.
+2. Tuyến đường sắt có tốc độ thiết kế trên 120 km/h, đường sắt đô thị phải xây dựng hàng rào bảo vệ, tránh mọi hành vi xâm nhập trái phép, trừ trường hợp đường sắt đã được cách ly riêng biệt đi trên cao hoặc trong hầm.
+3. Xây dựng công trình trong phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt:
+a) Các công trình được phép xây dựng trong phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt gồm: công trình thiết yếu phục vụ quốc phòng, an ninh, phòng, chống thiên tai, kinh tế - xã hội không thể bố trí ngoài phạm vi đất dành cho đường sắt; công trình dùng cho mục đích tuyên truyền theo yêu cầu của cơ quan nhà nước.
+Khi có yêu cầu của cơ quan có thẩm quyền, chủ đầu tư công trình phải tự bố trí kinh phí và thực hiện tháo dỡ, di chuyển công trình xây dựng trong phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt mà không được bồi thường công trình đã xây dựng;
+b) Được phép xây dựng đường gom trong phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt của đường sắt quốc gia hiện có, đường sắt chuyên dùng trong trường hợp không thể bố trí ngoài phạm vi đất dành cho đường sắt, đồng thời phải xây dựng hàng rào ngăn cách giữa đường sắt với đường gom;
+c) Việc xây dựng công trình trong phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt phải bảo đảm không làm ảnh hưởng đến an toàn công trình đường sắt, an toàn giao thông đường sắt.
+4. Xây dựng công trình, khai thác tài nguyên và tiến hành hoạt động khác ở vùng phụ cận phạm vi đất dành cho đường sắt:
+a) Việc xây dựng công trình, khai thác tài nguyên và tiến hành hoạt động khác ở vùng phụ cận phạm vi đất dành cho đường sắt không được làm ảnh hưởng đến an toàn của công trình đường sắt và an toàn giao thông đường sắt;
+b) Trường hợp xây dựng công trình, khai thác tài nguyên và tiến hành hoạt động khác ở vùng phụ cận phạm vi đất dành cho đường sắt nhưng có khả năng ảnh hưởng đến an toàn của công trình đường sắt hoặc an toàn giao thông đường sắt thì chủ đầu tư công trình, tổ chức, cá nhân khai thác tài nguyên và tiến hành hoạt động khác phải có biện pháp bảo đảm an toàn cho công trình đường sắt và an toàn giao thông đường sắt;
+c) Chủ đầu tư công trình, tổ chức, cá nhân khai thác tài nguyên và tiến hành hoạt động khác phải bồi thường thiệt hại do lỗi của mình gây ra cho công trình đường sắt và an toàn giao thông đường sắt theo quy định của pháp luật.
+5. Trường hợp cần sử dụng đất dành cho đường sắt để xây dựng công trình thiết yếu phục vụ quốc phòng, an ninh, kinh tế - xã hội, công trình hạ tầng kỹ thuật sử dụng chung với đường sắt thì phải có biện pháp bảo đảm an toàn cho công trình đường sắt, an toàn giao thông đường sắt và phải được cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt theo quy định của Bộ trưởng Bộ Xây dựng. [Khoản này được hướng dẫn bởi Chương V; Điều 108 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+6. Chính phủ quy định chi tiết các khoản 1, 2, 3 và 4 Điều này.
+Điều 45. Phòng, chống, khắc phục hậu quả thiên tai, sự cố đối với kết cấu hạ tầng đường sắt
+[Điều này được hướng dẫn bởi Chương VI; Điều 110 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+1. Dự án đầu tư xây dựng công trình đường sắt phải được thiết kế, xây dựng bền vững, thích ứng với biến đổi khí hậu, tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật, bảo đảm yêu cầu về phòng, chống thiên tai theo quy định của pháp luật.
+2. Trách nhiệm thực hiện phòng, chống, khắc phục hậu quả thiên tai, sự cố đối với các tuyến đường sắt đang khai thác:
+a) Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh, chủ sở hữu tài sản tổ chức thực hiện công tác phòng, chống, khắc phục hậu quả thiên tai, sự cố đối với đường sắt thuộc phạm vi quản lý theo quy định của Luật này, pháp luật về phòng, chống thiên tai và pháp luật khác có liên quan;
+b) Tổ chức được giao quản lý, cho thuê hoặc chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường sắt do Nhà nước đầu tư có trách nhiệm thực hiện phòng, chống, khắc phục hậu quả thiên tai, sự cố theo quy định của pháp luật; sửa chữa, khắc phục ngay hư hỏng công trình đường sắt đối với các trường hợp không bảo đảm an toàn cho người, phương tiện tham gia giao thông trên các đoạn, tuyến đường sắt; tổ chức kiểm tra các công trình, vị trí xung yếu có nguy cơ mất an toàn công trình đường sắt, công trình liền kề;
+c) Tổ chức, cá nhân tham gia thực hiện phòng, chống, khắc phục hậu quả thiên tai, sự cố đối với kết cấu hạ tầng đường sắt theo sự phân công, phân cấp, phối hợp chặt chẽ giữa các lực lượng và phù hợp với các cấp độ rủi ro thiên tai theo quy định của pháp luật về phòng, chống thiên tai.
+3. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 46. Kinh doanh kết cấu hạ tầng đường sắt
+1. Kinh doanh kết cấu hạ tầng đường sắt là ngành, nghề kinh doanh có điều kiện.
+2. Giá dịch vụ điều hành giao thông vận tải đường sắt là khoản tiền phải trả khi sử dụng dịch vụ điều hành giao thông vận tải đường sắt để chạy tàu trong ga, trên tuyến hoặc khu đoạn đường sắt.
+3. Phụ thu ngoài giá dịch vụ điều hành giao thông vận tải đường sắt là khoản tiền phải trả thêm cho doanh nghiệp cung cấp dịch vụ điều hành giao thông vận tải đường sắt.
+4. Doanh nghiệp kinh doanh vận tải đường sắt trả phí sử dụng kết cấu hạ tầng đường sắt cho Nhà nước khi sử dụng tài sản kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư để kinh doanh vận tải đường sắt theo quy định của pháp luật về phí, lệ phí.
+5. Tổ chức, cá nhân được giao, cho thuê hoặc chuyển nhượng có thời hạn quyền khai thác tài sản trả một khoản tiền là giá sử dụng kết cấu hạ tầng đường sắt cho Nhà nước khi sử dụng tài sản kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư theo quy định của pháp luật về giá.
+6. Thẩm quyền định giá được quy định như sau:
+a) Bộ Xây dựng định giá tối đa dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư theo quy định của pháp luật về giá;
+b) Ủy ban nhân dân cấp tỉnh định giá tối đa dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt địa phương do mình đầu tư hoặc được giao quản lý theo quy định của pháp luật về giá;
+c) Tổ chức, cá nhân quyết định giá dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt do mình đầu tư.
+7. Bộ trưởng Bộ Xây dựng quy định giá, phụ thu ngoài giá dịch vụ điều hành giao thông vận tải đường sắt. [Khoản này được hướng dẫn bởi Điều 95 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+8. Chính phủ quy định điều kiện kinh doanh kết cấu hạ tầng đường sắt; quyền, nghĩa vụ của doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt.
+
+Luật Đường sắt 2025. Mục 2. VẬN TẢI ĐƯỜNG SẮT
+Điều 47. Phương tiện giao thông đường sắt
+[Điều này được hướng dẫn bởi Chương II, Điều 182 Chương VI, Tiểu mục 1, 2, 3 Chương VII Thông tư 33/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+1. Phương tiện giao thông đường sắt khi tham gia giao thông phải bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật, còn niên hạn sử dụng và có đăng ký, đăng kiểm phương tiện giao thông đường sắt.
+2. Chủ sở hữu phương tiện giao thông đường sắt, doanh nghiệp kinh doanh vận tải đường sắt chịu trách nhiệm bảo đảm an toàn của phương tiện trong quá trình khai thác, sử dụng.
+3. Thẩm quyền cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt:
+a) Bộ trưởng Bộ Xây dựng cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt trên đường sắt quốc gia;
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt trên đường sắt địa phương, đường sắt chuyên dùng.
+4. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 48. Nhân viên đường sắt
+[Điều này được hướng dẫn bởi Chương III, Điều 183 Chương VI, Tiểu mục 4 Chương VII Thông tư 33/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+1. Nhân viên đường sắt là người điều khiển phương tiện giao thông đường sắt, người trực tiếp tham gia hoạt động chạy tàu.
+2. Người điều khiển phương tiện giao thông đường sắt phải có giấy phép lái tàu theo quy định của Bộ trưởng Bộ Xây dựng và đủ sức khỏe theo quy định của Bộ trưởng Bộ Y tế. [Tiêu chuẩn sức khỏe của người điều khiển phương tiện giao thông đường sắt được hướng dẫn bởi Thông tư 42/2025/TT-BYT có hiệu lực từ ngày 01/01/2026]
+3. Bộ trưởng Bộ Xây dựng cấp giấy phép lái tàu trên đường sắt quốc gia.
+4. Chủ tịch Ủy ban nhân dân cấp tỉnh cấp giấy phép lái tàu trên đường sắt địa phương, đường sắt chuyên dùng.
+5. Bộ trưởng Bộ Xây dựng quy định chi tiết khoản 1 Điều này.
+Điều 49. Kinh doanh vận tải đường sắt
+1. Kinh doanh vận tải đường sắt là ngành, nghề kinh doanh có điều kiện, gồm kinh doanh vận tải hành khách, hành lý và hàng hóa trên đường sắt.
+2. Giá vận tải hành khách nội địa trên đường sắt quốc gia do doanh nghiệp kinh doanh vận tải đường sắt quyết định trên cơ sở mức giá tối đa do Nhà nước định giá. Giá vận tải hành khách trên đường sắt địa phương do Ủy ban nhân dân cấp tỉnh định giá cụ thể.
+3. Phụ thu ngoài giá vận tải hành khách, hành lý, hàng hóa nội địa trên đường sắt quốc gia là khoản tiền phải trả thêm cho doanh nghiệp kinh doanh vận tải đường sắt; phụ thu ngoài giá do doanh nghiệp kinh doanh vận tải đường sắt quyết định và chịu trách nhiệm.
+4. Doanh nghiệp kinh doanh vận tải hành khách phải mua bảo hiểm cho hành khách.
+5. Bộ trưởng Bộ Xây dựng quy định về vận tải hành khách, hành lý và hàng hóa trên đường sắt quốc gia và đường sắt chuyên dùng có nối ray với đường sắt quốc gia. [Khoản này được hướng dẫn bởi Chương IV, Điều 184 Chương VI, Tiểu mục 5 Chương VII Thông tư 33/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+6. Ủy ban nhân dân cấp tỉnh quy định về vận tải đường sắt trên đường sắt địa phương do mình đầu tư hoặc được giao quản lý.
+7. Chính phủ quy định điều kiện kinh doanh vận tải đường sắt; quyền, nghĩa vụ của doanh nghiệp kinh doanh vận tải đường sắt, hành khách, người thuê vận tải; việc miễn, giảm giá vận tải hành khách cho đối tượng chính sách xã hội.
+Điều 50. Vận tải phục vụ nhiệm vụ đặc biệt, an sinh xã hội và vận tải hàng hóa nguy hiểm
+1. Vận tải phục vụ nhiệm vụ đặc biệt là vận tải người, hàng hóa và trang thiết bị để phòng, chống, khắc phục hậu quả thiên tai, tai nạn, dịch bệnh, thực hiện nhiệm vụ khẩn cấp về quốc phòng, an ninh.
+2. Vận tải phục vụ nhiệm vụ an sinh xã hội là vận tải hành khách trên tuyến, đoạn tuyến, khu đoạn đường sắt nhằm phục vụ cộng đồng dân cư của một khu vực lãnh thổ mà Nhà nước cần duy trì để bảo đảm lợi ích chung và việc vận tải này không có khả năng bù đắp chi phí.
+3. Vận tải hàng hóa nguy hiểm là vận tải hàng hóa có chứa các chất hoặc vật phẩm nguy hiểm khi vận chuyển trên đường sắt có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia.
+4. Doanh nghiệp kinh doanh vận tải đường sắt, doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt có trách nhiệm thực hiện vận tải phục vụ nhiệm vụ đặc biệt, an sinh xã hội theo yêu cầu của cơ quan nhà nước có thẩm quyền và được hỗ trợ theo quy định.
+5. Nhà nước hỗ trợ cho doanh nghiệp kinh doanh đường sắt trong trường hợp vận tải phục vụ nhiệm vụ đặc biệt, an sinh xã hội theo nguyên tắc bảo đảm đủ chi phí hợp lý của doanh nghiệp.
+6. Chính phủ quy định chi tiết Điều này.
+
+Luật Đường sắt 2025. Mục 3. BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG SẮT
+Điều 51. Hoạt động bảo đảm trật tự, an toàn giao thông đường sắt
+1. Hoạt động bảo đảm trật tự, an toàn giao thông đường sắt bao gồm:
+a) Bảo đảm an toàn về người, phương tiện, tài sản của tổ chức, cá nhân khi tham gia giao thông vận tải đường sắt;
+b) Bảo đảm điều hành tập trung, thống nhất hoạt động giao thông vận tải trên đường sắt;
+c) Phòng ngừa, ngăn chặn, đấu tranh chống hành vi phá hoại công trình đường sắt và các hành vi vi phạm hành lang an toàn giao thông đường sắt, phạm vi bảo vệ công trình đường sắt;
+d) Các biện pháp phòng ngừa tai nạn giao thông đường sắt.
+2. Hành vi vi phạm trật tự, an toàn giao thông đường sắt phải được phát hiện, ngăn chặn kịp thời, xử lý theo quy định pháp luật.
+3. Các chủ thể có trách nhiệm trong việc bảo đảm trật tự, an toàn giao thông đường sắt:
+a) Tổ chức, cá nhân tham gia hoạt động giao thông vận tải đường sắt;
+b) Lực lượng Công an, chính quyền địa phương các cấp có đường sắt đi qua;
+c) Các Bộ, cơ quan ngang Bộ, cơ quan, tổ chức có liên quan.
+Điều 52. Quản lý an toàn đường sắt
+1. Biểu đồ chạy tàu là cơ sở để tổ chức chạy tàu, được xây dựng hàng năm bảo đảm nhu cầu đi lại của người dân, nhu cầu vận tải hàng hóa và được điều chỉnh khi cần thiết cho từng tuyến, toàn mạng lưới đường sắt. Việc thực hiện biểu đồ chạy tàu phải bảo đảm nguyên tắc: [Khoản này được hướng dẫn bởi Điều 87, Điều 88, Điều 89 và Điều 111 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+a) Tập trung, thống nhất, tuân thủ biểu đồ chạy tàu đã công bố;
+b) An toàn, thông suốt theo đúng biểu đồ chạy tàu;
+c) Bình đẳng giữa các doanh nghiệp kinh doanh vận tải đường sắt.
+2. Việc lập, phân bổ và công bố biểu đồ chạy tàu phải chịu sự kiểm tra, giám sát của cơ quan quản lý nhà nước chuyên ngành đường sắt. [Khoản này được hướng dẫn bởi Điều 90, Điều 91, Điều 92, Điều 111 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+3. Điều hành giao thông vận tải đường sắt là quá trình quản lý, điều phối, giám sát các hoạt động liên quan đến vận chuyển hành khách và hàng hóa nhằm bảo đảm vận tải đường sắt an toàn, hiệu quả, thông suốt và bình đẳng giữa các doanh nghiệp kinh doanh vận tải đường sắt. [Khoản này được hướng dẫn bởi Mục 2 Chương VII và Điều 111 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+4. Công lệnh tải trọng là quy định về tải trọng tối đa cho phép trên một trục và tải trọng rải đều tối đa cho phép theo chiều dài của phương tiện giao thông đường sắt. [Khoản này được hướng dẫn bởi Điều 96, Điều 97, Điều 99, Điều 112 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+5. Công lệnh tốc độ là quy định về tốc độ tối đa cho phép phương tiện giao thông đường sắt khi di chuyển trên đường sắt. [Khoản này được hướng dẫn bởi Điều 96, Điều 98, Điều 99, Điều 112 Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+6. Quản lý an toàn hệ thống đường sắt: [Khoản này được hướng dẫn bởi Chương IX, Điều 113 Chương X Thông tư 34/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+a) Đường sắt tốc độ cao, đường sắt cấp I, đường sắt đô thị xây dựng mới hoặc nâng cấp trước khi đưa vào khai thác phải được đánh giá, chứng nhận an toàn hệ thống. Chủ đầu tư dự án phải lựa chọn đơn vị tư vấn độc lập với các đơn vị tư vấn dự án, nhà thầu thi công xây dựng, cung cấp thiết bị của dự án để tổ chức đánh giá, chứng nhận an toàn hệ thống;
+b) Đường sắt tốc độ cao thuộc đối tượng được bảo vệ như công trình quan trọng liên quan đến an ninh quốc gia, phải có quy trình vận hành, bảo trì hệ thống quản lý an toàn nghiêm ngặt do cơ quan quản lý, vận hành xây dựng, trình Bộ Xây dựng quyết định;
+c) Tổ chức, doanh nghiệp quản lý, vận hành, khai thác đường sắt phải xây dựng, công bố công khai và duy trì hệ thống quản lý an toàn vận hành.
+7. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 53. Trách nhiệm của tổ chức, cá nhân khi xảy ra tai nạn giao thông đường sắt
+[Điều này được hướng dẫn bởi Chương V, Điều 185 Chương VI, Tiểu mục 6 Chương VII Thông tư 33/2025/TT-BXD có hiệu lực từ ngày 01/01/2026]
+1. Khi xảy ra tai nạn giao thông đường sắt, tổ chức, cá nhân có liên quan phải thực hiện các công việc sau đây:
+a) Nhân viên đường sắt trên tàu thực hiện dừng tàu khẩn cấp và tổ chức cứu người bị nạn, bảo vệ tài sản của Nhà nước và của người bị nạn, đồng thời phải báo ngay cho tổ chức điều hành giao thông vận tải đường sắt hoặc ga đường sắt gần nhất;
+b) Tổ chức điều hành giao thông vận tải đường sắt hoặc ga đường sắt khi nhận được tin báo phải có trách nhiệm báo ngay cho cơ quan Công an và Ủy ban nhân dân nơi gần nhất để xử lý, giải quyết tai nạn giao thông đường sắt;
+c) Cơ quan Công an và Ủy ban nhân dân nơi gần nhất khi nhận được tin báo về tai nạn giao thông đường sắt có trách nhiệm đến ngay hiện trường để giải quyết.
+2. Khi xảy ra tai nạn giao thông đường sắt mà phương tiện giao thông đường sắt, công trình đường sắt không bị hư hỏng thì được phép tiếp tục cho tàu chạy sau khi đã lập biên bản báo cáo về vụ tai nạn và cử nhân viên đường sắt khác thay mình ở lại làm việc với cơ quan nhà nước có thẩm quyền.
+3. Người điều khiển phương tiện giao thông khác khi đi qua nơi xảy ra tai nạn giao thông đường sắt có trách nhiệm chở người bị nạn đi cấp cứu, trừ trường hợp đang làm nhiệm vụ khẩn cấp.
+4. Ủy ban nhân dân các cấp nơi xảy ra tai nạn giao thông đường sắt có trách nhiệm phối hợp với cơ quan Công an, doanh nghiệp kinh doanh đường sắt tổ chức cứu giúp người bị nạn, bảo vệ tài sản của tổ chức, cá nhân. Trường hợp có người chết không rõ tung tích, không có thân nhân hoặc thân nhân không có khả năng chôn cất thì Ủy ban nhân dân cấp xã nơi xảy ra tai nạn có trách nhiệm tổ chức chôn cất.
+5. Mọi tổ chức, cá nhân không được gây trở ngại cho việc khôi phục đường sắt và hoạt động giao thông vận tải đường sắt sau khi xảy ra tai nạn giao thông đường sắt.
+6. Bộ trưởng Bộ Xây dựng quy định chi tiết Điều này.
+Điều 54. Xử lý khi phát hiện sự cố, vi phạm trên đường sắt
+1. Người phát hiện hành vi, sự cố có khả năng gây cản trở, gây mất an toàn giao thông vận tải đường sắt có trách nhiệm kịp thời báo cho ga đường sắt, đơn vị đường sắt, chính quyền địa phương hoặc cơ quan Công an nơi gần nhất biết để có biện pháp xử lý; trường hợp khẩn cấp, phải thực hiện ngay các biện pháp báo hiệu dừng tàu.
+2. Tổ chức, cá nhân nhận được tin báo hoặc tín hiệu dừng tàu phải có ngay biện pháp xử lý bảo đảm an toàn giao thông vận tải đường sắt và thông báo cho đơn vị trực tiếp quản lý kết cấu hạ tầng đường sắt biết để chủ động phối hợp với các đơn vị có liên quan nhanh chóng thực hiện các biện pháp khắc phục.
+3. Tổ chức, cá nhân có hành vi gây sự cố cản trở, mất an toàn giao thông vận tải đường sắt phải bị xử lý; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+Điều 55. Trách nhiệm bảo vệ trật tự, an toàn trong hoạt động đường sắt
+1. Doanh nghiệp kinh doanh đường sắt có trách nhiệm tổ chức bảo vệ trật tự, an toàn trong hoạt động đường sắt; chủ trì, phối hợp với các cơ quan, tổ chức thực hiện các hoạt động bảo đảm trật tự, an toàn giao thông đường sắt theo quy định tại khoản 1 Điều 51 của Luật này.
+2. Lực lượng Công an có trách nhiệm:
+a) Kiểm tra, kiểm soát người, hàng hóa và phương tiện tham gia giao thông đường sắt theo quy định của pháp luật;
+b) Điều tra xác minh, giải quyết tai nạn giao thông đường sắt và xử lý hành vi vi phạm pháp luật về giao thông đường sắt;
+c) Chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan để tổ chức bảo đảm an ninh, trật tự, an toàn trong hoạt động đường sắt;
+d) Bộ Công an tổ chức huấn luyện nghiệp vụ bảo vệ trật tự, an toàn trong hoạt động đường sắt cho doanh nghiệp kinh doanh đường sắt;
+đ) Bộ trưởng Bộ Công an quy định trình tự, nội dung kiểm tra, kiểm soát xử lý vi phạm và điều tra xác minh tai nạn giao thông đường sắt.
+3. Ủy ban nhân dân các cấp nơi có đường sắt đi qua có trách nhiệm:
+a) Khi giao đất, cho thuê đất dọc ngoài hành lang an toàn giao thông đường sắt phải bố trí đất để xây dựng đường gom, cầu vượt, hầm chui, hàng rào để bảo đảm an toàn giao thông đường sắt;
+b) Thực hiện các biện pháp bảo vệ, chống lấn chiếm hành lang an toàn giao thông đường sắt và bảo đảm trật tự, an toàn giao thông đường sắt;
+c) Quản lý, tăng cường các điều kiện an toàn giao thông tại lối đi tự mở; giảm, xóa bỏ các lối đi tự mở hiện có theo lộ trình do Chính phủ quy định; chịu trách nhiệm trong việc phát sinh lối đi tự mở;
+d) Bảo đảm kinh phí để thực hiện công tác bảo đảm an toàn giao thông trong phạm vi trách nhiệm của địa phương;
+đ) Tham gia giải quyết tai nạn giao thông đường sắt theo quy định tại Điều 53 của Luật này;
+e) Người đứng đầu địa phương có đường sắt phải chịu trách nhiệm khi để xảy ra tai nạn giao thông đường sắt trên địa bàn mình quản lý theo quy định của pháp luật.
+Chương IV ĐIỀU KHOẢN THI HÀNH
+Điều 56. Sửa đổi, bổ sung, bãi bỏ một số điều, phụ lục của các luật có liên quan
+1. Sửa đổi, bổ sung, bãi bỏ một số điều, khoản, điểm của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 35/2018/QH14, Luật số 40/2019/QH14, Luật số 62/2020/QH14, Luật số 45/2024/QH15, Luật số 47/2024/QH15, Luật số 55/2024/QH15, Luật số 61/2024/QH15, Luật số 84/2025/QH15 và Luật số 93/2025/QH15 như sau: [Khoản này bị bãi bỏ bởi Khoản 4 Điều 93 Luật Xây dựng 2025 có hiệu lực từ ngày 01/07/2026]
+a) Bổ sung điểm d vào sau điểm c khoản 1 Điều 78 như sau:
+“d) Đối với dự án đường sắt được lập thiết kế kỹ thuật tổng thể (FEED) thay thế cho thiết kế cơ sở trong Báo cáo nghiên cứu khả thi; việc lựa chọn nhà thầu xây lắp, nhà thầu thực hiện hợp đồng EPC, EC, EP, chìa khóa trao tay được thực hiện trên cơ sở dự án đầu tư được phê duyệt; chủ đầu tư được quyết định việc phê duyệt đối với các bước thiết kế sau thiết kế FEED.”;
+b) Sửa đổi, bổ sung điểm b khoản 2
+Điều 78 như sau:
+“b) Thiết kế hai bước bao gồm thiết kế cơ sở và thiết kế bản vẽ thi công; thiết kế FEED và thiết kế bản vẽ thi công đối với trường hợp quy định tại điểm d khoản 1 Điều này;”;
+c) Sửa đổi, bổ sung điểm h khoản 2 Điều 89 như sau:
+“h) Công trình thuộc dự án đầu tư xây dựng đã được cơ quan chuyên môn về xây dựng thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng tại khu vực có quy hoạch chi tiết tỷ lệ 1/500 hoặc thiết kế đô thị đã được cơ quan có thẩm quyền phê duyệt;”;
+d) Sửa đổi, bổ sung khoản 1 Điều 159 như sau:
+“1. Tổ chức tham gia hoạt động xây dựng tự công khai thông tin về năng lực hoạt động xây dựng.”;
+đ) Sửa đổi, bổ sung khoản 3 Điều 159 như sau:
+“3. Sở Xây dựng có trách nhiệm kiểm tra, xử lý vi phạm trong việc chấp hành các quy định về điều kiện năng lực hoạt động của chủ đầu tư, tổ chức, cá nhân tham gia hoạt động xây dựng trên địa bàn do mình quản lý.”;
+e) Bổ sung khoản 3a vào sau khoản 3
+Điều 166 như sau:
+“3a. Công trình xây dựng đã được cấp giấy phép xây dựng trước ngày 01 tháng 7 năm 2025 nhưng thuộc đối tượng được miễn giấy phép xây dựng theo quy định của Luật này thì không phải điều chỉnh giấy phép xây dựng.”;
+g) Bãi bỏ khoản 4 Điều 148 và khoản 2 Điều 159.
+2. Sửa đổi, bổ sung tiểu mục 3 mục V phần A Phụ lục số 01 của Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 09/2017/QH14, Luật số 23/2018/QH14, Luật số 72/2020/QH14, Luật số 16/2023/QH15, Luật số 20/2023/QH15, Luật số 24/2023/QH15, Luật số 33/2024/QH15, Luật số 35/2024/QH15, Luật số 47/2024/QH15, Luật số 60/2024/QH15, Luật số 74/2025/QH15, Luật số 89/2025/QH15 và Luật số 94/2025/QH15 như sau:
+
+| 3 | Phí thuộc lĩnh vực đường sắt |  |
+| --- | --- | --- |
+| 3.1 | Phí sử dụng kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư | Bộ Tài chính |
+| 3.2 | Phí sát hạch lái tàu | Bộ Tài chính |
+3. Sửa đổi, bổ sung một số mục tại Phụ lục số 02 của Luật Giá số 16/2023/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2024/QH15 và Luật số 61/2024/QH15 như sau:
+a) Sửa đổi, bổ sung mục 3 và bổ sung mục 3a vào sau mục 3 như sau:
+
+| 3 | Dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt do Nhà nước đầu tư, quản lý |  |
+| --- | --- | --- |
+| 3.1 | Dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt quốc gia do Nhà nước đầu tư, quản lý | Bộ Xây dựng định giá tối đa |
+| 3.2 | Dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt địa phương do mình đầu tư | Ủy ban nhân dân cấp tỉnh định giá tối đa |
+| 3a | Dịch vụ vận chuyển hành khách nội địa trên đường sắt quốc gia | Bộ Xây dựng định giá tối đa |
+b) Sửa đổi, bổ sung mục 17 và bổ sung mục 17a vào sau mục 17 như sau:
+
+| 17 | Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành (không bao gồm dịch vụ sự nghiệp công quản lý, bảo trì kết cấu hạ tầng đường sắt), sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở trung ương | - Bộ Tài chính định giá tối đa - Các cơ quan, tổ chức ở trung ương định giá cụ thể |
+| --- | --- | --- |
+| Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành, sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở địa phương | Ủy ban nhân dân cấp tỉnh định giá cụ thể |
+| 17a | Sản phẩm, dịch vụ sự nghiệp công quản lý, bảo trì kết cấu hạ tầng đường sắt sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của Bộ Xây dựng | Bộ Xây dựng định giá cụ thể |
+c) Sửa đổi, bổ sung mục 36 như sau:
+
+| 36 | Dịch vụ vận chuyển hành khách trên đường sắt địa phương [ID: cumtu_1] | Ủy ban nhân dân cấp tỉnh định giá cụ thể |
+| --- | --- | --- |
+4. Sửa đổi, bổ sung một số khoản của Điều 209 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15, Luật số 47/2024/QH15, Luật số 58/2024/QH15, Luật số 71/2025/QH15, Luật số 84/2025/QH15 và Luật số 93/2025/QH15 như sau:
+a) Sửa đổi, bổ sung điểm a khoản 1 như sau:
+“a) Đất xây dựng kết cấu hạ tầng đường sắt quốc gia, đường sắt địa phương; đất xây dựng trụ sở cơ quan nhà nước cho hoạt động thường xuyên trong ga đường sắt;”;
+b) Bổ sung khoản 5 vào sau khoản 4 như sau:
+“5. Chính phủ quy định việc quản lý, sử dụng đất dành cho đường sắt.”.
+5. Sửa đổi, bổ sung khoản 2 Điều 34 của Luật Quy hoạch số 21/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số 16/2023/QH15, Luật số 28/2023/QH15, Luật số 31/2024/QH15, Luật số 35/2024/QH15, Luật số 38/2024/QH15, Luật số 43/2024/QH15, Luật số 57/2024/QH15 và Luật số 94/2025/QH15 như sau:
+“2. Thủ tướng Chính phủ phê duyệt quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh, trừ quy hoạch mạng lưới đường sắt do Bộ trưởng Bộ Xây dựng phê duyệt.”.
+Điều 57. Điều khoản áp dụng
+1. Trường hợp có quy định khác nhau về cùng một vấn đề giữa Luật này với luật, nghị quyết khác của Quốc hội thì áp dụng quy định của Luật này, trừ trường hợp luật, nghị quyết của Quốc hội ban hành sau ngày Luật này có hiệu lực thi hành có quy định ưu đãi hoặc thuận lợi hơn thì được áp dụng theo quy định của luật, nghị quyết đó.
+2. Việc phát triển hệ thống mạng lưới đường sắt đô thị tại thành phố Hà Nội được áp dụng theo quy định của Luật này mà không phải thực hiện theo quy định tại khoản 2 và khoản 3 Điều 31, điểm a khoản 2 và khoản 3 Điều 37 của Luật Thủ đô.
+3. Định kỳ 03 năm, Chính phủ báo cáo kết quả triển khai thực hiện các cơ chế, chính sách đầu tư xây dựng các dự án đường sắt được quy định tại Mục 2 Chương II của Luật này. Quốc hội, Ủy ban Thường vụ Quốc hội thực hiện giám sát theo quy định. Hội đồng nhân dân cấp tỉnh thực hiện giám sát việc đầu tư các dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD và dự án phát triển đô thị theo mô hình TOD.
+Điều 58. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026, trừ trường hợp quy định tại khoản 2 Điều này.
+2. Khoản 1, điểm b khoản 3 Điều 56 và Mục 2, Mục 3 Chương II của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
+3. Luật Đường sắt số 06/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14, Luật số 16/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15 và Luật số 47/2024/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 59 của Luật này.
+Điều 59. Quy định chuyển tiếp
+1. Dự án đường sắt đã được quyết định chủ trương đầu tư trước ngày Luật này có hiệu lực thi hành thì người quyết định đầu tư quyết định việc áp dụng các quy định theo quyết định chủ trương đầu tư đã được phê duyệt hoặc theo quy định của Luật này đối với các bước tiếp theo.
+2. Đối với các tuyến đường sắt đô thị triển khai xây dựng trước ngày Luật này có hiệu lực thi hành mà chủ đầu tư đã gửi hồ sơ đề nghị thẩm định an toàn hệ thống thì cơ quan có thẩm quyền tiếp tục thực hiện thẩm định và cấp giấy chứng nhận thẩm định hồ sơ an toàn hệ thống đường sắt đô thị.
+3. Trường hợp Ủy ban nhân dân cấp tỉnh nơi có đường sắt địa phương, đường sắt chuyên dùng chưa đủ điều kiện thực hiện các nhiệm vụ theo quy định tại điểm b khoản 3 Điều 47, khoản 4 Điều 48 của Luật này thì Bộ trưởng Bộ Xây dựng tiếp tục thực hiện thẩm quyền cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt quy định tại điểm b khoản 3 Điều 47 và thẩm quyền cấp giấy phép lái tàu trên đường sắt địa phương, đường sắt chuyên dùng quy định tại khoản 4 Điều 48 của Luật này. Trong thời hạn 24 tháng kể từ ngày Luật này có hiệu lực thi hành, Ủy ban nhân dân cấp tỉnh có trách nhiệm kiện toàn tổ chức, nhân sự để thực hiện cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt và cấp giấy phép lái tàu trên đường sắt địa phương, đường sắt chuyên dùng theo quy định của Luật này.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 9 thông qua ngày 27 tháng 6 năm 2025.
+CHỦ TỊCH QUỐC HỘI Trần Thanh Mẫn

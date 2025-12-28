@@ -1,30 +1,54 @@
-# Example URLs for batch crawler
-# Each line should contain one URL
-# Lines starting with # are comments
+## Example URLs for batch crawler
+## Each line should contain one URL
+## Lines starting with # are comments
 
-https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-67-VBHN-VPQH-2025-Luat-Doanh-nghiep-671127.aspx
-https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-26-VBHN-VPQH-2025-Luat-Ngan-sach-nha-nuoc-651531.aspx
-https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-16-VBHN-VPQH-2025-Luat-Thuy-loi-650941.aspx
-https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-12-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-651007.aspx
-https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2024-Bo-luat-To-tung-dan-su-629877.aspx
-https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-43-VBHN-VPQH-2023-Luat-Thuy-loi-602390.aspx
-https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-48-VBHN-VPQH-2023-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-603862.aspx
-https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-07-VBHN-VPQH-2023-Luat-Thuy-loi-2017-589373.aspx
-https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2023-Bo-luat-To-tung-dan-su-589914.aspx
-https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2022-Bo-luat-To-tung-dan-su-559869.aspx
-https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-07-VBHN-VPQH-2022-Luat-Doanh-nghiep-547841.aspx
-https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-35-VBHN-VPQH-2020-Luat-Thuy-loi-469845.aspx
-https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-06-VBHN-VPQH-2020-Luat-Ngan-sach-nha-nuoc-457491.aspx
-https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2020-Luat-Phong-chong-tham-nhung-457498.aspx
-https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-10-VBHN-VPQH-2020-Luat-To-cao-457497.aspx
-https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-09-VBHN-VPQH-2020-hop-nhat-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-457496.aspx
-https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-08-VBHN-VPQH-2020-Bo-luat-To-tung-dan-su-457495.asp
-https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Dau-tu-cong-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-486653.aspx
-https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-sua-doi-2025-so-76-2025-QH15-659899.aspx
-https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-2025-so-89-2025-QH15-650061.aspx
-https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-247-2025-ND-CP-sua-doi-Nghi-dinh-171-2016-ND-CP-dang-ky-mua-ban-dong-moi-tau-bien-672761.aspx
-https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3397-BKHDT-QLKTTW-2019-ap-dung-quy-dinh-tai-Dieu-162-Luat-Doanh-nghiep-2014-416870.aspx
-https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-2739-VPCP-DMDN-2019-quan-tri-doanh-nghiep-tai-Luat-Doanh-nghiep-chua-duoc-thuc-thi-411049.aspx
-https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Thong-tu-04-2016-TT-BKHDT-bieu-mau-su-dung-dang-ky-doanh-nghiep-xa-hoi-Nghi-dinh-96-2015-ND-CP-311752.aspx
-https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Dau-tu-cong-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-486653.aspx
-https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-sua-doi-2025-so-76-2025-QH15-659899.aspx
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-248-2025-ND-CP-che-do-tien-luong-Kiem-soat-vien-trong-doanh-nghiep-nha-nuoc-673078.aspx Nghị định 248/2025/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-16-2023-ND-CP-to-chuc-quan-ly-doanh-nghiep-truc-tiep-phuc-vu-quoc-phong-an-ninh-564517.aspx Nghị định 16/2023/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-65-2022-ND-CP-sua-doi-Nghi-dinh-153-2020-ND-CP-chao-ban-giao-dich-trai-phieu-doanh-nghiep-529835.aspx Nghị định 65/2022/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-122-2021-ND-CP-xu-phat-vi-pham-hanh-chinh-linh-vuc-ke-hoach-285024.aspx Nghị định 122/2021/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Dau-tu-so-61-2020-QH14-321051.aspx Luật Đầu tư 2020
+https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-435-QD-UBND-2020-thuc-hien-Chi-thi-37-CT-TW-xay-dung-quan-he-lao-dong-hai-hoa-Kon-Tum-621324.aspx Quyết định 435/QĐ-UBND năm 2020
+https://thuvienphapluat.vn/van-ban/Chung-khoan/Luat-Chung-khoan-nam-2019-399763.aspx Luật Chứng khoán 2019
+https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-sua-doi-2019-411944.aspx Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ sửa đổi 2019
+https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx Bộ luật Lao động 2019
+https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-quan-ly-thue-2019-387595.aspx Luật Quản lý thuế 2019
+https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-sua-doi-cac-Luat-co-lien-quan-den-quy-hoach-2018-390511.aspx Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-canh-tranh-345182.aspx Luật Cạnh tranh 2018
+https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx Bộ luật dân sự 2015
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Quan-ly-su-dung-von-Nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep-2014-259731.aspx Luật Quản lý, sử dụng vốn Nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp 2014
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Pha-san-2014-238641.aspx Luật Phá sản 2014
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-vien-chuc-2010-115271.aspx Luật viên chức 2010
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-can-bo-cong-chuc-2008-22-2008-QH12-82202.aspx Luật cán bộ, công chức 2008
+
+# Văn bản hướng dẫn
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-44-2025-ND-CP-quan-ly-lao-dong-tien-luong-tien-thuong-trong-doanh-nghiep-nha-nuoc-624938.aspx Nghị định 44/2025/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-89-2024-ND-CP-chuyen-doi-cong-ty-nha-nuoc-thanh-cong-ty-trach-nhiem-huu-han-549549.aspx Nghị định 89/2024/NĐ-CP
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-01-2021-ND-CP-dang-ky-doanh-nghiep-283247.aspx Nghị định 01/2021/NĐ-CP
+# Được căn cứ
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx Hiến pháp 2013
+# Hợp nhất
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-112-VBHN-VPQH-2025-Luat-To-cao-672487.aspx Văn bản hợp nhất 112/VBHN-VPQH năm 2025 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-112-VBHN-VPQH-2025-Luat-To-cao-672487.aspx Văn bản hợp nhất 112/VBHN-VPQH năm 2025 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-118-VBHN-VPQH-2025-Luat-Phong-chong-tham-nhung-672496.aspx Văn bản hợp nhất 118/VBHN-VPQH năm 2025 hợp nhất Luật Phòng, chống tham nhũng do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-99-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-672478.aspx Văn bản hợp nhất 99/VBHN-VPQH năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-67-VBHN-VPQH-2025-Luat-Doanh-nghiep-671127.aspx Văn bản hợp nhất 67/VBHN-VPQH năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-26-VBHN-VPQH-2025-Luat-Ngan-sach-nha-nuoc-651531.aspx Văn bản hợp nhất 26/VBHN-VPQH năm 2025 hợp nhất Luật Ngân sách nhà nước do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-16-VBHN-VPQH-2025-Luat-Thuy-loi-650941.aspx Văn bản hợp nhất 16/VBHN-VPQH năm 2025 Luật Thủy lợi do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-12-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-651007.aspx Văn bản hợp nhất 12/VBHN-VPQH năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2024-Bo-luat-To-tung-dan-su-629877.aspx Văn bản hợp nhất 11/VBHN-VPQH năm 2024 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-43-VBHN-VPQH-2023-Luat-Thuy-loi-602390.aspx Văn bản hợp nhất 43/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-48-VBHN-VPQH-2023-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-603862.aspx Văn bản hợp nhất 48VBHN-VPQH năm 2023 hợp nhất Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-07-VBHN-VPQH-2023-Luat-Thuy-loi-2017-589373.aspx Văn bản hợp nhất 07/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2023-Bo-luat-To-tung-dan-su-589914.aspx Văn bản hợp nhất 24/VBHN-VPQH năm 2023 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-07-VBHN-VPQH-2022-Luat-Doanh-nghiep-547841.aspx Văn bản hợp nhất 07/VBHN-VPQH năm 2022 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-35-VBHN-VPQH-2020-Luat-Thuy-loi-469845.aspx Văn bản hợp nhất 35/VBHN-VPQH năm 2020 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-06-VBHN-VPQH-2020-Luat-Ngan-sach-nha-nuoc-457491.aspx Văn bản hợp nhất 06/VBHN-VPQH năm 2020 hợp nhất Luật Ngân sách nhà nước do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2020-Luat-Phong-chong-tham-nhung-457498.aspx Văn bản hợp nhất 11/VBHN-VPQH năm 2020 hợp nhất Luật Phòng, chống tham nhũng do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-10-VBHN-VPQH-2020-Luat-To-cao-457497.aspx Văn bản hợp nhất 10/VBHN-VPQH năm 2020 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-09-VBHN-VPQH-2020-hop-nhat-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-457496.aspx Văn bản hợp nhất 09/VBHN-VPQH năm 2020 hợp nhất Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-08-VBHN-VPQH-2020-Bo-luat-To-tung-dan-su-457495.aspx Văn bản hợp nhất 08/VBHN-VPQH năm 2020 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành
+https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-07-VBHN-VPQH-2020-Luat-Thuy-loi-457494.aspx Văn bản hợp nhất 07/VBHN-VPQH năm 2020 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+# Liên quan cùng nội dung
+# https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-247-2025-ND-CP-sua-doi-Nghi-dinh-171-2016-ND-CP-dang-ky-mua-ban-dong-moi-tau-bien-672761.aspx Nghị định 247/2025/NĐ-CP
+# https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3397-BKHDT-QLKTTW-2019-ap-dung-quy-dinh-tai-Dieu-162-Luat-Doanh-nghiep-2014-416870.aspx Công văn 3397/BKHĐT-QLKTTW năm 2019 hướng dẫn áp dụng quy định tại Điều 162 Luật Doanh nghiệp 2014 do Bộ Kế hoạch và Đầu tư ban hành
+# https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-2739-VPCP-DMDN-2019-quan-tri-doanh-nghiep-tai-Luat-Doanh-nghiep-chua-duoc-thuc-thi-411049.aspx Công văn 2739/VPCP-ĐMDN năm 2019 quy định về quản trị doanh nghiệp tại Luật Doanh nghiệp chưa được thực thi do Văn phòng Chính phủ ban hành

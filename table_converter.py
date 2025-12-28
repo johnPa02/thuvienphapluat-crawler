@@ -208,7 +208,7 @@ def convert_table_to_markdown(table: Tag, base_url: str = None) -> str:
     markdown_table = '\n'.join(markdown_rows)
 
     # Add surrounding newlines
-    return f'\n\n{markdown_table}\n\n'
+    return f'{markdown_table}'
 
 
 def process_tables_in_content(content_div: Tag) -> None:

@@ -1,0 +1,182 @@
+Thông tư 09/2024/TT-BTNMT
+BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 09/2024/TT-BTNMT
+Hà Nội, ngày 31 tháng 7 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ NỘI DUNG, CẤU TRÚC, KIỂU THÔNG TIN CƠ SỞ DỮ LIỆU QUỐC GIA VỀ ĐẤT ĐAI VÀ YÊU CẦU KỸ THUẬT ĐỐI VỚI PHẦN MỀM ỨNG DỤNG CỦA HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐẤT ĐAI
+Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024;
+Căn cứ Nghị định số 71/2024/NĐ-CP ngày 27 tháng 6 năm 2024 của Chính phủ quy định về giá đất;
+Căn cứ Nghị định số 101/2024/NĐ-CP ngày 29 tháng 7 năm 2024 của Chính phủ quy định về điều tra cơ bản đất đai; đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và Hệ thống thông tin đất đai;
+Căn cứ Nghị định số 102/2024/NĐ-CP ngày 30 tháng 7 năm 2024 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai;
+Căn cứ Nghị định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường;
+Theo đề nghị của Cục trưởng Cục Đăng ký và Dữ liệu thông tin đất đai, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về nội dung, cấu trúc, kiểu thông tin cơ sở dữ liệu quốc gia về đất đai và yêu cầu kỹ thuật đối với phần mềm ứng dụng của Hệ thống thông tin quốc gia về đất đai.
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định các yêu cầu kỹ thuật đối với phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai tại khoản 3 Điều 164 Luật Đất đai và nội dung, cấu trúc, kiểu thông tin của các cơ sở dữ liệu thành phần cơ sở dữ liệu quốc gia về đất đai: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất; giá đất;
+thống kê, kiểm kê đất đai; cơ sở dữ liệu khác liên quan đến đất đai tại khoản 3 Điều 165 Luật Đất đai.
+Nội dung, cấu trúc, kiểu thông tin của cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai và nội dung, cấu trúc, kiểu thông tin của cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai được thực hiện theo pháp luật chuyên ngành và được kết nối với cơ sở dữ liệu quốc gia về đất đai để khai thác sử dụng.
+Điều 2. Đối tượng áp dụng
+1. Cơ quan quản lý nhà nước về đất đai; cơ quan có chức năng quản lý đất đai ở địa phương; Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai; công chức địa chính ở xã, phường, thị trấn.
+2. Các cơ quan, tổ chức, cá nhân khác có liên quan đến việc xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia về đất đai, cơ sở dữ liệu quốc gia về đất đai.
+Điều 3. Giải thích từ ngữ
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1. Dữ liệu đất đai là thông tin đất đai ở dạng số, bao gồm dữ liệu không gian, dữ liệu thuộc tính và dữ liệu đất đai phi cấu trúc.
+2. Dữ liệu không gian đất đai bao gồm dữ liệu không gian đất đai nền và dữ liệu không gian đất đai chuyên đề về: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất; giá đất; thống kê, kiểm kê đất đai; dữ liệu khác liên quan đến đất đai.
+3. Dữ liệu thuộc tính đất đai bao gồm dữ liệu thuộc tính có cấu trúc về: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất;
+giá đất; thống kê, kiểm kê đất đai; dữ liệu khác liên quan đến đất đai.
+4. Dữ liệu đất đai phi cấu trúc là những dữ liệu không tuân theo một cấu trúc hay mô hình dữ liệu cụ thể, bao gồm các tập tin pdf, tập tin văn bản, tập tin ảnh, tập tin đồ họa và các dạng dữ liệu phi cấu trúc khác về: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất; giá đất; thống kê, kiểm kê đất đai; dữ liệu khác liên quan đến đất đai.
+5. Siêu dữ liệu đất đai là các thông tin mô tả về dữ liệu đất đai.
+6. Cấu trúc dữ liệu là cách tổ chức và lưu trữ dữ liệu trên máy tính theo hệ thống để sử dụng dữ liệu hiệu quả.
+7. Kiểu thông tin của dữ liệu là tên, kiểu giá trị và độ dài trường thông tin của dữ liệu.
+8. XML (eXtensible Markup Language - ngôn ngữ đánh dấu mở rộng) là một định dạng chuẩn để mã hóa dữ liệu phục vụ trao đổi dữ liệu.
+9. GML (Geography Markup Language - ngôn ngữ đánh dấu địa lý mở rộng) là một định dạng chuẩn để mã hóa dữ liệu không gian phục vụ trao đổi dữ liệu.
+10. JSON (JavaScript Object Notation
+- kiểu dữ liệu trao đổi) là một định dạng dữ liệu dựa trên văn bản được mã hóa để phục vụ trao đổi dữ liệu.
+11. GeoJSON (Geographic JavaScript Object Notation - kiểu dữ liệu trao đổi các đối tượng địa lý) là một định dạng chuẩn để mã hóa các cấu trúc dữ liệu địa lý phục vụ trao đổi dữ liệu.
+Chương II NỘI DUNG, CẤU TRÚC, KIỂU THÔNG TIN CƠ SỞ DỮ LIỆU QUỐC GIA VỀ ĐẤT ĐAI
+Điều 4. Mô hình dữ liệu của cơ sở dữ liệu quốc gia về đất đai
+Thành phần cơ sở dữ liệu quốc gia về đất đai theo quy định tại khoản 1 Điều 165 của Luật Đất đai được thiết kế theo mô hình dữ liệu gồm: dữ liệu không gian đất đai, dữ liệu thuộc tính đất đai, dữ liệu đất đai phi cấu trúc và siêu dữ liệu đất đai.
+Điều 5. Nội dung dữ liệu không gian đất đai
+Dữ liệu không gian đất đai bao gồm dữ liệu không gian đất đai nền và dữ liệu không gian đất đai chuyên đề.
+1. Nội dung dữ liệu không gian đất đai nền:
+a) Dữ liệu không gian điểm khống chế đo đạc gồm: lớp dữ liệu điểm tọa độ; lớp dữ liệu điểm độ cao;
+b) Dữ liệu không gian biên giới, địa giới gồm: lớp dữ liệu mốc biên giới, địa giới; lớp dữ liệu đường biên giới; lớp đường địa giới hành chính cấp tỉnh; lớp dữ liệu đường địa giới hành chính cấp huyện [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]; lớp dữ liệu đường địa giới hành chính cấp xã; lớp dữ liệu địa phận hành chính cấp tỉnh; lớp dữ liệu địa phận hành chính cấp huyện; [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] lớp dữ liệu địa phận hành chính cấp xã;
+c) Dữ liệu không gian thủy hệ gồm: lớp dữ liệu thủy hệ dạng đường; lớp dữ liệu thủy hệ dạng vùng; lớp dữ liệu đường mép nước;
+d) Dữ liệu không gian giao thông gồm: lớp dữ liệu tim đường; lớp dữ liệu giao thông dạng vùng; lớp dữ liệu giao thông dạng đường; lớp dữ liệu mặt đường giao thông;
+đ) Dữ liệu không gian địa danh và ghi chú gồm: lớp dữ liệu điểm địa danh; lớp dữ liệu điểm ghi chú.
+2. Nội dung dữ liệu không gian đất đai chuyên đề:
+a) Dữ liệu không gian địa chính gồm: lớp dữ liệu thửa đất; lớp dữ liệu thửa đất định vị dạng vùng;
+lớp dữ liệu thửa đất định vị dạng điểm; lớp dữ liệu tài sản gắn liền với đất;
+lớp dữ liệu đường chỉ giới hành lang an toàn bảo vệ công trình; lớp dữ liệu mốc giới hành lang an toàn bảo vệ công trình; lớp dữ liệu đường chỉ giới quy hoạch;
+lớp dữ liệu mốc giới quy hoạch;
+b) Dữ liệu không gian điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất gồm: nhóm lớp dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất cấp vùng kinh tế - xã hội, cả nước;
+nhóm lớp dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất cấp tỉnh;
+c) Dữ liệu không gian quy hoạch, kế hoạch sử dụng đất gồm: nhóm lớp dữ liệu quy hoạch, kế hoạch sử dụng đất quốc gia; nhóm lớp dữ liệu quy hoạch, kế hoạch sử dụng đất cấp tỉnh;
+nhóm lớp dữ liệu quy hoạch, kế hoạch sử dụng đất cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025];
+d) Dữ liệu không gian giá đất gồm: lớp dữ liệu vùng giá trị; lớp dữ liệu thửa đất chuẩn; lớp dữ liệu thửa đất cụ thể;
+đ) Dữ liệu không gian thống kê, kiểm kê đất đai gồm: nhóm lớp dữ liệu thống kê, kiểm kê đất đai cả nước, vùng kinh tế - xã hội; nhóm lớp dữ liệu thống kê, kiểm kê đất đai cấp tỉnh; nhóm lớp dữ liệu thống kê, kiểm kê đất đai cấp huyện; [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] nhóm lớp dữ liệu thống kê, kiểm kê đất đai cấp xã;
+e) Dữ liệu không gian của dữ liệu khác liên quan đến đất đai gồm: nhóm lớp dữ liệu kết quả đo đạc lập bản đồ địa chính; lớp dữ liệu địa chỉ số của thửa đất, tài sản gắn liền với đất; nhóm lớp dữ liệu tổng hợp về giá đất.
+Điều 6. Nội dung dữ liệu thuộc tính đất đai
+Nội dung dữ liệu thuộc tính đất đai bao gồm dữ liệu về: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất; giá đất; thống kê, kiểm kê đất đai; dữ liệu khác liên quan đến đất đai.
+1. Dữ liệu thuộc tính địa chính gồm: nhóm dữ liệu về thửa đất; nhóm dữ liệu về người quản lý, sử dụng đất và chủ sở hữu tài sản gắn liền với đất; nhóm dữ liệu về tài sản gắn liền với đất; nhóm dữ liệu về quyền quản lý, quyền sử dụng đất và quyền sở hữu tài sản gắn liền với đất; nhóm dữ liệu tình trạng pháp lý về quyền quản lý, quyền sử dụng đất và quyền sở hữu tài sản gắn liền với đất; nhóm dữ liệu về biến động đất đai và tài sản gắn liền với đất; nhóm dữ liệu về hồ sơ địa chính; nhóm dữ liệu về thông tin ngăn chặn quyền.
+2. Dữ liệu thuộc tính điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất gồm: nhóm dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất cấp vùng kinh tế - xã hội, cả nước; nhóm dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất cấp tỉnh.
+3. Dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất gồm: nhóm dữ liệu quy hoạch, kế hoạch sử dụng đất quốc gia; nhóm dữ liệu quy hoạch, kế hoạch sử dụng đất cấp tỉnh; nhóm dữ liệu quy hoạch, kế hoạch sử dụng đất cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025].
+4. Dữ liệu thuộc tính giá đất gồm: dữ liệu về quyết định giá đất; dữ liệu về bảng giá đất; dữ liệu về giá thửa đất; dữ liệu về thửa đất chuẩn; dữ liệu về thửa đất cụ thể.
+5. Dữ liệu thuộc tính thống kê, kiểm kê đất đai gồm: nhóm dữ liệu thống kê, kiểm kê đất đai cả nước, vùng kinh tế - xã hội; nhóm dữ liệu thống kê, kiểm kê đất đai cấp tỉnh; nhóm dữ liệu thống kê, kiểm kê đất đai cấp huyện; [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] nhóm dữ liệu thống kê, kiểm kê đất đai cấp xã; nhóm dữ liệu kiểm kê đất đai chuyên đề.
+6. Dữ liệu thuộc tính của dữ liệu khác liên quan đến đất đai gồm: dữ liệu hồ sơ đất đai tại trung ương; nhóm dữ liệu về thông tin kết quả đo đạc lập bản đồ địa chính; dữ liệu địa chỉ số của thửa đất, tài sản gắn liền với đất; dữ liệu về tổ chức, cá nhân nước ngoài sở hữu nhà ở tại Việt Nam; dữ liệu về Giấy chứng nhận bị thu hồi, hủy;
+dữ liệu tổng hợp về giá đất.
+Điều 7. Nội dung dữ liệu đất đai phi cấu trúc
+Nội dung dữ liệu đất đai phi cấu trúc bao gồm các tập tin pdf, tập tin văn bản, tập tin ảnh, tập tin đồ họa và các dạng dữ liệu phi cấu trúc khác của: tài liệu về địa chính; tài liệu về điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; tài liệu về quy hoạch, kế hoạch sử dụng đất; tài liệu về giá đất; tài liệu về thống kê, kiểm kê đất đai; tài liệu về hồ sơ đất đai tại trung ương.
+Điều 8. Nội dung siêu dữ liệu đất đai
+1. Siêu dữ liệu đất đai gồm các thông tin mô tả về dữ liệu của các nội dung dữ liệu đất đai quy định tại các Điều 5, Điều 6 và Điều 7 của Thông tư này.
+2. Siêu dữ liệu đất đai gồm: nhóm thông tin chung về siêu dữ liệu đất đai; nhóm thông tin mô tả hệ quy chiếu tọa độ; nhóm thông tin mô tả dữ liệu đất đai; nhóm thông tin mô tả chất lượng dữ liệu đất đai; nhóm thông tin mô tả phương thức chia sẻ dữ liệu đất đai.
+3. Thông tin mô tả chất lượng dữ liệu đất đai xác định theo tài liệu, hồ sơ đất đai được sử dụng để xây dựng cơ sở dữ liệu và được cập nhật khi chất lượng dữ liệu có thay đổi.
+Điều 9. Cấu trúc, kiểu thông tin của cơ sở dữ liệu quốc gia về đất đai
+Cấu trúc, kiểu thông tin của các dữ liệu, tài liệu của cơ sở dữ liệu quốc gia về đất đai tại các Điều 5, Điều 6, Điều 7 và Điều 8 của Thông tư này được quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+Điều 10. Hệ quy chiếu không gian và thời gian áp dụng cho dữ liệu quốc gia về đất đai
+1. Hệ quy chiếu và hệ tọa độ quốc gia, hệ độ cao quốc gia áp dụng cho dữ liệu không gian đất đai được thực hiện theo quy định Hệ quy chiếu và Hệ tọa độ quốc gia VN-2000.
+a) Đối với dữ liệu không gian cấp quốc gia sử dụng lưới chiếu hình nón đồng góc với hai vĩ tuyến chuẩn 11º và 21º, kinh tuyến trung ương 108º cho toàn lãnh thổ Việt Nam;
+b) Đối với dữ liệu không gian cấp vùng sử dụng cơ sở toán học lưới chiếu hình trụ ngang đồng góc với múi chiếu 6º, có hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9996;
+c) Đối với dữ liệu không gian các cấp còn lại sử dụng lưới chiếu hình trụ ngang đồng góc với múi chiếu 3º có hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9999, kinh tuyến trục của từng [Từ này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] tỉnh, thành phố trực thuộc trung ương.
+2. Hệ quy chiếu thời gian: ngày, tháng, năm theo Dương lịch; giờ, phút, giây theo múi giờ UTC + 07:00 (Coordinated Universal Time).
+Điều 11. Trình bày, hiển thị cơ sở dữ liệu quốc gia về đất đai
+1. Dữ liệu thuộc tính đất đai được trình bày, hiển thị theo quy định của pháp luật đất đai về: địa chính; điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất; quy hoạch, kế hoạch sử dụng đất; giá đất; thống kê, kiểm kê đất đai.
+2. Dữ liệu không gian đất đai được trình bày, hiển thị theo quy định tại Phụ lục II ban hành kèm theo Thông tư này.
+Điều 12. Định dạng trong trao đổi, chia sẻ dữ liệu đất đai và siêu dữ liệu đất đai
+1. Chuẩn định dạng dữ liệu sử dụng trong trao đổi, chia sẻ dữ liệu đất đai
+a) Đối với dữ liệu không gian đất đai áp dụng theo ngôn ngữ định dạng GML hoặc định dạng GeoJSON;
+b) Đối với dữ liệu thuộc tính đất đai áp dụng theo ngôn ngữ định dạng mở rộng XML hoặc định dạng JSON;
+c) Đối với dữ liệu đất đai phi cấu trúc thì giữ nguyên theo định dạng lưu trữ dữ liệu khi trao đổi dữ liệu.
+2. Chuẩn định dạng siêu dữ liệu sử dụng trong trao đổi, chia sẻ siêu dữ liệu đất đai được áp dụng theo ngôn ngữ định dạng mở rộng XML hoặc định dạng JSON.
+3. Dữ liệu đất đai và siêu dữ liệu đất đai được trao đổi, chia sẻ dưới dạng tệp dữ liệu thông qua các dịch vụ trao đổi, chia sẻ dữ liệu hoặc các thiết bị lưu trữ.
+4. Định dạng trao đổi, chia sẻ dữ liệu cơ sở dữ liệu quốc gia về đất đai với các hệ thống cơ sở dữ liệu quốc gia, cơ sở dữ liệu của các Bộ, ngành, địa phương thực hiện theo quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+5. Định dạng trong trao đổi, chia sẻ dữ liệu đất đai và siêu dữ liệu đất đai được quy định chi tiết tại Phụ lục III ban hành kèm theo Thông tư này.
+Chương III YÊU CẦU KỸ THUẬT VỀ PHẦN MỀM ỨNG DỤNG CỦA HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐẤT ĐAI
+Điều 13. Yêu cầu kỹ thuật chung của phần mềm
+Phần mềm ứng dụng của Hệ thống thông tin quốc gia về đất đai phải đáp ứng các yêu cầu chung về kỹ thuật như sau:
+1. Đáp ứng các tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước.
+2. Phù hợp với Khung kiến trúc tổng thể quốc gia số.
+3. Đáp ứng yêu cầu về tính sẵn sàng với giao thức liên mạng trên Internet IPv6 (Internet protocol version 6).
+4. Đáp ứng yêu cầu triển khai trên điện toán đám mây.
+Điều 14. Yêu cầu về giải pháp kỹ thuật công nghệ, quy mô triển khai và hiệu năng phần mềm
+Phần mềm ứng dụng của Hệ thống thông tin quốc gia về đất đai phải đáp ứng các yêu cầu về giải pháp kỹ thuật công nghệ, quy mô triển khai và hiệu năng như sau:
+1. Yêu cầu về giải pháp kỹ thuật công nghệ
+a) Tương thích với hạ tầng công nghệ thông tin;
+b) Có cam kết, hỗ trợ từ các tổ chức cung cấp nền tảng phát triển ứng dụng, dịch vụ;
+c) Đáp ứng về giải pháp truy cập và dịch vụ phân phối dữ liệu;
+d) Đáp ứng về giải pháp chia sẻ, tích hợp.
+2. Yêu cầu về quy mô triển khai
+a) Đáp ứng quy mô triển khai trên phạm vi toàn quốc;
+b) Đáp ứng phục vụ cho các nhóm người dùng khác nhau trong quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai.
+3. Yêu cầu về hiệu năng
+a) Đáp ứng các yêu cầu về thời gian xử lý;
+b) Đáp ứng yêu cầu về số lượng người dùng truy cập đồng thời vào hệ thống.
+4. Yêu cầu chi tiết về giải pháp kỹ thuật công nghệ, quy mô triển khai và hiệu năng phần mềm được quy định tại Phụ lục IV ban hành kèm theo Thông tư này.
+Điều 15. Yêu cầu về chức năng phần mềm
+Phần mềm ứng dụng của Hệ thống thông tin quốc gia về đất đai phải đáp ứng các yêu cầu về chức năng như sau:
+1. Yêu cầu các chức năng quản trị hệ thống và cơ sở dữ liệu
+a) Quản lý, giám sát, cấp tài khoản và phân quyền cho các nhóm người dùng; sao lưu, phục hồi dữ liệu;
+quản lý, thống kê tình hình truy cập hệ thống, khai thác thông tin đất đai của người sử dụng;
+b) Quản lý, giám sát về kết nối, tích hợp, chia sẻ cơ sở dữ liệu quốc gia về đất đai với các cơ sở dữ liệu quốc gia và các hệ thống thông tin khác;
+c) Đáp ứng yêu cầu về thiết kế nội dung, cấu trúc của cơ sở dữ liệu quốc gia về đất đai;
+d) Đáp ứng yêu cầu về trao đổi, kế thừa các kết quả xây dựng cơ sở dữ liệu đất đai của các địa phương.
+2. Yêu cầu các chức năng quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu đất đai của trung ương
+a) Đáp ứng yêu cầu về tin học hóa và quản lý quy trình luân chuyển hồ sơ theo quy định thủ tục hành chính về đất đai;
+b) Đáp ứng yêu cầu về quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu đất đai do trung ương quản lý;
+c) Đáp ứng yêu cầu về tổng hợp, báo cáo hỗ trợ ra quyết định từ cơ sở dữ liệu đất đai do trung ương quản lý.
+3. Yêu cầu các chức năng về nghiệp vụ đất đai tại địa phương
+a) Đáp ứng yêu cầu về tin học hóa các quy trình nghiệp vụ, quy trình luân chuyển hồ sơ theo quy định thủ tục hành chính về đất đai;
+b) Đáp ứng yêu cầu quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu đất đai do địa phương quản lý;
+c) Đáp ứng các yêu cầu nghiệp vụ quản lý đất đai của địa phương;
+d) Đáp ứng yêu cầu về tổng hợp, báo cáo hỗ trợ ra quyết định từ cơ sở dữ liệu đất đai do địa phương quản lý;
+đ) Đáp ứng yêu cầu về kết nối, đồng bộ, tích hợp dữ liệu đất đai với cơ sở dữ liệu quốc gia về đất đai.
+4. Yêu cầu các chức năng về trao đổi, chia sẻ thông tin dữ liệu đất đai
+a) Đáp ứng kết nối liên thông, chia sẻ dữ liệu đất đai với Cổng Dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025];
+b) Đáp ứng kết nối liên thông, chia sẻ dữ liệu đất đai với Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh;
+c) Đáp ứng kết nối, liên thông, chia sẻ dữ liệu đất đai với cơ quan thuế;
+d) Đáp ứng kết nối liên thông, chia sẻ dữ liệu đất đai với cơ sở dữ liệu quốc gia về dân cư;
+đ) Đáp ứng kết nối liên thông, chia sẻ dữ liệu đất đai với cơ sở dữ liệu quốc gia về văn bản pháp luật;
+e) Đáp ứng kết nối liên thông, chia sẻ dữ liệu đất đai với cơ sở dữ liệu về thanh tra, kiểm tra và cơ sở dữ liệu quốc gia về công tác tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh;
+g) Đáp ứng kết nối, chia sẻ dữ liệu khi địa phương thực hiện các thủ tục hành chính về đất đai lên cơ sở dữ liệu quốc gia về đất đai;
+h) Đáp ứng kết nối, chia sẻ dữ liệu đất đai với các cơ sở dữ liệu quốc gia khác và các cơ sở dữ liệu của các Bộ, ngành.
+5. Yêu cầu về chức năng hỗ trợ người dùng
+a) Ghi nhận phản hồi của người dùng và trợ giúp trực tuyến từ phần mềm;
+b) Cập nhật bản vá lỗi kỹ thuật tự động.
+6. Yêu cầu chi tiết về chức năng phần mềm được quy định tại Phụ lục V ban hành kèm theo Thông tư này.
+Điều 16. Yêu cầu về an toàn thông tin
+1. Phần mềm ứng dụng của Hệ thống thông tin quốc gia về đất đai phải đáp ứng các yêu cầu an toàn thông tin về : xác thực; kiểm soát truy cập; nhật ký hệ thống; an toàn ứng dụng và mã nguồn; bảo mật thông tin liên lạc; sao lưu dự phòng.
+2. Yêu cầu chi tiết về an toàn thông tin được quy định tại Phụ lục VI ban hành kèm theo Thông tư này.
+Chương IV ĐIỀU KHOẢN THI HÀNH
+Điều 17. Quy định chuyển tiếp
+1. Đối với cơ sở dữ liệu đất đai đã xây dựng mà chưa phù hợp về nội dung, cấu trúc, kiểu thông tin được quy định tại Thông tư này thì phải trà soát, bổ sung, hoàn thiện cơ sở dữ liệu trước ngày 31 tháng 12 năm 2025.
+2. Đối với phần mềm ứng dụng quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu đất đai ở địa phương mà chưa đảm bảo theo các yêu cầu kỹ thuật được quy định tại Điều 13; điểm a, điểm c và điểm d khoản 1 và khoản 3 Điều 14; điểm a, điểm c khoản 1, khoản 3, điểm b, điểm c và điểm d khoản 4 Điều 15 của Thông tư này thì phải hoàn thiện, nâng cấp phần mềm trước ngày 31 tháng 12 năm 2025.
+Điều 18. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 8 năm 2024.
+2. Thông tư số 75/2015/TT-BTNMT ngày 28 tháng 12 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định kỹ thuật về cơ sở dữ liệu đất đai hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
+3. Bãi bỏ Thông tư số 34/2014/TT-BTNMT ngày 30 tháng 6 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về xây dựng, quản lý, khai thác hệ thống thông tin đất đai.
+Điều 19. Trách nhiệm tổ chức thực hiện
+1. Cục Đăng ký và Dữ liệu thông tin đất đai [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] có trách nhiệm kiểm tra việc thực hiện Thông tư này.
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phổ biến, chỉ đạo, thực hiện Thông tư này.
+3. Sở Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] có trách nhiệm triển khai việc thực hiện Thông tư này ở địa phương.
+Trong quá trình thực hiện, có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] để xem xét, quyết định./.
+Nơi nhận:
+- Thủ tướng Chính phủ và các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Chính phủ;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Viện Kiểm sát nhân dân tối cao;
+- Tòa án nhân dân tối cao;
+- UBTW Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- Bộ trưởng, các Thứ trưởng BỘ TN&MT;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở TN&MT các tỉnh, thành phố trực thuộc Trung ương;
+- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+- Công báo; Cổng Thông tin điện tử Chính phủ;
+- Các đơn vị trực thuộc Bộ TN&MT, Cổng TTĐT Bộ TN&MT;
+- Lưu: VT, CĐKDLTTĐĐ.
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Minh Ngân 
+| FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN[Một số nội dung tại File này bị thay thế bởi Điểm a Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025 Một số nội dung tại File này bị bãi bỏ bởi Điểm b Khoản 3 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025 Phụ lục I tại File này được bổ sung bởi Điều 4 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] [Link: /documents/download.aspx?id=8GMZVIxrvWVa1Wuj%2bsWthA%3d%3d&part=-1] [JavaScript: LS_Tip_Type_Bookmark] [ID: chuong_pl] [Link: //files.thuvienphapluat.vn/uploads/doc2htm/00620656_files/attachfile001.zip] |
+| --- |

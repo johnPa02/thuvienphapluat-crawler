@@ -294,7 +294,7 @@ def extract_content(html: str, url: str = None) -> str:
     buffer = ""
     
     new_paragraph_patterns = [
-        r'^Chương\s+[IVXLCDM]+',
+        # r'^Chương\s+[IVXLCDM]+',
         r'^Mục\s+\d+',
         r'^Điều\s+\d+',
         r'^\d+\.\s',
@@ -319,6 +319,7 @@ def extract_content(html: str, url: str = None) -> str:
         r'^IV\.\s',
         r'^V\.\s',
         r'^VI\.\s',
+        r'^\s*\[\d+\]\s*'
     ]
     
     # Pattern để detect buffer kết thúc bằng tên Điều (cần xuống dòng sau đó)
@@ -359,7 +360,7 @@ def extract_content(html: str, url: str = None) -> str:
     # Replace table placeholders with actual markdown
     for placeholder, markdown in zip(table_placeholders, markdown_tables):
         # Add proper spacing around tables
-        markdown_with_spacing = f"\n{markdown.strip()}\n"
+        markdown_with_spacing = f"\n{markdown.strip()}"
         final_text = final_text.replace(placeholder, markdown_with_spacing)
 
     return final_text
@@ -385,18 +386,18 @@ def postprocess(content: str, doc_name: str) -> str:
     content = content.replace(' [Click vào để xem nội dung]', '')
     content = content.replace('[Click vào để xem nội dung]', '')
     
-    # Tách số khoản ra dòng mới khi bị dính vào ]
-    content = re.sub(r'\]\s+(\d+\.)\s*\n', r']\n\1\n', content)
-    content = re.sub(r'\]\s+(\d+\.)\s+', r']\n\1 ', content)
+    # # Tách số khoản ra dòng mới khi bị dính vào ]
+    # content = re.sub(r'\]\s+(\d+\.)\s*\n', r']\n\1\n', content)
+    # content = re.sub(r'\]\s+(\d+\.)\s+', r']\n\1 ', content)
     
-    # Thêm dòng trống và tên văn bản trước Chương
-    content = re.sub(r'(Chương\s+[IVXLCDM]+)', rf'\n{doc_name}. \1', content)
+    # # Thêm dòng trống và tên văn bản trước Chương
+    # content = re.sub(r'(Chương\s+[IVXLCDM]+)', rf'\n{doc_name}. \1', content)
     
     # Thêm dòng trống và tên văn bản trước Mục
     content = re.sub(r'(Mục\s+\d+\.)', rf'\n{doc_name}. \1', content)
     
-    # Thêm dòng trống và tên văn bản trước I. II. III. ...
-    content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', rf'\n\n{doc_name}. \1', content)
+    # # Thêm dòng trống và tên văn bản trước I. II. III. ...
+    # content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', rf'\n\n{doc_name}. \1', content)
     
     # Nối dấu ngoặc kép đứng một mình vào dòng sau (trường hợp bị xuống dòng trong HTML)
     # Hỗ trợ cả " thường và "" Unicode (U+201C và U+201D)
@@ -508,7 +509,11 @@ Ví dụ:
             doc_name=args.doc_name
         )
     except Exception as e:
-        print(f"❌ Lỗi: {e}")
+        import traceback
+        # Print full traceback to stderr so callers (like batch_crawler.py)
+        # capture detailed error information for debugging.
+        traceback.print_exc()
+        print(f"❌ Lỗi: {e}", file=sys.stderr)
         sys.exit(1)
 
 

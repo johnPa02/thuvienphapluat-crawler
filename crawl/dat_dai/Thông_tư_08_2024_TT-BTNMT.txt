@@ -1,0 +1,443 @@
+Thông tư 08/2024/TT-BTNMT
+BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 08/2024/TT-BTNMT
+Hà Nội, ngày 31 tháng 7 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ THỐNG KÊ, KIỂM KÊ ĐẤT ĐAI VÀ LẬP BẢN ĐỒ HIỆN TRẠNG SỬ DỤNG ĐẤT
+Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024;
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024;
+Căn cứ Nghị định số 102/2024/NĐ-CP ngày 30 tháng 7 năm 2024 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai;
+Căn cứ Nghị định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường;
+Theo đề nghị của Cục trưởng Cục Đăng ký và Dữ liệu thông tin đất đai, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất.
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất tại khoản 8 Điều 59 Luật Đất đai.
+Điều 2. Đối tượng áp dụng
+1. Cơ quan quản lý nhà nước về đất đai, cơ quan có chức năng quản lý đất đai ở địa phương; Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai; công chức làm công tác địa chính ở xã, phường, thị trấn. [Cụm từ “Tên xã, phường, thị trấn” tại Khoản này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+2. Bộ Quốc phòng, Bộ Công an.
+3. Người sử dụng đất, người được giao quản lý đất.
+4. Các cơ quan, tổ chức, cá nhân khác có liên quan đến việc thực hiện thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất.
+Điều 3. Phạm vi thống kê, kiểm kê đất đai
+1. Phạm vi thống kê, kiểm kê đất đai thực hiện theo quy định tại khoản 1 Điều 57 Luật Đất đai và được xác định như sau:
+a) Địa giới đơn vị hành chính các cấp xác định theo hồ sơ địa giới đơn vị hành chính mới nhất được cấp có thẩm quyền phê duyệt;
+b) Trường hợp chưa thống nhất về đường địa giới đơn vị hành chính xã, phường, thị trấn (sau đây gọi là cấp xã) giữa hồ sơ địa giới đơn vị hành chính với hiện trạng đang quản lý thì các đơn vị hành chính cấp xã có liên quan cùng xác định phạm vi chưa thống nhất, cùng thực hiện thống kê, kiểm kê đất đai khu vực chưa thống nhất theo các chỉ tiêu quy định tại [Cụm từ “Tên xã, phường, thị trấn” tại Điểm này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Điều 4 Thông tư này.
+Trường hợp khu vực chưa được xác định trong hồ sơ địa giới đơn vị hành chính thì đơn vị hành chính thực tế đang quản lý khu vực đó thực hiện thống kê, kiểm kê đất đai;
+c) Trường hợp đơn vị hành chính tiếp giáp biển thì phạm vi thống kê, kiểm kê đất đai thực hiện đến đường mép nước biển thấp nhất trung bình nhiều năm; trường hợp đường mép nước biển thấp nhất trung bình nhiều năm do Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] công bố nhưng hiện trạng không phù hợp với thực tế đang quản lý, sử dụng đất thì thống kê, kiểm kê đất đai theo hiện trạng.
+Đối với khu vực biển theo quy định tại khoản 4 Điều 190 Luật Đất đai mà chưa có quyết định giao đất, cho thuê đất đồng thời giao khu vực biển để lấn biển theo quy định tại khoản 7 Điều 72 Nghị định số 102/2024/NĐ-CP ngày 30 tháng 7 năm 2024 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai (sau đây gọi là Nghị định số 102/2024/NĐ-CP) thì thực hiện thống kê, kiểm kê đất đai khu vực này vào loại đất có mặt nước chưa sử dụng.
+2. Phạm vi kiểm kê đất đai chuyên đề được thực hiện theo quy định tại khoản 3 Điều 57 Luật Đất đai.
+Điều 4. Chỉ tiêu thống kê, kiểm kê đất đai
+1. Chỉ tiêu thống kê, kiểm kê đất đai là diện tích của từng loại đất, đối tượng sử dụng đất và đối tượng được giao quản lý đất được xác định như sau:
+a) Đối với thống kê đất đai thì diện tích của từng loại đất, đối tượng sử dụng đất và đối tượng được giao quản lý đất được xác định trên cơ sở số liệu thống kê đất đai năm liền trước hoặc kỳ kiểm kê đất đai liền trước được rà soát lại các trường hợp có biến động đã được cập nhật, chỉnh lý trong năm thống kê đất đai theo hồ sơ địa chính;
+b) Đối với kiểm kê đất đai thì diện tích của từng loại đất, đối tượng sử dụng đất và đối tượng được giao quản lý đất được xác định trên cơ sở hồ sơ địa chính và rà soát thực tế hiện trạng đang quản lý, sử dụng đất trong kỳ kiểm kê đất đai.
+2. Loại đất khi thống kê, kiểm kê đất đai thực hiện theo quy định tại Điều 9 Luật Đất đai, các điều 4, 5 và 6 Nghị định số 102/2024/NĐ-CP.
+Việc xác định loại đất quy định tại khoản này được thực hiện theo quy định tại Điều 10 Luật Đất đai và Điều 7 Nghị định số 102/2024/NĐ-CP. Trường hợp đất được sử dụng đất kết hợp đa mục đích theo quy định tại Điều 218 Luật Đất đai thì thống kê, kiểm kê đất đai theo loại đất chính.
+3. Đối tượng sử dụng đất khi thực hiện thống kê, kiểm kê đất đai là người sử dụng đất quy định tại Điều 4 Luật Đất đai.
+4. Đối tượng được giao quản lý đất khi thực hiện thống kê, kiểm kê đất đai là người chịu trách nhiệm trước Nhà nước đối với đất được giao quản lý quy định tại Điều 7 Luật Đất đai.
+5. Khi thực hiện thống kê, kiểm kê đất đai thì diện tích được tổng hợp theo quy định sau:
+a) Diện tích các loại đất để tổng hợp vào biểu thống kê, kiểm kê đất đai quy định tại điểm a khoản 1 Điều 5 Thông tư này ở cấp xã được tổng hợp tự động từ bản đồ kiểm kê đất đai lập theo quy định tại Điều 20 Thông tư này;
+b) Diện tích các loại đất để tổng hợp vào các biểu thống kê, kiểm kê đất đai ở quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là cấp huyện); [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi là cấp tỉnh) được tổng hợp từ các biểu thống kê, kiểm kê đất đai cấp dưới trực tiếp;
+c) Diện tích các loại đất để tổng hợp vào các biểu thống kê, kiểm kê đất đai cả nước được tổng hợp từ các biểu thống kê, kiểm kê đất đai cấp tỉnh;
+d) Tổng diện tích của đơn vị hành chính xác định theo quy định tại điểm a và điểm c khoản 1 Điều 3 Thông tư này được tổng hợp vào biểu quy định tại điểm a khoản 1 Điều 5 Thông tư này.
+Đối với các trường hợp quy định tại điểm b khoản 1 Điều 3 Thông tư này thì được tổng hợp riêng phần diện tích khu vực này vào biểu quy định tại điểm a khoản 1 Điều 5 Thông tư này mà không tính vào tổng diện tích theo phạm vi địa giới đơn vị hành chính, diện tích khu vực này được tổng hợp vào tổng diện tích của đơn vị hành chính cấp trên.
+6. Số liệu thống kê, kiểm kê đất đai của các cấp và cả nước thực hiện và báo cáo trên phần mềm thống kê, kiểm kê đất đai của Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025].
+7. Mã ký hiệu loại đất, đối tượng sử dụng đất và đối tượng được giao quản lý đất quy định như sau:
+a) Mã ký hiệu loại đất thực hiện theo quy định tại mục A Phụ lục II ban hành kèm theo Thông tư này;
+b) Mã ký hiệu đối tượng sử dụng đất thực hiện theo quy định tại mục B Phụ lục II ban hành kèm theo Thông tư này;
+c) Mã ký hiệu đối tượng được giao quản lý đất thực hiện theo quy định tại mục C Phụ lục II ban hành kèm theo Thông tư này.
+8. Hệ thống các biểu thống kê, kiểm kê đất đai theo quy định tại Điều 5 Thông tư này.
+Điều 5. Hệ thống các biểu thống kê, kiểm kê đất đai
+1. Hệ thống biểu thống kê, kiểm kê đất đai bao gồm:
+a) Biểu 01/TKKK (Thống kê, kiểm kê diện tích đất đai): để tổng hợp chung về diện tích các loại đất theo đối tượng sử dụng đất và theo đối tượng được giao quản lý đất;
+b) Biểu 02/TKKK (Thống kê, kiểm kê đối tượng sử dụng đất và đối tượng được giao quản lý đất): để tổng hợp chi tiết số lượng người sử dụng đất, người được giao quản lý đất theo từng loại đất;
+c) Biểu 03/TKKK (Thống kê, kiểm kê diện tích đất đai theo đơn vị hành chính): để tổng hợp số liệu diện tích các loại đất theo từng đơn vị hành chính cấp dưới trực tiếp của cấp thực hiện thống kê, kiểm kê đất đai;
+d) Biểu 04/TKKK (Cơ cấu, diện tích theo loại đất, đối tượng sử dụng đất và đối tượng được giao quản lý đất): để tính toán chi tiết cơ cấu về diện tích các loại đất theo đối tượng sử dụng đất và đối tượng được giao quản lý đất;
+đ) Biểu 05/TKKK (Chu chuyển diện tích của các loại đất): để xác định việc tăng hoặc giảm diện tích các loại đất trong năm thống kê đất đai, trong kỳ kiểm kê đất đai;
+e) Biểu 06/TKKKQPAN (Thống kê, kiểm kê đất quốc phòng, đất an ninh): áp dụng trong thống kê, kiểm kê đất quốc phòng, đất an ninh do Bộ Quốc phòng, Bộ Công an thực hiện để tổng hợp diện tích đất quốc phòng, đất an ninh trên địa bàn cấp tỉnh.
+2. Nội dung, hình thức các biểu thống kê, kiểm kê đất đai thực hiện theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+Chương II THỐNG KÊ, KIỂM KÊ ĐẤT ĐAI CÁC CẤP VÀ CẢ NƯỚC
+
+Thông tư 08/2024/TT-BTNMT. Mục 1. THỐNG KÊ ĐẤT ĐAI
+Điều 6. Thống kê đất đai cấp xã
+1. Công tác chuẩn bị:
+a) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong năm thống kê trên địa bàn cấp xã, hồ sơ địa giới đơn vị hành chính cấp xã; số liệu kiểm kê đất đai của kỳ trước hoặc số liệu thống kê đất đai được thực hiện trong năm trước của cấp xã; tiếp nhận Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại [Điểm này được sửa đổi bởi Điểm a Khoản 1 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Phụ lục IV ban hành kèm theo Thông tư này do cơ quan có chức năng quản lý đất đai cấp huyện, Văn phòng đăng ký đất đai chuyển đến; [Điểm này được sửa đổi bởi Điểm a Khoản 1 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+b) Xác định phạm vi thống kê đất đai ở cấp xã theo quy định tại Điều 3 Thông tư này;
+c) Phân loại, đánh giá và lựa chọn các hồ sơ, tài liệu, bản đồ, số liệu thu thập.
+2. Rà soát, cập nhật, chỉnh lý các biến động đất đai trong năm thống kê: [Tên Khoản này được sửa đổi bởi Điểm b Khoản 1 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+a) Các trường hợp thay đổi về loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất tại danh sách các trường hợp biến động trong năm thống kê đất đai do cơ quan có chức năng quản lý đất đai cấp huyện, Văn phòng đăng ký đất đai chuyển đến; cập nhật thông tin trước và sau biến động của khoanh đất vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại [Điểm này được sửa đổi bởi Điểm b Khoản 1 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Phụ lục IV ban hành kèm theo Thông tư này; [Điểm này được sửa đổi bởi Điểm b Khoản 1 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+b) Khoanh vẽ nội nghiệp vào bản đồ kiểm kê đất đai và biên tập tổng hợp các thửa đất thành các khoanh đất theo quy định tại Điều 20 Thông tư này;
+c) Tính toán diện tích trong năm thống kê đất đai theo từng khoanh đất, cập nhật các khoanh đất có thay đổi lên bản đồ kiểm kê đất đai.
+3. Xử lý, tổng hợp số liệu thống kê đất đai của cấp xã và lập các biểu theo quy định tại các điểm a, b, d và đ khoản 1 Điều 5 Thông tư này và lập Danh sách các khoanh đất thống kê, kiểm kê đất đai tại Phụ lục III ban hành kèm theo Thông tư này.
+4. Phân tích, đánh giá hiện trạng sử dụng đất, nguyên nhân biến động đất đai trong năm thống kê đất đai so với số liệu thống kê đất đai của năm liền trước và kiểm kê đất đai của kỳ liền trước, đề xuất các giải pháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất trên địa bàn cấp xã.
+5. Xây dựng báo cáo kết quả thống kê đất đai cấp xã với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, nguồn số liệu, tài liệu sử dụng để tổng hợp thống kê đất đai tại cấp xã và đánh giá độ tin cậy của tài liệu, số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất; phân tích biến động đất đai trong năm thống kê đất đai;
+c) Đánh giá cụ thể đối với trường hợp thay đổi về địa giới đơn vị hành chính, việc chưa thống nhất về địa giới đơn vị hành chính (nếu có);
+d) Đề xuất, kiến nghị.
+6. Hoàn thiện, phê duyệt kết quả thống kê đất đai cấp xã.
+7. In sao và giao nộp kết quả thống kê đất đai theo quy định tại khoản 1 và điểm a khoản 4 Điều 22 Thông tư này.
+Điều 7. Thống kê đất đai cấp huyện
+[Điều này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+1. Công tác chuẩn bị:
+a) Xây dựng văn bản chỉ đạo và kế hoạch thực hiện thống kê đất đai trên địa bàn cấp huyện;
+b) Thu thập các hồ sơ, tài liệu, số liệu liên quan đến biến động đất đai trong năm thống kê trên địa bàn cấp huyện, hồ sơ quy hoạch, kế hoạch sử dụng đất của cấp huyện, hồ sơ địa giới đơn vị hành chính cấp huyện; số liệu kiểm kê đất đai của kỳ trước hoặc số liệu thống kê đất đai được thực hiện trong năm trước của cấp huyện và tài liệu khác có liên quan;
+c) Xác định phạm vi thống kê đất đai ở cấp huyện theo quy định tại Điều 3 Thông tư này;
+d) Phân loại, đánh giá và lựa chọn các hồ sơ, tài liệu, số liệu thu thập.
+2. Rà soát, tổng hợp các biến động đất đai trong năm thống kê đối với các trường hợp có biến động về loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất đã thực hiện thủ tục về giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất trong năm thống kê đất đai đối với cá nhân và cộng đồng dân cư vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này để gửi Ủy ban nhân dân cấp xã, trừ các đơn vị cấp xã đã có cơ sở dữ liệu đất đai đang được quản lý, vận hành đồng bộ ở các cấp.
+3. Hướng dẫn, kiểm tra, đôn đốc, giải quyết khó khăn, vướng mắc trong quá trình tổ chức thực hiện thống kê đất đai của cấp xã.
+4. Tiếp nhận kết quả thống kê đất đai của cấp xã:
+a) Rà soát, kiểm tra kết quả thống kê đất đai của cấp xã về tính đầy đủ và nội dung thống kê đất đai theo quy định;
+b) Chỉ đạo cấp xã chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả thống kê đất đai (nếu có).
+5. Xử lý, tổng hợp số liệu thống kê đất đai của cấp huyện và lập các biểu theo quy định tại các điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này.
+6. Phân tích, đánh giá hiện trạng sử dụng đất, nguyên nhân biến động đất đai trong năm thống kê đất đai so với số liệu thống kê đất đai của năm liền trước và kiểm kê đất đai của kỳ liền trước, đề xuất các giải pháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất trên địa bàn cấp huyện.
+7. Xây dựng báo cáo kết quả thống kê đất đai cấp huyện với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, nguồn số liệu, tài liệu sử dụng để tổng hợp thống kê đất đai tại cấp huyện và đánh giá độ tin cậy của tài liệu, số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất; đánh giá tình hình thực hiện kế hoạch sử dụng đất hằng năm cấp huyện; phân tích biến động đất đai trong năm thống kê đất đai;
+c) Đánh giá cụ thể đối với trường hợp thay đổi về địa giới đơn vị hành chính, việc chưa thống nhất về địa giới đơn vị hành chính (nếu có);
+d) Đề xuất, kiến nghị.
+8. Hoàn thiện, phê duyệt kết quả thống kê đất đai cấp huyện.
+9. In sao và giao nộp kết quả thống kê đất đai cấp huyện theo quy định tại khoản 2 và điểm a khoản 4 Điều 22 Thông tư này.
+Điều 8. Thống kê đất đai cấp tỉnh
+1. Công tác chuẩn bị:
+a) Xây dựng văn bản chỉ đạo và kế hoạch thực hiện thống kê đất đai trên địa bàn cấp tỉnh;
+b) Thu thập các hồ sơ, tài liệu, số liệu liên quan đến biến động đất đai trong năm thống kê trên địa bàn cấp tỉnh, hồ sơ quy hoạch, kế hoạch sử dụng đất của cấp tỉnh, hồ sơ địa giới đơn vị hành chính cấp tỉnh; số liệu kiểm kê đất đai của kỳ trước hoặc số liệu thống kê đất đai được thực hiện trong năm trước của cấp tỉnh và các tài liệu khác có liên quan;
+c) Xác định phạm vi thống kê đất đai ở cấp tỉnh theo quy định tại Điều 3 Thông tư này;
+d) Phân loại, đánh giá và lựa chọn các hồ sơ, tài liệu, số liệu thu thập.
+2. Rà soát, tổng hợp các biến động đất đai trong năm thống kê đối với các trường hợp có biến động về loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất đã thực hiện thủ tục về giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất trong năm thống kê đất đai đối với tổ chức trong nước; tổ chức tôn giáo, tổ chức tôn giáo trực thuộc;
+người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài; tổ chức nước ngoài có chức năng ngoại giao vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này để gửi Ủy ban nhân dân cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] trừ các đơn vị cấp xã đã có cơ sở dữ liệu đất đai đang được quản lý, vận hành đồng bộ ở các cấp.
+3. Hướng dẫn, kiểm tra, đôn đốc, giải quyết khó khăn, vướng mắc trong quá trình tổ chức thực hiện thống kê đất đai của cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp xã.
+4. Tiếp nhận kết quả thống kê đất đai của cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] và kết quả thống kê đất quốc phòng, đất an ninh do Bộ Quốc phòng và Bộ Công an chuyển đến:
+a) Rà soát, kiểm tra kết quả thống kê đất đai của cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] về tính đầy đủ và nội dung thống kê đất đai theo quy định; chỉ đạo cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả thống kê đất đai (nếu có);
+b) Rà soát, đối chiếu số liệu đất quốc phòng, đất an ninh do Bộ Quốc phòng và Bộ Công an chuyên đến với số liệu địa phương tổng hợp; trường hợp số liệu có sự sai lệch thì đề nghị Bộ Quốc phòng và Bộ Công an xem xét để thống nhất.
+5. Xử lý, tổng hợp số liệu thống kê đất đai của cấp tỉnh và lập các biểu theo quy định tại các điểm điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này.
+6. Phân tích, đánh giá hiện trạng sử dụng đất, nguyên nhân biến động đất đai trong năm thống kê đất đai so với số liệu thống kê đất đai của năm liền trước và kiểm kê đất đai của kỳ liền trước, đề xuất các giải pháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất trên địa bàn cấp tỉnh.
+7. Xây dựng báo cáo kết quả thống kê đất đai cấp tỉnh với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, nguồn số liệu, tài liệu sử dụng để tổng hợp thống kê đất đai tại cấp tỉnh và đánh giá độ tin cậy của tài liệu, số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất; đánh giá tình hình thực hiện quy hoạch, kế hoạch sử dụng đất trong năm thống kê đất đai;
+phân tích biến động đất đai trong năm thống kê đất đai;
+c) Đánh giá đối với trường hợp thay đổi về địa giới đơn vị hành chính, việc chưa thống nhất về địa giới đơn vị hành chính (nếu có);
+d) Đề xuất, kiến nghị biện pháp nâng cao hiệu quả quản lý, sử dụng đất.
+8. Chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả thống kê đất đai cấp tỉnh trong trường hợp Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] đề nghị theo quy định tại khoản 2 Điều 9 Thông tư này.
+9. Hoàn thiện, phê duyệt và công bố kết quả thống kê đất đai cấp tỉnh theo quy định tại khoản 3 Điều 59 Luật Đất đai.
+10. In sao và giao nộp kết quả thống kê đất đai theo quy định tại khoản 3 và điểm b khoản 4 Điều 22 Thông tư này.
+Điều 9. Thống kê đất đai cả nước
+1. Công tác chuẩn bị:
+a) Xây dựng văn bản chỉ đạo Ủy ban nhân dân cấp tỉnh thực hiện thống kê đất đai;
+b) Thu thập các hồ sơ, tài liệu, số liệu liên quan đến kiểm kê đất đai của kỳ trước, thống kê đất đai năm trước của cả nước.
+2. Tiếp nhận kết quả thống kê đất guốc phòng, đất an ninh của Bộ Quốc phòng, Bộ Công an; tiếp nhận kết quả thống kê đất đai của cấp tỉnh và chỉ đạo chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả thống kê đất đai (nếu có), đồng thời đề nghị Ủy ban nhân dân cấp tỉnh xem xét lại việc công bố kết quả thống kê đất đai của địa phương.
+3. Xử lý, tổng hợp số liệu thống kê đất đai cả nước và lập các biểu theo quy định tại các điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này.
+4. Phân tích, đánh giá hiện trạng sử dụng đất, nguyên nhân biến động đất đai trong năm thống kê đất đai so với số liệu thống kê đất đai của năm liền trước và kiểm kê đất đai của kỳ liền trước, đề xuất các giải pháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất cả nước.
+5. Xây dựng báo cáo kết quả thống kê đất đai cả nước với nội dung chính:
+a) Tình hình tổ chức thực hiện thống kê đất đai;
+b) Đánh giá hiện trạng sử dụng đất, phân tích biến động đất đai trong năm thống kê đất đai;
+c) Đề xuất, kiến nghị biện pháp tăng cường quản lý sử dụng đất đai.
+6. Hoàn thiện và công bố kết quả thống kê đất đai cả nước theo quy định tại khoản 4 Điều 59 Luật Đất đai.
+
+Thông tư 08/2024/TT-BTNMT. Mục 2. KIỂM KÊ ĐẤT ĐAI
+Điều 10. Kiểm kê đất đai cấp xã
+1. Công tác chuẩn bị:
+a) Xây dựng kế hoạch thực hiện kiểm kê đất đai trên địa bàn cấp xã;
+b) Phổ biến, quán triệt nhiệm vụ đến các cán bộ và tuyên truyền cho người dân về kế hoạch thực hiện kiểm kê đất đai;
+c) Đánh giá thực trạng nguồn lực, thiết bị kỹ thuật; phân công trách nhiệm và sự phối hợp giữa các lực lượng liên quan của cấp xã để thực hiện đảm bảo về nội dung và thời gian theo quy định;
+d) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ kiểm kê đất đai trên địa bàn cấp xã, hồ sơ kết quả kiểm kê đất đai kỳ trước và kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai của cấp xã; rà soát cơ sở dữ liệu đất đai (nếu có);
+tiếp nhận Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này do cơ quan có chức năng quản lý đất đai cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Văn phòng đăng ký đất đai chuyển đến;
+đ) Xác định phạm vi kiểm kê đất đai ở cấp xã theo quy định tại Điều 3 Thông tư này.
+2. Rà soát, đối chiếu, lựa chọn các tài liệu, số liệu, bản đồ thu thập để sử dụng cho lập bản đồ kiểm kê đất đai:
+a) Đối với cấp xã đã có cơ sở dữ liệu đất đai được xây dựng sau thời điểm lập bản đồ kiểm kê đất đai kỳ trước mà đang được vận hành thì sử dụng cơ sở dữ liệu đất đai để thực hiện lập bản đồ kiểm kê đất đai;
+b) Đối với cấp xã chưa có cơ sở dữ liệu đất đai nhưng đã có bản đồ địa chính thành lập sau thời điểm lập bản đồ kiểm kê đất đai kỳ trước thì sử dụng bản đồ địa chính để thực hiện lập bản đồ kiểm kê đất đai.
+Đối với cấp xã có bản đồ kiểm kê đất đai kỳ trước được lập từ bản đồ địa chính nhưng tại thời điểm kiểm kê đất đai chưa xây dựng cơ sở dữ liệu đất đai thì sử dụng bản đồ kiểm kê đất đai kỳ trước;
+c) Đối với cấp xã có bản đồ kiểm kê đất đai kỳ trước chưa được lập từ bản đồ địa chính và không có các nguồn tài liệu tại điểm a và điểm b khoản này thì sử dụng các nguồn tài liệu sau (nếu có): bình đồ ảnh mới thành lập trước thời điểm kiểm kê không quá 02 năm đã được nắn chỉnh về cơ sở toán học của bản đồ kiểm kê đất đai cần lập theo quy định; dữ liệu không gian đất đai nền; cơ sở dữ liệu nền địa lý quốc gia; hệ thống bản đồ địa hình quốc gia mới thành lập sau kỳ kiểm kê đất đai gần nhất có tỷ lệ lớn hơn hoặc bằng tỷ lệ bản đồ kiểm kê đất đai đã lập kỳ trước để lập bản đồ kiểm kê đất đai.
+3. In tài liệu phục vụ cho kiểm kê đất đai.
+4. Điều tra, rà soát, cập nhật, chỉnh lý các biến động đất đai trong kỳ kiểm kê:
+a) Rà soát các trường hợp thay đổi về loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất tại danh sách các trường hợp biến động trong kỳ kiểm kê đất đai do cơ quan có chức năng quản lý đất đai cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Văn phòng đăng ký đất đai chuyển đến;
+cập nhật thông tin trước và sau biến động của khoanh đất vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này;
+b) Rà soát khoanh vẽ nội nghiệp phục vụ lập bản đồ kiểm kê đất đai; tài liệu sử dụng cho điều tra kiểm kê đối với các trường hợp có biến động đã thực hiện thủ tục hành chính về đất đai và biên tập tổng hợp các thửa đất thành các khoanh đất theo quy định tại Điều 20 Thông tư này; in bản đồ kiểm kê đất đai phục vụ điều tra khoanh vẽ ngoại nghiệp;
+c) Điều tra đối soát ngoài thực địa, xác định ranh giới các khoanh đất theo loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất;
+d) Chuyển vẽ, xử lý tiếp biên, đóng vùng các khoanh đất và cập nhật thông tin loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất lên bản đồ kiểm kê đất đai dạng số từ kết quả điều tra thực địa theo chỉ tiêu kiểm kê chi tiết;
+đ) Chuyển vẽ, xử lý tiếp biên, đóng vùng các khoanh đất sau khi đã thực hiện theo quy định tại điểm b và điểm c khoản này để biên tập, lập bản đồ kiểm kê đất đai theo quy định tại Điều 20 Thông tư này;
+e) Lập Danh sách các khoanh đất thống kê, kiểm kê đất đai theo quy định tại Phụ lục III ban hành kèm theo Thông tư này.
+5. Xử lý, tổng hợp số liệu kiểm kê đất đai của cấp xã, lập các biểu quy định tại các điểm a, b, d và đ khoản 1
+Điều 5 Thông tư này.
+6. Xây dựng báo cáo thuyết minh hiện trạng sử dụng đất với nội dung chính:
+a) Khái quát về tình hình quản lý đất đai của địa phương;
+b) Hiện trạng sử dụng đất theo từng loại đất trong các nhóm đất (nhóm đất nông nghiệp, nhóm đất phi nông nghiệp và nhóm đất chưa sử dụng);
+c) Hiện trạng sử dụng đất theo đối tượng sử dụng đất và đối tượng được giao quản lý đất;
+d) So sánh, phân tích, đánh giá hiện trạng sử dụng đất của kỳ kiểm kê đất đai với kỳ kiểm kê đất đai liền trước.
+7. Lập bản đồ hiện trạng sử dụng đất cấp xã và xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất theo quy định tại các điều 16, 17, 18 và 19 Thông tư này.
+8. Xây dựng báo cáo kết quả kiểm kê đất đai cấp xã với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, phương pháp điều tra, thu thập số liệu kiểm kê đất đai, nguồn gốc số liệu thu thập tại cấp xã và đánh giá độ tin cậy của số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất theo các chỉ tiêu kiểm kê đất đai; phân tích nguyên nhân biến động về sử dụng đất của năm kiểm kê đất đai với số liệu của 02 kỳ kiểm kê đất đai gần nhất;
+c) Đánh giá tình hình chưa thống nhất về đường địa giới đơn vị hành chính thực hiện trong kỳ kiểm kê đất đai (nếu có);
+d) Đề xuất, kiến nghị biện pháp nâng cao hiệu quả quản lý, sử dụng đất.
+9. Kiểm tra, nghiệm thu kết quả kiểm kê đất đai của cấp xã.
+10. Hoàn thiện, phê duyệt kết quả kiểm kê đất đai của cấp xã.
+11. In sao và giao nộp kết quả kiểm kê đất đai theo quy định tại khoản 1 và điểm a khoản 5 Điều 23 Thông tư này.
+Điều 11. Kiểm kê đất đai cấp huyện
+[Điều này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+1. Công tác chuẩn bị:
+a) Xây dựng kế hoạch thực hiện kiểm kê đất đai trên địa bàn cấp huyện;
+b) Xây dựng văn bản chỉ đạo, đôn đốc thực hiện kiểm kê đất đai;
+c) Phổ biến, quán triệt nhiệm vụ đến Ủy ban nhân dân cấp xã và các phòng, ban chuyên môn của cấp huyện về kế hoạch thực hiện kiểm kê đất đai;
+d) Đánh giá thực trạng nguồn lực, thiết bị kỹ thuật; phân công trách nhiệm và sự phối hợp giữa các đơn vị liên quan của cấp huyện để thực hiện đảm bảo về nội dung và thời gian theo quy định;
+đ) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ kiểm kê đất đai trên địa bàn cấp huyện, hồ sơ quy hoạch, kế hoạch sử dụng đất cấp huyện, hồ sơ địa giới đơn vị hành chính cấp huyện; hồ sơ kết quả kiểm kê đất đai kỳ trước, kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai của cấp huyện và các tài liệu khác có liên quan;
+e) Xác định phạm vi kiểm kê đất đai ở cấp huyện theo quy định tại Điều 3 Thông tư này;
+g) Phân loại, đánh giá và lựa chọn các hồ sơ, tài liệu, bản đồ, số liệu thu thập.
+2. Rà soát, tổng hợp các biến động đất đai trong kỳ kiểm kê đối với các trường hợp có biến động về loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất đã thực hiện thủ tục về giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất trong kỳ kiểm kê đất đai đối với cá nhân và cộng đồng dân cư vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này để gửi Ủy ban nhân dân cấp xã, trừ các đơn vị cấp xã đã xây dựng cơ sở dữ liệu đất đai sử dụng đồng bộ ở các cấp.
+3. In tài liệu phục vụ cho kiểm kê đất đai.
+4. Hướng dẫn, kiểm tra, đôn đốc, giải quyết khó khăn, vướng mắc trong quá trình tổ chức thực hiện kiểm kê đất đai của cấp xã.
+5. Tiếp nhận kết quả kiểm kê đất đai của cấp xã:
+a) Rà soát, kiểm tra kết quả kiểm kê đất đai của cấp xã về tính đầy đủ và nội dung kiểm kê đất đai theo quy định;
+b) Chỉ đạo cấp xã chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả kiểm kê đất đai (nếu có).
+6. Xử lý, tổng hợp số liệu kiểm kê đất đai của cấp huyện, lập các biểu quy định tại các điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này và xây dựng báo cáo thuyết minh hiện trạng sử dụng đất theo quy định tại khoản 6 Điều 10 Thông tư này.
+7. Lập bản đồ hiện trạng sử dụng đất và xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất cấp huyện theo quy định tại các điều 16, 17, 18 và 19 Thông tư này.
+8. Xây dựng báo cáo kết quả kiểm kê đất đai cấp huyện với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, nguồn số liệu, tài liệu sử dụng để tổng hợp kiểm kê đất đai tại cấp huyện và đánh giá độ tin cậy của tài liệu, số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất; đánh giá tình hình thực hiện kế hoạch sử dụng đất 05 năm của cấp huyện; phân tích nguyên nhân biến động của năm kiểm kê đất đai với số liệu của 02 kỳ kiểm kê đất đai gần nhất;
+c) Đánh giá tình hình chưa thống nhất về đường địa giới đơn vị hành chính thực hiện trong kỳ kiểm kê đất đai (nếu có);
+d) Đề xuất, kiến nghị biện pháp nâng cao hiệu quả quản lý, sử dụng đất.
+9. Kiểm tra, nghiệm thu kết quả kiểm kê đất đai của cấp huyện.
+10. Hoàn thiện, phê duyệt kết quả kiểm kê đất đai của cấp huyện.
+11. In sao và giao nộp kết quả kiểm kê đất đai theo quy định tại khoản 2 và điểm a khoản 5 Điều 23 Thông tư này.
+Điều 12. Kiểm kê đất đai cấp tỉnh
+1. Công tác chuẩn bị:
+a) Xây dựng kế hoạch thực hiện kiểm kê đất đai trên địa bàn cấp tỉnh;
+b) Xây dựng văn bản chỉ đạo, hướng dẫn, đôn đốc thực hiện kiểm kê đất đai;
+c) Phổ biến, quán triệt nhiệm vụ đến Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] và các sở, ban, ngành của cấp tỉnh về kế hoạch kiểm kê đất đai;
+d) Tổ chức tập huấn chuyên môn cho Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] và các sở, ban, ngành của cấp tỉnh có liên quan;
+đ) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ kiểm kê đất đai trên địa bàn cấp tỉnh, hồ sơ quy hoạch, kế hoạch sử dụng đất cấp tỉnh, hồ sơ địa giới đơn vị hành chính cấp tỉnh; hồ sơ kết quả kiểm kê đất đai kỳ trước, kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai của cấp tỉnh và các tài liệu khác có liên quan;
+e) Xác định phạm vi kiểm kê đất đai ở cấp tỉnh theo quy định tại Điều 3 Thông tư này;
+g) Phân loại, đánh giá và lựa chọn các hồ sơ, tài liệu, bản đồ, số liệu thu thập đê sử dụng cho kiểm kê đất đai.
+2. Rà soát, tổng hợp các biến động đất đai trong kỳ kiểm kê đối với các trường hợp có thay đổi về loại đất, đối tượng sử dụng đất, đối tượng quản lý đất đã thực hiện thủ tục về giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất trong kỳ kiểm kê đất đai đối với tổ chức trong nước; tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài; tổ chức nước ngoài có chức năng ngoại giao vào Danh sách các trường hợp biến động trong năm thống kê đất đai và kỳ kiểm kê đất đai tại Phụ lục IV ban hành kèm theo Thông tư này để gửi Ủy ban nhân dân cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] trừ các đơn vị hành chính đã xây dựng cơ sở dữ liệu đất đai sử dụng đồng bộ ở các cấp.
+3. In tài liệu phục vụ cho kiểm kê đất đai.
+4. Hướng dẫn, kiểm tra, đôn đốc, giải quyết khó khăn, vướng mắc trong quá trình tổ chức thực hiện kiểm kê đất đai của cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp xã.
+5. Tiếp nhận kết quả kiểm kê đất đai của cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] và kết quả kiểm kê đất quốc phòng, đất an ninh do Bộ Quốc phòng và Bộ Công an chuyển đến:
+a) Rà soát, kiểm tra kết quả kiểm kê đất đai của cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] về tính đầy đủ và nội dung kiểm kê đất đai theo quy định; chỉ đạo cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả kiểm kê đất đai (nếu có);
+b) Rà soát, đối chiếu số liệu đất quốc phòng, đất an ninh do Bộ Quốc phòng và Bộ Công an chuyển đến với số liệu do địa phương tổng hợp; trường hợp số liệu có sự sai lệch thì đề nghị Bộ Quốc phòng và Bộ Công an xem xét để thống nhất.
+6. Xử lý, tổng hợp số liệu kiểm kê đất đai của cấp tỉnh, lập các biểu quy định tại các điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này và xây dựng báo cáo thuyết minh hiện trạng sử dụng đất theo quy định tại khoản 6 Điều 10 Thông tư này.
+7. Lập bản đồ hiện trạng sử dụng đất và xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất cấp tỉnh theo quy định tại các điều 16, 17, 18 và 19 Thông tư này.
+8. Xây dựng báo cáo kết quả kiểm kê đất đai cấp tỉnh với nội dung chính:
+a) Khái quát về điều kiện tự nhiên, kinh tế - xã hội; tình hình tổ chức thực hiện, nguồn số liệu, tài liệu sử dụng để tổng hợp kiểm kê đất đai tại cấp tỉnh; đánh giá độ tin cậy của tài liệu, số liệu thu thập;
+b) Đánh giá hiện trạng sử dụng đất; tình hình thực hiện kế hoạch sử dụng đất 05 năm cấp tỉnh; phân tích nguyên nhân biến động về sử dụng đất của năm kiểm kê đất đai với số liệu của 02 kỳ kiểm kê đất đai gần nhất;
+c) Đánh giá đối với trường hợp thay đổi về địa giới đơn vị hành chính, việc chưa thống nhất về địa giới đơn vị hành chính (nếu có);
+d) Đề xuất, kiến nghị biện pháp nâng cao hiệu quả quản lý, sử dụng đất.
+9. Kiểm tra, nghiệm thu kết quả kiểm kê đất đai của cấp tỉnh.
+10. Hoàn thiện, phê duyệt kết quả kiểm kê đất đai của cấp tỉnh.
+11. Chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả kiểm kê đất đai cấp tỉnh trong trường hợp Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] đề nghị theo quy định tại khoản 3 Điều 13 Thông tư này.
+12. In sao và giao nộp kết quả kiểm kê đất đai theo quy định tại khoản 3 và điểm b khoản 5 Điều 23 Thông tư này.
+Điều 13. Kiểm kê đất đai cả nước
+1. Công tác chuẩn bị:
+a) Xây dựng văn bản chỉ đạo Ủy ban nhân dân cấp tỉnh thực hiện kiểm kê đất đai;
+b) Xây dựng kế hoạch thực hiện kiểm kê đất đai và các tài liệu hướng dẫn chuyên môn (nếu có);
+c) Tổ chức tập huấn chuyên môn cho Ủy ban nhân dân cấp tỉnh và các cơ quan có liên quan;
+d) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan trong kỳ kiểm kê đất đai, quy hoạch, kế hoạch sử dụng đất quốc gia; hồ sơ kết quả kiểm kê đất đai kỳ trước, kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai của cả nước và các tài liệu khác có liên quan.
+2. Hướng dẫn, kiểm tra, đôn đốc việc thực hiện kiểm kê đất đai trên phạm vi cả nước.
+3. Tiếp nhận kết quả kiểm kê đất quốc phòng, đất an ninh của Bộ Quốc phòng, Bộ Công an; tiếp nhận kết quả kiểm kê đất đai của cấp tỉnh và chỉ đạo chỉnh sửa, hoàn thiện số liệu, báo cáo kết quả kiểm kê đất đai (nếu có).
+4. Xử lý, tổng hợp số liệu kiểm kê đất đai cả nước; lập các biểu quy định tại các điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này và xây dựng báo cáo thuyết minh hiện trạng sử dụng đất theo quy định tại khoản 6 Điều 10 Thông tư này.
+5. Lập bản đồ hiện trạng sử dụng đất, xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất của cả nước theo quy định tại các điều 16, 17, 18 và 19 Thông tư này.
+6. Xây dựng báo cáo kết quả kiểm kê đất đai cả nước với nội dung chính:
+a) Tình hình tổ chức thực hiện kiểm kê đất đai của cả nước;
+b) Phân tích, đánh giá hiện trạng sử dụng đất;
+phân tích nguyên nhân biến động về sử dụng đất giữa năm kiểm kê đất đai với số liệu của 02 kỳ kiểm kê đất đai gần nhất; tình hình chưa thống nhất về đường địa giới đơn vị hành chính cấp tỉnh thực hiện trong kỳ kiểm kê đất đai (nếu có);
+c) Đề xuất, kiến nghị biện pháp nâng cao hiệu quả quản lý, sử dụng đất.
+7. Kiểm tra, nghiệm thu kết quả kiểm kê đất đai cả nước.
+8. Hoàn thiện và báo cáo Thủ tướng Chính phủ kết quả kiểm kê đất đai cả nước.
+9. In sao và công bố kết quả kiểm kê đất đai theo quy định tại khoản 4 và điểm c khoản 5 Điều 23 Thông tư này.
+
+Thông tư 08/2024/TT-BTNMT. Mục 3. THỐNG KÊ, KIỂM KÊ ĐẤT QUỐC PHÒNG, ĐẤT AN NINH VÀ KIỂM KÊ ĐẤT ĐAI CHUYÊN ĐỀ
+Điều 14. Thống kê, kiểm kê đất quốc phòng, đất an ninh
+1. Thống kê, kiểm kê đất quốc phòng, đất an ninh do Bộ Quốc phòng, Bộ Công an chủ trì, phối hợp với Ủy ban nhân dân cấp tỉnh thực hiện.
+2. Ủy ban nhân dân cấp tỉnh chỉ đạo, hướng dẫn Ủy ban nhân dân cấp dưới trong việc phối hợp với Bộ Quốc phòng, Bộ Công an rà soát, thống nhất các địa điểm và diện tích đất quốc phòng, đất an ninh ở địa phương.
+3. Việc thống kê, kiểm kê đất quốc phòng, đất an ninh theo chỉ tiêu các loại đất quy định tại điểm c khoản 3 Điều 9 Luật Đất đai; khoản 3 Điều 5 Nghị định số 102/2024/NĐ-CP và được tổng hợp vào biểu quy định tại điểm e khoản 1 Điều 5 Thông tư này.
+4. Kết quả thống kê, kiểm kê đất quốc phòng, đất an ninh gồm báo cáo và biểu số liệu thống kê, kiểm kê quy định tại điểm e khoản 1 Điều 5 Thông tư này.
+5. Bộ Quốc phòng, Bộ Công an gửi kết quả thống kê, kiểm kê đất quốc phòng, đất an ninh trên phạm vi cả nước về Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] trước ngày 31 tháng 3 của năm kế tiếp đối với kết quả thống kê đất đai; trước ngày 30 tháng 6 của năm kế tiếp đối với kết quả kiểm kê đất đai.
+Điều 15. Kiểm kê đất đai chuyên đề
+1. Kiểm kê đất đai chuyên đề là việc kiểm kê chuyên sâu về một hoặc một số chỉ tiêu loại đất quy định tại Điều 9 Luật Đất đai, các điều 4, 5 và 6 Nghị định số 102/2024/NĐ-CP;
+loại đối tượng sử dụng đất quy định tại khoản 3 Điều 4 Thông tư này; loại đối tượng được giao quản lý đất quy định tại khoản 4 Điều 4 Thông tư này và các nội dung khác có liên quan theo yêu cầu của quản lý nhà nước về đất đai trong từng thời kỳ.
+2. Nội dung, hoạt động kiểm kê đất đai chuyên đề được thực hiện theo quyết định của Bộ trưởng Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025], quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh.
+3. Căn cứ quyết định của Bộ trưởng Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] về kiểm kê đất đai chuyên đề, đơn vị được giao thực hiện kiểm kê chuyên đề có trách nhiệm xây dựng trình Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn chỉ tiêu, biểu mẫu, kế hoạch, trình tự thực hiện và giao nộp kết quả kiểm kê đất đai chuyên đề.
+4. Căn cứ quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh về kiểm kê đất đai chuyên đề, đơn vị được giao thực hiện kiểm kê đất đai chuyên đề có trách nhiệm xây dựng trình Chủ tịch Ủy ban nhân dân cấp tỉnh hướng dẫn chỉ tiêu, biểu mẫu, kế hoạch, trình tự thực hiện và giao nộp kết quả kiểm kê đất đai chuyên đề.
+
+Thông tư 08/2024/TT-BTNMT. Mục 4. BẢN ĐỒ HIỆN TRẠNG SỬ DỤNG ĐẤT
+Điều 16. Quy định chung về lập bản đồ hiện trạng sử dụng đất
+1. Bản đồ hiện trạng sử dụng đất được lập theo từng đơn vị hành chính cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh, các vùng kinh tế - xã hội và cả nước để thể hiện sự phân bố các loại đất tại thời điểm kiểm kê đất đai, gồm:
+a) Bản đồ hiện trạng sử dụng đất cấp xã được lập trên cơ sở tổng hợp, khái quát hóa nội dung của bản đồ kiểm kê đất đai quy định tại Điều 20 Thông tư này;
+b) Bản đồ hiện trạng sử dụng đất cấp huyện và [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh được lập trên cơ sở tiếp biên, tổng hợp, khái quát hóa nội dung bản đồ hiện trạng sử dụng đất của các đơn vị hành chính trực thuộc;
+c) Bản đồ hiện trạng sử dụng đất các vùng kinh tế - xã hội được lập trên cơ sở tiếp biên, tổng hợp, khái quát nội dung bản đồ hiện trạng sử dụng đất của các đơn vị hành chính cấp tỉnh trong quá trình thực hiện kiểm kê đất đai cả nước;
+d) Bản đồ hiện trạng sử dụng đất cả nước được lập trên cơ sở tiếp biên, tổng hợp, khái quát nội dung bản đồ hiện trạng sử dụng đất cấp tỉnh hoặc của các vùng kinh tế - xã hội.
+2. Xác định tỷ lệ lập bản đồ hiện trạng sử dụng đất
+a) Tỷ lệ lập bản đồ hiện trạng sử dụng đất cấp xã, cấp huyện và cấp tỉnh xác định theo quy định sau đây: [Điểm này được sửa đổi bởi Khoản 2 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] 
+| Đơn vị hành chính | Diện tích tự nhiên (ha) | Tỷ lệ bản đồ |
+| --- | --- | --- |
+| Cấp xã | Dưới 120 | 1:1.000 |
+| Từ 120 đến 500 | 1:2.000 |
+| Trên 500 đến 3.000 | 1:5.000 |
+| Trên 3.000 | 1:10.000 |
+| Cấp huyện | Dưới 3.000 | 1:5.000 |
+| Từ 3.000 đến 12.000 | 1:10.000 |
+| Trên 12.000 | 1:25.000 |
+| Cấp tỉnh | Dưới 100.000 | 1:25.000 |
+| Từ 100.000 đến 350.000 | 1:50.000 |
+| Trên 350.000 | 1:100.000 | Trường hợp lập bản đồ hiện trạng sử dụng đất của đơn vị hành chính có hình dạng đường địa giới phức tạp khó thể hiện nội dung khi lập bản đồ ở tỷ lệ theo quy định như chiều dài và chiều rộng lớn hơn nhau nhiều thì được phép lựa chọn tỷ lệ bản đồ lớn hơn hoặc nhỏ hơn một bậc so với quy định nêu trên.
+b) Bản đồ hiện trạng sử dụng đất các vùng kinh tế - xã hội lập ở tỷ lệ 1:250.000; bản đồ hiện trạng sử dụng đất cả nước lập ở tỷ lệ 1: 1.000.000.
+3. Cơ sở toán học:
+a) Bản đồ hiện trạng sử dụng đất của từng đơn vị hành cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh được lập trong hệ quy chiếu và hệ tọa độ quốc gia VN-2000, hệ độ cao quốc gia, lưới chiếu hình trụ ngang đồng góc, múi chiếu 3° (3 độ), hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9999, kinh tuyến trục theo từng tỉnh, thành phố [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] trực thuộc trung ương quy định tại Phụ lục V kèm theo Thông tư này;
+b) Bản đồ hiện trạng sử dụng đất các vùng kinh tế - xã hội sử dụng lưới chiếu hình trụ ngang đồng góc, múi chiếu 6° (6 độ), hệ số điều chỉnh tỷ lệ biến dạng chiều dài k0 = 0,9996;
+c) Bản đồ hiện trạng sử dụng đất cả nước sử dụng lưới chiếu hình nón đồng góc với 2 vĩ tuyến chuẩn 11° (11 độ) và 21° (21 độ);
+d) Ngoài các thông số quy định tại điểm a, b khoản này thì các thông số khác thực hiện theo quy định tại Thông tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 của Tổng cục trưởng Tổng cục Địa chính về hướng dẫn áp dụng hệ quy chiếu và hệ tọa độ quốc gia VN-2000 theo tỷ lệ bản đồ cần lập.
+4. Bản đồ hiện trạng sử dụng đất cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh, các vùng kinh tế - xã hội và cả nước dạng số tuân thủ các quy định như sau:
+a) Bản đồ hiện trạng sử dụng đất cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh thể hiện ở các thông số: Đơn vị đo (Working Units); đơn vị làm việc chính (Master Units) là mét (m); đơn vị làm việc phụ (Sub Units) là milimét (mm); độ phân giải (Resolution) là 1000; tọa độ điểm trung tâm làm việc (Storage Center Point/Global Origin) là X:500000m, Y:
+1000000m;
+b) Bản đồ hiện trạng sử dụng đất các cấp ở dạng số được lưu trữ dưới định dạng tệp tin *.dgn, kèm theo bộ ký hiệu; tệp tin phải ở dạng mở, cho phép chỉnh sửa, cập nhật thông tin khi cần thiết và định dạng fonts chữ, số tiếng Việt theo bảng mã Unicode TCVN 6909:2001; thống nhất sử dụng bộ thư viện các ký hiệu độc lập và các ký hiệu hình tuyến đã được thiết kế sẵn cho các tỷ lệ của bản đồ.
+Điều 17. Nội dung bản đồ hiện trạng sử dụng đất
+1. Nhóm lớp cơ sở toán học và các nội dung liên quan bao gồm: lưới kilômét, lưới kinh vĩ tuyến, tỷ lệ bản đồ, khung bản đồ, chú dẫn, biểu đồ cơ cấu sử dụng đất, trình bày ngoài khung và các nội dung khác có liên quan.
+2. Nhóm lớp hiện trạng sử dụng đất bao gồm:
+ranh giới các khoanh đất tổng hợp và ký hiệu loại đất.
+3. Các nhóm lớp thuộc dữ liệu nền địa lý gồm:
+a) Nhóm lớp biên giới, địa giới gồm đường biên giới quốc gia và đường địa giới đơn vị hành chính các cấp. Đối với bản đồ hiện trạng sử dụng đất cả nước thể hiện đến đường địa giới đơn vị hành chính cấp tỉnh. Đối với bản đồ hiện trạng sử dụng đất các vùng kinh tế - xã hội thể hiện đến đường địa giới đơn vị hành chính cấp huyện. Đối với bản đồ hiện trạng sử dụng đất cấp tỉnh, cấp huyện, cấp xã thể hiện đến đường địa giới đơn vị hành chính cấp xã. [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] Khi đường địa giới đơn vị hành chính các cấp trùng nhau thì biểu thị đường địa giới đơn vị hành chính cấp cao nhất;
+b) Nhóm lớp địa hình gồm các đối tượng để thể hiện đặc trưng cơ bản về địa hình của khu vực cần lập bản đồ như: đường bình độ (khu vực núi cao có độ dốc lớn chỉ biểu thị đường bình độ cái), điểm độ cao, điểm độ sâu, ghi chú độ cao, độ sâu; đường mô tả đặc trưng địa hình và các dạng địa hình đặc biệt;
+c) Nhóm lớp thủy hệ và các đối tượng có liên quan gồm: biển, hồ, ao, đầm, phá, thùng đào, sông, ngòi, kênh, rạch, suối và các đối tượng thủy văn khác. Mức độ thể hiện các đối tượng của nhóm lớp này trên bản đồ hiện trạng sử dụng đất các cấp được tổng quát hóa theo tỷ lệ bản đồ hiện trạng sử dụng đất các cấp;
+d) Nhóm lớp giao thông và các đối tượng có liên quan: bản đồ hiện trạng sử dụng đất cấp xã thể hiện tất cả các loại đường giao thông các cấp, kể cả đường nội đồng, đường trục chính trong khu dân cư, đường mòn tại các xã miền núi, trung du. Bản đồ hiện trạng sử dụng đất cấp huyện thể hiện từ đường liên xã trở lên, đối với khu vực miền núi phải thể hiện cả đường đất đến các thôn, bản. Bản đồ hiện trạng sử dụng đất cấp tỉnh thể hiện từ đường liên huyện trở lên, đối với khu vực miền núi phải thể hiện cả đường liên xã. Bản đồ hiện trạng sử dụng đất các vùng kinh tế - xã hội và cả nước thể hiện từ đường tỉnh lộ trở lên, đối với khu vực miền núi phải thể hiện cả đường liên huyện; [Điểm này được sửa đổi bởi Khoản 3 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+đ) Nhóm lớp đối tượng kinh tế, xã hội thể hiện tên các địa danh, trụ sở cơ quan chính quyền các cấp; tên công trình hạ tầng và các công trình quan trọng khác. Mức độ thể hiện các đối tượng của nhóm lớp này trên bản đồ hiện trạng sử dụng đất các cấp được tổng quát hóa theo tỷ lệ bản đồ hiện trạng sử dụng đất các cấp.
+4. Các ghi chú, thuyết minh.
+5. Hình thức thể hiện nội dung bản đồ hiện trạng sử dụng đất các cấp thực hiện theo quy định tại Phụ lục V ban hành kèm theo Thông tư này.
+Điều 18. Biên tập bản đồ hiện trạng sử dụng đất
+Việc biên tập, tổng hợp, khái quát hóa nội dung bản đồ hiện trạng sử dụng đất của từng cấp bảo đảm yêu cầu sau:
+1. Khoanh đất tổng hợp của bản đồ hiện trạng sử dụng đất được biên tập, tổng hợp như sau:
+a) Khoanh đất tổng hợp của bản đồ hiện trạng sử dụng đất cấp xã được thể hiện bằng ranh giới và ký hiệu loại đất (gồm mã và màu loại đất) theo các chỉ tiêu kiểm kê đất đai. Khoanh đất tổng hợp của bản đồ hiện trạng sử dụng đất cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh, các vùng kinh tế - xã hội và cả nước được thể hiện bằng ranh giới và ký hiệu loại đất theo các chỉ tiêu tổng hợp quy định tại Phụ lục V ban hành kèm theo Thông tư này;
+b) Ký hiệu loại đất gồm mã và màu loại đất;
+c) Các khoanh đất trên bản đồ hiện trạng sử dụng đất các cấp phải bảo đảm ranh giới khép kín, không có phần diện tích chồng, hở giữa các khoanh đất. Ranh giới khoanh đất phải được khái quát hóa, làm trơn, bảo đảm diện tích khoanh đất theo tỷ lệ bản đồ như sau:
+
+| Tỷ lệ bản đồ | Diện tích khoanh đất trên bản đồ |
+| --- | --- |
+| 1:1.000[Từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] [JavaScript: LS_Tip_Type_Bookmark] [ID: cumtu_c_1_18] Từ đến 1:10.000 | ≥ 16 mm 2 |
+| Từ 1:25.000 đến 1:100.000 | ≥ 9 mm 2 |
+| Từ 1:250.000 đến 1:1.000.000 | ≥ 4 mm 2 | Trường hợp khoanh đất có diện tích nhỏ hơn theo quy định nêu trên thì thể hiện bằng ký hiệu tượng trưng là hình chấm tròn có đường kính là 2 mm và theo màu của loại đất cần thể hiện. Riêng đối với các đảo có diện tích nhỏ hơn quy định trên đây thì vẫn phải được thể hiện trên bản đồ hiện trạng sử dụng đất kèm theo ghi chú tên đảo (nếu có) mà không thực hiện tổng quát hóa;
+2. Đối với đường biên giới, địa giới đơn vị hành chính phải được biên tập bảo đảm yêu cầu nhận biết đối tượng khi in trên giấy; trường hợp đường địa giới các cấp trùng với đối tượng hình tuyến một nét thì đường địa giới cần được thể hiện so le hai bên và cách đường đối tượng hình tuyến 0,2 mm trên bản đồ.
+3. Các yếu tố hình tuyến (sông, suối, kênh mương...) có chiều dài dưới 2 cm trên bản đồ thì được phép loại bỏ; yếu tố hình tuyến có độ rộng dưới 0,5 mm trên bản đồ được biên tập thành 1 nét theo tâm của yếu tố hình tuyến đó.
+Trường hợp đường sắt và đường ô tô đi sát nhau cho phép dịch chuyển vị trí đường ô tô để đảm bảo giữ vị trí đúng cho đường sắt.
+Các yếu tố hình tuyến khi tổng hợp phải bảo đảm giữ được tính chất đặc trưng của đối tượng để phản ánh đúng mật độ, kiểu phân bố, đặc điểm sử dụng; đối với sông suối phải thể hiện được vị trí đầu nguồn, các dòng chảy đặc biệt như suối nước nóng, nước khoáng.
+4. Đối với đường bờ biển khi tổng quát hóa phải bảo đảm giữ được hình dáng đặc trưng của từng kiểu bờ. Đối với khu vực có nhiều cửa sông, bờ biển có dạng hình cong tròn được phép gộp 2 hoặc 3 khúc uốn nhỏ nhưng phải giữ lại các cửa sông, dòng chảy đổ ra biển và các bãi bồi.
+5. Các đối tượng địa lý khác, ghi chú địa danh, tên riêng, thuyết minh tiến hành lựa chọn, cập nhật hoặc loại bỏ đảm bảo phù hợp về mật độ thông tin, khả năng đọc và tính mỹ quan của bản đồ.
+6. Khung bản đồ hiện trạng sử dụng đất được trình bày như sau:
+a) Đối với bản đồ tỷ lệ 1:1.000 [Từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025], 1:2.000, 1:5.000 và 1:10.000 chỉ biểu thị lưới kilômét, với kích thước ô vuông lưới kilômét là 10cm x 10cm;
+b) Đối với bản đồ tỷ lệ 1:25.000 biểu thị lưới kilômét, với kích thước ô vuông lưới kilômét là 8cm x 8cm;
+c) Đối với bản đồ tỷ lệ 1:50.000, 1:100.000, 1:250.000 và 1:1.000.000 chỉ biểu thị lưới kinh tuyến, vĩ tuyến với kích thước ô lưới kinh tuyến, vĩ tuyến như sau:
+
+| Tỷ lệ bản đồ hiện trạng sử dụng đất | Kích thước ô lưới kinh tuyến, vĩ tuyến |
+| --- | --- |
+| 1:50.000 | 5’x 5’ |
+| 1:100.000 | 10’ x 10’ |
+| 1:250.000 | 20’ x 20’ |
+| 1:1.000.000 | 1 0 x 1 0 |
+7. Việc biên tập bản đồ hiện trạng sử dụng đất dạng số ngoài việc thực hiện theo quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này, còn phải thực hiện theo các yêu cầu:
+a) Các đối tượng dạng đường phải thể hiện liên tục, không đứt đoạn và chỉ được dừng tại các điểm nút giao nhau giữa các đường thể hiện các đối tượng cùng kiểu;
+b) Những đối tượng dạng vùng phải thể hiện là các vùng khép kín;
+c) Các đối tượng dạng điểm phải thể hiện bằng các ký hiệu dạng điểm trong các bộ ký hiệu đã được thiết kế sẵn;
+d) Các đối tượng trên bản đồ hiện trạng sử dụng đất phải thể hiện đúng lớp, màu sắc, lực nét và các thông số kèm theo như quy định tại bảng phân lớp đối tượng tại Phụ lục V ban hành kèm theo Thông tư này.
+Mỗi khoanh đất phải có một mã loại đất, khi biên tập lược bỏ để in không được xóa mà phải chuyển về lớp riêng để lưu trữ.
+Điều 19. Báo cáo thuyết minh bản đồ hiện trạng sử dụng đất
+1. Căn cứ pháp lý; mục đích, yêu cầu của việc lập bản đồ hiện trạng sử dụng đất.
+2. Khái quát về vị trí địa lý của đơn vị hành chính.
+3. Thời điểm xây dựng và hoàn thành việc lập bản đồ hiện trạng sử dụng đất.
+4. Các nguồn tài liệu sử dụng và phương pháp, công nghệ lập bản đồ hiện trạng sử dụng đất.
+5. Xác định khu vực đã đo đạc bản đồ địa chính chính quy.
+6. Đánh giá chất lượng bản đồ hiện trạng sử dụng đất về mức độ đầy đủ, chi tiết và độ chính xác của các yếu tố nội dung.
+7. Những vấn đề còn tồn tại, hạn chế của bản đồ hiện trạng sử dụng đất.
+8. Kết luận, kiến nghị biện pháp khắc phục hạn chế, tồn tại.
+Điều 20. Bản đồ kiểm kê đất đai
+1. Bản đồ kiểm kê đất đai là bản đồ thể hiện các khoanh đất khép kín trong một đơn vị hành chính cấp xã, các khoanh đất thể hiện được diện tích theo loại đất, đối tượng sử dụng đất, đối tượng được giao quản lý đất theo quy định tại các khoản 2, 3 và 4 Điều 4 Thông tư này.
+2. Bản đồ kiểm kê đất đai được lập ở dạng số và được thực hiện theo Phụ lục VI ban hành kèm theo Thông tư này.
+Chương III KIỂM TRA, GIAO NỘP, QUẢN LÝ KẾT QUẢ THỐNG KÊ, KIỂM KÊ ĐẤT ĐAI
+Điều 21. Kiểm tra kết quả thống kê, kiểm kê đất đai
+1. Nội dung kiểm tra gồm:
+a) Mức độ đầy đủ của tài liệu, số liệu của hồ sơ kết quả thống kê, kiểm kê đất đai;
+b) Tính đầy đủ, chính xác của việc khoanh vẽ các khoanh đất và xác định loại đất, loại đối tượng sử dụng đất, đối tượng được giao quản lý đất trên bản đồ kiểm kê đất đai của cấp xã;
+c) Mức độ đầy đủ, chính xác của việc tổng hợp các khoanh đất trong danh sách các khoanh đất trong kỳ thống kê, kiểm kê đất đai so với bản đồ kiểm kê đất đai và so với danh sách các trường hợp biến động trong kỳ thống kê, kiểm kê đất đai đã được Ủy ban nhân dân cấp xã rà soát, xác nhận;
+d) Tính chính xác trong việc tổng hợp số liệu trong các biểu thống kê, kiểm kê đất đai;
+đ) Tính thống nhất số liệu giữa các biểu thống kê, kiểm kê đất đai với bản đồ kiểm kê đất đai của cấp xã; giữa các biểu số liệu thống kê, kiểm kê đất đai của từng cấp; biểu số liệu với báo cáo kết quả thống kê, kiểm kê đất đai;
+e) Chất lượng báo cáo kết quả thống kê, kiểm kê đất đai các cấp phải đảm bảo đầy đủ về nội dung theo quy định tại khoản 5 Điều 6, khoản 7 Điều 7, khoản 7 Điều 8, khoản 5 Điều 9, khoản 8 Điều 10, khoản 8 Điều 11, khoản 9 Điều 12, khoản 6 Điều 13 Thông tư này;
+g) Chất lượng bản đồ hiện trạng sử dụng đất các cấp, bản đồ kiểm kê đất đai cấp xã phải đảm bảo độ chính xác, đầy đủ theo quy định tại các điều 16, 17, 18, và 20 Thông tư này.
+2. Trách nhiệm kiểm tra kết quả thống kê, kiểm kê đất đai:
+a) Tổ chức, cá nhân trực tiếp thực hiện thống kê, kiểm kê đất đai tự kiểm tra và chịu trách nhiệm về kết quả thực hiện trong quá trình thực hiện;
+b) Ủy ban nhân dân cấp xã tự kiểm tra và phê duyệt kết quả thống kê, kiểm kê đất đai cấp xã;
+c) Cơ quan có chức năng quản lý đất đai cấp huyện có trách nhiệm kiểm tra kết quả thống kê, kiểm kê đất đai của cấp xã, tự kiểm tra và trình Ủy ban nhân dân cấp huyện phê duyệt kết quả thống kê, kiểm kê đất đai cấp huyện; [Điểm này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+d) Cơ quan có chức năng quản lý đất đai cấp tỉnh có trách nhiệm kiểm tra kết quả thống kê, kiểm kê đất đai của cấp huyện [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025], tự kiểm tra và trình Ủy ban nhân dân cấp tỉnh phê duyệt kết quả thống kê, kiểm kê đất đai cấp tỉnh;
+đ) Cơ quan có chức năng tham mưu giúp Bộ trưởng Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] quản lý nhà nước về thống kê, kiểm kê đất đai kiểm tra kết quả thống kê, kiểm kê đất quốc phòng, đất an ninh của Bộ Quốc phòng, Bộ Công an, kiểm tra kết quả thực hiện thống kê, kiểm kê đất đai của cấp tỉnh.
+3. Việc kiểm tra, nghiệm thu công trình, sản phẩm thống kê, kiểm kê đất đai được thực hiện theo quy định của Bộ Tài nguyên và Môi trường về kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai. [Khoản này được sửa đổi bởi Khoản 4 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+Điều 22. Giao nộp, công bố kết quả thống kê đất đai
+1. Hồ sơ cấp xã giao nộp cấp huyện [Từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025], gồm:
+a) Báo cáo kết quả thống kê đất đai kèm theo các biểu quy định tại điểm a, b, c [Từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] và đ khoản 1 Điều 5 Thông tư này đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Bản đồ kiểm kê đất đai định dạng *.dgn, bộ dữ liệu kết quả thống kê đất đai được tổng hợp từ phần mềm thống kê, kiểm kê đất đai của Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] (các định dạng được đóng gói theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước) và danh sách các khoanh đất trong năm thống kê đất đai (01 bộ số).
+2. Hồ sơ của cấp huyện giao nộp cấp tỉnh, gồm: [Khoản này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+a) Báo cáo kết quả thống kê đất đai kèm theo các biểu thống kê đất đai của cấp huyện quy định tại điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Hồ sơ kết quả thống kê đất đai cấp xã quy định tại khoản 1 Điều này (01 bộ số).
+3. Hồ sơ của cấp tỉnh giao nộp Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025], gồm:
+a) Báo cáo kết quả thống kê đất đai kèm theo các biểu thống kê đất đai của cấp tỉnh quy định tại điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Hồ sơ kết quả thống kê đất đai cấp huyện quy định tại khoản 2 Điều này (01 bộ số); [Điểm này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+c) Hồ sơ kết quả thống kê đất đai cấp xã quy định tại khoản 1 Điều này (01 bộ số).
+4. Thời gian giao nộp, công bố kết quả thống kê đất đai hằng năm được quy định như sau:
+a) Thời gian giao nộp báo cáo về kết quả thống kê đất đai của cấp xã, cấp huyện [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] lên cấp trên trực tiếp [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] do Ủy ban nhân dân cấp tỉnh quyết định;
+b) Ủy ban nhân dân cấp tỉnh hoàn thành, phê duyệt và công bố kết quả thống kê đất đai và giao nộp báo cáo Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] trước ngày 31 tháng 3 năm kế tiếp, trừ năm kiểm kê đất đai;
+c) Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] tổng hợp kết quả thống kê đất đai hằng năm của cả nước và công bố trước ngày 30 tháng 6 của hằng năm.
+Điều 23. Giao nộp, công bố kết quả kiểm kê đất đai
+1. Hồ sơ cấp xã giao nộp cấp huyện [Từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] gồm:
+a) Báo cáo kết quả kiểm kê đất đai đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Biểu số liệu kiểm kê đất đai cấp xã quy định tại điểm a, b, d và đ khoản 1 Điều 5 Thông tư này và báo cáo thuyết minh hiện trạng sử dụng đất đã được phê duyệt (01 bộ giấy và 01 bộ số);
+c) Bản đồ hiện trạng sử dụng đất và báo cáo thuyết minh bản đồ hiện trạng sử dụng đất đã được phê duyệt (01 bộ giấy và 01 bộ số định dạng *.dgn);
+d) Bản đồ kiểm kê đất đai định dạng *.dgn, bộ dữ liệu kết quả kiểm kê đất đai được tổng hợp từ phần mềm thống kê, kiểm kê đất đai của Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] (các định dạng được đóng gói theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước) và danh sách các khoanh đất trong năm kiểm kê đất đai (01 bộ số).
+2. Hồ sơ cấp huyện giao nộp cấp tỉnh gồm: [Khoản này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+a) Báo cáo kết quả kiểm kê đất đai đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Biểu số liệu kiểm kê đất đai cấp huyện quy định tại điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này và báo cáo thuyết minh hiện trạng sử dụng đất đã được phê duyệt (01 bộ giấy và 01 bộ số);
+c) Bản đồ hiện trạng sử dụng đất, báo cáo thuyết minh bản đồ hiện trạng sử dụng đất cấp huyện đã được phê duyệt (01 bộ giấy và 01 bộ số định dạng *.dgn);
+d) Hồ sơ kết quả kiểm kê đất đai cấp xã quy định tại khoản 1 Điều này (01 bộ số).
+3. Hồ sơ cấp tỉnh giao nộp Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] gồm:
+a) Báo cáo kết quả kiểm kê đất đai đã được phê duyệt (01 bộ giấy và 01 bộ số);
+b) Biểu số liệu kiểm kê đất đai cấp tỉnh quy định tại điểm a, b, c, d và đ khoản 1 Điều 5 Thông tư này và báo cáo thuyết minh hiện trạng sử dụng đất đã được phê duyệt (01 bộ giấy và 01 bộ số);
+c) Bản đồ hiện trạng sử dụng đất kèm báo cáo thuyết minh bản đồ hiện trạng sử dụng đất cấp tỉnh đã được phê duyệt (01 bộ giấy và 01 bộ số định dạng *.dgn);
+d) Hồ sơ kết quả kiểm kê đất đai cấp huyện quy định tại khoản 2 Điều này (01 bộ số); [Điểm này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+đ) Hồ sơ kết quả kiểm kê đất đai cấp xã quy định tại khoản 1 Điều này (01 bộ số).
+4. Hồ sơ kết quả kiểm kê đất đai cả nước trình Thủ tướng Chính phủ gồm:
+a) Báo cáo kết quả kiểm kê đất đai kèm các biểu kiểm kê đất đai của cả nước quy định tại điểm a, b và c khoản 1
+Điều 5 Thông tư này (01 bộ giấy và 01 bộ số);
+b) Bản đồ hiện trạng sử dụng đất cả nước (01 bộ giấy và 01 bộ số).
+5. Thời gian giao nộp, công bố kết quả kiểm kê đất đai được quy định như sau:
+a) Thời gian giao nộp báo cáo về kết quả kiểm kê đất đai của cấp xã, cấp huyện [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] lên cấp trên trực tiếp [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] do Ủy ban nhân dân cấp tỉnh quyết định;
+b) Ủy ban nhân dân cấp tỉnh hoàn thành, phê duyệt và giao nộp báo cáo Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] kết quả kiểm kê đất đai trước ngày 30 tháng 6 của năm kế tiếp năm kiểm kê đất đai;
+c) Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] hoàn thành tổng hợp, báo cáo Thủ tướng Chính phủ và công bố kết quả kiểm kê đất đai 05 năm của cả nước trước ngày 30 tháng 9 của năm kế tiếp của năm kiểm kê đất đai.
+Điều 24. Quản lý hồ sơ kết quả thống kê, kiểm kê đất đai
+1. Kết quả thống kê, kiểm kê đất đai sau khi được cấp có thẩm quyền phê duyệt và công bố được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.
+2. Hồ sơ kết quả thống kê, kiểm kê đất đai của cấp xã, cấp huyện, [Cụm từ này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] cấp tỉnh và cả nước (dạng giấy và dạng số) quy định tại Điều 22 và Điều 23 Thông tư này được quản lý theo quy định của pháp luật về lưu trữ; tài liệu sử dụng để điều tra kiểm kê đã cập nhật, chỉnh lý biến động (dạng giấy) được quản lý đến thời điểm công bố kết quả kiểm kê đất đai.
+3. Hồ sơ kết quả thống kê, kiểm kê đất đai của cấp xã được lưu trữ, quản lý tại Ủy ban nhân dân cấp xã và cơ quan có chức năng quản lý đất đai cấp huyện [Từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025].
+4. Hồ sơ kết quả thống kê, kiểm kê đất đai của cấp huyện được lưu trữ, quản lý tại cơ quan có chức năng quản lý đất đai cấp huyện, cấp tỉnh. [Khoản này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025]
+5. Hồ sơ kết quả thống kê, kiểm kê đất đai của cấp tỉnh được lưu trữ, quản lý tại cơ quan có chức năng quản lý đất đai cấp tỉnh và Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025].
+6. Hồ sơ kết quả thống kê, kiểm kê đất đai cả nước được lưu trữ, quản lý tại Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025].
+7. Việc quản lý dữ liệu thống kê, kiểm kê đất đai và bản đồ hiện trạng sử dụng đất được thực hiện theo quy định của pháp luật về xây dựng, quản lý, vận hành và khai thác hệ thống thông tin quốc gia về đất đai.
+Chương IV TỔ CHỨC THỰC HIỆN
+Điều 25. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 8 năm 2024.
+2. Thông tư số 27/2018/TT-BTNMT ngày 14 tháng 12 năm 2018 của Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] quy định về thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.
+Điều 26. Trách nhiệm tổ chức thực hiện
+1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo, triển khai thực hiện Thông tư này.
+2. Cục Đăng ký và Dữ liệu thông tin đất đai [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] có trách nhiệm kiểm tra việc thực hiện Thông tư này.
+3. Sở Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] có trách nhiệm triển khai việc thực hiện Thông tư này ở địa phương.
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường [Cụm từ này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] để xem xét, quyết định./.
+Nơi nhận:
+- Thủ tướng Chính phủ và các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Chính phủ;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Viện Kiểm sát nhân dân tối cao;
+- Tòa án nhân dân tối cao;
+- UBTW Mặt trận Tổ quốc Việt Nam
+- Cơ quan Trung ương của các đoàn thể;
+- Bộ trưởng, các Thứ trưởng Bộ TN&MT;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở TN&MT các tỉnh, thành phố trực thuộc Trung ương;
+- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+- Công báo; Cổng thông tin điện tử Chính phủ;
+- Các đơn vị trực thuộc Bộ TN&MT, Cổng TTĐT Bộ TN&MT;
+- Lưu: VT, CĐKDLTTĐĐ.
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Minh Ngân 
+| Văn bản này có file đính kèm, bạn phải tải Văn bản về để xem toàn bộ nội dung.[Mục 8 phần I Phụ lục V tại File này được sửa đổi bởi Khoản 5 Điều 3 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025 Một số nội dung tại File này bị bãi bỏ bởi Điểm b Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025 Một số nội dung tại File này bị thay thế bởi Điểm a Khoản 2 Điều 10 Thông tư 23/2025/TT-BNNMT có hiệu lực từ ngày 01/07/2025] [Link: /documents/download.aspx?id=KUooW6buyoLui3eLFwl8Gg%3d%3d&part=-1] [JavaScript: LS_Tip_Type_Bookmark] [ID: chuong_pl] Tải về [Link: /documents/download.aspx?id=KUooW6buyoLui3eLFwl8Gg%3d%3d&part=-1] |
+| --- |

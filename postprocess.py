@@ -23,10 +23,10 @@ def postprocess(input_file: str, output_file: str, doc_name: str = "Nghị đị
     content = content.replace(' [Click vào để xem nội dung]', '')
     content = content.replace('[Click vào để xem nội dung]', '')
     
-    # Tách số khoản (1. 2. 3. ...) ra dòng mới khi bị dính vào ] hoặc cuối câu trước
-    # Pattern: "] 1." hoặc "câu gì đó 1." -> xuống dòng trước số
-    content = re.sub(r'\]\s+(\d+\.)\s*\n', r']\n\1\n', content)
-    content = re.sub(r'\]\s+(\d+\.)\s+', r']\n\1 ', content)
+    # # Tách số khoản (1. 2. 3. ...) ra dòng mới khi bị dính vào ] hoặc cuối câu trước
+    # # Pattern: "] 1." hoặc "câu gì đó 1." -> xuống dòng trước số
+    # content = re.sub(r'\]\s+(\d+\.)\s*\n', r']\n\1\n', content)
+    # content = re.sub(r'\]\s+(\d+\.)\s+', r']\n\1 ', content)
     
     # Thêm dòng trống trước Chương (1 dòng trống = 1 newline)
     content = re.sub(r'(Chương\s+[IVXLCDM]+)', r'\n\1', content)
@@ -34,8 +34,8 @@ def postprocess(input_file: str, output_file: str, doc_name: str = "Nghị đị
     # Thêm dòng trống trước Mục
     content = re.sub(r'(Mục\s+\d+\.)', r'\n\1', content)
     
-    # Thêm dòng trống trước các mục I. II. III. ... (đầu dòng, theo sau là chữ in hoa)
-    content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', r'\n\n\1', content)
+    # # Thêm dòng trống trước các mục I. II. III. ... (đầu dòng, theo sau là chữ in hoa)
+    # content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', r'\n\n\1', content)
     
     # Thêm dòng trống và tên văn bản trước mỗi Điều (1 dòng trống)
     content = re.sub(r'(Điều\s+\d+\.)', rf'\n{doc_name}. \1', content)

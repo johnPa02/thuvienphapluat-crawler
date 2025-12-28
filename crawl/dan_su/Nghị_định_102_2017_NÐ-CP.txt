@@ -1,0 +1,524 @@
+Nghị định 102/2017/NÐ-CP
+CHÍNH PHỦ -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 102/2017/NĐ-CP
+Hà Nội, ngày 01 tháng 9 năm 2017
+NGHỊ ĐỊNH VỀ ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+Căn cứ Bộ luật dân sự ngày 24 tháng 11 năm 2015;
+Căn cứ Bộ luật hàng hải Việt Nam ngày 25 tháng 11 năm 2015;
+Căn cứ Luật đất đai ngày 29 tháng 11 năm 2013;
+Căn cứ Luật nhà ở ngày 25 tháng 11 năm 2014;
+Căn cứ Luật hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam ngày 11 tháng 12 năm 2014;
+Căn cứ Luật bảo vệ và phát triển rừng ngày 03 tháng 12 năm 2004
+Theo đề nghị của Bộ trưởng Bộ Tư pháp;
+Chính phủ ban hành Nghị định về đăng ký biện pháp bảo đảm.
+Chương I NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Nghị định này quy định thủ tục đăng ký biện pháp bảo đảm, cung cấp thông tin về biện pháp bảo đảm bằng tài sản (sau đây gọi chung là đăng ký cung cấp thông tin về biện pháp bảo đảm); quản lý nhà nước về đăng ký biện pháp bảo đảm.
+Điều 2. Đối tượng áp dụng
+1. Cá nhân, pháp nhân có yêu cầu đăng ký biện pháp bảo đảm, tìm hiểu thông tin về biện pháp bảo đảm.
+Hộ gia đình có yêu cầu đăng ký biện pháp bảo đảm, tìm hiểu thông tin về biện pháp bảo đảm theo quy định của Bộ luật dân sự.
+2. Cơ quan có thẩm quyền đăng ký, cung cấp thông tin về biện pháp bảo đảm cơ quan có thẩm quyền quản lý nhà nước về đăng ký biện pháp bảo đảm.
+3. Cá nhân, pháp nhân khác có liên quan.
+Điều 3. Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+1. Đăng ký biện pháp bảo đảm là việc cơ quan đăng ký ghi vào sổ đăng ký hoặc nhập vào cơ sở dữ liệu về việc bên bảo đảm dùng tài sản để bảo đảm thực hiện nghĩa vụ đối với bên nhận bảo đảm;
+2. Sổ đăng ký là Sổ địa chính hoặc Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai đối với biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, Sổ đăng bạ tàu bay Việt Nam đối với biện pháp bảo đảm bằng tàu bay, Sổ đăng ký tàu biển quốc gia Việt Nam đối với biện pháp bảo đảm bằng tàu biển hoặc sổ khác theo quy định của pháp luật;
+3. Cơ sở dữ liệu về biện pháp bảo đảm là tập hợp các thông tin về biện pháp bảo đảm đã đăng ký được lưu giữ tại cơ quan đăng ký;
+4. Hệ thống dữ liệu quốc gia về biện pháp bảo đảm là hệ thống các thông tin về biện pháp bảo đảm bằng các loại tài sản đã được đăng ký trong phạm vi cả nước;
+5. Mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm là ký hiệu dãy số và tài khoản đăng ký trực tuyến (gồm tên đăng nhập và mật khẩu) cấp cho cá nhân, pháp nhân để đăng ký trực tuyến biện pháp bảo đảm; [Mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm được hướng dẫn bởi Điều 7 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018]
+6. Hồ sơ đăng ký hợp lệ là hồ sơ có đủ phiếu yêu cầu đăng ký và các giấy tờ hợp lệ khác hoặc có phiếu yêu cầu đăng ký hợp lệ trong trường hợp pháp luật quy định hồ sơ đăng ký chỉ cần có phiếu yêu cầu đăng ký;
+7. Phiếu yêu cầu đăng ký hợp lệ là phiếu có đầy đủ và đúng các nội dung bắt buộc phải kê khai theo mẫu. [Việc ký phiếu yêu cầu đăng ký được hướng dẫn bởi Điều 11 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018 Nội dung hướng dẫn Khoản này tại Thông tư 08/2018/TT-BTP nay được sửa đổi bởi Khoản 8 Điều 1 Thông tư 06/2020/TT-BTP có hiệu lực thi hành kể từ ngày 01/02/2021 Khoản này được hướng dẫn bởi Điều 4, Điểm a, c, g Khoản 2 Điều 7 và Điểm a, c, g Khoản 3 Điều 7 Thông tư 01/2019/TT-BTP có hiệu lực thi hành kể từ ngày 03/3/2019 (VB hết hiệu lực: 01/02/2024)]
+Điều 4. Các trường hợp đăng ký
+[Điều này được hướng dẫn bởi Điều 5 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018 Nội dung hướng dẫn Điều này tại Thông tư 08/2018/TT-BTP nay được sửa đổi bởi Khoản 3 Điều 1 Thông tư 06/2020/TT-BTP có hiệu lực thi hành kể từ ngày 01/02/2021]
+1. Các biện pháp bảo đảm sau đây phải đăng ký:
+a) Thế chấp quyền sử dụng đất;
+b) Thế chấp tài sản gắn liền với đất trong trường hợp tài sản đó đã được chứng nhận quyền sở hữu trên Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất;
+c) Cầm cố tàu bay, thế chấp tàu bay;
+d) Thế chấp tàu biển.
+2. Các biện pháp bảo đảm sau đây được đăng ký khi có yêu cầu:
+a) Thế chấp tài sản là động sản khác;
+b) Thế chấp tài sản gắn liền với đất hình thành trong tương lai; [Đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai được hướng dẫn bởi Điều 14 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+c) Bảo lưu quyền sở hữu trong trường hợp mua bán tài sản gắn liền với đất, tài sản gắn liền với đất hình thành trong tương lai;
+mua bán tàu bay, tàu biển; mua bán tài sản là động sản khác có bảo lưu quyền sở hữu.
+Điều 5. Thời điểm có hiệu lực của đăng ký biện pháp bảo đảm
+1. Trường hợp đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, tàu bay, tàu biển, thì thời điểm có hiệu lực của đăng ký biện pháp bảo đảm là thời điểm cơ quan đăng ký ghi nội dung đăng ký vào sổ đăng ký.
+Trường hợp đăng ký biện pháp bảo đảm bằng tài sản là động sản khác, thì thời điểm có hiệu lực của đăng ký biện pháp bảo đảm là thời điểm nội dung đăng ký được cập nhật vào cơ sở dữ liệu về biện pháp bảo đảm.
+2. Trường hợp đăng ký thay đổi do bổ sung tài sản bảo đảm mà các bên không ký kết hợp đồng bảo đảm mới hoặc do bổ sung nghĩa vụ được bảo đảm và tại thời điểm giao kết hợp đồng bảo đảm các bên không có thỏa thuận về việc bảo đảm cho các nghĩa vụ phát sinh trong tương lai, thì thời điểm có hiệu lực của đăng ký biện pháp bảo đảm đối với tài sản bổ sung hoặc nghĩa vụ bổ sung là thời điểm cơ quan đăng ký ghi nội dung đăng ký thay đổi vào sổ đăng ký hoặc cập nhật vào cơ sở dữ liệu về biện pháp bảo đảm.
+3. Các trường hợp đăng ký sau đây không làm thay đổi thời điểm có hiệu lực của đăng ký biện pháp bảo đảm:
+a) Trường hợp chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở hình thành trong tương lai hoặc chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở do nhà ở hình thành trong tương lai đã được hình thành theo quy định của Luật nhà ở, thì thời điểm có hiệu lực của đăng ký biện pháp bảo đảm là thời điểm đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở;
+b) Các trường hợp đăng ký thay đổi quy định tại các khoản 1, 2, 4 và 5 Điều 18 của Nghị định này.
+Điều 6. Thời hạn có hiệu lực của đăng ký biện pháp bảo đảm
+Việc đăng ký biện pháp bảo đảm có hiệu lực kể từ thời điểm đăng ký theo quy định tại Điều 5 của Nghị định này đến thời điểm xóa đăng ký biện pháp bảo đảm.
+Điều 7. Nguyên tắc đăng ký, cung cấp thông tin về biện pháp bảo đảm
+1. Việc đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, tàu bay, tàu biển đảm bảo nguyên tắc nội dung kê khai và các giấy tờ trong hồ sơ đăng ký phù hợp với thông tin được lưu giữ tại cơ quan đăng ký.
+Cơ quan đăng ký không được yêu cầu nộp thêm bất cứ giấy tờ gì mà pháp luật không quy định trong hồ sơ; không được yêu cầu các bên ký kết hợp đồng sửa lại tên hợp đồng bảo đảm, nội dung hợp đồng bảo đảm, nếu không thuộc trường hợp sai sót do lỗi kê khai của người yêu cầu đăng ký.
+2. Việc đăng ký biện pháp bảo đảm bằng tài sản là động sản khác được thực hiện trên cơ sở nội dung tự kê khai trên phiếu yêu cầu đăng ký, đồng thời người yêu cầu đăng ký chịu trách nhiệm trước pháp luật về tính hợp pháp và chính xác của các thông tin kê khai trong phiếu yêu cầu đăng ký.
+3 Thông tin về biện pháp bảo đảm đã đăng ký được lưu giữ trong số đăng ký cơ sở dữ liệu và Hệ thống dữ liệu quốc gia về biện pháp bảo đảm. Cơ quan đăng ký có trách nhiệm cung cấp thông tin về biện pháp bảo đảm đã đăng ký theo yêu cầu của cá nhân, pháp nhân, hộ gia đình.
+Điều 8. Người yêu cầu đăng ký, nghĩa vụ và trách nhiệm của người yêu cầu đăng ký
+1. Người yêu cầu đăng ký biện pháp bảo đảm, đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, sửa chữa sai sót, đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm, xóa đăng ký biện pháp bảo đảm bao gồm:
+Bên bảo đảm, bên nhận bảo đảm; bên bán tài sản, bên mua tài sản trong trường hợp chuyển nhượng, mua bán tài sản có bảo lưu quyền sở hữu (sau đây gọi chung là bên bảo đảm, bên nhận bảo đảm); Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản trong trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán cho người khác vay tài sản nhưng không thực hiện việc đăng ký biện pháp bảo đảm hoặc người đại diện hợp pháp của các chủ thể này. Trường hợp thay đổi bên bảo đảm, bên nhận bảo đảm, thì bên bảo đảm mới, bên nhận bảo đảm mới là người yêu cầu đăng ký.
+Người yêu cầu đăng ký nộp hồ sơ xóa đăng ký biện pháp bảo đảm theo quy định tại điểm i khoản 1 Điều 21 của Nghị định này trong trường hợp bên bảo đảm, bên nhận bảo đảm không thực hiện xóa đăng ký là cơ quan thi hành án dân sự; Văn phòng thừa phát lại trong trường hợp Văn phòng thừa phát lại thực hiện nhiệm vụ của cơ quan thi hành án dân sự theo quy định của pháp luật (sau đây gọi là Văn phòng thừa phát lại); cá nhân, pháp nhân mua tài sản thi hành án.
+2. Người yêu cầu đăng ký phải kê khai đầy đủ, chính xác, đúng sự thật, phù hợp với nội dung của giao dịch bảo đảm đã giao kết và chịu trách nhiệm về thông tin đã kê khai, cung cấp, trong trường hợp gây thiệt hại, thì phải bồi thường theo quy định của pháp luật.
+Điều 9. Cơ quan có thẩm quyền đăng ký, cung cấp thông tin về biện pháp bảo đảm
+1. Cục Hàng không Việt Nam trực thuộc Bộ Giao thông vận tải thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tàu bay.
+2. Cục Hàng hải Việt Nam hoặc Chi cục hàng hải, Cảng vụ hàng hải theo phân cấp của Cục Hàng hải Việt Nam trực thuộc Bộ Giao thông vận tải (sau đây gọi chung là Cơ quan đăng ký tàu biển Việt Nam) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tàu biển.
+3. Chi nhánh Văn phòng đăng ký đất đai và Văn phòng đăng ký đất đai trực thuộc Sở Tài nguyên và Môi trường (sau đây gọi chung là Văn phòng đăng ký đất đai) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất.
+4. Trung tâm Đăng ký giao dịch, tài sản của Cục Đăng ký quốc gia giao dịch bảo đảm thuộc Bộ Tư pháp (sau đây gọi chung là Trung tâm Đăng ký) thực hiện đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng động sản và các tài sản khác không thuộc thẩm quyền đăng ký của các cơ quan quy định tại các khoản 1, 2 và 3 Điều này. [Khoản này được hướng dẫn bởi Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018 Nội dung hướng dẫn Khoản này tại Thông tư 08/2018/TT-BTP nay được sửa đổi bởi Điều 1, Điều 2 Thông tư 06/2020/TT-BTP có hiệu lực thi hành kể từ ngày 01/02/2021]
+Điều 10. Nhiệm vụ, quyền hạn, trách nhiệm của cơ quan đăng ký, cung cấp thông tin về biện pháp bảo đảm
+1. Cơ quan đăng ký, cung cấp thông tin về biện pháp bảo đảm có nhiệm vụ, quyền hạn sau đây:
+a) Đăng ký biện pháp bảo đảm;
+đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký; sửa chữa sai sót; đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm; xóa đăng ký biện pháp bảo đảm; [Điểm này được hướng dẫn bởi Điều 13 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018 Nội dung hướng dẫn Điểm này tại Thông tư 08/2018/TT-BTP nay được sửa đổi bởi Khoản 10 Điều 1 Thông tư 06/2020/TT-BTP có hiệu lực thi hành kể từ ngày 01/02/2021]
+b) Chứng nhận đăng ký đối với biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất; cấp văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển, tài sản là động sản khác và cấp bản sao các văn bản chứng nhận đăng ký biện pháp bảo đảm;
+c) Cung cấp thông tin về biện pháp bảo đảm;
+d) Từ chối đăng ký, từ chối cung cấp thông tin trong trường hợp có căn cứ quy định tại Điều 15 và Điều 61 của Nghị định này;
+đ) Thu, nộp, quản lý và sử dụng phí đăng ký, phí cung cấp thông tin về giao dịch bảo đảm theo quy định của pháp luật;
+e) Quản lý thông tin đăng ký trực tuyến theo thẩm quyền;
+g) Cập nhật thông tin về biện pháp bảo đảm vào Hệ thống dữ liệu quốc gia về biện pháp bảo đảm;
+h) Lưu trữ hồ sơ, tài liệu về đăng ký biện pháp bảo đảm theo quy định của pháp luật về lưu trữ. [Lưu trữ hồ sơ đăng ký được hướng dẫn bởi Điều 16 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018]
+2. Cơ quan đăng ký, cung cấp thông tin về biện pháp bảo đảm có trách nhiệm sau đây:
+a) Đăng ký chính xác nội dung phiếu yêu cầu đăng ký;
+b) Đăng ký và cung cấp thông tin về biện pháp bảo đảm đúng thời hạn, trừ trường hợp bất khả kháng;
+c) Cung cấp thông tin về biện pháp bảo đảm, trao đổi thông tin về tình trạng pháp lý của tài sản bảo đảm đúng với thông tin được lưu giữ tại cơ quan đăng ký.
+Điều 11. Phí đăng ký, cung cấp thông tin về biện pháp bảo đảm, cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm
+Khi có yêu cầu đăng ký biện pháp bảo đảm, yêu cầu cung cấp thông tin về biện pháp bảo đảm, yêu cầu cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm, yêu cầu cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm, thì người yêu cầu phải nộp phí đăng ký giao dịch bảo đảm, phí cung cấp thông tin về giao dịch bảo đảm, phí cấp bản sao và phí cấp mã số sử dụng cơ sở dữ liệu về giao dịch bảo đảm theo quy định của pháp luật về phí và lệ phí, trừ trường hợp không phải nộp phí đăng ký, phí cung cấp thông tin theo quy định của pháp luật.
+Điều 12. Giấy tờ chứng minh trường hợp không phải nộp phí khi thực hiện đăng ký biện pháp bảo đảm
+[Điều này được hướng dẫn bởi Điều 15 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018]
+1. Trường hợp cá nhân, hộ gia đình là đối tượng không phải nộp phí khi thực hiện đăng ký biện pháp bảo đảm theo quy định của pháp luật về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn, thì người yêu cầu đăng ký nộp một trong các loại giấy tờ sau đây để làm căn cứ chứng minh thuộc đối tượng không phải nộp phí:
+a) Hợp đồng bảo đảm hoặc hợp đồng tín dụng có điều khoản về việc cá nhân, hộ gia đình vay vốn sử dụng vào một trong các lĩnh vực phục vụ phát triển nông nghiệp, nông thôn (01 bản chính hoặc 01 bản sao có chứng thực);
+b) Văn bản xác nhận (có chữ ký và con dấu) của tổ chức tín dụng về việc cá nhân, hộ gia đình vay vốn sử dụng vào một trong các lĩnh vực phục vụ phát triển nông nghiệp, nông thôn (01 bản chính hoặc 01 bản sao có chứng thực).
+2. Trường hợp đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm, xóa đăng ký biện pháp bảo đảm mà trong hồ sơ đăng ký biện pháp bảo đảm trước đó đã có một trong các loại giấy tờ quy định tại khoản 1 Điều này, thì người yêu cầu đăng ký không phải nộp các loại giấy tờ nêu trên.
+Chương II HỒ SƠ, THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+
+Nghị định 102/2017/NÐ-CP. Mục 1. QUY ĐỊNH CHUNG VỀ THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+Điều 13. Phương thức nộp hồ sơ đăng ký biện pháp bảo đảm
+Hồ sơ đăng ký biện pháp bảo đảm được nộp theo một trong các phương thức sau đây:
+1. Qua hệ thống đăng ký trực tuyến;
+2. Nộp trực tiếp;
+3. Qua đường bưu điện;
+4. Qua thư điện tử trong trường hợp người yêu cầu đăng ký đã được cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm.
+Điều 14. Tiếp nhận hồ sơ đăng ký biện pháp bảo đảm
+1. Trường hợp hồ sơ đăng ký biện pháp bảo đảm được nộp trực tiếp, thì sau khi nhận hồ sơ, người tiếp nhận kiểm tra tính hợp lệ của hồ sơ đăng ký.
+Trường hợp hồ sơ đăng ký hợp lệ, người tiếp nhận vào Sổ tiếp nhận, cấp cho người yêu cầu đăng ký Phiếu hẹn trả kết quả. Trường hợp hồ sơ đăng ký không hợp lệ, người tiếp nhận hướng dẫn để người yêu cầu đăng ký trực tiếp hoàn thiện hồ sơ hoặc lập văn bản hướng dẫn hoàn thiện hồ sơ theo quy định của pháp luật.
+2. Trường hợp hồ sơ đăng ký biện pháp bảo đảm được nộp qua đường bưu điện hoặc qua thư điện tử, thì sau khi nhận được hồ sơ, người tiếp nhận kiểm tra tính hợp lệ của hồ sơ đăng ký.
+Trường hợp hồ sơ đăng ký hợp lệ, người tiếp nhận vào sổ tiếp nhận. Trường hợp hồ sơ đăng ký không hợp lệ, ngay trong ngày nhận hồ sơ, người tiếp nhận lập văn bản từ chối tiếp nhận và hướng dẫn hoàn thiện hồ sơ. Văn bản từ chối tiếp nhận và hướng dẫn hoàn thiện hồ sơ được gửi trả lại cùng hồ sơ đăng ký cho người yêu cầu đăng ký qua đường bưu điện có bảo đảm trong trường hợp hồ sơ được gửi qua đường bưu điện hoặc gửi qua thư điện tử trong trường hợp hồ sơ được gửi qua thư điện tử.
+Điều 15. Từ chối đăng ký biện pháp bảo đảm
+[Căn cứ từ chối tiếp nhận trao đổi thông tin được hướng dẫn bởi Điều 19 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018]
+1. Cơ quan đăng ký từ chối đăng ký khi có một trong các căn cứ sau đây:
+a) Không thuộc thẩm quyền đăng ký;
+b) Khi phát hiện thông tin trong hồ sơ đăng ký không phù hợp với thông tin được lưu giữ tại cơ quan đăng ký hoặc có giấy tờ giả mạo; [Điểm này được hướng dẫn bởi khoản 1 Điều 11 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+c) Người yêu cầu đăng ký không nộp phí đăng ký, trừ trường hợp không phải nộp phí đăng ký theo quy định của pháp luật;
+d) Tài sản bảo đảm là quyền sử dụng đất, nhà ở không đủ điều kiện thế chấp theo quy định của Luật đất đai và Luật nhà ở. Trường hợp tài sản bảo đảm là quyền sử dụng đất, nhà ở có tranh chấp, thì cơ quan đăng ký chỉ từ chối đăng ký khi đã có văn bản thụ lý hoặc văn bản chứng minh việc thụ lý giải quyết tranh chấp của cơ quan nhà nước có thẩm quyền giải quyết tranh chấp;
+đ) Kê khai nội dung đăng ký không đúng quy định của pháp luật;
+e) Yêu cầu đăng ký thay đổi, đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm, yêu cầu sửa chữa sai sót trong trường hợp đã xóa đăng ký biện pháp bảo đảm;
+g) Khi cơ quan đăng ký nhận được văn bản của Chấp hành viên của cơ quan thi hành án dân sự hoặc Thừa phát lại của Văn phòng thừa phát lại yêu cầu tạm dừng hoặc dừng việc đăng ký đối với tài sản bảo đảm mà bên bảo đảm là người phải thi hành án theo quy định của pháp luật về thi hành án dân sự;
+h) Khi cơ quan đăng ký nhận được văn bản thông báo về việc kê biên tài sản thi hành án là tài sản bảo đảm do cơ quan thi hành án hoặc Văn phòng thừa phát lại gửi đến.
+2. Trường hợp có căn cứ từ chối đăng ký theo quy định tại khoản 1 Điều này, thì người tiếp nhận hồ sơ phải lập văn bản từ chối, trong đó nêu rõ lý do từ chối và hướng dẫn thực hiện theo đúng quy định của pháp luật.
+3. Việc từ chối được thực hiện trong ngày nhận hồ sơ; nếu nhận hồ sơ sau 15 giờ, thì việc từ chối được thực hiện trong ngày làm việc tiếp theo.
+Điều 16. Thời hạn giải quyết hồ sơ đăng ký, cung cấp thông tin về biện pháp bảo đảm
+1. Cơ quan đăng ký, cung cấp thông tin về biện pháp bảo đảm có trách nhiệm giải quyết hồ sơ đăng ký, cung cấp thông tin trong ngày nhận hồ sơ hợp lệ; nếu nhận hồ sơ sau 15 giờ, thì hoàn thành việc đăng ký, cung cấp thông tin ngay trong ngày làm việc tiếp theo; trường hợp phải kéo dài thời gian giải quyết hồ sơ, thì cũng không quá 03 ngày làm việc.
+2. Trường hợp nộp hồ sơ đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã) hoặc nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả theo cơ chế một cửa, thì thời hạn giải quyết hồ sơ đăng ký được tính từ ngày Văn phòng đăng ký đất đai nhận hồ sơ do Ủy ban nhân dân cấp xã hoặc do Bộ phận tiếp nhận và trả kết quả theo cơ chế một cửa chuyển đến.
+3. Thời hạn quy định tại khoản 1 Điều này được tính từ ngày cơ quan đăng ký nhận được hồ sơ đăng ký hợp lệ.
+Điều 17. Trả kết quả đăng ký, cung cấp thông tin về biện pháp bảo đảm
+Kết quả đăng ký, cung cấp thông tin về biện pháp bảo đảm được cơ quan đăng ký trả cho người yêu cầu đăng ký theo một trong các phương thức sau đây:
+1. Trực tiếp tại cơ quan đăng ký.
+Trường hợp nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả theo cơ chế một cửa hoặc Ủy ban nhân dân cấp xã, thì Bộ phận tiếp nhận và trả kết quả theo cơ chế một cửa hoặc Ủy ban nhân dân cấp xã trả kết quả cho người yêu cầu đăng ký;
+2. Qua đường bưu điện;
+3. Phương thức khác do cơ quan đăng ký và người yêu cầu đăng ký thỏa thuận.
+Điều 18. Các trường hợp đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký
+[Điều này được hướng dẫn bởi Điều 14 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018] Người yêu cầu đăng ký nộp hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, nếu thuộc một trong các trường hợp sau đây:
+1. Rút bớt, bổ sung hoặc thay thế bên bảo đảm, bên nhận bảo đảm theo thỏa thuận của bên bảo đảm, bên nhận bảo đảm; thay đổi tên hoặc thay đổi bên bảo đảm, bên nhận bảo đảm do tổ chức lại doanh nghiệp;
+2. Rút bớt tài sản bảo đảm;
+3. Bổ sung tài sản bảo đảm mà các bên không ký kết hợp đồng bảo đảm mới;
+4. Tài sản bảo đảm là tài sản hình thành trong tương lai đã hình thành, trừ trường hợp tài sản bảo đảm hình thành trong tương lai là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh hoặc tài sản bảo đảm hình thành trong tương lai là phương tiện giao thông cơ giới đã kê khai số khung khi đăng ký biện pháp bảo đảm.
+Trường hợp tài sản bảo đảm là tài sản gắn liền với đất hình thành trong tương lai (bao gồm cả nhà ở hình thành trong tương lai) đã hình thành, thì thủ tục đăng ký thay đổi được thực hiện đồng thời với thủ tục chứng nhận quyền sở hữu tài sản vào Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất;
+5. Yêu cầu sửa chữa sai sót nội dung đã kê khai trong phiếu yêu cầu đăng ký;
+6. Bổ sung nghĩa vụ được bảo đảm mà trong hợp đồng bảo đảm ban đầu các bên không có thỏa thuận về việc cầm cố, thế chấp tài sản để bảo đảm cho các nghĩa vụ phát sinh trong tương lai.
+Điều 19. Đăng ký văn bản thông báo xử lý tài sản bảo đảm
+Trường hợp xử lý tài sản bảo đảm mà người xử lý tài sản bảo đảm có yêu cầu đăng ký văn bản thông báo xử lý tài sản bảo đảm, thì gửi hồ sơ đăng ký văn bản thông báo xử lý tài sản bảo đảm theo phương thức quy định tại Điều 13 của Nghị định này đến cơ quan đăng ký có thẩm quyền.
+Điều 20. Sửa chữa sai sót nội dung biện pháp bảo đảm đã đăng ký do lỗi của cơ quan đăng ký
+Người yêu cầu đăng ký gửi phiếu yêu cầu sửa chữa sai sót theo phương thức quy định tại Điều 13 của Nghị định này đến cơ quan đăng ký có thẩm quyền, nếu phát hiện có sai sót về nội dung đã đăng ký do lỗi của cơ quan đăng ký.
+Điều 21. Các trường hợp xóa đăng ký biện pháp bảo đảm
+1. Người yêu cầu đăng ký nộp hồ sơ xóa đăng ký biện pháp bảo đảm khi có một trong các căn cứ sau đây: [Khoản này được hướng dẫn bởi Điều 19 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+a) Chấm dứt nghĩa vụ được bảo đảm;
+b) Hủy bỏ hoặc thay thế biện pháp bảo đảm đã đăng ký bằng biện pháp bảo đảm khác;
+c) Thay thế toàn bộ tài sản bảo đảm bằng tài sản khác;
+d) Xử lý xong toàn bộ tài sản bảo đảm;
+đ) Tài sản bảo đảm bị tiêu hủy, bị tổn thất toàn bộ;
+tài sản gắn liền với đất là tài sản bảo đảm bị phá dỡ, bị tịch thu theo quyết định của cơ quan nhà nước có thẩm quyền;
+e) Có bản án, quyết định của Tòa án hoặc quyết định của Trọng tài đã có hiệu lực pháp luật về việc hủy bỏ biện pháp bảo đảm, tuyên bố biện pháp bảo đảm vô hiệu;
+g) Đơn phương chấm dứt biện pháp bảo đảm hoặc tuyên bố chấm dứt biện pháp bảo đảm trong các trường hợp khác theo quy định của pháp luật;
+h) Xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở trong trường hợp chuyển tiếp đăng ký thế chấp theo quy định của pháp luật;
+i) Cơ quan thi hành án dân sự hoặc Văn phòng thừa phát lại đã kê biên, xử lý xong tài sản bảo đảm;
+k) Theo thỏa thuận của các bên.
+2. Trường hợp một tài sản được dùng để bảo đảm thực hiện nhiều nghĩa vụ, thì khi yêu cầu đăng ký biện pháp bảo đảm tiếp theo, người yêu cầu đăng ký không phải xóa đăng ký đối với biện pháp bảo đảm đã đăng ký trước đó.
+Điều 22. Cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm
+1. Người yêu cầu đăng ký biện pháp bảo đảm có quyền yêu cầu cơ quan đăng ký cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển, tài sản là động sản khác.
+2. Việc yêu cầu cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm được thực hiện theo một trong các phương thức quy định tại
+Điều 13 của Nghị định này.
+3. Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được yêu cầu, cơ quan đăng ký cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm cho cá nhân, pháp nhân có yêu cầu.
+Điều 23. Đăng ký biện pháp bảo đảm trong trường hợp bổ sung nghĩa vụ được bảo đảm
+1. Trường hợp bổ sung nghĩa vụ được bảo đảm mà các bên ký kết hợp đồng bảo đảm mới, có hiệu lực độc lập với hợp đồng bảo đảm đã đăng ký trước đó, thì người yêu cầu đăng ký thực hiện đăng ký biện pháp bảo đảm mới và không phải xóa đăng ký biện pháp bảo đảm trước đó.
+2. Trường hợp bổ sung nghĩa vụ được bảo đảm mà các bên ký kết hợp đồng bảo đảm mới thay thế hợp đồng bảo đảm đã đăng ký, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm và 01 bộ hồ sơ đăng ký biện pháp bảo đảm mới để thực hiện đồng thời thủ tục xóa đăng ký biện pháp bảo đảm trước đó và thủ tục đăng ký biện pháp bảo đảm mới.
+3. Các bên không phải thực hiện đăng ký thay đổi đối với trường hợp bổ sung nghĩa vụ được bảo đảm, nếu đáp ứng đủ các điều kiện sau đây:
+a) Trong hợp đồng bảo đảm hoặc hợp đồng có nghĩa vụ được bảo đảm đã đăng ký có điều khoản về việc cầm cố, thế chấp tài sản bảo đảm cho các nghĩa vụ sẽ phát sinh trong tương lai;
+b) Bổ sung nghĩa vụ được bảo đảm nhưng không bổ sung tài sản bảo đảm;
+c) Các bên chỉ ký kết hợp đồng sửa đổi, bổ sung hợp đồng bảo đảm đã đăng ký hoặc sửa đổi hợp đồng có nghĩa vụ được bảo đảm mà không ký kết hợp đồng bảo đảm mới.
+
+Nghị định 102/2017/NÐ-CP. Mục 2. HỒ SƠ, THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BAY
+Điều 24. Hồ sơ đăng ký cầm cố tàu bay, thế chấp tàu bay
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký cầm cố tàu bay, thế chấp tàu bay sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng cầm cố tàu bay, thế chấp tàu bay (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 25. Hồ sơ đăng ký bảo lưu quyền sở hữu tàu bay trong trường hợp mua bán tàu bay có bảo lưu quyền sở hữu
+Trường hợp mua bán tàu bay có bảo lưu quyền sở hữu, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký bảo lưu quyền sở hữu sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng mua bán tàu bay có điều khoản bảo lưu quyền sở hữu hoặc hợp đồng mua bán tàu bay kèm văn bản về bảo lưu quyền sở hữu tàu bay (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 26. Hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng tàu bay đã đăng ký
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng tàu bay đã đăng ký sau đây:
+1. Phiếu yêu cầu đăng ký thay đổi (01 bản chính);
+2. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay đã cấp (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Hợp đồng sửa đổi, bổ sung hợp đồng cầm cố, thế chấp tàu bay hoặc hợp đồng sửa đổi, bổ sung hợp đồng mua bán tàu bay có điều khoản bảo lưu quyền sở hữu hoặc văn bản sửa đổi, bổ sung văn bản về bảo lưu quyền sở hữu tàu bay hoặc văn bản chứng minh nội dung thay đổi (01 bản chính hoặc 01 bản sao có chứng thực);
+4. Danh mục các hợp đồng cầm cố, thế chấp tàu bay đã đăng ký hoặc danh mục hợp đồng mua bán tàu bay có điều khoản bảo lưu quyền sở hữu hoặc văn bản về bảo lưu quyền sở hữu tàu bay đã đăng ký đối với trường hợp thay đổi tên của bên nhận bảo đảm hoặc thay đổi bên nhận bảo đảm trong nhiều hợp đồng cầm cố, thế chấp tàu bay hoặc hợp đồng mua bán tàu bay có điều khoản bảo lưu quyền sở hữu hoặc văn bản về bảo lưu quyền sở hữu tàu bay đã đăng ký (01 bản sao không có chứng thực);
+5. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 27. Hồ sơ sửa chữa sai sót nội dung biện pháp bảo đảm bằng tàu bay đã đăng ký do lỗi của cơ quan đăng ký
+Trường hợp người yêu cầu đăng ký phát hiện có sai sót về nội dung biện pháp bảo đảm bằng tàu bay đã đăng ký do lỗi của cơ quan đăng ký, thì nộp 01 bộ hồ sơ sửa chữa sai sót sau đây:
+1. Phiếu yêu cầu sửa chữa sai sót (01 bản chính);
+2. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay đã cấp, nếu có sai sót (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 28. Hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản cầm cố tàu bay, thế chấp tàu bay
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản cầm cố tàu bay, thế chấp tàu bay sau đây:
+1. Phiếu yêu cầu đăng ký văn bản thông báo về việc xử lý tài sản cầm cố, thế chấp (01 bản chính);
+2. Văn bản thông báo về việc xử lý tài sản cầm cố, thế chấp (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+3. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay đã cấp (01 bản sao không có chứng thực);
+4. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 29. Hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu bay
+1. Người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu bay sau đây:
+a) Phiếu yêu cầu xóa đăng ký (01 bản chính);
+b) Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay đã cấp (01 bản chính hoặc 01 bản sao có chứng thực);
+c) Văn bản đồng ý xóa đăng ký biện pháp bảo đảm bằng tàu bay của bên nhận bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) hoặc văn bản xác nhận về việc chấm dứt nghĩa vụ của bên bảo đảm đối với bên nhận bảo đảm (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm và trên phiếu yêu cầu xóa đăng ký không có chữ ký của bên nhận bảo đảm;
+d) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+2. Trường hợp xóa đăng ký quy định tại điểm i khoản 1 Điều 21 của Nghị định này, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu bay sau đây:
+a) Các giấy tờ nêu tại các điểm a, b và d khoản 1 Điều này;
+b) Văn bản xác nhận kết quả xử lý tài sản bảo đảm của cơ quan thi hành án dân sự hoặc Văn phòng thừa phát lại (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 30. Thủ tục đăng ký biện pháp bảo đảm bằng tàu bay; đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký; sửa chữa sai sót; xóa đăng ký; đăng ký văn bản thông báo về việc xử lý tài sản cầm cố tàu bay, thế chấp tàu bay
+1. Trường hợp đăng ký cầm cố tàu bay, thế chấp tàu bay, đăng ký bảo lưu quyền sở hữu tàu bay, đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản cầm cố, thế chấp, trong thời hạn giải quyết hồ sơ, Cục Hàng không Việt Nam kiểm tra, xác minh các thông tin trong hồ sơ với các thông tin được lưu giữ trong Sổ đăng bạ tàu bay Việt Nam, ghi nội dung đăng ký cầm cố, thế chấp, nội dung bảo lưu quyền sở hữu tàu bay, đăng ký thay đổi, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản cầm cố, thế chấp vào số đăng bạ tàu bay Việt Nam và cấp văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay cho người yêu cầu đăng ký.
+2. Trường hợp thay thế tàu bay, thì người yêu cầu đăng ký phải nộp hồ sơ xóa đăng ký theo quy định tại Điều 29 của Nghị định này và nộp hồ sơ đăng ký biện pháp bảo đảm theo quy định tại Điều 24 của Nghị định này.
+3. Trường hợp đăng ký văn bản thông báo về việc xử lý tài sản cầm cố tàu bay, thế chấp tàu bay, thì Cục Hàng không Việt Nam gửi văn bản chứng nhận đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm cho các bên cùng nhận bảo đảm trong trường hợp tàu bay được dùng để bảo đảm thực hiện nhiều nghĩa vụ theo địa chỉ ghi trong Sổ đăng bạ tàu bay Việt Nam.
+4. Trường hợp cơ quan đăng ký phát hiện trong Sổ đăng bạ tàu bay Việt Nam hoặc trong văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay có sai sót về nội dung đã đăng ký do lỗi của mình, thì trong thời hạn 01 ngày làm việc, Cục Hàng không Việt Nam có trách nhiệm chỉnh lý thông tin sai sót về nội dung đăng ký trong Sổ đăng bạ tàu bay Việt Nam; nếu có sai sót trong văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay, thì chỉnh lý và cấp lại văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay, đồng thời gửi văn bản thông báo cho người yêu cầu đăng ký việc chỉnh lý thông tin và thu hồi văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay đã cấp có sai sót.
+Trường hợp người yêu cầu đăng ký nộp hồ sơ yêu cầu sửa chữa sai sót nội dung biện pháp bảo đảm bằng tàu bay đã đăng ký do lỗi của cơ quan đăng ký, thì trong thời hạn 01 ngày làm việc, Cục Hàng không Việt Nam có trách nhiệm chỉnh lý và cấp lại văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu bay và trả kết quả cho người yêu cầu đăng ký.
+
+Nghị định 102/2017/NÐ-CP. Mục 3. HỒ SƠ, THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀU BIỂN
+Điều 31. Tàu biển được thế chấp
+Các loại tàu biển sau đây được thế chấp:
+1. Tàu biển đăng ký không thời hạn;
+2. Tàu biển đăng ký có thời hạn;
+3. Tàu biển đang đóng;
+4. Tàu biển đăng ký tạm thời;
+5. Tàu biển loại nhỏ.
+Điều 32. Hồ sơ đăng ký thế chấp tàu biển
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp tàu biển sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng thế chấp tàu biển (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 33. Hồ sơ đăng ký bảo lưu quyền sở hữu tàu biển trong trường hợp mua bán tàu biển có bảo lưu quyền sở hữu
+Trường hợp mua bán tàu biển có bảo lưu quyền sở hữu, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký bảo lưu quyền sở hữu sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng mua bán tàu biển có điều khoản bảo lưu quyền sở hữu hoặc hợp đồng mua bán tàu biển kèm văn bản về bảo lưu quyền sở hữu tàu biển (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 34. Hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng tàu biển đã đăng ký
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng tàu biển đã đăng ký sau đây:
+1. Phiếu yêu cầu đăng ký thay đổi (01 bản chính);
+2. Hợp đồng sửa đổi, bổ sung hợp đồng thế chấp tàu biển hoặc hợp đồng sửa đổi, bổ sung hợp đồng mua bán tàu biển có điều khoản bảo lưu quyền sở hữu hoặc văn bản sửa đổi, bổ sung văn bản về bảo lưu quyền sở hữu tàu biển hoặc văn bản chứng minh nội dung thay đổi (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp (01 bản chính hoặc 01 bản sao có chứng thực);
+4. Danh mục các hợp đồng thế chấp tàu biển đã đăng ký hoặc danh mục hợp đồng mua bán tàu biển có điều khoản bảo lưu quyền sở hữu hoặc văn bản về bảo lưu quyền sở hữu tàu biển đã đăng ký đối với trường hợp thay đổi tên của bên nhận bảo đảm hoặc thay đổi bên nhận bảo đảm trong nhiều hợp đồng thế chấp tàu biển hoặc hợp đồng mua bán tàu biển có điều khoản bảo lưu quyền sở hữu hoặc văn bản về bảo lưu quyền sở hữu tàu biển đã đăng ký (01 bản sao không có chứng thực);
+5. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 35. Hồ sơ sửa chữa sai sót nội dung biện pháp bảo đảm bằng tàu biển đã đăng ký do lỗi của cơ quan đăng ký
+Trường hợp người yêu cầu đăng ký phát hiện có sai sót về nội dung biện pháp bảo đảm bằng tàu biển đã đăng ký do lỗi của cơ quan đăng ký, thì nộp 01 bộ hồ sơ sửa chữa sai sót sau đây:
+1. Phiếu yêu cầu sửa chữa sai sót (01 bản chính);
+2. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp nếu có sai sót (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 36. Hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản thế chấp tàu biển
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản thế chấp tàu biển sau đây:
+1. Phiếu yêu cầu đăng ký văn bản thông báo về việc xử lý tài sản thế chấp (01 bản chính);
+2. Văn bản thông báo về việc xử lý tài sản thế chấp (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+3. Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp (01 bản sao không có chứng thực);
+4. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 37. Hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu biển
+1. Người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu biển sau đây:
+a) Phiếu yêu cầu xóa đăng ký (01 bản chính);
+b) Văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp (01 bản chính hoặc 01 bản sao có chứng thực);
+c) Văn bản đồng ý xóa đăng ký biện pháp bảo đảm bằng tàu biển của bên nhận bảo đảm (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) hoặc văn bản xác nhận về việc chấm dứt nghĩa vụ của bên bảo đảm đối với bên nhận bảo đảm (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) trong trường hợp người yêu cầu xóa đăng ký là bên bảo đảm và trên phiếu yêu cầu xóa đăng ký không có chữ ký của bên nhận bảo đảm;
+d) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+2. Trường hợp xóa đăng ký quy định tại điểm i khoản 1 Điều 21 của Nghị định này, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm bằng tàu biển sau đây:
+a) Các giấy tờ nêu tại các điểm a, b và d khoản 1 Điều này;
+b) Văn bản xác nhận kết quả xử lý tài sản bảo đảm của cơ quan thi hành án dân sự hoặc Văn phòng thừa phát lại (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 38. Thủ tục đăng ký biện pháp bảo đảm bằng tàu biển; đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký; sửa chữa sai sót; xóa đăng ký; đăng ký văn bản thông báo về việc xử lý tài sản thế chấp tàu biển
+1. Trường hợp đăng ký thế chấp tàu biển, đăng ký bảo lưu quyền sở hữu tàu biển, đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản thế chấp, thì trong thời hạn giải quyết hồ sơ, Cơ quan đăng ký tàu biển Việt Nam kiểm tra, xác minh các thông tin trong hồ sơ với các thông tin được lưu giữ trong số đăng ký tàu biển quốc gia Việt Nam, ghi nội dung đăng ký thế chấp, nội dung bảo lưu quyền sở hữu tàu biển, đăng ký thay đổi, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản thế chấp vào Sổ đăng ký tàu biển quốc gia Việt Nam và cấp văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển cho người yêu cầu đăng ký.
+Trường hợp đăng ký văn bản thông báo về việc xử lý tài sản thế chấp, thì Cơ quan đăng ký tàu biển Việt Nam gửi văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển cho các bên cùng nhận thế chấp trong trường hợp tàu biển được dùng để bảo đảm thực hiện nhiều nghĩa vụ theo địa chỉ lưu giữ trong Sổ đăng ký tàu biển quốc gia Việt Nam.
+2. Trường hợp cơ quan đăng ký phát hiện trong Sổ đăng ký tàu biển quốc gia Việt Nam hoặc trong văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp có sai sót về nội dung đã đăng ký do lỗi của mình, thì trong thời hạn 01 ngày làm việc, Cơ quan đăng ký tàu biển Việt Nam có trách nhiệm chỉnh lý thông tin sai sót về nội dung đăng ký trong Sổ đăng ký tàu biển quốc gia Việt Nam; nếu có sai sót trong văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp, thì chỉnh lý và cấp lại văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển, đồng thời gửi văn bản thông báo cho người yêu cầu đăng ký việc chỉnh lý thông tin và thu hồi văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển đã cấp có sai sót.
+Trường hợp người yêu cầu đăng ký nộp hồ sơ yêu cầu sửa chữa sai sót nội dung biện pháp bảo đảm bằng tàu biển đã đăng ký do lỗi của cơ quan đăng ký, thì trong thời hạn 01 ngày làm việc, Cơ quan đăng ký tàu biển Việt Nam có trách nhiệm chỉnh lý và cấp lại văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển và trả kết quả cho người yêu cầu đăng ký.
+
+Nghị định 102/2017/NÐ-CP. Mục 4. HỒ SƠ, THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG QUYỀN SỬ DỤNG ĐẤT, TÀI SẢN GẮN LIỀN VỚI ĐẤT
+Điều 39. Hồ sơ đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp quyền sử dụng đất hoặc đăng ký thế chấp quyền sử dụng đất đồng thời với tài sản gắn liền với đất hoặc đăng ký thế chấp tài sản gắn liền với đất sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng thế chấp hoặc hợp đồng thế chấp có công chứng, chứng thực trong trường hợp pháp luật quy định (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Bản chính Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc một trong các loại giấy chứng nhận quy định tại khoản 2 Điều 97 của Luật đất đai (sau đây gọi chung là Giấy chứng nhận);
+4. Đối với trường hợp thế chấp tài sản gắn liền với đất hình thành trong tương lai không phải là nhà ở, thì ngoài các giấy tờ quy định tại các khoản 1, 2 và 3 Điều này, người yêu cầu đăng ký phải nộp các giấy tờ sau đây:
+a) Giấy phép xây dựng theo quy định của pháp luật phải xin phép xây dựng hoặc Quyết định phê duyệt dự án đầu tư theo quy định của pháp luật phải lập dự án đầu tư (01 bản sao không có chứng thực), trừ trường hợp hợp đồng thế chấp tài sản đó có công chứng, chứng thực; một trong các loại Bản vẽ thiết kế thể hiện được mặt bằng công trình của dự án trong trường hợp chủ đầu tư thế chấp dự án xây dựng công trình (01 bản sao không có chứng thực);
+b) Giấy phép xây dựng theo quy định của pháp luật phải xin phép xây dựng hoặc Quyết định phê duyệt dự án đầu tư theo quy định của pháp luật phải lập dự án đầu tư (01 bản sao không có chứng thực), trừ trường hợp hợp đồng thế chấp tài sản đó có công chứng, chứng thực; một trong các loại Bản vẽ thiết kế thể hiện được mặt bằng của tài sản gắn liền với đất đã được cơ quan có thẩm quyền phê duyệt trong trường hợp thế chấp tài sản gắn liền với đất hình thành trong tương lai là công trình xây dựng khác (01 bản sao không có chứng thực);
+5. Văn bản thỏa thuận có công chứng, chứng thực giữa người sử dụng đất và chủ sở hữu tài sản gắn liền với đất về việc tạo lập tài sản gắn liền với đất trong trường hợp thế chấp tài sản gắn liền với đất mà người sử dụng đất không đồng thời là chủ sở hữu tài sản gắn liền với đất (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+6. Giấy tờ chứng minh trong các trường hợp sau đây:
+a) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+b) Một trong các loại giấy tờ chứng minh thuộc đối tượng không phải nộp phí khi thực hiện đăng ký biện pháp bảo đảm theo quy định tại Điều 12 của Nghị định này.
+Điều 40. Hồ sơ đăng ký thế chấp dự án đầu tư xây dựng nhà ở, nhà ở hình thành trong tương lai
+1. Trường hợp đăng ký thế chấp dự án đầu tư xây dựng nhà ở, nhà ở hình thành trong tương lai xây dựng trong dự án của chủ đầu tư, người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp sau đây:
+a) Các loại giấy tờ quy định tại khoản 1, khoản 2 và điểm a khoản 6 Điều 39 của Nghị định này;
+b) Bản chính Giấy chứng nhận hoặc bản chính Quyết định giao đất, cho thuê đất do cơ quan có thẩm quyền cấp cho chủ đầu tư;
+c) Giấy phép xây dựng theo quy định của pháp luật phải xin phép xây dựng hoặc Quyết định phê duyệt dự án đầu tư theo quy định của pháp luật phải lập dự án đầu tư (01 bản sao không có chứng thực), trừ trường hợp hợp đồng thế chấp tài sản đó có công chứng, chứng thực;
+d) Một trong các loại Bản vẽ thiết kế theo quy định của pháp luật về xây dựng thể hiện được mặt bằng công trình của dự án hoặc mặt bằng của công trình xây dựng trong dự án đó đã được cơ quan có thẩm quyền phê duyệt đối với trường hợp thế chấp dự án đầu tư xây dựng nhà ở (01 bản sao không có chứng thực).
+2. Trường hợp đăng ký thế chấp nhà ở hình thành trong tương lai của cá nhân, pháp nhân, hộ gia đình mua nhà ở hình thành trong tương lai trong dự án đầu tư xây dựng nhà ở, người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp sau đây:
+a) Các loại giấy tờ quy định tại khoản 1, khoản 2 và điểm a khoản 6 Điều 39 của Nghị định này;
+b) Hợp đồng mua bán nhà ở được ký giữa bên thế chấp với chủ đầu tư phù hợp với quy định của pháp luật về nhà ở (01 bản chính hoặc 01 bản sao có chứng thực).
+Trường hợp bên thế chấp là bên nhận chuyển nhượng hợp đồng mua bán nhà ở, thì phải nộp thêm văn bản chuyển nhượng hợp đồng mua bán nhà ở phù hợp với quy định của pháp luật về nhà ở (01 bản chính hoặc 01 bản sao có chứng thực).
+3. Trường hợp đăng ký thế chấp quyền sử dụng đất đồng thời với nhà ở hình thành trong tương lai hoặc đăng ký thế chấp nhà ở hình thành trong tương lai của cá nhân, pháp nhân, hộ gia đình xây dựng trên thửa đất thuộc quyền sử dụng của mình, người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp sau đây:
+a) Các loại giấy tờ quy định tại các khoản 1, 2, 3 và 6 Điều 39 của Nghị định này;
+b) Giấy phép xây dựng theo quy định của pháp luật phải xin phép xây dựng, trừ trường hợp hợp đồng thế chấp tài sản có công chứng, chứng thực (01 bản sao không có chứng thực).
+Điều 41. Hồ sơ đăng ký thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận:
+[Đăng ký thế chấp trong trường hợp tài sản gắn liền với đất hình thành trong tương lai đã hình thành và được chứng nhận quyền sở hữu được hướng dẫn bởi Điều 15,17 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+1. Trường hợp thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận mà chủ sở hữu tài sản gắn liền với đất đồng thời là người sử dụng đất thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp sau đây:
+a) Các giấy tờ nêu tại các khoản 1, 2, 3 và 6 Điều 39 của Nghị định này;
+b) Hồ sơ đề nghị chứng nhận quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật đất đai.
+2. Trường hợp thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận và chủ sở hữu tài sản gắn liền với đất không đồng thời là người sử dụng đất, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thế chấp sau đây:
+a) Các loại giấy tờ quy định tại các khoản 1, 2 và 6 Điều 39 của Nghị định này;
+b) Hồ sơ đề nghị chứng nhận quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai.
+Điều 42. Hồ sơ đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản gắn liền với đất có bảo lưu quyền sở hữu
+Trường hợp mua bán tài sản gắn liền với đất có bảo lưu quyền sở hữu, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký bảo lưu quyền sở hữu sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng mua bán tài sản có điều khoản bảo lưu quyền sở hữu hoặc hợp đồng mua bán tài sản kèm văn bản về bảo lưu quyền sở hữu có công chứng, chứng thực trong trường hợp pháp luật quy định (01 bản chính hoặc 01 bản sao có chứng thực);
+3. Bản chính Giấy chứng nhận;
+4. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 43. Hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký
+1. Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký thay đổi nội dung biện pháp bảo đảm bằng quyền sử dụng đất hoặc quyền sử dụng đất đồng thời với tài sản gắn liền với đất hoặc tài sản gắn liền với đất đã đăng ký sau đây:
+a) Phiếu yêu cầu đăng ký thay đổi (01 bản chính);
+b) Hợp đồng sửa đổi, bổ sung hợp đồng thế chấp (trừ trường hợp đăng ký thay đổi đối với tài sản bảo đảm là tài sản gắn liền với đất hình thành trong tương lai đã hình thành quy định tại khoản 4 Điều 18 của Nghị định này) hoặc hợp đồng sửa đổi, bổ sung hợp đồng mua bán tài sản có điều khoản bảo lưu quyền sở hữu hoặc văn bản sửa đổi, bổ sung văn bản về bảo lưu quyền sở hữu trong trường hợp thay đổi nội dung biện pháp bảo đảm theo thỏa thuận của các bên (01 bản chính hoặc 01 bản sao có chứng thực) hoặc văn bản khác chứng minh nội dung thay đổi (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) trong trường hợp thay đổi nội dung biện pháp bảo đảm theo quyết định của cơ quan có thẩm quyền;
+c) Bản chính Giấy chứng nhận đối với trường hợp đăng ký biện pháp bảo đảm mà trong hồ sơ đăng ký có Giấy chứng nhận;
+d) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+2. Trường hợp đã đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất mà người sử dụng đất, chủ sở hữu tài sản gắn liền với đất được cơ quan nhà nước có thẩm quyền cho phép đổi tên khác với tên ghi trên Giấy chứng nhận đã cấp, thì việc thực hiện đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký được thực hiện đồng thời với thủ tục chỉnh lý biến động đất đai (thay đổi tên người sử dụng đất, chủ sở hữu tài sản gắn liền với đất trên Giấy chứng nhận).
+Văn phòng đăng ký đất đai xác nhận thay đổi tên của bên bảo đảm trong trường hợp thế chấp quyền sử dụng đất, tài sản gắn liền với đất hoặc tên của bên nhận bảo đảm trong trường hợp mua bán tài sản có bảo lưu quyền sở hữu trên Giấy chứng nhận và hồ sơ địa chính trước khi thực hiện thủ tục đăng ký thay đổi nội dung biện pháp bảo đảm. Trong trường hợp này, người yêu cầu đăng ký không phải xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất trước khi thực hiện đăng ký thay đổi.
+Điều 44. Hồ sơ sửa chữa sai sót nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký
+Trường hợp người yêu cầu đăng ký phát hiện trong phiếu yêu cầu đăng ký hoặc Giấy chứng nhận có sai sót về nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký, thì nộp 01 bộ hồ sơ sửa chữa sai sót sau đây:
+1. Phiếu yêu cầu sửa chữa sai sót (01 bản chính);
+2. Phiếu yêu cầu đăng ký đã chứng nhận có sai sót (01 bản chính);
+3. Bản chính Giấy chứng nhận trong trường hợp nội dung chứng nhận có sai sót;
+4. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 45. Hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất sau đây:
+1. Phiếu yêu cầu đăng ký văn bản thông báo về việc xử lý tài sản thế chấp (01 bản chính);
+2. Văn bản thông báo về việc xử lý tài sản thế chấp (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 46. Hồ sơ chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở
+[Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở được hướng dẫn bởi Điều 18 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+1. Khi có yêu cầu chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở hình thành trong tương lai, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sau đây:
+a) Phiếu yêu cầu chuyển tiếp đăng ký thế chấp (01 bản chính);
+b) Văn bản cung cấp thông tin về việc thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) hoặc văn bản chứng nhận đăng ký biện pháp bảo đảm (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) và văn bản chứng nhận đăng ký thay đổi nội dung thế chấp đã đăng ký do cơ quan đăng ký thế chấp quyền tài sản cấp, nếu có (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+c) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+2. Khi có yêu cầu chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở do nhà ở hình thành trong tương lai đã được hình thành (đã được nghiệm thu đưa vào sử dụng), thì người yêu cầu đăng ký nộp 01 bộ hồ sơ chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sau đây:
+a) Các loại giấy tờ quy định tại các điểm a, b và c khoản 1 Điều này;
+b) Hợp đồng thế chấp nhà ở có công chứng, chứng thực theo quy định của pháp luật (01 bản chính hoặc 01 bản sao có chứng thực);
+c) Giấy chứng nhận (đã có chứng nhận quyền sở hữu nhà ở).
+Điều 47. Hồ sơ xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất
+1. Người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất sau đây:
+a) Phiếu yêu cầu xóa đăng ký (01 bản chính);
+b) Văn bản đồng ý xóa đăng ký biện pháp bảo đảm của bên nhận bảo đảm (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) hoặc văn bản xác nhận giải chấp của bên nhận bảo đảm (01 bản chính hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu) trong trường hợp phiếu yêu cầu xóa đăng ký chỉ có chữ ký của bên bảo đảm;
+c) Bản chính Giấy chứng nhận đối với trường hợp đăng ký biện pháp bảo đảm mà trong hồ sơ đăng ký có Giấy chứng nhận;
+d) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+2. Trường hợp xóa đăng ký quy định tại điểm i khoản 1 Điều 21 của Nghị định này, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký thế chấp sau đây:
+a) Các giấy tờ nêu tại các điểm a, c và d khoản 1 Điều này;
+b) Văn bản xác nhận kết quả xử lý tài sản bảo đảm của cơ quan thi hành án dân sự hoặc Văn phòng thừa phát lại (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 48. Thủ tục đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất; đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký; sửa chữa sai sót; xóa đăng ký; đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất
+1. Trường hợp đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký, xóa đăng ký, thì trong thời hạn giải quyết hồ sơ, Văn phòng đăng ký đất đai ghi nội dung đăng ký thế chấp, nội dung bảo lưu quyền sở hữu, đăng ký thay đổi, xóa đăng ký và thời điểm đăng ký theo đúng thứ tự tiếp nhận hồ sơ vào Sổ địa chính và Giấy chứng nhận. Sau khi ghi vào sổ địa chính và Giấy chứng nhận, thì chứng nhận nội dung đăng ký vào phiếu yêu cầu đăng ký.
+2. Trường hợp đăng ký văn bản thông báo về việc xử lý tài sản thế chấp, Văn phòng đăng ký đất đai ghi nội dung đăng ký văn bản thông báo vào Sổ địa chính; chứng nhận nội dung đăng ký vào phiếu yêu cầu đăng ký và thông báo bằng văn bản về việc xử lý tài sản thế chấp cho các bên cùng nhận thế chấp đã đăng ký trong trường hợp quyền sử dụng đất, tài sản gắn liền với đất được dùng để bảo đảm thực hiện nhiều nghĩa vụ.
+3. Trường hợp cơ quan đăng ký phát hiện trong sổ đăng ký, Giấy chứng nhận, phiếu yêu cầu đăng ký có sai sót về nội dung đã đăng ký do lỗi của mình, thì trong thời hạn 01 ngày làm việc, Văn phòng đăng ký đất đai có trách nhiệm chỉnh lý thông tin sai sót về nội dung đăng ký và gửi văn bản thông báo về việc chỉnh lý thông tin đó cho người yêu cầu đăng ký theo địa chỉ ghi trên phiếu yêu cầu đăng ký.
+Trường hợp người yêu cầu đăng ký nộp hồ sơ yêu cầu sửa chữa sai sót nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký, thì trong thời hạn 01 ngày làm việc, Văn phòng đăng ký đất đai đính chính thông tin sai sót trên Giấy chứng nhận và số đăng ký, chứng nhận việc sửa chữa sai sót vào phiếu yêu cầu sửa chữa sai sót và trả kết quả cho người yêu cầu đăng ký.
+Điều 49. Thủ tục chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở
+[Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở được hướng dẫn bởi Điều 18 Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+1. Trong thời hạn giải quyết hồ sơ, Văn phòng đăng ký đất đai thực hiện các công việc sau:
+a) Ghi chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở và ghi thời điểm đăng ký thế chấp vào sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai (đối với trường hợp chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở hình thành trong tương lai); ghi chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở và ghi thời điểm đăng ký thế chấp vào Sổ địa chính, Giấy chứng nhận đã cấp (đối với trường hợp chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở sang đăng ký thế chấp nhà ở do nhà ở hình thành trong tương lai đã hình thành);
+b) Ghi chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở và ghi thời điểm đăng ký thế chấp vào phiếu yêu cầu chuyển tiếp đăng ký thế chấp;
+c) Gửi bản sao phiếu yêu cầu chuyển tiếp đăng ký thế chấp thể hiện nội dung quy định tại điểm a khoản này và văn bản cung cấp thông tin quy định tại điểm b khoản 1 Điều 46 của Nghị định này cho Trung tâm Đăng ký để thực hiện xóa đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở;
+d) Trả lại phiếu yêu cầu chuyển tiếp đăng ký thế chấp đã thể hiện nội dung quy định tại điểm b khoản này cho người yêu cầu đăng ký.
+2. Đối với các trường hợp đã đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán, chuyển nhượng tài sản gắn liền với đất không phải là nhà ở mà có yêu cầu chuyển tiếp sang đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai hoặc sang đăng ký thế chấp tài sản gắn liền với đất do tài sản đã hình thành, thì người yêu cầu đăng ký thực hiện thủ tục chuyển tiếp đăng ký như hồ sơ, thủ tục chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở quy định tại Điều 46 của Nghị định này và khoản 1 Điều này.
+
+Nghị định 102/2017/NÐ-CP. Mục 5. HỒ SƠ, THỦ TỤC ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM BẰNG TÀI SẢN LÀ ĐỘNG SẢN KHÁC
+Điều 50. Hồ sơ đăng ký thế chấp, đăng ký thay đổi, sửa chữa sai sót, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm bằ
+ng tài sản là động sản khác
+1. Người yêu cầu đăng ký nộp 01 bộ hồ đăng ký thế chấp, đăng ký thay đổi, sửa chữa sai sót, xóa đăng ký, đăng ký văn bản thông báo về việc xử lý tài sản bảo đảm bằng tài sản là động sản khác sau đây:
+a) Phiếu yêu cầu đăng ký (01 bản chính);
+b) Hợp đồng thế chấp hoặc hợp đồng sửa đổi, bổ sung hợp đồng thế chấp trong trường hợp phiếu yêu cầu đăng ký chỉ có chữ ký, con dấu của một trong các bên tham gia biện pháp bảo đảm (01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+c) Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu), trừ các trường hợp sau đây: Bên thế chấp hoặc bên nhận thế chấp bao gồm nhiều cá nhân, pháp nhân ủy quyền cho một cá nhân hoặc một pháp nhân trong số đó yêu cầu đăng ký; người yêu cầu đăng ký là người được cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm;
+d) Giấy tờ chứng minh đối với trường hợp không phải nộp phí khi thực hiện đăng ký biện pháp bảo đảm theo quy định tại Điều 12 của Nghị định này, nếu có.
+2. Trường hợp xóa đăng ký quy định tại điểm i khoản 1 Điều 21 của Nghị định này, thì người yêu cầu đăng ký nộp 01 bộ hồ sơ xóa đăng ký thế chấp sau đây:
+a) Các giấy tờ nêu tại các điểm a, c và d khoản 1 Điều này;
+b) Văn bản xác nhận kết quả xử lý tài sản bảo đảm của cơ quan thi hành án dân sự hoặc Văn phòng thừa phát lại (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu).
+Điều 51. Hồ sơ đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản là động sản khác có bảo lưu quyền sở hữu
+Người yêu cầu đăng ký nộp 01 bộ hồ sơ đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản là động sản khác có bảo lưu quyền sở hữu sau đây:
+1. Phiếu yêu cầu đăng ký (01 bản chính);
+2. Hợp đồng mua bán tài sản có điều khoản bảo lưu quyền sở hữu hoặc hợp đồng mua bán tài sản kèm văn bản về bảo lưu quyền sở hữu hoặc hợp đồng sửa đổi, bổ sung hợp đồng mua bán tài sản có điều khoản bảo lưu quyền sở hữu hoặc văn bản sửa đổi, bổ sung văn bản về bảo lưu quyền sở hữu trong trường hợp phiếu yêu cầu đăng ký chỉ có chữ ký, con dấu của một trong các bên tham gia hợp đồng bảo đảm, hợp đồng mua bán (01 bản sao không có chứng thực kèm bản chính để đối chiếu);
+3. Văn bản ủy quyền trong trường hợp người yêu cầu đăng ký là người được ủy quyền (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao không có chứng thực kèm bản chính để đối chiếu), trừ các trường hợp sau đây; Bên mua tài sản, bên bán tài sản bao gồm nhiều cá nhân, pháp nhân ủy quyền cho một cá nhân hoặc một pháp nhân trong số đó yêu cầu đăng ký; người yêu cầu đăng ký là người được cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm.
+Điều 52. Thủ tục đăng ký biện pháp bảo đảm bằng tài sản là động sản khác; đăng ký thay đổi nội dung biện pháp bảo đảm đã đăng ký; sửa chữa sai sót; xóa đăng ký; đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng tài sản là động sản khác
+1. Trong thời hạn giải quyết hồ sơ, cơ quan đăng ký ghi thời điểm nhận phiếu (giờ, phút, ngày, tháng, năm) vào phiếu yêu cầu đăng ký, sổ tiếp nhận, nhập thông tin về biện pháp bảo đảm trên phiếu yêu cầu đăng ký vào cơ sở dữ liệu về biện pháp bảo đảm.
+2. Cơ quan đăng ký trả văn bản chứng nhận đăng ký biện pháp bảo đảm có xác nhận của cơ quan đăng ký theo một trong các phương thức quy định tại Điều 17 của Nghị định này cho người yêu cầu đăng ký.
+Trường hợp đăng ký văn bản thông báo về việc xử lý tài sản thế chấp, thì cơ quan đăng ký gửi văn bản chứng nhận nội dung đăng ký có xác nhận của cơ quan đăng ký về việc xử lý tài sản của bên thế chấp cho các bên cùng nhận thế chấp bằng tài sản trong trường hợp một tài sản bảo đảm thực hiện nhiều nghĩa vụ theo địa chỉ được lưu giữ trong cơ sở dữ liệu.
+3. Trường hợp đã đăng ký biện pháp bảo đảm đối với tài sản bảo đảm là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh, thì khi tài sản bảo đảm đó thay đổi do hoạt động sản xuất, kinh doanh, người yêu cầu đăng ký không phải thực hiện đăng ký thay đổi.
+4. Trường hợp cơ quan đăng ký phát hiện trong cơ sở dữ liệu về biện pháp bảo đảm có sai sót về nội dung đã đăng ký do lỗi của mình, thì trong thời hạn 01 ngày làm việc, cơ quan đăng ký chỉnh lý thông tin và gửi văn bản thông báo về việc chỉnh lý thông tin đó cho người yêu cầu đăng ký theo địa chỉ ghi trên phiếu yêu cầu đăng ký.
+Trường hợp người yêu cầu đăng ký phát hiện có sai sót nội dung biện pháp bảo đảm bằng tài sản là động sản khác đã đăng ký do lỗi của cơ quan đăng ký thì người yêu cầu đăng ký nộp phiếu yêu cầu sửa chữa sai sót cho Trung tâm Đăng ký. Sau khi nhận phiếu yêu cầu sửa chữa sai sót, trong thời hạn 01 ngày làm việc, cơ quan đăng ký thực hiện chỉnh lý thông tin và gửi văn bản chứng nhận sửa chữa sai sót cho người yêu cầu đăng ký.
+
+Nghị định 102/2017/NÐ-CP. Mục 6. ĐĂNG KÝ TRỰC TUYẾN BIỆN PHÁP BẢO ĐẢM
+Điều 53. Yêu cầu đăng ký trực tuyến
+1. Cá nhân, pháp nhân, hộ gia đình có quyền lựa chọn phương thức đăng ký trực tuyến biện pháp bảo đảm khi hệ thống đăng ký trực tuyến chính thức vận hành.
+2. Yêu cầu đăng ký trực tuyến phải kê khai đầy đủ, chính xác các nội dung thuộc diện phải kê khai trên giao diện của hệ thống đăng ký trực tuyến.
+Điều 54. Tài khoản đăng ký trực tuyến
+1. Cá nhân, pháp nhân, hộ gia đình được cấp tài khoản đăng ký trực tuyến để truy cập vào hệ thống đăng ký trực tuyến.
+2. Cơ quan quản lý hệ thống đăng ký trực tuyến có trách nhiệm cấp tài khoản đăng ký trực tuyến cho cá nhân, pháp nhân, hộ gia đình, nếu có yêu cầu.
+3. Cá nhân, pháp nhân, hộ gia đình có tài khoản đăng ký trực tuyến phải bảo vệ và chịu trách nhiệm về việc sử dụng tài khoản đăng ký trực tuyến của mình.
+4. Trường hợp đăng ký trực tuyến biện pháp bảo đảm bằng tài sản là động sản khác, thì cá nhân, pháp nhân, hộ gia đình được cấp mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm.
+Điều 55. Hoạt động của hệ thống đăng ký trực tuyến
+1. Hệ thống đăng ký trực tuyến phải được vận hành liên tục, an toàn, chính xác.
+2. Cơ quan quản lý hệ thống đăng ký trực tuyến thực hiện việc duy trì hoạt động, đảm bảo an toàn và an ninh thông tin của hệ thống đăng ký trực tuyến theo quy định của pháp luật.
+Trường hợp hệ thống đăng ký trực tuyến phải tạm ngừng hoạt động để bảo trì, bảo dưỡng, nâng cấp hoặc vì những lý do khác, thì cơ quan quản lý hệ thống đăng ký trực tuyến phải thông báo công khai, kịp thời về lý do và thời gian dự kiến cho hệ thống hoạt động trở lại.
+Điều 56. Thủ tục đăng ký trực tuyến
+Việc đăng ký trực tuyến biện pháp bảo đảm được thực hiện theo thủ tục sau đây:
+1. Người yêu cầu đăng ký sử dụng mã số sử dụng cơ sở dữ liệu về biện pháp bảo đảm, tài khoản đăng ký trực tuyến đã được cấp truy cập vào hệ thống đăng ký trực tuyến biện pháp bảo đảm để kê khai nội dung đăng ký trên giao diện đăng ký trực tuyến;
+2. Hệ thống đăng ký trực tuyến xác nhận kết quả đăng ký biện pháp bảo đảm cho người yêu cầu đăng ký trên giao diện của hệ thống đăng ký trực tuyến;
+3. Cơ quan đăng ký gửi 01 văn bản chứng nhận đăng ký biện pháp bảo đảm có xác nhận của cơ quan đăng ký đến người yêu cầu đăng ký theo một trong các phương thức quy định tại Điều 17 của Nghị định này.
+Điều 57. Trường hợp đăng ký trực tuyến biện pháp bảo đảm không có giá trị pháp lý
+1. Việc đăng ký trực tuyến biện pháp bảo đảm không có giá trị pháp lý khi thuộc một trong các trường hợp quy định tại khoản 1 Điều 15 của Nghị định này.
+2. Trường hợp đăng ký trực tuyến biện pháp bảo đảm không có giá trị pháp lý, thì được xử lý như sau:
+a) Trường hợp nội dung đăng ký biện pháp bảo đảm thuộc một trong các trường hợp quy định tại khoản 1 Điều này, thì cơ quan đăng ký xem xét, quyết định hủy kết quả đăng ký. Người yêu cầu đăng ký phải nộp phí đăng ký trong trường hợp kết quả đăng ký trực tuyến bị hủy;
+b) Việc hủy kết quả đăng ký trực tuyến biện pháp bảo đảm phải được thông báo kịp thời qua đường bưu điện hoặc qua thư điện tử đến địa chỉ của người yêu cầu đăng ký được lưu trong cơ sở dữ liệu về biện pháp bảo đảm.
+Điều 58. Khôi phục dữ liệu trong trường hợp kết quả đăng ký biện pháp bảo đảm bị hủy không đúng các căn cứ do pháp luật quy định
+1. Khi phát hiện kết quả đăng ký biện pháp bảo đảm đã bị hủy không đúng các căn cứ do pháp luật quy định, thì người yêu cầu đăng ký có quyền đề nghị cơ quan đăng ký khôi phục lại kết quả đăng ký biện pháp bảo đảm đã bị hủy.
+Văn bản đề nghị khôi phục lại kết quả đăng ký biện pháp bảo đảm đã bị hủy được gửi đến cơ quan đăng ký theo phương thức như phương thức nộp hồ sơ đăng ký biện pháp bảo đảm.
+2. Cơ quan đăng ký có trách nhiệm xem xét, kiểm tra, nếu việc hủy kết quả đăng ký biện pháp bảo đảm không đúng các căn cứ do pháp luật quy định, thì phải khôi phục lại dữ liệu đăng ký và cấp văn bản chứng nhận đăng ký biện pháp bảo đảm cho người yêu cầu đăng ký.
+3. Trường hợp cơ quan đăng ký hủy kết quả đăng ký không đúng các căn cứ do pháp luật quy định, mà gây thiệt hại cho người yêu cầu đăng ký, thì phải bồi thường thiệt hại theo quy định của pháp luật.
+Chương III CUNG CẤP THÔNG TIN, CÔNG BỐ THÔNG TIN VÀ TRAO ĐỔI THÔNG TIN VỀ BIỆN PHÁP BẢO ĐẢM
+Điều 59. Quyền yêu cầu cung cấp thông tin về biện pháp bảo đảm
+1. Cá nhân, pháp nhân, hộ gia đình có quyền tìm hiểu hoặc yêu cầu cung cấp thông tin về biện pháp bảo đảm được lưu giữ trong số đăng ký, cơ sở dữ liệu về biện pháp bảo đảm và Hệ thống dữ liệu quốc gia về biện pháp bảo đảm.
+2. Tòa án nhân dân, Viện kiểm sát nhân dân, Cơ quan điều tra, cơ quan thi hành án dân sự, cơ quan nhà nước có thẩm quyền khác có quyền yêu cầu cơ quan đăng ký biện pháp bảo đảm cung cấp thông tin về biện pháp bảo đảm để phục vụ hoạt động chuyên môn thuộc phạm vi lĩnh vực quản lý của cơ quan mình. Việc tìm hiểu thông tin trong trường hợp này không phải trả phí cung cấp thông tin theo quy định của pháp luật.
+Điều 60. Phương thức yêu cầu cung cấp thông tin về biện pháp bảo đảm
+Khi có nhu cầu tìm hiểu thông tin về biện pháp bảo đảm, cá nhân, pháp nhân hộ gia đình và các cơ quan quy định tại khoản 2 Điều 59 của Nghị định này gửi phiếu yêu cầu cung cấp thông tin đến cơ quan đăng ký có thẩm quyền theo một trong các phương thức quy định tại Điều 13 của Nghị định này.
+Điều 61. Từ chối cung cấp thông tin về biện pháp bảo đảm
+1. Cơ quan đăng ký từ chối cung cấp thông tin về biện pháp bảo đảm khi có một trong các căn cứ sau đây:
+a) Yêu cầu cung cấp thông tin về biện pháp bảo đảm không đúng thẩm quyền;
+b) Kê khai phiếu yêu cầu cung cấp thông tin không đúng quy định của pháp luật;
+c) Người yêu cầu cung cấp thông tin không nộp phí cung, cấp thông tin, trừ trường hợp quy định tại khoản 2 Điều 59 của Nghị định này và trường hợp cá nhân, pháp nhân, hộ gia đình tự tra cứu thông tin trực tuyến về biện pháp bảo đảm mà không yêu cầu cấp văn bản chứng nhận nội dung đăng ký biện pháp bảo đảm có xác nhận của cơ quan đăng ký.
+2. Trường hợp có căn cứ từ chối cung cấp thông tin theo quy định tại khoản 1 Điều này, thì người tiếp nhận hồ sơ phải lập văn bản từ chối trong đó nêu rõ lý do từ chối và hướng dẫn thực hiện theo đúng quy định của pháp luật.
+3. Việc từ chối được thực hiện trong ngày nhận hồ sơ; nếu nhận hồ sơ sau 15 giờ, thì việc từ chối được thực hiện trong ngày làm việc tiếp theo.
+Điều 62. Thủ tục cung cấp thông tin
+Sau khi nhận phiếu yêu cầu cung cấp thông tin hợp lệ, người thực hiện đăng ký tra cứu thông tin trong sổ đăng ký hoặc cơ sở dữ liệu về biện pháp bảo đảm; cung cấp thông tin bằng văn bản cho người yêu cầu trong thời hạn quy định tại Điều 16 của Nghị định này và trả kết quả theo một trong các phương thức quy định tại Điều 17 của Nghị định này.
+Điều 63. Trách nhiệm trao đổi thông tin về tình trạng pháp lý của tài sản bảo đảm
+1. Các cơ quan sau đây có trách nhiệm trao đổi thông tin về tình trạng pháp lý của tài sản bảo đảm:
+a) Cơ quan đăng ký biện pháp bảo đảm;
+b) Cơ quan đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành tài sản;
+c) Cơ quan thi hành án dân sự, Văn phòng thừa phát lại.
+2. Nguyên tắc trao đổi thông tin về tình trạng pháp lý của tài sản bảo đảm được quy định như sau:
+a) Việc trao đổi thông tin phải kịp thời, đầy đủ, chính xác; thông tin trao đổi được sử dụng đúng mục đích, phù hợp với chức năng, nhiệm vụ của các cơ quan;
+b) Việc trao đổi, quản lý và sử dụng thông tin được thực hiện đúng thời hạn, thủ tục quy định tại Nghị định này và các văn bản quy phạm pháp luật khác có liên quan.
+3. Phạm vi tài sản bảo đảm được trao đổi bao gồm các thông tin sau đây:
+a) Thông tin do cơ quan đăng ký biện pháp bảo đảm trao đổi bao gồm: bên bảo đảm và bên nhận bảo đảm; tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ, phương tiện thủy nội địa, phương tiện giao thông đường sắt, quyền sử dụng đất, tài sản gắn liền với đất, tàu bay, tàu biển; thời điểm đăng ký biện pháp bảo đảm;
+b) Thông tin do cơ quan thi hành án dân sự, Văn phòng thừa phát lại trao đổi bao gồm: Quyết định kê biên hoặc Quyết định giải tỏa kê biên tài sản thi hành án; người phải thi hành án và chủ sở hữu tài sản; tài sản kê biên.
+4. Việc trao đổi thông tin về tình trạng pháp lý của tài sản bảo đảm được thực hiện như sau: [Trách nhiệm trao đổi thông tin về đăng ký biện pháp bảo đảm được hướng dẫn bởi Điều 4 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018]
+a) Khi thực hiện việc đăng ký thế chấp, đăng ký thay đổi nội dung thế chấp đã đăng ký, xóa đăng ký đối với tài sản là phương tiện giao thông cơ giới đường bộ, phương tiện thủy nội địa, phương tiện giao thông đường sắt, Trung tâm Đăng ký có trách nhiệm gửi văn bản thông báo về việc thế chấp phương tiện giao thông đến cơ quan đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành tài sản, nếu người yêu cầu đăng ký có văn bản yêu cầu thông báo về việc thế chấp phương tiện giao thông. [Trách nhiệm trao đổi thông tin về đăng ký biện pháp bảo đảm tại các Trung tâm Đăng ký được hướng dẫn bởi Điều 4 Thông tư 08/2018/TT-BTP có hiệu lực thi hành kể từ ngày 04/8/2018] Ngay trong ngày nhận được thông báo về việc thế chấp phương tiện giao thông do Trung tâm Đăng ký gửi đến, nếu không thuộc một trong các trường hợp từ chối tiếp nhận, cơ quan đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành tài sản cập nhật thông tin theo nội dung văn bản thông báo về việc thế chấp phương tiện giao thông vào dữ liệu quản lý tài sản của cơ quan mình và phản hồi kết quả giải quyết để Trung tâm Đăng ký biết, gửi thông báo cho cá nhân, pháp nhân, hộ gia đình có liên quan;
+b) Ngay trong ngày ký Quyết định kê biên tài sản hoặc giải tỏa kê biên tài sản thi hành án, cơ quan thi hành án dân sự, Văn phòng thừa phát lại có trách nhiệm gửi văn bản thông báo đến các cơ quan sau đây:
+Văn phòng đăng ký đất đai nơi có đất, tài sản gắn liền với đất bị kê biên hoặc giải tỏa kê biên;
+Cục Hàng không Việt Nam trong trường hợp tài sản là tàu bay bị kê biên hoặc giải tỏa kê biên, Cơ quan đăng ký tàu biển Việt Nam trong trường hợp tài sản là tàu biển bị kê biên hoặc giải tỏa kê biên;
+Trung tâm Đăng ký trong trường hợp tài sản bị kê biên hoặc giải tỏa kê biên là tài sản không thuộc thẩm quyền của Văn phòng đăng ký đất đai, Cục Hàng không Việt Nam, Cơ quan đăng ký tàu biển Việt Nam.
+Trong thời hạn không quá 01 ngày làm việc, kể từ ngày nhận được văn bản thông báo của cơ quan thi hành án dân sự, Văn phòng thừa phát lại, nếu không thuộc trường hợp từ chối trao đổi thông tin, thì các cơ quan đăng ký biện pháp bảo đảm cập nhật thông tin theo nội dung văn bản thông báo vào dữ liệu quản lý tài sản của cơ quan mình.
+Điều 64. Công bố thông tin về biện pháp bảo đảm
+1. Thông tin về biện pháp bảo đảm bằng dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình đã đăng ký được công bố theo quy định tại khoản 2 và khoản 3 Điều này.
+2. Chậm nhất là 05 ngày làm việc, kể từ thời điểm đăng ký biện pháp bảo đảm bằng dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng công trình, Văn phòng đăng ký đất đai có trách nhiệm gửi thông tin cho Sở Tài nguyên và Môi trường để công bố trên Trang thông tin điện tử của Sở này.
+3. Thông tin được công bố gồm: Tên dự án, địa chỉ của dự án, bên bảo đảm, bên nhận bảo đảm, tài sản bảo đảm, thời điểm đăng ký.
+Chương IV QUẢN LÝ NHÀ NƯỚC VỀ ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM
+Điều 65. Nội dung quản lý nhà nước về đăng ký biện pháp bảo đảm
+1. Xây dựng, hướng dẫn thực hiện chiến lược, chính sách phát triển hệ thống đăng ký biện pháp bảo đảm trong phạm vi cả nước.
+2. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm.
+3. Tổ chức và quản lý hoạt động đăng ký biện pháp bảo đảm; xây dựng và quản lý các cơ quan đăng ký biện pháp bảo đảm; hướng dẫn, đào tạo, bồi dưỡng chuyên môn, nghiệp vụ về đăng ký biện pháp bảo đảm.
+4. Xây dựng, vận hành và quản lý Hệ thống dữ liệu quốc gia về biện pháp bảo đảm.
+5. Thống kê đăng ký biện pháp bảo đảm, tổng hợp và báo cáo cơ quan có thẩm quyền.
+6. Tuyên truyền, phổ biến pháp luật về đăng ký biện pháp bảo đảm.
+7. Hợp tác quốc tế về đăng ký biện pháp bảo đảm.
+8. Kiểm tra, thanh tra, theo dõi thi hành pháp luật về đăng ký biện pháp bảo đảm, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về đăng ký biện pháp bảo đảm.
+Điều 66. Nhiệm vụ, quyền hạn của các cơ quan trong quản lý nhà nước về đăng ký biện pháp bảo đảm
+1. Chính phủ thống nhất quản lý nhà nước về đăng ký biện pháp bảo đảm.
+2. Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về đăng ký biện pháp bảo đảm có nhiệm vụ, quyền hạn sau đây:
+a) Trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm;
+b) Hướng dẫn và tổ chức thực hiện các văn bản quy phạm pháp luật về đăng ký biện pháp bảo đảm; tổ chức tuyên truyền, phổ biến pháp luật về đăng ký biện pháp bảo đảm;
+c) Chủ trì phối hợp với các bộ có liên quan tổ chức đào tạo, cấp chứng chỉ tốt nghiệp cho người thực hiện đăng ký biện pháp bảo đảm;
+d) Hướng dẫn, bồi dưỡng nghiệp vụ, chuyên môn cho người thực hiện đăng ký biện pháp bảo đảm;
+đ) Quản lý các Trung tâm Đăng ký của Cục Đăng ký quốc gia giao dịch bảo đảm;
+e) Thống kê đăng ký biện pháp bảo đảm; tổng hợp và định kỳ hàng năm báo cáo Chính phủ về công tác đăng ký biện pháp bảo đảm trong phạm vi cả nước;
+g) Kiểm tra, thanh tra, theo dõi thi hành pháp luật về đăng ký biện pháp bảo đảm xử lý vi phạm và giải quyết theo thẩm quyền các khiếu nại, tố cáo trong việc thực hiện pháp luật về đăng ký biện pháp bảo đảm;
+h) Hợp tác quốc tế về đăng ký biện pháp bảo đảm.
+3. Bộ Giao thông vận tải trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:
+a) Chủ trì tổ chức bồi dưỡng nghiệp vụ, chuyên môn cho người thực hiện đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển; quản lý cơ quan đăng ký biện pháp bảo đảm bằng tàu bay, cơ quan đăng ký biện pháp bảo đảm bằng tàu biển;
+b) Hướng dẫn cơ quan đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển cập nhật, tích hợp thông tin về biện pháp bảo đảm bằng tàu bay, tàu biển vào Hệ thống dữ liệu quốc gia về biện pháp bảo đảm;
+c) Tổ chức triển khai xây dựng cơ sở dữ liệu điện tử về tàu bay, tàu biển để tạo cơ sở cho việc thực hiện đăng ký trực tuyến biện pháp bảo đảm bằng tàu bay, tàu biển, hoàn thành trước năm 2020;
+d) Báo cáo định kỳ hàng năm cho Bộ Tư pháp về việc đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển;
+đ) Giải quyết khiếu nại, tố cáo về đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển;
+e) Phối hợp với Bộ Tư pháp thực hiện các nhiệm vụ nêu tại khoản 2 Điều này.
+4. Bộ Tài nguyên và Môi trường trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:
+a) Thực hiện quản lý về chuyên môn, nghiệp vụ đăng ký biện pháp bảo đảm đối với Văn phòng đăng ký đất đai;
+b) Tổ chức triển khai xây dựng cơ sở dữ liệu điện tử về đất đai để tạo cơ sở cho việc vận hành giao dịch điện tử về đất đai, trong đó có đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, hoàn thành trước năm 2025;
+c) Phối hợp với Bộ Tư pháp thực hiện các nhiệm vụ nêu tại khoản 2 Điều này.
+5. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) thực hiện quản lý nhà nước về đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương có nhiệm vụ, quyền hạn sau:
+a) Hướng dẫn và tổ chức thực hiện việc đăng ký và quản lý đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất theo quy định của Nghị định này và các văn bản quy phạm pháp luật khác có liên quan;
+b) Xây dựng hệ thống đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+c) Tổ chức bồi dưỡng nghiệp vụ, chuyên môn cho người thực hiện đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất;
+d) Hướng dẫn Văn phòng đăng ký đất đai cập nhật, tích hợp thông tin về biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất vào Hệ thống dữ liệu quốc gia về biện pháp bảo đảm;
+đ) Báo cáo định kỳ hàng năm cho Bộ Tư pháp về việc đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất tại địa phương;
+e) Giải quyết khiếu nại, tố cáo về đăng ký biện pháp bảo đảm theo thẩm quyền;
+g) Phối hợp với Bộ Tư pháp thực hiện nhiệm vụ nêu tại khoản 2 Điều này.
+Sở Tư pháp chịu trách nhiệm giúp Ủy ban nhân dân cấp tỉnh thực hiện chức năng quản lý nhà nước về đăng ký biện pháp bảo đảm tại địa phương.
+Điều 67. Trách nhiệm xây dựng, vận hành và quản lý Hệ thống dữ liệu quốc gia về biện pháp bảo đảm
+1. Bộ Tư pháp chủ trì, phối hợp với các bộ, ngành và Ủy ban nhân dân cấp tỉnh xây dựng, vận hành và quản lý Hệ thống dữ liệu quốc gia về biện pháp bảo đảm.
+2. Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn được giao chịu trách nhiệm trước Chính phủ trong việc phối hợp với Bộ Tư pháp xây dựng, vận hành và quản lý Hệ thống dữ liệu quốc gia về biện pháp bảo đảm.
+3. Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn được giao có trách nhiệm phối hợp với Bộ Tư pháp xây dựng, vận hành và quản lý Hệ thống dữ liệu quốc gia về biện pháp bảo đảm.
+Chương V ĐIỀU KHOẢN THI HÀNH
+Điều 68. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 10 năm 2017 và thay thế Nghị định số 83/2010/NĐ-CP  ngày 23 tháng 7 năm 2010 của Chính phủ về đăng ký giao dịch bảo đảm.
+2. Bãi bỏ Điều 1 Nghị định số 05/2012/NĐ-CP ngày 02 tháng 02 năm 2012 của Chính phủ về sửa đổi, bổ sung một số điều của các Nghị định về đăng ký giao dịch bảo đảm, trợ giúp pháp lý, luật sư, tư vấn pháp luật.
+Điều 69. Điều khoản chuyển tiếp
+1. Giao dịch bảo đảm được giao kết trước ngày Nghị định này có hiệu lực thi hành mà chưa đăng ký nhưng vẫn còn hiệu lực, thì được đăng ký theo quy định của Nghị định này.
+Giao dịch bảo đảm đã được đăng ký theo quy định của pháp luật trước ngày Nghị định này có hiệu lực thi hành, thì không phải đăng ký lại theo quy định của Nghị định này.
+2. Đối với địa phương chưa thành lập Văn phòng đăng ký đất đai, thì Văn phòng đăng ký quyền sử dụng đất tiếp tục thực hiện đăng ký biện pháp bảo đảm cho đến khi thành lập Văn phòng đăng ký đất đai.
+Điều 70. Trách nhiệm thi hành
+1. Bộ Tư pháp có trách nhiệm:
+a) Tổ chức thi hành Nghị định này;
+b) Hướng dẫn một số nội dung về đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất, tàu bay, tàu biển và tài sản là động sản khác quy định tại Nghị định này. [Một số nội dung về đăng ký biện pháp bảo đảm bằng tàu bay, tàu biển được hướng dẫn bởi Thông tư 01/2019/TT-BTP có hiệu lực thi hành kể từ ngày 03/3/2019 (VB hết hiệu lực: 01/02/2024) Đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất được hướng dẫn bởi Thông tư 07/2019/TT-BTP có hiệu lực kể từ ngày 10/01/2020 (VB hết hiệu lực: 01/02/2024)]
+2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh và cá nhân, pháp nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Giám sát tài chính Quốc gia;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, PL (2b).PC
+TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc

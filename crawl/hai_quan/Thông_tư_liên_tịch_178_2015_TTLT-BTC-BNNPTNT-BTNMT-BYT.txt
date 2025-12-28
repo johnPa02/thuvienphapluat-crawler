@@ -1,0 +1,360 @@
+Thông tư liên tịch 178/2015/TTLT-BTC-BNNPTNT-BTNMT-BYT
+BỘ TÀI CHÍNH - BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN - BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG - BỘ Y TẾ -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số:
+178/2015/TTLT-BTC-BNNPTNT-BTNMT-BYT
+Hà Nội, ngày 12 tháng 11 năm 2015 THÔNG TƯ LIÊN TỊCH HƯỚNG DẪN THỰC HIỆN CƠ CHẾ MỘT CỬA QUỐC GIA
+Căn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014;
+Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18 tháng 4 năm 2012 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Nghị định số 199/2013/NĐ-CP ngày 26 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;
+Căn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường;
+Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;
+Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan;
+Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Tài nguyên và Môi trường, Bộ trưởng Bộ Y tế ban hành Thông tư liên tịch hướng dẫn thực hiện Cơ chế một cửa quốc gia.
+Mục 1: QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn thực hiện Cơ chế một cửa quốc gia theo quy định tại Luật Hải quan số 54/2014/QH13 và Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan đối với các nội dung sau:
+1. Quy định danh mục các thủ tục hành chính áp dụng Cơ chế một cửa quốc gia (sau đây gọi là các thủ tục hành chính một cửa) của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế tại Phụ lục I ban hành kèm theo Thông tư này.
+2. Quy định về quy trình khai và tiếp nhận thông tin khai, trả kết quả thực hiện thủ tục hành chính bằng phương thức điện tử;
+các tiêu chí, định dạng của chứng từ điện tử được sử dụng để thực hiện các thủ tục hành chính một cửa tại khoản 1 Điều này.
+3. Quy định về cơ chế phối hợp và trao đổi thông tin để thực hiện các thủ tục hành chính một cửa.
+4. Những vấn đề khác liên quan tới các thủ tục hành chính một cửa thuộc khoản 1 Điều này được thực hiện theo các văn bản quy phạm pháp luật chuyên ngành.
+Điều 2. Đối tượng áp dụng
+1. Các cơ quan, đơn vị thuộc hoặc được chỉ định của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế xử lý, cấp phép các thủ tục hành chính một cửa quy định tại khoản 1 Điều 1 Thông tư này.
+2. Tổ chức, cá nhân thực hiện xuất khẩu, nhập khẩu, quá cảnh hàng hóa; tổ chức, cá nhân có quyền và nghĩa vụ liên quan đến hoạt động xuất khẩu, nhập khẩu, quá cảnh hàng hóa lựa chọn phương thức thực hiện các thủ tục hành chính một cửa thông qua Cổng thông tin một cửa quốc gia.
+Điều 3. Giải thích từ ngữ
+Trong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
+1. Cổng thông tin một cửa quốc gia theo khoản 1 Điều 7 Nghị định số 08/2015/NĐ-CP là một hệ thống thông tin tích hợp bao gồm hệ thống thông quan của cơ quan hải quan, hệ thống thông tin của Bộ Khoa học và Công nghệ, các hệ thống công nghệ thông tin khác (sau đây gọi là các hệ thống xử lý chuyên ngành).
+2. Cơ quan xử lý thủ tục hành chính một cửa (sau đây gọi là Cơ quan xử lý) là cơ quan, đơn vị thuộc hoặc được chỉ định của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế có chức năng xử lý, cấp phép đối với các thủ tục hành chính theo quy định tại khoản 1 Điều 1 Thông tư này.
+3. Hồ sơ hành chính một cửa gồm các chứng từ điện tử, tài liệu kèm theo theo quy định của các văn bản quy phạm pháp luật chuyên ngành đối với từng thủ tục hành chính dưới các hình thức: chứng từ điện tử chuyển đổi từ chứng từ giấy, chứng từ giấy.
+4. Chứng từ điện tử là thông tin khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính một cửa.
+5. Người khai là tổ chức hoặc cá nhân thực hiện các thủ tục hành chính một cửa theo quy định tại khoản 1 Điều 1 Thông tư này.
+6. Người sử dụng hệ thống là các đối tượng theo quy định tại khoản 1 Điều 10 Thông tư này được phép truy cập vào Cổng thông tin một cửa quốc gia.
+7. Đơn vị quản lý Cổng thông tin một cửa quốc gia là Tổng cục Hải quan trực thuộc Bộ Tài chính.
+Điều 4. Thực hiện Cơ chế một cửa quốc gia
+1. Các thủ tục hành chính một cửa và việc trao đổi thông tin giữa các cơ quan xử lý thông qua Cổng thông tin một cửa quốc gia được thực hiện như sau:
+a) Người khai, các cơ quan xử lý gửi thông tin về thủ tục hành chính một cửa tới Cổng thông tin một cửa quốc gia;
+b) Cổng thông tin một cửa quốc gia tiếp nhận và chuyển tiếp thông tin đến các hệ thống xử lý chuyên ngành;
+c) Các cơ quan xử lý tiếp nhận, xử lý thông tin, phản hồi trạng thái tiếp nhận, xử lý, trả kết quả xử lý tới Cổng thông tin một cửa quốc gia;
+d) Cổng thông tin một cửa quốc gia phản hồi trạng thái tiếp nhận/xử lý, trả kết quả xử lý thông tin tới người khai và hệ thống xử lý chuyên ngành có liên quan.
+2. Việc ra quyết định trên Cơ chế một cửa quốc gia được thực hiện như sau:
+a) Các cơ quan xử lý thuộc Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế xử lý, cấp phép, giấy chứng nhận, xác nhận đối với hàng hóa xuất khẩu, nhập khẩu cho người khai và gửi giấy phép, giấy chứng nhận, xác nhận hoặc kết quả xử lý khác tới cơ quan hải quan thông qua Cổng thông tin một cửa quốc gia;
+b) Cơ quan hải quan ra quyết định cuối cùng về việc thông quan hàng hóa xuất khẩu, nhập khẩu, quá cảnh trên cơ sở giấy phép và các kết quả xử lý của cơ quan xử lý được chuyển tới hệ thống thông quan của cơ quan hải quan thông qua Cổng thông tin một cửa quốc gia.
+Điều 5. Các giao dịch điện tử trên Cơ chế một cửa quốc gia
+Các giao dịch điện tử trên Cơ chế một cửa quốc gia (sau đây gọi là các giao dịch điện tử) bao gồm:
+1. Khai, nhận, phản hồi thông tin về việc xử lý hồ sơ để thực hiện thủ tục hành chính một cửa trên Cổng thông tin một cửa quốc gia.
+2. Tiếp nhận và chuyển thông tin khai từ Cổng thông tin một cửa quốc gia tới các hệ thống xử lý chuyên ngành.
+3. Nhận kết quả xử lý từ các hệ thống xử lý chuyên ngành tới Cổng thông tin một cửa quốc gia.
+4. Trao đổi thông tin giữa các hệ thống xử lý chuyên ngành thông qua Cổng thông tin một cửa quốc gia.
+Điều 6. Hồ sơ hành chính một cửa
+1. Các loại chứng từ điện tử:
+Chứng từ điện tử gồm có:
+a) Thông tin khai dưới các hình thức: tờ khai, đơn đăng ký, đăng ký, xác nhận đăng ký hoặc loại khác để thực hiện thủ tục hành chính trong danh mục các thủ tục hành chính một cửa;
+b) Kết quả xử lý của Cơ quan xử lý dưới các hình thức:
+quyết định thông quan, giải phóng hàng hoặc đưa hàng hóa về bảo quản, giấy phép, giấy chứng nhận, xác nhận hoặc kết quả xử lý khác tương ứng với thủ tục hành chính trong danh mục các chứng từ điện tử quy định tại Phụ lục II ban hành kèm theo Thông tư này;
+c) Thông báo chấp nhận hoặc từ chối hoặc yêu cầu sửa đổi, bổ sung thông tin khai trên Cơ chế một cửa quốc gia.
+2. Giá trị pháp lý của chứng từ điện tử:
+a) Chứng từ điện tử có giá trị như chứng từ giấy;
+b) Chứng từ điện tử phải được lập theo đúng tiêu chí, định dạng mẫu do các Bộ xây dựng đối với các thủ tục hành chính một cửa quy định tại Phụ lục I ban hành kèm theo Thông tư này;
+c) Việc gửi, nhận, lưu trữ và giá trị pháp lý của chứng từ điện tử được thực hiện theo quy định pháp luật về giao dịch điện tử và các quy định khác của pháp luật có liên quan;
+d) Chứng từ điện tử phải đáp ứng đủ các yêu cầu của pháp luật chuyên ngành đối với các thủ tục hành chính một cửa;
+đ) Chứng từ điện tử phải có chữ ký số của người có thẩm quyền theo quy định của pháp luật chuyên ngành đối với các thủ tục hành chính một cửa trong trường hợp người khai đăng ký sử dụng chữ ký số;
+e) Việc tạo lập, chuyển đổi chứng từ điện tử từ chứng từ giấy và ngược lại được thực hiện theo pháp luật về giao dịch điện tử, pháp luật chuyên ngành đối với các thủ tục hành chính một cửa tại khoản 1 Điều 1 Thông tư này.
+3. Chứng từ điện tử được chuyển đổi từ chứng từ giấy như bản chụp (bản scan): do các Bộ công bố theo quy định tại khoản 4 Điều 13 Thông tư này để thực hiện các thủ tục hành chính một cửa.
+4. Chứng từ giấy: Hình thức, nội dung, phương thức nộp, xuất trình của các chứng từ giấy trong hồ sơ hành chính một cửa tuân thủ theo quy định của các văn bản quy phạm pháp luật chuyên ngành đối với thủ tục hành chính đó.
+Điều 7. Đăng ký tài khoản người sử dụng Cổng thông tin một cửa quốc gia
+1. Trường hợp người khai đã được các Bộ cấp tài khoản truy cập các hệ thống xử lý chuyên ngành hiện có thì người khai lựa chọn sử dụng một trong các tài khoản đó để truy cập Cổng thông tin một cửa quốc gia. Để sử dụng tài khoản truy cập, người khai truy cập Cổng thông tin một cửa quốc gia tại địa chỉ www.vnsw.gov.vn và thực hiện đăng ký tài khoản sử dụng trên Cổng thông tin một cửa quốc gia theo các thông tin quy định tại Mẫu I, Phụ lục III ban hành kèm theo Thông tư này. Đơn vị quản lý Cổng thông tin một cửa quốc gia chịu trách nhiệm hướng dẫn người khai về việc sử dụng tài khoản đã đăng ký để truy cập Cổng thông tin một cửa quốc gia trong trường hợp có vướng mắc phát sinh.
+2. Trường hợp người khai chưa có tài khoản người sử dụng do các Bộ cấp, việc đăng ký tài khoản người sử dụng trên Cổng thông tin một cửa quốc gia sẽ được thực hiện như sau:
+a) Người khai truy cập Cổng thông tin một cửa quốc gia tại địa chỉ www.vnsw.gov.vn và thực hiện đăng ký thông tin hồ sơ trên Cổng thông tin một cửa quốc gia theo các thông tin quy định tại Mẫu II, Phụ lục III ban hành kèm theo Thông tư này. Trong thời hạn 01 ngày làm việc từ khi tiếp nhận thông tin hồ sơ người khai đăng ký trên Cổng thông tin một cửa quốc gia, Đơn vị quản lý Cổng thông tin một cửa quốc gia thực hiện kiểm tra, đối chiếu thông tin của người khai. Trường hợp không chấp thuận hồ sơ hoặc hồ sơ chưa đầy đủ, Đơn vị quản lý Cổng thông tin một cửa quốc gia có trách nhiệm thông báo qua thư điện tử (có nêu rõ lý do) tới người khai. Trường hợp hồ sơ đầy đủ và đáp ứng đủ điều kiện, Đơn vị quản lý Cổng thông tin một cửa quốc gia thông báo chấp nhận hồ sơ cho người khai bằng thư điện tử; thông báo tên tài khoản truy cập và mật khẩu truy cập ban đầu của người khai;
+b) Sau khi cấp mới tài khoản người khai, Cổng thông tin một cửa quốc gia thực hiện gửi thông tin tài khoản người khai mới tới các hệ thống xử lý chuyên ngành tương ứng.
+3. Trường hợp, người sử dụng là cán bộ, công chức của các cơ quan, đơn vị thuộc Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế, việc cấp tài khoản người sử dụng trên Cổng thông tin một cửa quốc gia được thực hiện như sau:
+a) Các Bộ tổng hợp danh sách tài khoản người sử dụng cần cấp mới trên Cổng thông tin một cửa quốc gia, nêu rõ họ tên, chức danh, đơn vị công tác, quyền hạn sử dụng các chức năng thuộc Bộ quản lý trên Cổng thông tin một cửa quốc gia theo mẫu do Đơn vị quản lý Cổng thông tin một cửa quốc gia cung cấp trên Cổng thông tin một cửa quốc gia và gửi văn bản thông báo đến Đơn vị quản lý Cổng thông tin một cửa quốc gia;
+b) Trong vòng 05 ngày làm việc, Đơn vị quản lý Cổng thông tin một cửa quốc gia căn cứ các yêu cầu kỹ thuật nhằm đảm bảo an ninh, an toàn hệ thống thực hiện xem xét số lượng tài khoản các Bộ yêu cầu cấp, cấp tài khoản người sử dụng cho các Bộ và thông báo bằng văn bản về tên truy cập, mật khẩu mặc định đến các Bộ. Trường hợp số lượng tài khoản cấp mới ít hơn số lượng các Bộ yêu cầu, Đơn vị quản lý Cổng thông tin một cửa quốc gia cần nêu rõ lý do trong văn bản thông báo gửi các Bộ.
+Mục 2: QUY ĐỊNH VỀ CỔNG THÔNG TIN MỘT CỬA QUỐC GIA
+Điều 8. Nguyên tắc hoạt động của Cổng thông tin một cửa quốc gia
+1. Tuân thủ các quy định của pháp luật chuyên ngành, pháp luật về bảo vệ bí mật nhà nước, bảo vệ bí mật thương mại, bí mật kinh doanh đối với các giao dịch điện tử được thực hiện trên Cổng thông tin một cửa quốc gia.
+2. Đảm bảo tính chính xác, khách quan, đầy đủ và kịp thời của các giao dịch điện tử được thực hiện trên Cổng thông tin một cửa quốc gia.
+Điều 9. Các chức năng của Cổng thông tin một cửa quốc gia
+1. Tiếp nhận chứng từ điện tử và các thông tin có liên quan, xác thực chữ ký số của người khai và các cơ quan xử lý gửi tới.
+2. Chuyển chứng từ điện tử, thông tin khác của người khai đến hệ thống xử lý chuyên ngành (bao gồm cả chữ ký số trong trường hợp người khai sử dụng chữ ký số) đồng thời lưu trữ thông tin từ người khai trên Cổng thông tin một cửa quốc gia nhằm mục đích tra cứu, thống kê.
+3. Tiếp nhận thông báo từ hệ thống xử lý chuyên ngành.
+4. Trả các chứng từ điện tử cho người khai (bao gồm cả chữ ký số trong trường hợp các hệ thống xử lý chuyên ngành sử dụng chữ ký số).
+5. Phản hồi kết quả xử lý của các Bộ tới các hệ thống xử lý chuyên ngành có liên quan.
+6. Lưu trữ trạng thái của các giao dịch điện tử được thực hiện trên Cổng thông tin một cửa quốc gia, lưu trữ các chứng từ điện tử.
+7. Cung cấp một số chức năng báo cáo, thống kê số liệu theo yêu cầu từ các cơ quan xử lý và người khai.
+Điều 10. Thẩm quyền và mức độ truy cập vào Cổng thông tin một cửa quốc gia
+1. Các đối tượng được truy cập vào Cổng thông tin một cửa quốc gia gồm:
+a) Các tổ chức, cá nhân thực hiện thủ tục hành chính theo quy định tại Điều 1 Thông tư này;
+b) Cơ quan hải quan, các đơn vị thuộc và trực thuộc các Bộ: Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Y tế;
+c) Các cơ quan quản lý nhà nước không thuộc điểm b khoản này khai thác thông tin từ Cổng thông tin một cửa quốc gia.
+2. Mức độ và thẩm quyền truy cập:
+a) Các tổ chức, cá nhân theo quy định tại điểm a khoản 1 Điều này được truy cập vào Cổng thông tin một cửa quốc gia để khai thông tin, nhận phản hồi thông tin về việc xử lý hồ sơ để thực hiện thủ tục hành chính một cửa, nhận chứng từ hành chính một cửa, kết quả xử lý khác đối với thủ tục hành chính một cửa và tra cứu các thông tin được công bố trên Cổng thông tin hải quan một cửa quốc gia;
+b) Các đối tượng tại điểm b khoản 1 Điều này được truy cập vào Cổng thông tin một cửa để tiếp nhận thông tin, xử lý và trả kết quả xử lý dưới hình thức chứng từ hành chính một cửa hoặc kết quả xử lý khác đối với thủ tục hành chính một cửa, nhận chứng từ hành chính một cửa, kết quả xử lý khác của các cơ quan có liên quan;
+c) Các đối tượng tại điểm c khoản 1 được quy định tại khoản 2 Điều 25 Thông tư này.
+Điều 11. Sử dụng chữ ký số để thực hiện thủ tục hành chính một cửa
+Trong trường hợp người khai sử dụng chữ ký số để thực hiện các thủ tục hành chính một cửa trên Cổng thông tin một cửa quốc gia, người khai phải tuân thủ các quy định sau:
+1. Chữ ký số của người khai sử dụng để thực hiện các thủ tục hành chính một cửa là chữ ký số công cộng cấp cho tổ chức, đã đăng ký với Đơn vị quản lý Cổng thông tin một cửa quốc gia và được xác nhận tương thích với hệ thống Cổng thông tin một cửa quốc gia.
+2. Việc sử dụng chữ ký số và giá trị pháp lý của chữ ký số thực hiện theo quy định hiện hành của Nhà nước về chữ ký số và dịch vụ chứng thực chữ ký số.
+3. Trước khi sử dụng chữ ký số để thực hiện các thủ tục hành chính một cửa, người sử dụng phải đăng ký chữ ký số với Đơn vị quản lý Cổng thông tin một cửa quốc gia. Thông tin về chữ ký số có thể được đăng ký ngay khi người khai thực hiện thủ tục xin cấp tài khoản người sử dụng. Trường hợp người khai đã có tài khoản người sử dụng nhưng chưa đăng ký thông tin chữ ký số hoặc đăng ký thêm chữ ký số khác, người khai truy cập Cổng thông tin một cửa quốc gia bằng tài khoản đã đăng ký, nhập đầy đủ các nội dung sau:
+a) Tên, mã số thuế của cơ quan, tổ chức xuất khẩu, nhập khẩu;
+b) Họ và tên, số chứng minh nhân dân hoặc hộ chiếu, chức danh (nếu có) của người được cấp chứng thư số;
+c) Số hiệu của chứng thư số (Serial Number);
+d) Thời hạn có hiệu lực của chứng thư số.
+4. Người khai phải đăng ký lại với Đơn vị quản lý Cổng thông tin một cửa quốc gia các thông tin nêu tại khoản 3 Điều này trong các trường hợp sau: các thông tin đã đăng ký có sự thay đổi, gia hạn chứng thư số, thay đổi cặp khóa, tạm dừng chứng thư số.
+5. Trường hợp người khai đã đăng ký sử dụng nhiều chữ ký số với các hệ thống xử lý chuyên ngành, người khai có quyền lựa chọn sử dụng một trong các chữ ký số đang sử dụng.
+Điều 12. Trách nhiệm của Đơn vị quản lý Cổng thông tin một cửa quốc gia
+1. Quản lý kỹ thuật, vận hành, bảo trì, nâng cấp các hệ thống phần cứng, hệ thống mạng, hệ thống an ninh an toàn phục vụ cho vận hành Cổng thông tin một cửa quốc gia, kết nối với các hệ thống xử lý chuyên ngành và kết nối với người sử dụng thông qua Cổng thông tin một cửa quốc gia tại địa chỉ: www.vnsw.gov.vn.
+2. Quản lý, vận hành, bảo trì và nâng cấp hệ thống Cổng thông tin một cửa quốc gia đáp ứng được yêu cầu của các bên liên quan.
+3. Quản lý và cấp tài khoản cho người sử dụng Cổng thông tin một cửa quốc gia.
+4. Đảm bảo điều kiện của Cổng thông tin một cửa quốc gia để kết nối liên tục với hệ thống xử lý chuyên ngành. Đảm bảo hệ thống hạ tầng kỹ thuật công nghệ thông tin hoạt động liên tục theo thời gian 24 giờ trong một ngày và 7 ngày trong một tuần.
+5. Thông báo đến các cơ quan xử lý chuyên ngành về phương án thực hiện các thủ tục và thời gian khắc phục sự cố trong trường hợp Cổng thông tin một cửa quốc gia có sự cố.
+6. Tư vấn, hỗ trợ kỹ thuật đối với các hệ thống xử lý chuyên ngành và người khai khi có yêu cầu.
+Điều 13. Trách nhiệm của các Bộ
+1. Đảm bảo điều kiện kỹ thuật của hệ thống xử lý chuyên ngành để kết nối liên tục với Cổng thông tin một cửa quốc gia.
+2. Quản lý kỹ thuật, vận hành, bảo trì, nâng cấp các hệ thống xử lý chuyên ngành.
+3. Đồng bộ các danh mục dữ liệu, bảng mã liên quan giữa hệ thống xử lý chuyên ngành thuộc phạm vi quản lý của mình với Cổng thông tin một cửa quốc gia trong trường hợp các danh mục dữ liệu, bảng mã này phát sinh yêu cầu cần phải đồng bộ để đảm bảo cho sự vận hành đúng đắn của hệ thống.
+4. Xây dựng tiêu chí thông tin, định dạng mẫu của các chứng từ điện tử thuộc phạm vi quản lý của mỗi Bộ.
+5. Chủ trì xây dựng, quản lý và vận hành hệ thống công nghệ thông tin trong phạm vi quản lý của mình.
+6. Trong trường hợp hệ thống xử lý chuyên ngành của Bộ có sự cố, thông báo đến Đơn vị quản lý Cổng thông tin một cửa quốc gia về phương án thực hiện các thủ tục và thời gian khắc phục sự cố.
+7. Thông báo địa chỉ thư điện tử của Bộ, tên đơn vị tiếp nhận thông tin, số điện thoại với Đơn vị quản lý Cổng thông tin một cửa quốc gia để nhận các thông tin, thông báo trong trường hợp xảy ra sự cố hoặc các trường hợp cần thiết khác. Quản lý hộp thư điện tử nhằm tiếp nhận thông tin sự cố và đưa ra các phương án xử lý kịp thời.
+Điều 14. Bảo đảm an toàn thông tin, dữ liệu
+1. Đơn vị quản lý Cổng thông tin một cửa quốc gia chịu trách nhiệm đảm bảo an toàn thông tin, dữ liệu của các giao dịch được thực hiện trên Cổng thông tin một cửa quốc gia.
+Việc bảo quản, sao lưu dữ liệu được thực hiện tại các hệ thống xử lý chuyên ngành. Các Bộ kết nối với Cổng thông tin một cửa quốc gia có trách nhiệm áp dụng các biện pháp bảo đảm an toàn thông tin được gửi tới Cổng thông tin một cửa quốc gia.
+2. Bộ Tài chính có trách nhiệm áp dụng các biện pháp chuyên môn, nghiệp vụ, kỹ thuật cần thiết để bảo mật Cổng thông tin một cửa quốc gia, bảo đảm sự chia sẻ thông tin, dữ liệu chính xác, kịp thời, hiệu quả cho các cơ quan, tổ chức, đơn vị, cá nhân được quy định tại Thông tư này.
+3. Người sử dụng chịu trách nhiệm về tính chính xác, đầy đủ của các thông tin, dữ liệu cung cấp tới Cổng thông tin một cửa quốc gia phù hợp với quy định tại văn bản quy phạm pháp luật chuyên ngành đối với các thủ tục hành chính đó.
+Điều 15. Xử lý sự cố
+Trường hợp Cổng thông tin một cửa quốc gia xảy ra sự cố hoặc có lỗi không thể trao đổi, cung cấp thông tin dưới hình thức điện tử:
+1. Đơn vị quản lý Cổng thông tin một cửa quốc gia thông báo ngay cho người khai và các cơ quan quản lý có liên quan bằng hình thức phù hợp và thư điện tử theo địa chỉ đã thông báo với Đơn vị quản lý Cổng thông tin một cửa quốc gia theo quy định tại khoản 7 Điều 13 Thông tư này.
+2. Các cơ quan xử lý thực hiện thông báo cho người khai bằng văn bản hoặc qua thư điện tử theo địa chỉ đăng ký trong thông tin người khai để hoàn thành các thủ tục đang được thực hiện trên Cổng thông tin một cửa quốc gia.
+3. Trong thời gian khắc phục sự cố, các thủ tục hành chính được thực hiện theo các phương thức khác theo quy định của pháp luật hiện hành.
+Mục 3: QUY TRÌNH KHAI, TIẾP NHẬN, TRAO ĐỔI VÀ PHẢN HỒI THÔNG TIN TRÊN CỔNG THÔNG TIN MỘT CỬA QUỐC GIA
+Điều 16. Người khai, quyền và nghĩa vụ của người khai
+1. Người khai theo quy định tại khoản 5 Điều 3 Thông tư này gồm:
+a) Người khai hải quan;
+b) Tổ chức, cá nhân trong nước và nước ngoài có liên quan đến quản lý, sản xuất, kinh doanh và sử dụng thức ăn chăn nuôi trên lãnh thổ Việt Nam; Chủ vật thể hoặc người được ủy quyền của chủ vật thể thuộc diện kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa; Người khai kiểm dịch sản phẩm động vật xuất khẩu; Người khai thực hiện thủ tục hành chính xin cấp Giấy phép CITES; Tổ chức, cá nhân trong nước và nước ngoài có liên quan đến quản lý, sản xuất, kinh doanh và sử dụng thức ăn thủy sản trên lãnh thổ Việt Nam; Cơ sở sản xuất, kinh doanh thực phẩm thủy sản có xuất khẩu và tổ chức, cá nhân xuất khẩu lô hàng thực phẩm thủy sản; Thương nhân nhập khẩu phân bón;
+c) Chủ nguồn thải CTNH hoặc nhà xuất khẩu đại diện cho các chủ nguồn thải; Thương nhân nhập khẩu, xuất khẩu các chất làm suy giảm tầng ô-dôn (HCFC) và polyon trộn sẵn HCFC-141b;
+d) Thương nhân Việt Nam và các tổ chức, cá nhân nhập khẩu trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024] để lưu hành tại Việt Nam; Các tổ chức và cá nhân nhập khẩu thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm; Các tổ chức và cá nhân nhập khẩu mỹ phẩm; Các doanh nghiệp sản xuất, kinh doanh, nhập khẩu, phân phối hóa chất, trang thiết bị xét nghiệm đề nghị đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm tại Việt Nam; Các tổ chức, cá nhân tham gia xuất khẩu, nhập khẩu thuốc thành phẩm.
+2. Người khai có các quyền sau đây:
+a) Được Đơn vị quản lý Cổng thông tin một cửa quốc gia và cơ quan xử lý hỗ trợ đào tạo người sử dụng, cung cấp các thông tin cần thiết để truy cập, khai thông tin và sử dụng các tiện ích trên Cổng thông tin một cửa quốc gia;
+b) Được Đơn vị quản lý Cổng thông tin một cửa quốc gia và cơ quan xử lý bảo đảm an toàn thông tin, bảo vệ bí mật kinh doanh và thương mại;
+c) Được cơ quan xử lý cung cấp thông tin về quá trình xử lý hồ sơ thực hiện thủ tục hành chính một cửa;
+3. Người khai có các nghĩa vụ sau:
+a) Tuân thủ quy định của pháp luật về tiêu chí, định dạng của thông tin khai theo yêu cầu kỹ thuật đối với từng thủ tục hành chính một cửa;
+b) Tuân thủ quy định của pháp luật về chữ ký số đối với những giao dịch điện tử yêu cầu sử dụng chữ ký số;
+c) Nộp thuế, phí, lệ phí và các khoản thu khác theo quy định của pháp luật;
+d) Tuân thủ các quy trình bảo đảm tính toàn vẹn, an toàn và bí mật trong việc thực hiện các thủ tục hành chính một cửa;
+đ) Lưu giữ chứng từ hành chính một cửa (bao gồm cả bản sao) theo quy định của pháp luật về giao dịch điện tử và các văn bản quy phạm pháp luật chuyên ngành; cung cấp các chứng từ điện tử và/hoặc chứng từ giấy có liên quan đến hàng hóa xuất khẩu, nhập khẩu, quá cảnh, phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh cho các cơ quan xử lý để phục vụ công tác kiểm tra, thanh tra theo thẩm quyền;
+e) Đáp ứng các yêu cầu về công nghệ thông tin và kỹ thuật theo quy định của pháp luật chuyên ngành để thực hiện các thủ tục hành chính một cửa;
+g) Chịu trách nhiệm trước pháp luật về nội dung thông tin đã khai khi thực hiện các thủ tục hành chính một cửa.
+Điều 17. Khai, sửa đổi, bổ sung thông tin khai và nộp các chứng từ trong hồ sơ hành chính một cửa
+1. Việc khai và sửa đổi, bổ sung thông tin khai có thể được thực hiện theo một trong hai hình thức tạo lập thông tin khai điện tử sau:
+a) Tạo lập thông tin khai theo các tiêu chí, định dạng của các biểu mẫu do các Bộ xây dựng; và theo chuẩn dữ liệu do Đơn vị quản lý Cổng thông tin một cửa quốc gia hướng dẫn và gửi đến Cổng thông tin một cửa quốc gia;
+b) Khai trực tiếp trên Cổng thông tin một cửa quốc gia.
+2. Việc sửa đổi, bổ sung thông tin khai được thực hiện theo quy định của pháp luật về các thủ tục có liên quan.
+3. Nộp các chứng từ trong hồ sơ hành chính một cửa:
+a) Đối với chứng từ điện tử, chứng từ giấy chuyển sang chứng từ điện tử: Người khai nộp chứng từ điện tử trên Cổng thông tin một cửa quốc gia;
+b) Đối với chứng từ giấy: Người khai nộp chứng từ giấy theo quy định tại các văn bản quy phạm pháp luật chuyên ngành.
+Điều 18. Tiếp nhận và phản hồi thông tin khai
+1. Cổng thông tin một cửa quốc gia tiếp nhận thông tin khai điện tử theo thời gian 24 giờ trong một ngày và 7 ngày trong một tuần.
+2. Cổng thông tin một cửa quốc gia thực hiện việc tiếp nhận và phản hồi thông tin khai theo chế độ tự động tới người khai và tới các hệ thống xử lý chuyên ngành.
+Điều 19. Xử lý thông tin và phản hồi kết quả xử lý
+Cơ quan xử lý có trách nhiệm:
+1. Tiếp nhận và xử lý thông tin khai.
+2. Phản hồi trạng thái tiếp nhận, xử lý thông tin khai tới người khai và các cơ quan liên quan tới việc thực hiện thủ tục thông qua Cổng thông tin một cửa quốc gia.
+3. Trả kết quả xử lý tới người khai và các cơ quan liên quan tới việc thực hiện thủ tục thông qua Cổng thông tin một cửa quốc gia.
+4. Thời hạn xử lý và phản hồi thông tin của cơ quan xử lý theo quy định của pháp luật hiện hành đối với các thủ tục hành chính tại khoản 1 Điều 1 Thông tư này.
+Điều 20. Quy trình trao đổi thông tin giữa Cổng thông tin một cửa quốc gia với các Bộ
+1. Cổng thông tin một cửa quốc gia tiếp nhận thông tin khai đối với các chứng từ quy định tại Phụ lục II ban hành kèm theo Thông tư này và gửi sang các hệ thống xử lý chuyên ngành tương ứng của Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế;
+2. Hệ thống xử lý chuyên ngành kiểm tra tính đầy đủ và toàn vẹn dữ liệu của thông tin khai, phản hồi thông tin tin tiếp nhận thành công hoặc thông báo lỗi trong quá trình tiếp nhận tới Cổng thông tin một cửa quốc gia;
+3. Trường hợp hệ thống xử lý chuyên ngành tiếp nhận thành công thông tin khai, Cơ quan xử lý kiểm tra tính đầy đủ và hợp lệ của thông tin khai, phản hồi thông tin chấp nhận hoặc không chấp nhận hoặc yêu cầu sửa đổi, bổ sung thông tin khai tới Cổng thông tin một cửa quốc gia;
+4. Trường hợp Cơ quan xử lý chấp nhận thông tin khai, Cơ quan xử lý giải quyết hồ sơ hành chính một cửa, phản hồi kết quả xử lý tới Cổng thông tin một cửa quốc gia;
+5. Cổng thông tin một cửa quốc gia nhận kết quả xử lý từ các hệ thống xử lý chuyên ngành, trả kết quả xử lý tới người khai và các hệ thống xử lý chuyên ngành có liên quan;
+6. Cơ quan hải quan căn cứ trên các thông tin khai, giấy phép, các kết quả xử lý khác đối với thủ tục hành chính một cửa do người khai và các hệ thống xử lý chuyên ngành chuyển tới để xử lý hồ sơ hải quan của người khai hải quan và trả kết quả xử lý tới Cổng thông tin một cửa quốc gia;
+7. Cổng thông tin một cửa quốc gia phản hồi kết quả xử lý của cơ quan hải quan cho người khai ngay sau khi nhận được kết quả xử lý của cơ quan hải quan;
+8. Cổng thông tin một cửa quốc gia cung cấp tờ khai hải quan và kết quả xử lý của cơ quan hải quan cho các cơ quan quản lý chuyên ngành liên quan trong trường hợp thủ tục hành chính của các cơ quan quản lý chuyên ngành có yêu cầu nộp tờ khai hải quan hoặc cơ quan quản lý chuyên ngành có yêu cầu cung cấp tờ khai hải quan và kết quả xử lý của cơ quan hải quan liên quan đến các thủ tục của cơ quan quản lý.
+Mục 4: CƠ CHẾ PHỐI HỢP VÀ TRAO ĐỔI THÔNG TIN ĐỂ THỰC HIỆN CÁC THỦ TỤC HÀNH CHÍNH MỘT CỬA
+Điều 21. Nguyên tắc trao đổi, cung cấp thông tin
+1. Việc trao đổi, cung cấp thông tin phải thực hiện theo quy định của pháp luật và trong phạm vi chức năng, nhiệm vụ và quyền hạn của mỗi bên.
+2. Thông tin được trao đổi, cung cấp phải sử dụng đúng mục đích, phục vụ cho hoạt động nghiệp vụ theo chức năng, nhiệm vụ của bên tiếp nhận thông tin.
+3. Các bên trao đổi, cung cấp thông tin có trách nhiệm trao đổi, cung cấp thông tin kịp thời, chính xác và đầy đủ.
+4. Các bên trao đổi, cung cấp, quản lý và sử dụng thông tin theo đúng quy định của pháp luật về bảo vệ bí mật nhà nước và các quy định về bảo mật thuộc chuyên ngành quản lý của các Bộ.
+5. Thông tin được trao đổi, cung cấp giữa các bên ngang cấp; trường hợp cần thiết có thể trao đổi khác cấp.
+6. Thông tin được trao đổi, cung cấp giữa các bên phải bảo đảm thống nhất và tuân thủ quy định của pháp luật về trao đổi thông tin giữa các cơ quan Nhà nước.
+7. Những cơ quan, đơn vị được giao là đầu mối trao đổi, cung cấp thông tin của mỗi bên quy định tại Điều 26 Thông tư này phải bố trí lực lượng, phương tiện để bảo đảm cho việc trao đổi, cung cấp thông tin giữa các bên được thông suốt và kịp thời.
+Điều 22. Nội dung cung cấp thông tin
+1. Bộ Tài chính cung cấp cho Cổng thông tin một cửa quốc gia thông tin sau:
+a) Các chứng từ điện tử đối với thủ tục hành chính của Bộ Tài chính quy định tại khoản 1 Phụ lục II ban hành kèm theo Thông tư này;
+b) Kết quả xử lý khác của cơ quan hải quan đối với thủ tục hành chính;
+c) Thông tin liên quan tới hàng hóa đã được thông quan, giải phóng theo yêu cầu của các Bộ.
+2. Bộ Nông nghiệp và Phát triển nông thôn cung cấp cho Cổng thông tin một cửa quốc gia thông tin sau:
+a) Các chứng từ điện tử đối với thủ tục hành chính của Bộ Nông nghiệp và Phát triển nông thôn quy định tại khoản 2 Phụ lục II ban hành kèm theo Thông tư này;
+b) Kết quả xử lý khác của cơ quan xử lý thuộc Bộ Nông nghiệp và Phát triển nông thôn đối với thủ tục hành chính.
+c) Thông tin liên quan tới hàng hóa đã được cấp phép hoặc từ chối cấp phép theo yêu cầu của các Bộ.
+3. Bộ Tài nguyên và Môi trường cung cấp cho Cổng thông tin một cửa quốc gia thông tin sau:
+a) Các chứng từ điện tử đối với thủ tục hành chính của Bộ Tài nguyên và Môi trường quy định tại khoản 3 Phụ lục II ban hành kèm theo Thông tư này;
+b) Kết quả xử lý khác của cơ quan xử lý thuộc Bộ Tài nguyên và Môi trường đối với thủ tục hành chính;
+c) Thông tin liên quan tới hàng hóa đã được cấp phép hoặc từ chối cấp phép theo yêu cầu các Bộ.
+4. Bộ Y tế cung cấp cho Cổng thông tin một cửa quốc gia thông tin sau:
+a) Các chứng từ điện tử đối với thủ tục hành chính, của Bộ Y tế quy định tại khoản 4 Phụ lục II ban hành kèm theo Thông tư này;
+b) Kết quả xử lý khác của cơ quan xử lý thuộc Bộ Y tế đối với thủ tục hành chính;
+c) Thông tin liên quan tới hàng hóa đã được cấp phép hoặc từ chối cấp phép theo yêu cầu của các Bộ.
+Điều 23. Hình thức trao đổi, cung cấp thông tin
+Việc trao đổi, cung cấp thông tin thực hiện trực tuyến dưới hình thức chứng từ điện tử theo quy định của các văn bản quy phạm pháp luật tại Phụ lục II ban hành kèm theo Thông tư này. Đơn vị quản lý Cổng thông tin một cửa quốc gia là đầu mối tiếp nhận và xử lý thông tin do các Bộ cung cấp để thực hiện các thủ tục hành chính một cửa.
+Trong trường hợp xảy ra sự cố hoặc lỗi kỹ thuật hoặc hệ thống chưa có chức năng trao đổi, cung cấp thông tin dẫn đến không thể thực hiện trao đổi, cung cấp thông tin bằng hệ thống điện tử thì các bên liên quan có thể tạm thời sử dụng hình thức khác như email, fax,..hoặc chứng từ giấy để thực hiện trao đổi, cung cấp thông tin.
+Điều 24. Kỳ thống kê thông tin và thời hạn thực hiện việc trao đổi, cung cấp thông tin
+Đơn vị quản lý Cổng thông tin một cửa quốc gia có trách nhiệm cung cấp các thông tin đến các đơn vị đầu mối quy định tại Điều 26 Thông tư này, cụ thể như sau:
+1. Thông tin hàng tháng: Thống kê thông tin, số liệu tính từ ngày đầu tháng đến ngày cuối tháng, cung cấp chậm nhất vào ngày 20 tháng sau.
+2. Thông tin cả năm: Thống kê thông tin, số liệu tính từ ngày 01 tháng 01 đến ngày 31 tháng 12, cung cấp chậm nhất vào ngày 20 tháng 01 năm sau.
+3. Thông tin đột xuất: Trong trường hợp Quốc hội, Chính phủ, Ban chỉ đạo quốc gia về Cơ chế một cửa quốc gia, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế, các cơ quan có thẩm quyền hoặc Ban Thư ký ASEAN yêu cầu báo cáo, cung cấp thông tin thuộc danh mục chỉ tiêu thông tin quy định tại Điều này hoặc các thông tin khác có liên quan nhưng theo kỳ thống kê và thời hạn khác với các quy định tại khoản 1, khoản 2 Điều này thì Cổng thông tin một cửa quốc gia, các Bộ, ngành, cơ quan liên quan chủ động cung cấp theo yêu cầu của các cơ quan đó, đồng thời cung cấp cho Cổng thông tin một cửa quốc gia và các cơ quan có liên quan.
+Điều 25. Quản lý, sử dụng thông tin
+1. Bộ Tài chính cung cấp cho Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế mã số truy cập và mật khẩu để khai thác thông tin từ Cổng thông tin một cửa quốc gia tại địa chỉ www.vnsw.gov.vn. Các cơ quan có trách nhiệm bảo mật mã số, mật khẩu được cung cấp;
+sử dụng đúng các quyền hạn đã đăng ký với Đơn vị quản lý Cổng thông tin một cửa quốc gia khi yêu cầu cấp tài khoản.
+2. Ngoài các cơ quan ban hành Thông tư liên tịch này, Bộ Tài chính có trách nhiệm chia sẻ thông tin cho các cơ quan, người có thẩm quyền để sử dụng, khai thác thông tin từ Cổng thông tin một cửa quốc gia. Trong trường hợp Bộ Tài chính sử dụng các thông tin liên quan tới phạm vi quản lý của các Bộ trên Cổng thông tin một cửa quốc gia để gửi cơ quan có thẩm quyền thì phải được sự chấp thuận của các đơn vị này trước khi cung cấp chính thức cho các cơ quan, người có thẩm quyền sử dụng. Việc cung cấp thông tin phải đảm bảo phù hợp với quy định của pháp luật chuyên ngành về bảo vệ bí mật nhà nước, bí mật thông tin kinh doanh của doanh nghiệp.
+Điều 26. Đơn vị đầu mối thực hiện việc cung cấp, trao đổi thông tin
+1. Các Bộ có trách nhiệm phân công đơn vị đầu mối cung cấp, trao đổi thông tin theo quy định của Thông tư này.
+2. Các đơn vị là đầu mối quy định tại khoản 1 Điều này có trách nhiệm phân công cụ thể lãnh đạo đơn vị và bộ phận chức năng thực hiện các nhiệm vụ về trao đổi, cung cấp, quản lý thông tin, mở và đăng ký với Đơn vị quản lý Cổng thông tin một cửa quốc gia hộp thư điện tử, số fax, số điện thoại, địa chỉ để phối hợp.
+Mục 5: ĐIỀU KHOẢN THI HÀNH
+Điều 27. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký.
+2. Mọi phát sinh, vướng mắc trong quá trình thực hiện, các cơ quan, đơn vị đầu mối phải kịp thời phản ánh về các Bộ liên quan để giải quyết.
+Điều 28. Trách nhiệm thi hành
+Các Bộ Tài chính, Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Y tế có trách nhiệm:
+1. Tổ chức thực hiện và chỉ đạo các cơ quan, đơn vị thuộc và trực thuộc thực hiện đúng các quy định của Thông tư này.
+2. Đảm bảo các điều kiện để các thủ tục hành chính được thực hiện thông suốt và đúng thời hạn.
+3. Công bố thủ tục hành chính thuộc phạm vi quản lý của mỗi Bộ trong đó xác định cụ thể số lượng, thành phần, loại chứng từ (chứng từ điện tử, chứng từ giấy được chuyển đổi sang dạng điện tử, chứng từ giấy) trong hồ sơ hành chính một cửa.
+4. Đảm bảo tính chính xác, kịp thời, an toàn, bí mật các thông tin được trao đổi và cung cấp theo quy định pháp luật hiện hành./.
+KT. BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN THỨ TRƯỞNG Vũ Văn Tám KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn KT. BỘ TRƯỞNG BỘ Y TẾ THỨ TRƯỞNG Nguyễn Thanh Long KT. BỘ TRƯỞNG BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG THỨ TRƯỞNG Nguyễn Linh Ngọc
+Nơi nhận:
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Văn phòng Tổng bí thư;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Chính phủ;
+- Văn phòng Ban Chỉ đạo Trung ương về phòng, chống tham nhũng;
+- Viện Kiểm sát nhân dân tối cao;
+- Tòa án nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Bộ trưởng, các Thứ trưởng Bộ Tài chính;
+- Bộ trưởng, các Thứ trưởng Bộ Nông nghiệp và Phát triển nông thôn;
+- Bộ trưởng, các Thứ trưởng Bộ Tài nguyên và Môi trường;
+- Bộ trưởng, các Thứ trưởng Bộ Y tế;
+- Bộ Nông nghiệp và Phát triển nông thôn;
+- Bộ Y tế;
+- Bộ Tài nguyên và Môi trường;
+- Cục Kiểm tra văn bản, Bộ Tư pháp;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Phòng Thương mại và Công nghiệp Việt Nam;
+- Công báo;
+- Website: Chính phủ, BTC, BNNPTNT, BTNMT, BYT, TCHQ;
+- Lưu: VT, BTC (TCHQ), BNNPTNT (Vụ TCCB), BTNMT (Vụ PC), BYT (Cục ATVSTP).
+PHỤ LỤC I DANH MỤC CÁC THỦ TỤC HÀNH CHÍNH ÁP DỤNG THÍ ĐIỂM CƠ CHẾ MỘT CỬA QUỐC GIA (Ban hành kèm theo Thông tư liên tịch số 178/2015/TTLT-BTC-BNNPTNT-BTNMT-BYT ngày 12/11/2015 của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế hướng dẫn thực hiện Cơ chế một cửa quốc gia)
+1. Các thủ tục hành chính một cửa của Bộ Tài chính gồm các thủ tục hải quan điện tử đối với:
+a) Hàng hóa xuất khẩu, nhập khẩu theo hợp đồng mua bán hàng hóa;
+b) Hàng hóa xuất khẩu, nhập khẩu để thực hiện hợp đồng gia công với thương nhân nước ngoài;
+c) Hàng hóa xuất khẩu, nhập khẩu theo loại hình nhập nguyên liệu để sản xuất hàng xuất khẩu;
+d) Hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp chế xuất;
+đ) Hàng hóa xuất khẩu, nhập khẩu để thực hiện dự án đầu tư;
+e) Hàng hóa kinh doanh theo phương thức tạm nhập tái xuất;
+g) Hàng hóa xuất khẩu, nhập khẩu tại chỗ;
+h) Hàng hóa đã xuất khẩu nhưng bị trả lại;
+i) Hàng hóa đã nhập khẩu nhưng phải xuất trả;
+k) Hàng hóa xuất khẩu, nhập khẩu chuyển cửa khẩu.
+l) Hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp được áp dụng chế độ ưu tiên trong lĩnh vực quản lý nhà nước về hải quan;
+m) Hàng hóa đưa vào, đưa ra kho ngoại quan.
+2. Các thủ tục hành chính một cửa của Bộ Nông nghiệp và Phát triển nông thôn:
+a) Cấp Giấy phép CITES;
+b) Đăng ký cấp Giấy chứng nhận chất lượng thức ăn Thủy sản nhập khẩu;
+c) Cấp Giấy phép nhập khẩu Giống cây trồng nông nghiệp;
+d) Cấp Giấy phép nhập khẩu phân bón;
+đ) Cấp Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa;
+e) Đăng ký kiểm tra xác nhận chất lượng thức ăn chăn nuôi nhập khẩu;
+g) Cấp Giấy chứng nhận kiểm dịch sản phẩm động vật xuất khẩu;
+h) Cấp chứng thư cho lô hàng thủy sản xuất khẩu sản xuất tại cơ sở trong Danh sách ưu tiên.
+i) Kiểm tra, cấp chứng thư cho lô hàng thủy sản xuất khẩu sản xuất tại cơ sở ngoài Danh sách ưu tiên.
+3. Các thủ tục hành chính một cửa của Bộ Tài nguyên và Môi trường:
+a) Đăng ký vận chuyển xuyên biên giới chất thải nguy hại;
+b) Xác nhận đăng ký nhập khẩu các chất HCFC; [Điểm này bị bãi bỏ bởi Khoản 1 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+c) Xác nhận đăng ký nhập khẩu polyon trộn sẵn HCFC-141b; [Điểm này bị bãi bỏ bởi Khoản 1 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+d) Xác nhận đăng ký xuất khẩu các chất HCFC. [Điểm này bị bãi bỏ bởi Khoản 1 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+4. Các thủ tục hành chính một cửa của Bộ Y tế:
+a) Thủ tục nhập khẩu mỹ phẩm đã công bố lưu hành tại Việt Nam;
+b) Thủ tục nhập khẩu thuốc thành phẩm có số đăng ký lưu hành tại Việt Nam (trừ các thuốc chứa hoạt chất gây nghiện, hướng tâm thần và tiền chất dùng làm thuốc);
+c) Giấy phép nhập khẩu trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024];
+d) Xác nhận đạt yêu cầu nhập khẩu của cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu;
+đ) Giấy chứng nhận đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm nhập khẩu.
+PHỤ LỤC II DANH MỤC CÁC CHỨNG TỪ ĐIỆN TỬ (Ban hành kèm theo Thông tư liên tịch số 178/2015/TTLT-BTC-BNNPTNT-BTNMT-BYT ngày 12/11/2015 của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế hướng dẫn thực hiện Cơ chế một cửa quốc gia)
+1. Các chứng từ điện tử để thực hiện thủ tục hành chính một cửa của Bộ Tài chính gồm:
+a) Tờ khai hải quan điện tử;
+b) Quyết định thông quan, giải phóng hàng hoặc đưa hàng hóa về bảo quản.
+2. Các chứng từ điện tử để thực hiện thủ tục hành chính một cửa của của Bộ Nông nghiệp và Phát triển nông thôn gồm:
+a) Giấy đăng ký kiểm tra xác nhận chất lượng có xác nhận của Cục Chăn nuôi; Giấy xác nhận chất lượng/Giấy thông báo không đạt chất lượng hoặc kết quả xử lý khác của Cục Chăn nuôi;
+b) Giấy đăng ký kiểm dịch thực vật; giấy chứng nhận kiểm dịch thực vật; giấy phép kiểm dịch thực vật nhập khẩu (áp dụng đối với vật thể phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam; giấy ủy quyền của chủ vật thể (áp dụng trong trường hợp chủ vật thể ủy quyền cho người khác thực hiện đăng ký kiểm dịch thực vật; hợp đồng mua bán, thư tín dụng (nếu có);
+c) Giấy đăng ký kiểm dịch động vật, sản phẩm động vật xuất khẩu; Giấy chứng nhận kiểm dịch sản phẩm động vật; Thông báo chấp nhận hoặc từ chối hoặc yêu cầu sửa đổi, bổ sung thông tin đăng ký kiểm dịch; Thông báo không đạt và lấy mẫu lần 2; Thông báo không đạt yêu cầu vệ sinh thú y;
+d) Giấy phép CITES hoặc văn bản từ chối cấp giấy phép CITES;
+đ) Giấy đăng ký kiểm tra xác nhận chất lượng có xác nhận của Tổng cục Thủy sản; Giấy xác nhận chất lượng/Giấy thông báo không đạt chất lượng hoặc kết quả xử lý khác của Tổng cục Thủy sản;
+e) Giấy phép nhập khẩu giống cây trồng nông nghiệp;
+g) Giấy phép nhập khẩu phân bón;
+h) Giấy chứng nhận an toàn vệ sinh thực phẩm đối với lô hàng thực phẩm thủy sản xuất khẩu.
+3. Các chứng từ điện tử để thực hiện thủ tục hành chính một cửa của Bộ Tài nguyên và Môi trường gồm:
+a) Đơn đăng ký vận chuyển xuyên biên giới chất thải nguy hại; Thông báo vận chuyển bằng tiếng Anh theo mẫu quy định của Công ước Basel (http://www.basel.int/techmatters/forms-notif-mov/vCOP8.pdf);
+Bản sao hợp đồng xử lý chất thải nguy hại với đơn vị xử lý chất thải nguy hại tại quốc gia nhập khẩu; các tài liệu, giấy tờ có liên quan tới các thông tin theo quy định tại Đơn đăng ký vận chuyển xuyên biên giới chất thải nguy hại; Văn bản chấp thuận hoặc văn bản không chấp thuận xuất khẩu chất thải nguy hại;
+b) Đơn đăng ký nhập khẩu các chất HCFC; Giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đầu tư hoặc giấy phép kinh doanh; hóa đơn bán hàng và tờ khai hải quan hàng hóa xuất khẩu có xác nhận đã hoàn thành thủ tục hải quan của thương nhân xuất khẩu (trường hợp thương nhân nhập khẩu các chất HCFC theo hạn ngạch nhưng sau đó xuất khẩu (trực tiếp hoặc ủy thác xuất khẩu) và có nhu cầu nhập khẩu tiếp). Xác nhận đăng ký nhập khẩu các chất HCFC để làm thủ tục cấp phép hoặc văn bản từ chối xác nhận đăng ký nhập khẩu; [Điểm này bị bãi bỏ bởi Khoản 2 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+c) Đơn đăng ký nhập khẩu polyon trộn sẵn HCFC-141b; Xác nhận đăng ký nhập khẩu polyon trộn sẵn HCFC-141b hoặc văn bản từ chối xác nhận đăng ký nhập khẩu; [Điểm này bị bãi bỏ bởi Khoản 2 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+d) Đơn đăng ký xuất khẩu các chất HCFC; Xác nhận đăng ký xuất khẩu các chất HCFC hoặc văn bản từ chối xác nhận đăng ký xuất khẩu. [Điểm này bị bãi bỏ bởi Khoản 2 Điều 3 Thông tư 03/2018/TT-BTNMT có hiệu lực từ ngày 01/10/2018]
+4. Các chứng từ điện tử để thực hiện thủ tục hành chính một cửa của Bộ Y tế gồm:
+a) Đơn đề nghị cấp phép nhập khẩu trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024]; Giấy phép nhập khẩu trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024] hoặc thông báo từ chối cấp phép nhập khẩu trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024];
+Thông báo hủy hiệu lực giấy phép nhập khẩu Trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024] đã được cấp, trong một số trường hợp quy định theo pháp luật chuyên ngành;
+b) Giấy đăng ký kiểm tra thực phẩm nhập khẩu; Giấy xác nhận thực phẩm đạt yêu cầu nhập khẩu hoặc thông báo lô hàng thực phẩm không đạt yêu cầu nhập khẩu;
+c) Đơn đề nghị đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm; Giấy chứng nhận đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm hoặc thông báo từ chối lưu hành bộ xét nghiệm nhanh thực phẩm;
+d) Quyết định cấp số đăng ký lưu hành;
+đ) Phiếu công bố sản phẩm mỹ phẩm đã được cấp số tiếp nhận.
+5. Thông báo tiếp nhận (chấp nhận/từ chối/yêu cầu sửa đổi, bổ sung) thông tin khai trên Cổng thông tin một cửa quốc gia.
+PHỤ LỤC III MẪU ĐĂNG KÝ TÀI KHOẢN CỦA NGƯỜI SỬ DỤNG TRÊN CỔNG THÔNG TIN MỘT CỬA QUỐC GIA (Ban hành kèm theo Thông tư liên tịch số 178/2015/TTLT-BTC-BNNPTNT-BTNMT-BYT ngày 12/11/2015 của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Y tế hướng dẫn thực hiện Cơ chế một cửa quốc gia) Mẫu I - Chỉ tiêu đăng ký thông tin đối với người khai đã có tài khoản tại các hệ thống xử lý chuyên ngành 
+| STT | Tên tiêu chí | Bắt buộc | Lặp lại |
+| --- | --- | --- | --- |
+| I | Thông tin chung |  |  |
+| 1 | Tên tổ chức (Tiếng Việt) | X |  |
+| 2 | Tên người đại diện | X |  |
+| 3 | Địa chỉ tổ chức | X |  |
+| 4 | Email | X |  |
+| 5 | Mã số thuế của tổ chức | X |  |
+| 6 | Lĩnh vực hoạt động | X |  |
+| II | Thông tin tài khoản lựa chọn để sử dụng trên Cổng thông tin một cửa quốc gia |  |  |
+| 1 | Tên tài khoản truy cập | X |  |
+| 2 | Đơn vị cấp tài khoản | X |  |
+| III | Thông tin chữ ký số |  |  |
+| 1 | Số định danh chứng thư số |  | X |
+| 2 | Tên đơn vị cung cấp dịch vụ chứng thư số |  | X |
+| 3 | Tên người được cấp chứng thư số |  | X |
+| 4 | Ngày hiệu lực |  | X |
+| 5 | Ngày hết hiệu lực |  | X |
+| 6 | Khóa công khai |  | X | Mẫu II - Chỉ tiêu đăng ký thông tin đối với người khai cấp tài khoản mới 
+| STT | Tên tiêu chí | Bắt buộc | Lặp lại |
+| --- | --- | --- | --- |
+| I | Thông tin chung |  |  |
+| 1 | Tên tổ chức (Tiếng Việt) | X |  |
+| 2 | Tên tổ chức (Tiếng Anh) |  |  |
+| 3 | Tên viết tắt |  |  |
+| 4 | Năm thành lập | X |  |
+| 5 | Địa chỉ tổ chức | X |  |
+| 6 | Website |  |  |
+| 7 | Điện thoại | X |  |
+| 8 | Fax |  |  |
+| 9 | Số đăng ký kinh doanh | X |  |
+| 10 | Mã số thuế của tổ chức | X |  |
+| 11 | Lĩnh vực hoạt động | X |  |
+| 12 | Giấy phép kinh doanh (dạng file ảnh) | X |  |
+| II | Thông tin người đại diện theo pháp luật |  |  |
+| 1 | Họ và tên | X |  |
+| 2 | Điện thoại | X |  |
+| 3 | Di động | X |  |
+| 4 | Email | X |  |
+| III | Thông tin chữ ký số |  |  |
+| 1 | Số định danh chứng thư số |  | X |
+| 2 | Tên đơn vị cung cấp dịch vụ chứng thư số |  | X |
+| 3 | Tên người đ ượ c cấp chứng thư số |  | X |
+| 4 | Ngày hiệu lực |  | X |
+| 5 | Ngày hết hiệu lực |  | X |
+| 6 | Khóa công khai |  | X |

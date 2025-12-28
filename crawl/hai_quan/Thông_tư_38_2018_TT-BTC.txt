@@ -1,0 +1,461 @@
+Thông tư 38/2018/TT-BTC
+BỘ TÀI CHÍNH -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 38/2018/TT-BTC
+Hà Nội, ngày 20 tháng 04 năm 2018 THÔNG TƯ QUY ĐỊNH VỀ XÁC ĐỊNH XUẤT XỨ HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU
+Căn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014;
+Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu số 107/2016/QH13 ngày 06 tháng 4 năm 2016;
+Căn cứ Luật Quản lý ngoại thương số 05/2017/QH14 ngày 12 tháng 6 năm 2017;
+Căn cứ Nghị định số 08/2015/NĐ-CP  ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan; Nghị định số 59/2018/NĐ-CP  ngày 20 tháng 4 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP  của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan;
+Căn cứ Nghị định số 31/2018/NĐ-CP  ngày 08 tháng 3 năm 2018 của Chính phủ quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa;
+Căn cứ Nghị định số 87/2017/NĐ-CP  ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính ban hành Thông tư quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu.
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định hồ sơ xác định trước xuất xứ, nộp chứng từ chứng nhận xuất xứ hàng hóa xuất khẩu, nhập khẩu; thủ tục, nội dung kiểm tra, xác định, xác minh xuất xứ hàng hóa xuất khẩu, nhập khẩu.
+Điều 2. Đối tượng áp dụng
+1. Người khai hải quan.
+2. Cơ quan hải quan, công chức hải quan.
+3. Cơ quan, tổ chức cấp Giấy chứng nhận xuất xứ hàng hóa; thương nhân tự chứng nhận xuất xứ hàng hóa.
+4. Tổ chức, cá nhân khác có quyền và nghĩa vụ liên quan đến xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu.
+Chương II [Chương này được bổ sung bởi Khoản 4 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)] HỒ SƠ XÁC ĐỊNH TRƯỚC XUẤT XỨ, NỘP CHỨNG TỪ CHỨNG NHẬN XUẤT XỨ HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU [Chương này được bổ sung bởi Khoản 4 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)]
+Điều 3. Hồ sơ đề nghị xác định trước xuất xứ hàng hóa
+1. Tổ chức, cá nhân đề nghị cơ quan hải quan xác định trước xuất xứ đối với hàng hóa dự kiến xuất khẩu, nhập khẩu theo quy định tại Điều 24 Nghị định số 08/2015/NĐ-CP ngày 21/01/2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan (sau đây gọi là Nghị định số 08/2015/NĐ-CP), khoản 11 Điều 1 Nghị định số 59/2018/NĐ-CP ngày 20/04/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP  (sau đây gọi là Nghị định số 59/2018/NĐ-CP) gửi hồ sơ đề nghị xác định trước xuất xứ hàng hóa đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan, gồm:
+a) Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu theo các chỉ tiêu thông tin tại mẫu số 01/CT/XĐTXX/GSQL Phụ lục I ban hành kèm theo Thông tư này;
+b) Bản kê nguyên liệu, vật tư dùng để sản xuất hàng hóa gồm các thông tin: tên hàng, mã số hàng hóa, xuất xứ nguyên liệu, vật tư cấu thành sản phẩm, giá CIF hoặc giá tương đương của nguyên liệu, vật tư do nhà sản xuất hoặc nhà xuất khẩu cung cấp: 01 bản chụp;
+c) Bản mô tả sơ bộ quy trình sản xuất hàng hóa hoặc Giấy chứng nhận phân tích thành phần do nhà sản xuất cung cấp: 01 bản chụp;
+d) Catalogue hoặc hình ảnh hàng hóa: 01 bản chụp.
+Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, người khai hải quan nộp 01 bộ hồ sơ giấy đến Tổng cục Hải quan gồm các chứng từ quy định tại điểm b, điểm c, điểm d khoản này và Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu theo Mẫu số 02/XĐTXX/GSQL Phụ lục I ban hành kèm theo Thông tư này.
+2. Thủ tục xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu thực hiện theo quy định tại Điều 28 Luật Hải quan,
+Điều 24 Nghị định số 08/2015/NĐ-CP và khoản 11 Điều 1 Nghị định số 59/2018/NĐ-CP.
+Điều 4. Chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu phải nộp cho cơ quan hải quan
+1. Chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu phải nộp cho cơ quan hải quan đối với hàng hóa nhập khẩu theo quy định tại khoản 1 Điều 26 Nghị định số 31/2018/NĐ-CP ngày 08/03/2018 của Chính phủ quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa (sau đây gọi là Nghị định số 31/2018/NĐ-CP), gồm:
+a) Hàng hóa có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi thuế quan trong quan hệ thương mại với Việt Nam;
+hàng hóa từ khu phi thuế quan nhập khẩu vào thị trường trong nước đáp ứng điều kiện xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi thuế quan trong quan hệ thương mại với Việt Nam, người khai hải quan muốn được hưởng thuế suất ưu đãi đặc biệt thì phải nộp cho cơ quan hải quan một trong các chứng từ chứng nhận xuất xứ hàng hóa sau đây theo quy định của pháp luật Việt Nam và theo Điều ước quốc tế mà Việt Nam là thành viên:
+a.1) Giấy chứng nhận xuất xứ hàng hóa (sau đây gọi là C/O): 01 bản chính mang dòng chữ “ORIGINAL”, trừ trường hợp Điều ước quốc tế mà Việt Nam là thành viên có quy định khác; hoặc a.2) Chứng từ tự chứng nhận xuất xứ: 01 bản chính;
+b) Hàng hóa thuộc diện phải tuân thủ các chế độ quản lý nhập khẩu theo quy định của pháp luật Việt Nam hoặc theo Điều ước quốc tế hai bên hoặc nhiều bên mà Việt Nam và nước, nhóm nước hoặc vùng lãnh thổ cùng là thành viên; hàng hóa đang được thông báo nghi ngờ nhập khẩu từ nước, nhóm nước hoặc vùng lãnh thổ trong danh sách bị cấm vận theo Nghị quyết của Hội đồng Bảo an Liên hợp quốc, người khai hải quan nộp cho cơ quan hải quan: 01 bản chính C/O;
+c) Hàng hóa thuộc diện Việt Nam hoặc các tổ chức quốc tế thông báo đang ở trong thời điểm có nguy cơ gây hại đến an toàn xã hội, sức khỏe của cộng đồng hoặc vệ sinh môi trường cần được kiểm soát, người khai hải quan nộp cho cơ quan hải quan: 01 bản chính C/O;
+d) Hàng hóa thuộc diện Việt Nam thông báo đang ở trong thời điểm áp dụng thuế chống bán phá giá, thuế chống trợ cấp, các biện pháp tự vệ, biện pháp hạn ngạch thuế quan, biện pháp hạn chế số lượng, để xác định hàng hóa không thuộc diện áp dụng các thuế này, người khai hải quan nộp cho cơ quan hải quan: 01 bản chính C/O.
+Hàng hóa nhập khẩu phải nộp chứng từ chứng nhận xuất xứ quy định tại điểm b, điểm c, điểm d khoản 1 Điều này thực hiện theo công bố của các bộ quản lý chuyên ngành, Bộ Tài chính.
+2. Chứng từ chứng nhận xuất xứ hàng hóa phải nộp cho cơ quan hải quan đối với hàng hóa nhập khẩu theo quy định tại Điều 24 Luật Hải quan thực hiện theo Danh mục hàng hóa quy định tại Phụ lục II ban hành kèm theo Thông tư này.
+Định kỳ hàng năm hoặc trong trường hợp cần thiết, Bộ trưởng Bộ Tài chính công bố quyết định điều chỉnh Danh mục này.
+3. Trường hợp sử dụng C/O điện tử được truyền qua Cổng thông tin một cửa quốc gia thì người khai hải quan không phải nộp C/O bản giấy theo quy định của Điều này.
+4. Trường hợp không nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại Điều này thì thực hiện như sau:
+a) Trường hợp người khai hải quan không nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm a khoản 1 Điều này, hàng hóa nhập khẩu áp dụng thuế suất ưu đãi (MFN) hoặc thông thường và được thông quan theo quy định.
+Khi nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa trong thời hạn quy định tại khoản 1 Điều 7 Thông tư này, người khai hải quan khai bổ sung theo thuế suất ưu đãi đặc biệt; trường hợp số tiền thuế đã nộp lớn hơn số tiền thuế phải nộp được xử lý theo quy định về xử lý số tiền thuế nộp thừa;
+b) Trường hợp người khai hải quan không nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm b, điểm c khoản 1 và khoản 2 Điều này thì hàng hóa không được thông quan và bị xử lý theo quy định của pháp luật. [Điểm này được sửa đổi bởi Khoản 1 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)] Trường hợp hàng hóa quy định tại điểm b, điểm c khoản 1 Điều này, người khai hải quan không nộp được chứng từ chứng nhận xuất xứ hàng hóa nhưng hàng hóa được cơ quan có thẩm quyền của Việt Nam kết luận hàng hóa đủ điều kiện nhập khẩu hoặc cho phép nhập khẩu theo pháp luật chuyên ngành thì cơ quan hải quan thực hiện thông quan theo quy định;
+c) Trường hợp người khai hải quan không nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm d khoản 1 Điều này thì hàng hóa phải áp dụng thuế chống bán phá giá hoặc thuế chống trợ cấp hoặc thuế tự vệ hoặc thuế suất ngoài hạn ngạch thuế quan đối với toàn bộ lô hàng và được thông quan theo quy định.
+Điều 5. Khai chứng từ chứng nhận xuất xứ hàng hóa
+1. Trường hợp nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan:
+a) Đối với tờ khai hải quan điện tử: người khai hải quan khai số tham chiếu và ngày cấp chứng từ chứng nhận xuất xứ hàng hóa trên tờ khai hải quan điện tử theo hướng dẫn tại Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC  ngày 25/3/2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan;
+thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu (sau đây gọi là Thông tư số 38/2015/TT-BTC) được sửa đổi, bổ sung tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC  ngày 20/4/2018 sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC  (sau đây gọi là Thông tư số 39/2018/TT-BTC);
+b) Đối với tờ khai hải quan giấy: người khai hải quan khai số tham chiếu và ngày cấp chứng từ chứng nhận xuất xứ hàng hóa tại ô “Chứng từ đi kèm” trên tờ khai hải quan giấy theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC .
+2. Trường hợp chưa nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan:
+a) Đối với tờ khai hải quan điện tử: tại thời điểm làm thủ tục hải quan, người khai hải quan khai chậm nộp chứng từ chứng nhận xuất xứ hàng hóa trên tờ khai hải quan điện tử theo hướng dẫn tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC .
+Khi nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại khoản 1 Điều 7 Thông tư này, người khai hải quan khai số tham chiếu và ngày cấp chứng từ chứng nhận xuất xứ hàng hóa trên tờ khai bổ sung sau thông quan theo hướng dẫn tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC ;
+b) Đối với tờ khai hải quan giấy: tại thời điểm làm thủ tục hải quan, người khai hải quan khai chậm nộp chứng từ chứng nhận xuất xứ hàng hóa tại ô “Chứng từ đi kèm” trên tờ khai hải quan theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC. Khi nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại khoản 1 Điều 7 Thông tư này, người khai hải quan khai bổ sung số tham chiếu và ngày cấp chứng từ chứng nhận xuất xứ hàng hóa theo Mẫu số 03/KBS/GSQL Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC .
+Điều 6. Các trường hợp không phải nộp chứng từ chứng nhận xuất xứ hàng hóa
+1. Hàng hóa xuất khẩu.
+2. Hàng hóa nhập khẩu không thuộc hàng hóa quy định tại Điều 4 Thông tư này.
+3. Hàng hóa nhập khẩu thuộc trường hợp quy định miễn nộp chứng từ chứng nhận xuất xứ hàng hóa theo Điều ước quốc tế mà Việt Nam là thành viên.
+4. Đối với hàng hóa không thuộc trường hợp phải nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại khoản 1 và khoản 2 Điều 4 Thông tư này nhưng người khai hải quan đề nghị nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan và thực hiện khai theo quy định tại khoản 1 Điều 5 Thông tư này thì cơ quan hải quan tiếp nhận và kiểm tra chứng từ chứng nhận xuất xứ hàng hóa theo quy định.
+Điều 7. Thời điểm nộp chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu
+1. Đối với hàng hóa quy định tại điểm a khoản 1 Điều 4 Thông tư này:
+a) Người khai hải quan nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan;
+b) Trường hợp chưa có chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan, người khai hải quan khai bổ sung và nộp chứng từ chứng nhận xuất xứ hàng hóa trong thời hạn ba mươi (30) ngày kể từ ngày đăng ký tờ khai hải quan, trừ hàng hóa nhập khẩu có C/O mẫu EAV, người khai hải quan nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan.
+Đối với hàng hóa nhập khẩu có C/O mẫu VK (KV), trường hợp chưa có chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan, người khai hải quan khai bổ sung và nộp chứng từ chứng nhận xuất xứ hàng hóa trong thời hạn 01 năm kể từ ngày đăng ký tờ khai hải quan;
+c) Trường hợp tại thời điểm làm thủ tục hải quan, người khai hải quan khai thuế suất MFN, không áp dụng thuế suất ưu đãi đặc biệt.
+Sau khi hàng hóa đã thông quan, cơ quan hải quan thực hiện kiểm tra sau thông quan xác định lại mã số HS hoặc người khai hải quan tự phát hiện khai bổ sung mã số HS dẫn đến thay đổi thuế suất thuế nhập khẩu, người khai hải quan được nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa trong thời hạn còn hiệu lực của chứng từ chứng nhận xuất xứ hàng hóa để được xem xét áp dụng thuế suất ưu đãi đặc biệt.
+Thời điểm nộp chứng từ chứng nhận xuất xứ hàng hóa là thời điểm người khai hải quan nộp hồ sơ khai bổ sung mã số HS sau khi cơ quan hải quan ban hành kết luận kiểm tra hoặc khi người khai hải quan tự phát hiện sai sót. Việc xử lý vi phạm thực hiện theo quy định của pháp luật;
+Đối với trường hợp quy định tại điểm c khoản này nếu người khai hải quan đã nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan theo quy định tại điểm a khoản này hoặc đã nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm b khoản này và đã được cơ quan hải quan kiểm tra, xác định tính hợp lệ của chứng từ chứng nhận xuất xứ hàng hóa khi tiến hành kiểm tra sau thông quan, thanh tra theo quy định, cơ quan hải quan đối chiếu với kết quả kiểm tra, xác định xuất xứ hàng hóa tại thời điểm làm thủ tục nhập khẩu ban đầu để xem xét áp dụng mức thuế suất ưu đãi đặc biệt nếu việc xác định lại mã số HS không làm thay đổi bản chất xuất xứ hàng hóa đã kiểm tra, xác định trước đó.
+d) Trường hợp tại thời điểm làm thủ tục hải quan, hàng hóa thuộc đối tượng ưu đãi đầu tư được miễn thuế nhập khẩu. Sau khi hàng hóa đã thông quan, cơ quan hải quan kiểm tra sau thông quan xác định hàng hóa không thuộc đối tượng ưu đãi đầu tư hoặc người khai hải quan tự phát hiện hàng hóa không thuộc đối tượng ưu đãi đầu tư dẫn đến thay đổi nghĩa vụ thuế nhập khẩu, người khai hải quan được nộp bổ sung chứng từ chứng nhận xuất xứ hàng hóa trong thời hạn còn hiệu lực của chứng từ chứng nhận xuất xứ hàng hóa để được xem xét áp dụng thuế suất ưu đãi đặc biệt. Thời điểm nộp chứng từ chứng nhận xuất xứ hàng hóa là thời điểm người khai hải quan nộp hồ sơ khai bổ sung sau khi cơ quan hải quan ban hành kết luận kiểm tra hoặc khi người khai hải quan tự phát hiện hàng hóa nhập khẩu không thuộc đối tượng ưu đãi đầu tư. Việc xử lý vi phạm thực hiện theo quy định của pháp luật.
+2. Đối với hàng hóa quy định tại điểm b, điểm c, điểm d khoản 1 và khoản 2 Điều 4 Thông tư này, người khai hải quan nộp C/O tại thời điểm làm thủ tục hải quan.
+3. Đối với hàng hóa của doanh nghiệp ưu tiên:
+a) Trường hợp có chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan, người khai hải quan thực hiện khai theo quy định tại khoản 1 Điều 5 Thông tư này và nộp chứng từ chứng nhận xuất xứ hàng hóa cùng thời hạn với thời hạn nộp thuế theo quy định tại khoản 2 Điều 9 Luật Thuế xuất khẩu, thuế nhập khẩu chậm nhất là ngày thứ mười của tháng kế tiếp;
+b) Trường hợp chưa có chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục hải quan, người khai hải quan thực hiện khai theo quy định tại khoản 2 Điều 5 Thông tư này và nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm b, khoản 1 Điều 7 Thông tư này.
+Cơ quan hải quan tiếp nhận chứng từ chứng nhận xuất xứ hàng hóa và thực hiện kiểm tra theo quy định.
+4. Chứng từ chứng nhận xuất xứ hàng hóa nộp cho cơ quan hải quan phải còn trong thời hạn hiệu lực bao gồm cả chứng từ chứng nhận xuất xứ hàng hóa được cấp mới thay thế, sửa lỗi, cấp sau hoặc bản sao chứng thực theo quy định của Điều ước quốc tế mà Việt Nam là thành viên.
+5. Thời điểm làm thủ tục hải quan được xác định từ thời điểm đăng ký tờ khai hải quan đến thời điểm thông quan hàng hóa. Trường hợp giải phóng hàng thì thời điểm làm thủ tục hải quan được xác định từ thời điểm đăng ký tờ khai hải quan đến thời điểm giải phóng hàng.
+Điều 7a. Xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu để áp dụng thuế suất ưu đãi đặc biệt trong khuôn khổ Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (sau đây gọi là Hiệp định CPTPP) 1. Việc khai, nộp, kiểm tra, xác minh, từ chối chứng từ chứng nhận xuất xứ hàng hóa xuất khẩu, nhập khẩu để thực hiện Hiệp định CPTPP thực hiện theo quy định tại Thông tư này. 2. Thời điểm nộp chứng từ chứng nhận xuất xứ hàng hóa để áp dụng thuế suất ưu đãi đặc biệt: a) Người khai hải quan nộp cho cơ quan hải quan tại thời điểm làm thủ tục hải quan nhập khẩu một trong các loại chứng từ sau: a.1) Chứng từ chứng nhận xuất xứ hàng hóa do người xuất khẩu hoặc người sản xuất phát hành (chứng từ tự chứng nhận xuất xứ hàng hóa): 01 bản chính; a.2) Chứng từ chứng nhận xuất xứ hàng hóa (C/O) được cấp bởi cơ quan có thẩm quyền của nước thành viên xuất khẩu: 01 bản chính. b) Trường hợp chưa kê khai để áp dụng thuế suất ưu đãi đặc biệt tại thời điểm làm thủ tục hải quan nhập khẩu, để được áp dụng thuế suất ưu đãi đặc biệt, người khai hải quan có trách nhiệm sau: b.1) Khai rõ xuất xứ hàng hóa và khai chậm nộp chứng từ chứng nhận xuất xứ hàng hóa trên tờ khai hải quan nhập khẩu tại thời điểm làm thủ tục hải quan; b.2) Khai bổ sung và nộp 01 bản chính chứng từ chứng nhận xuất xứ trong thời hạn 12 tháng kể từ ngày đăng ký tờ khai hải quan. Thủ tục xử lý số tiền thuế nộp thừa được thực hiện theo quy định của pháp luật về quản lý thuế. 3. Yêu cầu tối thiểu đối với chứng từ chứng nhận xuất xứ hàng hóa: a) Chứng từ chứng nhận xuất xứ hàng hóa phải có đủ các thông tin tối thiểu sau: a.1) Người xuất khẩu hoặc người sản xuất: nêu rõ người chứng nhận là người xuất khẩu hay người sản xuất; a.2) Tên, địa chỉ (bao gồm quốc gia), số điện thoại và địa chỉ email của người chứng nhận; a.3) Tên, địa chỉ (bao gồm quốc gia), số điện thoại và địa chỉ email của người xuất khẩu nếu người xuất khẩu không phải người chứng nhận; Thông tin này không bắt buộc nếu người sản xuất cấp giấy chứng nhận xuất xứ hàng hóa và không biết thông tin người xuất khẩu. Địa chỉ của người xuất khẩu là nơi xuất khẩu hàng hóa thuộc nước thành viên Hiệp định CPTPP; a.4) Tên, địa chỉ (bao gồm quốc gia), số điện thoại và địa chỉ email của người sản xuất nếu người sản xuất không phải người chứng nhận hay người xuất khẩu hoặc nếu có nhiều hơn một người sản xuất thì ghi “Various” ("Nhiều người sản xuất”) hoặc cung cấp một danh sách người sản xuất. Nếu thông tin cần phải giữ bí mật có thể ghi “Available upon request by the importing authorities” (“Cung cấp theo yêu cầu của cơ quan có thẩm quyền của Bên nhập khẩu”). Địa chỉ của người sản xuất là nơi sản xuất của hàng hóa thuộc nước thành viên Hiệp định CPTPP; a.5) Tên, địa chỉ, địa chỉ email và số điện thoại của người nhập khẩu (nếu có thông tin về người nhập khẩu). Địa chỉ của người nhập khẩu phải thuộc nước thành viên Hiệp định CPTPP; a.6) Mô tả và mã số HS của hàng hóa; Ghi rõ mô tả hàng hóa và mã số HS ở cấp độ 6 chữ số của hàng hóa: Mô tả phải phù hợp với hàng hóa được chứng nhận xuất xứ. Trường hợp chứng từ chứng nhận xuất xứ hàng hóa sử dụng cho một lô hàng nhập khẩu thì phải nêu rõ số hóa đơn liên quan đến việc xuất khẩu (nếu biết); a.7) Tiêu chí xuất xứ: Nêu cụ thể tiêu chí xuất xứ mà hàng hóa đáp ứng; a.8) Thời hạn (Blanket Period) Trong trường hợp sử dụng một chứng từ chứng nhận xuất xứ hàng hóa cho nhiều lô hàng giống hệt thì trên chứng từ chứng nhận xuất xứ hàng hóa thể hiện thời gian áp dụng nhưng không quá 12 tháng; a.9) Ngày tháng năm và chữ ký được ủy quyền: Chứng từ chứng nhận xuất xứ phải được người chứng nhận ký, ghi ngày tháng năm và kèm theo xác nhận: Tôi xác nhận rằng hàng hóa được mô tả trong tài liệu này thỏa mãn điều kiện có xuất xứ và các thông tin có trong tài liệu này là chính xác và đúng sự thật. Tôi chịu trách nhiệm chứng minh khai báo này và đồng ý lưu trữ, xuất trình các tài liệu chứng minh cho việc chứng nhận này theo yêu cầu hoặc trong quá trình xác minh tại trụ sở; b) Chứng từ chứng nhận xuất xứ hàng hóa phải được cấp ở dạng văn bản giấy hoặc bản điện tử; c) Trường hợp chứng từ chứng nhận xuất xứ hàng hóa không sử dụng tiếng Anh, người khai hải quan phải dịch ra tiếng Việt hoặc tiếng Anh và chịu trách nhiệm về nội dung của bản dịch. 4. Trường hợp một nước thành viên Hiệp định CPTPP thông báo chỉ áp dụng chứng từ chứng nhận xuất xứ hàng hóa được cấp bởi cơ quan có thẩm quyền hoặc người xuất khẩu, người sản xuất được phê duyệt tự chứng nhận xuất xứ, trong thời hạn 01 ngày làm việc kể từ ngày nhận được đầy đủ thông tin thông báo của nước thành viên xuất khẩu, Tổng cục Hải quan thông báo cho Cục Hải quan các tỉnh, thành phố về việc áp dụng các hình thức chứng từ chứng nhận xuất xứ nêu trên, danh sách cơ quan có thẩm quyền cấp chứng từ chứng nhận xuất xứ hàng hóa của nước thành viên xuất khẩu, danh sách người xuất khẩu, người sản xuất được phê duyệt và các thông tin liên quan khác (nếu có). 5. Thủ tục hải quan áp dụng đối với trường hợp chứng từ chứng nhận xuất xứ hàng hóa được cấp cho nhiều lô hàng giống hệt được nhập khẩu nhiều lần trong thời hạn được ghi rõ trên chứng từ chứng nhận xuất xứ hàng hóa quy định tại điểm a.8, khoản 3, Điều này như sau: a) Thủ tục hải quan đối với trường hợp chứng từ chứng nhận xuất xứ không ghi cụ thể số lượng hàng hóa nhập khẩu: Khi làm thủ tục cho lô hàng nhập khẩu đầu tiên của chứng từ chứng nhận xuất xứ hàng hóa cấp cho nhiều lô hàng giống hệt, người khai hải quan nộp cho cơ quan hải quan 01 bản chính chứng từ chứng nhận xuất xứ hàng hóa. Cơ quan hải quan đối chiếu sự phù hợp giữa tờ khai hải quan nhập khẩu với chứng từ chứng nhận xuất xứ hàng hóa, các chứng từ thuộc hồ sơ hải quan và đáp ứng quy tắc xuất xứ theo quy định để áp dụng thuế suất ưu đãi đặc biệt. Đối với các lô hàng nhập khẩu tiếp theo, người khai hải quan khai vào ô “Phần ghi chú” trên tờ khai hải quan nhập khẩu số tờ khai nhập khẩu lần đầu đã áp dụng chứng từ chứng nhận xuất xứ theo quy định tại điểm a.8, khoản 3, Điều này. b) Thủ tục hải quan đối với trường hợp chứng từ chứng nhận xuất xứ ghi cụ thể số lượng hàng hóa nhập khẩu: Người khai hải quan gửi 01 bản chính chứng từ chứng nhận xuất xứ lô hàng giống hệt cho cơ quan hải quan và đề nghị áp dụng cho nhiều lô hàng nhập khẩu giống hệt. Cơ quan hải quan phải ghi nhận chứng từ chứng nhận xuất xứ hàng hóa này trên hệ thống và thực hiện trừ lùi số lượng hàng hóa nhập khẩu ghi trên chứng từ chứng nhận xuất xứ hàng hóa theo từng lần nhập khẩu. Thủ tục trừ lùi thực hiện theo quy định tại Điều 23 Thông tư này. c) Cơ quan hải quan nơi mở tờ khai nhập khẩu lần đầu kiểm tra hình thức, nội dung của chứng từ chứng nhận xuất xứ hàng hóa; các lần nhập khẩu tiếp theo, cơ quan hải quan kiểm tra thời hạn của chứng từ chứng nhận xuất xứ hàng hóa; mô tả và mã số HS hàng hóa nhập khẩu đáp ứng điều kiện hàng hóa giống hệt. 6. Cơ quan hải quan chấp nhận chứng từ chứng nhận xuất xứ hàng hóa để áp dụng thuế suất ưu đãi đặc biệt trong trường hợp hoá đơn thương mại được phát hành bởi một nước không phải là thành viên. Trường hợp hóa đơn thương mại được phát hành bởi một nước không phải là thành viên, chứng từ chứng nhận xuất xứ hàng hóa phải phát hành tách biệt với hóa đơn thương mại đó. 7. Trường hợp hàng hóa vận chuyển qua lãnh thổ của một hay nhiều nước không phải thành viên quy định tại khoản 2, Điều 21 Thông tư số 03/2019/TT-BCT ngày 22/01/2019 của Bộ trưởng Bộ Công Thương quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (sau đây gọi là Thông tư số 03/2019/TT-BCT), người khai hải quan nộp chứng từ chứng minh theo quy định tại điểm a, khoản 3, Điều 18 Thông tư này. 8. Cơ quan hải quan từ chối chứng từ chứng nhận xuất xứ hàng hóa đối với các trường hợp sau: a) Xác định hàng hóa nhập khẩu không đủ điều kiện để áp dụng ưu đãi thuế quan theo quy định; b) Khi tiến hành xác minh mà không nhận được đầy đủ thông tin để xác định hàng hóa có xuất xứ theo quy định; c) Quá thời hạn 180 ngày kể từ ngày Tổng cục Hải quan gửi yêu cầu xác minh nhưng người xuất khẩu hoặc người sản xuất hoặc cơ quan có thẩm quyền cấp chứng từ chứng nhận xuất xứ hàng hóa không trả lời đề nghị xác minh hoặc không cung cấp thông tin xác minh theo quy định; d) Quá thời hạn 30 ngày kể từ ngày nhận được yêu cầu của Tổng cục Hải quan đề nghị tiến hành xác minh trực tiếp tại nước xuất khẩu nhưng người xuất khẩu hoặc người sản xuất hoặc cơ quan có thẩm quyền cấp chứng từ chứng nhận xuất xứ hàng hóa không gửi văn bản trả lời chấp nhận hoặc từ chối yêu cầu kiểm tra; đ) Trường hợp quy định tại điểm d, khoản 1, Điều 22 Thông tư này. 9. Trước khi ra quyết định từ chối chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu, Tổng cục Hải quan thông báo nội dung kết quả xác minh theo quy định tại Điều 27 Thông tư số 03/2019/TT-BCT cho người nhập khẩu, người xuất khẩu hoặc người sản xuất hoặc cơ quan có thẩm quyền cấp chứng từ chứng nhận xuất xứ hàng hóa đã cung cấp thông tin xác minh. Người xuất khẩu hoặc người sản xuất hoặc cơ quan có thẩm quyền của nước xuất khẩu cung cấp, bổ sung thêm thông tin liên quan đến xuất xứ hàng hóa trong thời gian tối đa 90 ngày kể từ ngày Tổng cục Hải quan gửi thông báo. 10. Trường hợp từ chối áp dụng thuế suất ưu đãi đặc biệt, cơ quan hải quan thông báo lý do bằng văn bản cho người nhập khẩu biết. [Điều 7a được bổ sung bởi Khoản 4 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)] Chương III KIỂM TRA, XÁC ĐỊNH, XÁC MINH XUẤT XỨ HÀNG HÓA XUẤT KHẨU
+Điều 8. Kiểm tra, xác định xuất xứ hàng hóa xuất khẩu
+1. Cơ quan hải quan kiểm tra, xác định xuất xứ hàng hóa xuất khẩu trên cơ sở kiểm tra nội dung khai của người khai hải quan, chứng từ thuộc hồ sơ hải quan và kết quả kiểm tra thực tế hàng hóa (kiểm tra thực tế hàng hóa áp dụng đối với hàng hóa thuộc trường hợp phải kiểm tra thực tế trong thông quan hoặc còn điều kiện kiểm tra thực tế sau khi hàng hóa đã được thông quan).
+2. Trường hợp Chi cục Hải quan nơi đăng ký tờ khai hải quan khi làm thủ tục hải quan có đủ căn cứ xác định xuất xứ hàng hóa không đúng theo nội dung khai của người khai hải quan thì thực hiện xử lý vi phạm theo quy định và yêu cầu người khai hải quan khai bổ sung theo quy định tại khoản 9 Điều 1 Thông tư số 39/2018/TT-BTC; trường hợp có đủ căn cứ xác định hàng hóa xuất khẩu gian lận xuất xứ, chuyển tải bất hợp pháp thì Chi cục Hải quan nơi đăng ký tờ khai hải quan xử lý theo quy định.
+Trường hợp Chi cục Hải quan kiểm tra thực tế hàng hóa (khác với Chi cục Hải quan nơi đăng ký tờ khai hải quan) có đủ căn cứ xác định xuất xứ hàng hóa không đúng với nội dung khai của người khai hải quan thì thực hiện xử phạt vi phạm theo quy định và chuyển kết quả xử lý cho Chi cục Hải quan nơi đăng ký tờ khai hải quan để yêu cầu người khai hải quan khai bổ sung theo quy định tại khoản 9 Điều 1 Thông tư số 39/2018/TT-BTC.
+3. Trường hợp Chi cục Hải quan nơi đăng ký tờ khai hải quan có cơ sở nghi ngờ xuất xứ hàng hóa xuất khẩu hoặc trên cơ sở thông tin cảnh báo về chuyển tải bất hợp pháp thì thực hiện như sau:
+a) Chi cục Hải quan nơi đăng ký tờ khai hải quan đề nghị người khai hải quan cung cấp chứng từ chứng minh xuất xứ hàng hóa xuất khẩu, gồm:
+a.1) Chứng từ chứng nhận xuất xứ hàng hóa: 01 bản chụp; hoặc a.2) Quy trình sản xuất: 01 bản chụp; và a.2.1) Bảng kê chi phí chi tiết nguyên liệu, vật tư đầu vào, trị giá sản phẩm đầu ra kèm hóa đơn, chứng từ mua bán nguyên liệu, vật tư đối với trường hợp áp dụng tiêu chí xuất xứ “Tỷ lệ phần trăm của giá trị”:
+01 bản chụp; hoặc a.2.2) Bảng kê chi tiết nguyên liệu, vật tư đầu vào, sản phẩm đầu ra đối với trường hợp áp dụng tiêu chí xuất xứ “Chuyển đổi mã số hàng hóa”: 01 bản chụp;
+b) Trong thời hạn ba mươi (30) ngày kể từ ngày cơ quan hải quan đề nghị cung cấp chứng từ chứng minh xuất xứ hàng hóa, người khai hải quan có trách nhiệm gửi các chứng từ này đến Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, người khai hải quan cung cấp bản giấy các chứng từ quy định tại điểm a khoản này cho Chi cục Hải quan nơi đăng ký tờ khai hải quan;
+c) Trường hợp Chi cục Hải quan nơi đăng ký tờ khai hải quan có cơ sở nghi ngờ về tính xác thực của chứng từ chứng nhận xuất xứ hàng hóa hoặc tính chính xác của các thông tin liên quan đến xuất xứ hàng hóa ghi trên chứng từ chứng nhận xuất xứ hàng hóa, có dấu hiệu nghi ngờ người khai hải quan tẩu tán hồ sơ, chứng từ, tài liệu, dữ liệu liên quan đến việc kiểm tra, xác định xuất xứ hàng hóa xuất khẩu thì báo cáo, đề xuất Cục Hải quan tỉnh, thành phố kiểm tra ngay tại cơ sở sản xuất theo quy định tại Điều 10 Thông tư này hoặc xác minh tại cơ quan, tổ chức có thẩm quyền cấp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại Điều 9 Thông tư này;
+d) Trường hợp người khai hải quan không xuất trình được chứng từ chứng minh xuất xứ hàng hóa xuất khẩu hoặc xuất trình không đúng thời hạn quy định tại điểm b khoản này hoặc chứng từ cung cấp không đủ cơ sở để xác định xuất xứ hàng hóa, Chi cục Hải quan nơi đăng ký tờ khai hải quan báo cáo, đề xuất Cục Hải quan tỉnh, thành phố tiến hành kiểm tra, xác minh tại cơ sở sản xuất hàng hóa xuất khẩu theo quy định tại Điều 10 Thông tư này.
+4. Trong khi chờ kết quả kiểm tra, xác minh xuất xứ hàng hóa, hàng hóa xuất khẩu được thực hiện thủ tục hải quan, thông quan theo quy định.
+Điều 9. Thủ tục xác minh tại cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa xuất khẩu
+1. Cục Hải quan tỉnh, thành phố nơi đăng ký tờ khai hải quan gửi đề nghị xác minh kèm theo các thông tin nghi vấn liên quan đến xuất xứ hàng hóa đến cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa thông qua hệ thống xử lý dữ liệu điện tử hải quan; trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi thì gửi bằng văn bản giấy.
+2. Trường hợp nhận được kết quả xác minh trong thời hạn 60 ngày kể từ ngày gửi văn bản đề nghị xác minh, trong thời hạn 03 ngày làm việc, Cục Hải quan tỉnh, thành phố thông báo kết quả xác minh cho Chi cục Hải quan nơi đăng ký tờ khai hải quan để xử lý theo quy định và thông báo cho người khai hải quan biết, đồng thời báo cáo kết quả xác minh về Tổng cục Hải quan.
+3. Trường hợp không nhận được kết quả xác minh trong thời hạn 60 ngày kể từ ngày gửi văn bản đề nghị xác minh, Cục Hải quan tỉnh, thành phố nơi đăng ký tờ khai hải quan thực hiện kiểm tra cơ sở sản xuất theo quy định tại Điều 10 Thông tư này.
+Điều 10. Thủ tục kiểm tra tại cơ sở sản xuất hàng hóa xuất khẩu
+1. Ban hành Quyết định kiểm tra
+a) Cục trưởng Cục Hải quan tỉnh, thành phố ban hành Quyết định kiểm tra cơ sở sản xuất hàng hóa xuất khẩu theo Phụ lục III ban hành kèm theo Thông tư này;
+b) Quyết định kiểm tra được gửi cho người sản xuất thông qua hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi thì gửi trực tiếp bằng thư bảo đảm hoặc fax cho người sản xuất trong thời hạn chậm nhất 05 ngày làm việc trước khi tiến hành kiểm tra.
+Trong thời hạn chậm nhất 03 ngày làm việc trước ngày kiểm tra ghi trên Quyết định kiểm tra, trường hợp nhận được văn bản của người sản xuất đề nghị thay đổi thời gian kiểm tra thì người ban hành Quyết định kiểm tra có thể xem xét quyết định thay đổi 01 lần theo đề nghị của người sản xuất. Ngày kiểm tra là ngày ghi trên Quyết định thay đổi thời gian kiểm tra gửi cho người sản xuất;
+c) Trường hợp cơ sở sản xuất không thuộc địa bàn quản lý của Cục Hải quan tỉnh, thành phố nơi đăng ký tờ khai hải quan hoặc người xuất khẩu không phải là người sản xuất, Cục Hải quan tỉnh, thành phố nơi đăng ký tờ khai hải quan báo cáo Tổng cục Hải quan phối hợp với Bộ Công Thương để tiến hành kiểm tra cơ sở sản xuất hàng hóa xuất khẩu theo quy định.
+2. Thời gian kiểm tra tại cơ sở sản xuất không quá 10 ngày làm việc kể từ ngày kiểm tra ghi trên quyết định kiểm tra. Trường hợp phức tạp, người ban hành quyết định kiểm tra gia hạn thời hạn kiểm tra không quá 10 ngày làm việc.
+Trường hợp người sản xuất không chấp hành quyết định kiểm tra hoặc không giải trình, cung cấp hồ sơ, chứng từ, tài liệu, dữ liệu theo đề nghị của cơ quan hải quan thì cơ quan hải quan tiến hành xử lý vi phạm theo quy định.
+3. Nội dung kiểm tra
+a) Kiểm tra các chứng từ thuộc hồ sơ hải quan, hợp đồng mua bán hoặc hợp đồng gia công (nếu là gia công cho thương nhân nước ngoài) hoặc hóa đơn giá trị gia tăng mua bán nguyên liệu, vật tư trong nước (nếu mua trong nước); giấy phép xuất khẩu (nếu có); bảng kê chi tiết hàng hóa xuất khẩu đạt tiêu chí xuất xứ ưu đãi hoặc tiêu chí xuất xứ không ưu đãi theo mẫu do Bộ Công Thương quy định; bản khai báo xuất xứ của nhà sản xuất hoặc nhà cung cấp nguyên liệu, vật tư có xuất xứ hoặc hàng hóa có xuất xứ được sản xuất trong nước theo mẫu do Bộ Công Thương quy định trong trường hợp nguyên liệu, vật tư đó được sử dụng cho một công đoạn tiếp theo để sản xuất ra một hàng hóa khác; các chứng từ, tài liệu, dữ liệu khác có liên quan;
+b) Kiểm tra quy trình sản xuất.
+Đối với các chứng từ thuộc hồ sơ hải quan, cơ quan hải quan không yêu cầu người sản xuất xuất trình bản giấy.
+4. Lập biên bản kiểm tra Toàn bộ quá trình, nội dung kiểm tra được ghi nhận bằng Biên bản kiểm tra giữa đại diện theo pháp luật của người sản xuất và đoàn kiểm tra.
+5. Kết quả kiểm tra
+a) Cơ quan hải quan gửi kết quả kiểm tra thông qua hệ thống xử lý dữ liệu điện tử hải quan cho người sản xuất chậm nhất 05 ngày làm việc kể từ ngày kết thúc kiểm tra để người sản xuất biết, giải trình; trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi thì gửi bằng văn bản giấy;
+b) Người sản xuất gửi nội dung giải trình tới cơ quan hải quan thông qua hệ thống xử lý dữ liệu điện tử hải quan trong thời hạn 05 ngày làm việc kể từ ngày nhận được kết quả kiểm tra; trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi thì gửi bằng văn bản giấy.
+Quá thời hạn này mà cơ quan hải quan không nhận được ý kiến giải trình, cơ quan hải quan căn cứ vào các hồ sơ hiện có để xử lý theo quy định;
+c) Đối với trường hợp phức tạp, chưa đủ cơ sở kết luận, cơ quan hải quan có thể lấy ý kiến chuyên môn của cơ quan có thẩm quyền.
+Chậm nhất 15 ngày kể từ ngày nhận được ý kiến bằng văn bản của cơ quan có thẩm quyền, cơ quan hải quan ban hành kết luận kiểm tra.
+Điều 11. Xử lý kết quả kiểm tra, xác minh tại cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa, cơ sở sản xuất hàng hóa xuất khẩu
+1. Trường hợp thông tin, hồ sơ, chứng từ, tài liệu, dữ liệu, kết quả kiểm tra tại cơ sở sản xuất, xác minh tại cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa, nội dung giải trình của người khai hải quan đủ cơ sở chứng minh nội dung khai xuất xứ hàng hóa là phù hợp thì cơ quan hải quan chấp nhận nội dung khai của người khai hải quan về xuất xứ hàng hóa.
+2. Trường hợp thông tin, hồ sơ, chứng từ, tài liệu, dữ liệu, kết quả kiểm tra tại cơ sở sản xuất, xác minh tại cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa, nội dung giải trình của người khai hải quan không đủ cơ sở chứng minh nội dung khai xuất xứ hàng hóa là phù hợp, cơ quan hải quan căn cứ vào các hồ sơ hiện có để xử lý theo quy định và yêu cầu người khai hải quan khai bổ sung xuất xứ chính xác theo kết quả kiểm tra, xác minh, xác định xuất xứ hàng hóa của cơ quan hải quan.
+3. Trường hợp có cơ sở nghi ngờ người khai hải quan khai xuất xứ hàng hóa không chính xác để chuyển tải bất hợp pháp, lẩn tránh thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ hoặc các biện pháp phòng vệ thương mại khác thì Cục Hải quan tỉnh, thành phố báo cáo, đề xuất Tổng cục Hải quan phối hợp với Bộ Công Thương để xử lý theo quy định.
+Điều 12. Kiểm tra sau thông quan đối với xuất xứ hàng hóa xuất khẩu
+1. Thẩm quyền, trình tự thủ tục kiểm tra sau thông quan đối với xuất xứ hàng hóa xuất khẩu thực hiện theo quy định của pháp luật về hải quan.
+Đối với xác minh xuất xứ hàng hóa xuất khẩu, người có thẩm quyền xác minh là người ban hành quyết định kiểm tra sau thông quan.
+2. Nội dung, cách thức và xử lý kết quả kiểm tra, xác minh xuất xứ hàng hóa xuất khẩu thực hiện theo quy định tại Thông tư này.
+Chương IV KIỂM TRA, XÁC ĐỊNH, XÁC MINH XUẤT XỨ HÀNG HÓA NHẬP KHẨU
+Điều 13. Căn cứ kiểm tra, xác định xuất xứ hàng hóa nhập khẩu
+Cơ quan hải quan kiểm tra, xác định xuất xứ hàng hóa nhập khẩu căn cứ quy định của pháp luật về xuất xứ hàng hóa; Điều ước quốc tế mà Việt Nam là thành viên; các Thông tư hướng dẫn thực hiện các Hiệp định thương mại tự do của Bộ Công Thương; nội dung khai của người khai hải quan, chứng từ chứng nhận xuất xứ hàng hóa, chứng từ thuộc hồ sơ hải quan và kết quả kiểm tra thực tế hàng hóa nhập khẩu (kiểm tra thực tế hàng hóa áp dụng đối với hàng hóa thuộc trường hợp phải kiểm tra thực tế trong thông quan hoặc còn điều kiện kiểm tra thực tế sau khi hàng hóa đã được thông quan).
+Điều 14. Kiểm tra hình thức chứng từ chứng nhận xuất xứ hàng hóa nhập khẩu
+1. Khi kiểm tra chứng từ chứng nhận xuất xứ hàng hóa, cơ quan hải quan kiểm tra để xác định các tiêu chí phải được khai đầy đủ trên chứng từ chứng nhận xuất xứ hàng hóa và các tiêu chí khai trên chứng từ chứng nhận xuất xứ hàng hóa phải phù hợp với chứng từ khác trong hồ sơ hải quan. Người khai hải quan không được tự ý sửa chữa các nội dung trên chứng từ chứng nhận xuất xứ hàng hóa, trừ trường hợp việc sửa chữa do chính cơ quan, tổ chức, cá nhân có thẩm quyền thực hiện theo quy định pháp luật và quy định tại Điều ước quốc tế mà Việt Nam là thành viên.
+2. Cơ quan hải quan chấp nhận chứng từ chứng nhận xuất xứ hàng hóa được cấp hoặc phát hành theo các hình thức sau:
+a) Chứng từ chứng nhận xuất xứ hàng hóa nộp cho cơ quan hải quan theo quy định tại điểm a, điểm b, điểm c, điểm d khoản 1 và khoản 2 Điều 4 Thông tư này ở dạng chứng từ giấy hoặc điện tử;
+b) Chứng từ tự chứng nhận xuất xứ hàng hóa phải ở dạng chứng từ giấy.
+3. Chứng từ chứng nhận xuất xứ hàng hóa phải có chữ ký của người sản xuất hoặc người xuất khẩu, trừ trường hợp Điều ước quốc tế mà Việt Nam là thành viên có quy định khác hoặc chứng từ chứng nhận xuất xứ hàng hóa được cấp dưới dạng điện tử truyền qua Cổng thông tin một cửa quốc gia.
+Điều 15. Kiểm tra nội dung trên chứng từ chứng nhận xuất xứ hàng hóa
+1. Đối với hàng hóa nhập khẩu từ nước, nhóm nước hoặc vùng lãnh thổ không có thỏa thuận ưu đãi đặc biệt về thuế nhập khẩu trong quan hệ thương mại với Việt Nam thuộc trường hợp phải nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại Điều 4 Thông tư này, cơ quan hải quan kiểm tra việc khai đầy đủ các tiêu chí sau trên chứng từ chứng nhận xuất xứ hàng hóa:
+a) Người xuất khẩu;
+b) Người nhập khẩu;
+c) Phương tiện vận tải;
+d) Mô tả hàng hóa, mã số hàng hóa;
+đ) Số lượng, trọng lượng hoặc khối lượng hàng hóa;
+e) Nước, nhóm nước, vùng lãnh thổ xuất xứ hàng hóa;
+g) Ngày/tháng/năm cấp chứng từ chứng nhận xuất xứ hàng hóa;
+h) Chữ ký trên chứng từ chứng nhận xuất xứ hàng hóa.
+2. Đối với hàng hóa nhập khẩu từ nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi đặc biệt về thuế nhập khẩu trong quan hệ thương mại với Việt Nam, cơ quan hải quan kiểm tra các tiêu chí phải được khai đầy đủ, hợp lệ trên chứng từ chứng nhận xuất xứ hàng hóa theo đúng mẫu quy định tại Điều ước quốc tế mà Việt Nam là thành viên.
+3. Trường hợp người khai hải quan nộp chứng từ chứng nhận xuất xứ hàng hóa cấp cho cả lô hàng nhưng chỉ nhập khẩu một phần của lô hàng thì cơ quan hải quan chấp nhận chứng từ chứng nhận xuất xứ hàng hóa đối với phần hàng hóa thực nhập khẩu.
+4. Trường hợp số lượng, trọng lượng hoặc khối lượng thực tế hàng hóa nhập khẩu vượt quá số lượng, trọng lượng hoặc khối lượng hàng hóa ghi trên chứng từ chứng nhận xuất xứ hàng hóa, cơ quan hải quan chỉ chấp nhận cho hưởng ưu đãi đối với số lượng, trọng lượng hoặc khối lượng ghi trên chứng từ chứng nhận xuất xứ hàng hóa.
+5. Đối với hóa đơn thương mại do bên thứ ba phát hành, cơ quan hải quan kiểm tra trên chứng từ chứng nhận xuất xứ hàng hóa các thông tin về tên, nước, nhóm nước hoặc vùng lãnh thổ của Công ty phát hành hóa đơn bên thứ ba và thông tin về hóa đơn bên thứ ba theo quy định tại Hiệp định thương mại tự do mà Việt Nam là thành viên.
+6. Các trường hợp khác biệt nhỏ không ảnh hưởng đến tính hợp lệ của chứng từ chứng nhận xuất xứ hàng hóa:
+Cơ quan hải quan chấp nhận chứng từ chứng nhận xuất xứ hàng hóa trong trường hợp có sai sót nhỏ hoặc khác biệt nhỏ giữa nội dung khai trên chứng từ chứng nhận xuất xứ hàng hóa với các chứng từ khác thuộc hồ sơ hải quan nếu những sai sót, khác biệt này phù hợp với thực tế hàng hóa nhập khẩu, gồm:
+a) Lỗi chính tả hoặc đánh máy không làm thay đổi nội dung khai trên chứng từ chứng nhận xuất xứ hàng hóa;
+b) Khác biệt trong cách đánh dấu tại các ô trên C/O: đánh dấu bằng máy hoặc bằng tay, đánh dấu bằng “x” hay “√”;
+c) Khác biệt nhỏ giữa chữ ký trên chứng từ chứng nhận xuất xứ hàng hóa và chữ ký mẫu;
+d) Khác biệt về đơn vị đo lường trên chứng từ chứng nhận xuất xứ hàng hóa và các chứng từ khác thuộc hồ sơ hải quan (như tờ khai hải quan, hóa đơn, vận tải đơn);
+đ) Sự khác biệt giữa khổ giấy của C/O nộp cho cơ quan hải quan với mẫu C/O theo quy định;
+e) Sự khác biệt về màu mực của các nội dung khai trên chứng từ chứng nhận xuất xứ hàng hóa;
+g) Sự khác biệt nhỏ trong mô tả hàng hóa trên chứng từ chứng nhận xuất xứ hàng hóa và các chứng từ khác;
+h) Sự khác biệt mã số trên chứng từ chứng nhận xuất xứ hàng hóa với mã số trên tờ khai hàng hóa nhập khẩu nhưng không làm thay đổi bản chất xuất xứ hàng hóa và hàng hóa thực tế nhập khẩu phải phù hợp với mô tả hàng hóa trên chứng từ chứng nhận xuất xứ hàng hóa; [Điểm này được sửa đổi bởi Khoản 2 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)]
+i) Các khác biệt nhỏ khác theo thỏa thuận tại Điều ước quốc tế mà Việt Nam là thành viên được Tổng cục Hải quan thông báo.
+Điều 16. Kiểm tra Giấy chứng nhận xuất xứ hàng hóa giáp lưng, Giấy chứng nhận hàng hóa không thay đổi xuất xứ
+1. Cơ quan hải quan chấp nhận Giấy chứng nhận xuất xứ hàng hóa giáp lưng được cấp trong trường hợp hàng hóa nhập khẩu được vận chuyển qua một hoặc nhiều nước trung gian đến Việt Nam hoặc Giấy chứng nhận hàng hóa không thay đổi xuất xứ do cơ quan có thẩm quyền của Việt Nam cấp.
+Đối với trường hợp quy định tại điểm a, khoản 1 Điều 4 Thông tư này, cơ quan hải quan chấp nhận Giấy chứng nhận xuất xứ hàng hóa giáp lưng với điều kiện Giấy chứng nhận xuất xứ hàng hóa giáp lưng được cấp bởi nước trung gian là thành viên của Hiệp định Thương mại tự do.
+2. Các thông tin về xuất xứ hàng hóa phải thể hiện đầy đủ tại các tiêu chí trên Giấy chứng nhận xuất xứ hàng hóa giáp lưng. Việc kiểm tra Giấy chứng chứng nhận xuất xứ hàng hóa giáp lưng được thực hiện như đối với chứng từ chứng nhận xuất xứ hàng hóa quy định tại Thông tư này.
+Điều 17. Kiểm tra chứng từ chứng nhận xuất xứ hàng hóa trong trường hợp thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa từ đối tượng miễn thuế, không chịu thuế sang đối tượng chịu thuế và đăng ký nhiều tờ khai hải quan cho một lô hàng
+1. Cơ quan hải quan thực hiện kiểm tra chứng từ chứng nhận xuất xứ hàng hóa do người khai hải quan nộp tại thời điểm làm thủ tục thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa từ đối tượng miễn thuế, không chịu thuế sang đối tượng chịu thuế để xem xét áp dụng mức thuế suất ưu đãi đặc biệt.
+Trường hợp người khai hải quan đã nộp chứng từ chứng nhận xuất xứ hàng hóa tại thời điểm làm thủ tục nhập khẩu ban đầu, cơ quan hải quan kiểm tra, xác định xuất xứ và đối chiếu với kết quả kiểm tra, xác định xuất xứ hàng hóa tại thời điểm làm thủ tục nhập khẩu ban đầu để xem xét áp dụng mức thuế suất ưu đãi đặc biệt. Người khai hải quan phải làm thủ tục thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa tại Chi cục Hải quan đã đăng ký tờ khai hải quan nhập khẩu ban đầu theo quy định tại Điều 21 Thông tư số 38/2015/TT-BTC được sửa đổi, bổ sung tại khoản 10 Điều 1 Thông tư số 39/2018/TT-BTC. Hàng hóa phải được xác định chưa tham gia vào quá trình sản xuất, chế biến (đảm bảo tính nguyên trạng về xuất xứ) kể từ thời điểm đăng ký tờ khai hải quan nhập khẩu ban đầu. Chứng từ chứng nhận xuất xứ hàng hóa còn hiệu lực tại thời điểm làm thủ tục thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa, trừ trường hợp có quy định khác tại Hiệp định thương mại tự do mà Việt Nam là thành viên.
+2. Trường hợp tại cùng một thời điểm, người khai hải quan đăng ký nhiều tờ khai với nhiều loại hình khác nhau tại 01 Chi cục Hải quan cho cùng một lô hàng được cấp chung một chứng từ chứng nhận xuất xứ hàng hóa, cơ quan hải quan kiểm tra chứng từ chứng nhận xuất xứ hàng hóa để xác định xuất xứ hàng hóa và áp dụng chứng từ chứng nhận xuất xứ hàng hóa cho toàn bộ hàng hóa nhập khẩu.
+3. Việc kiểm tra chứng từ chứng nhận xuất xứ hàng hóa thực hiện theo quy định tại Thông tư này.
+Điều 18. Kiểm tra điều kiện vận tải trực tiếp
+1. Các trường hợp sau đây được coi là vận tải trực tiếp, trừ trường hợp có quy định khác tại Điều ước quốc tế mà Việt Nam là thành viên:
+a) Vận chuyển trực tiếp từ lãnh thổ của nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu tới lãnh thổ của nước, nhóm nước hoặc vùng lãnh thổ nhập khẩu;
+b) Hàng hóa được vận chuyển qua một hoặc nhiều nước, nhóm nước hoặc vùng lãnh thổ, ngoài nước, nhóm nước hoặc vùng lãnh thổ nhập khẩu hoặc nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu phải đáp ứng đầy đủ các điều kiện sau:
+b.1) Quá cảnh là cần thiết vì lý do địa lí hoặc do các yêu cầu có liên quan trực tiếp đến vận tải;
+b.2) Hàng hóa không tham gia vào giao dịch thương mại hoặc tiêu thụ tại nước, nhóm nước hoặc vùng lãnh thổ quá cảnh đó;
+b.3) Hàng hóa không trải qua bất kỳ công đoạn nào khác ngoài việc dỡ hàng và bốc lại hàng hoặc những công đoạn cần thiết để giữ hàng hóa trong điều kiện tốt.
+2. Các trường hợp phải nộp chứng từ chứng minh vận tải trực tiếp cho Chi cục Hải quan nơi đăng ký tờ khai hải quan:
+a) Hàng hóa nhập khẩu theo quy định tại điểm a khoản 1 Điều 4 Thông tư này được vận chuyển qua lãnh thổ của một nước, nhóm nước hoặc vùng lãnh thổ không phải là thành viên, người khai hải quan phải nộp cho cơ quan hải quan chứng từ để chứng minh đáp ứng điều kiện về vận tải trực tiếp;
+b) Hàng hóa nhập khẩu theo quy định tại điểm b, điểm c, điểm d khoản 1 và khoản 2 Điều 4 Thông tư này được vận chuyển qua lãnh thổ của một nước, nhóm nước hoặc vùng lãnh thổ trung gian, không phải là nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu và nước, nhóm nước hoặc vùng lãnh thổ nhập khẩu, người khai hải quan phải nộp cho cơ quan hải quan chứng từ để chứng minh đáp ứng điều kiện về vận tải trực tiếp.
+3. Chứng từ chứng minh vận tải trực tiếp:
+Trường hợp phải nộp chứng từ chứng minh đáp ứng điều kiện về vận tải trực tiếp, người khai hải quan nộp một trong các chứng từ sau, trừ trường hợp quy định khác tại Điều ước quốc tế mà Việt Nam là thành viên:
+a) Chứng từ do cơ quan hải quan nước, nhóm nước hoặc vùng lãnh thổ quá cảnh xác nhận về việc hàng hóa nằm dưới sự giám sát của cơ quan hải quan nước, nhóm nước hoặc vùng lãnh thổ đó và chưa làm thủ tục nhập khẩu vào nội địa của nước, nhóm nước hoặc vùng lãnh thổ: 01 bản chụp; hoặc
+b) Giấy xác nhận của chính cơ quan, tổ chức phát hành vận đơn cho lô hàng nhập khẩu chứng minh hàng hóa quá cảnh là cần thiết vì lý do địa lí hoặc do các yêu cầu có liên quan trực tiếp đến vận tải; hàng hóa không tham gia vào giao dịch thương mại hoặc tiêu thụ tại nước, nhóm nước hoặc vùng lãnh thổ quá cảnh đó; hàng hóa không trải qua bất kỳ công đoạn nào khác ngoài việc dỡ hàng và bốc lại hàng hoặc những công việc cần thiết để bảo quản hàng hóa trong điều kiện tốt. Đối với giấy xác nhận phát hành bởi Công ty con, Chi nhánh hay đại lý của Công ty vận tải, tổ chức phát hành vận đơn cho lô hàng tại Việt Nam thì cần thêm Giấy ủy quyền của chính hãng vận tải: 01 bản chụp; hoặc
+c) Trong trường hợp hàng hóa được vận chuyển nguyên container, số container, số chì không thay đổi từ khi xếp hàng lên phương tiện vận tải tại cảng xếp hàng của nước, nhóm nước hoặc vùng lãnh thổ thành viên xuất khẩu đến khi nhập khẩu vào Việt Nam thì xem xét chấp nhận chứng từ chứng minh vận tải trực tiếp là vận đơn và thông tin tra cứu trên e-manifest trong đó thể hiện số container, số chì không thay đổi: 01 bản chụp.
+Cơ quan hải quan kiểm tra, đối chiếu chứng từ quy định tại khoản này do người khai hải quan cung cấp với các thông tin trong hồ sơ hải quan để xác định tính nguyên trạng của hàng hóa trong quá trình vận chuyển.
+Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, người khai hải quan nộp cho Chi cục Hải quan nơi đăng ký tờ khai hải quan bản giấy các chứng từ trên.
+Điều 19. Xác minh xuất xứ hàng hóa nhập khẩu
+1. Trường hợp nội dung thông tin trên chứng từ chứng nhận xuất xứ hàng hóa không phù hợp với nội dung khai của người khai hải quan và các chứng từ thuộc hồ sơ hải quan, Chi cục Hải quan nơi đăng ký tờ khai hải quan đề nghị người khai hải quan giải trình, chứng minh nội dung không phù hợp của chứng từ chứng nhận xuất xứ hàng hóa.
+Trong thời hạn 05 ngày kể từ ngày cơ quan hải quan yêu cầu nếu người khai hải quan không giải trình hoặc có giải trình nhưng chưa đủ cơ sở để xác định tính hợp lệ của chứng từ chứng nhận xuất xứ hàng hóa thì cơ quan hải quan tiến hành xác minh theo khoản 4 Điều này.
+2. Trường hợp có nghi ngờ tiêu chí xuất xứ trên chứng từ chứng nhận xuất xứ hàng hóa thì Chi cục Hải quan nơi đăng ký tờ khai hải quan đề nghị người khai hải quan cung cấp các tài liệu sau đây để chứng minh thông qua Hệ thống xử lý dữ liệu điện tử hải quan:
+a) Quy trình sản xuất hàng hóa nhập khẩu: 01 bản chụp;
+b) Bảng kê chi phí chi tiết nguyên liệu, vật tư đầu vào, sản phẩm đầu ra và hóa đơn, chứng từ mua bán nguyên liệu, vật tư đối với trường hợp áp dụng tiêu chí xuất xứ “Tỷ lệ phần trăm của giá trị”: 01 bản chụp;
+hoặc
+c) Bảng kê chi tiết nguyên liệu, vật tư đầu vào, sản phẩm đầu ra đối với trường hợp áp dụng tiêu chí xuất xứ “Chuyển đổi mã số hàng hóa”: 01 bản chụp.
+Trong thời hạn 10 ngày kể từ ngày cơ quan hải quan yêu cầu, người khai hải quan không cung cấp các chứng từ chứng minh hoặc cung cấp các chứng từ chứng minh nhưng cơ quan hải quan chưa đủ cơ sở để xác định tính hợp lệ của chứng từ chứng nhận xuất xứ hàng hóa hoặc người khai hải quan có văn bản đề nghị cơ quan hải quan thực hiện xác minh thì cơ quan hải quan tiến hành xác minh theo khoản 4 Điều này.
+Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, cơ quan hải quan gửi đề nghị bằng văn bản giấy và người khai hải quan nộp bản giấy các chứng từ trên.
+3. Trường hợp nghi ngờ về tính hợp lệ của chứng từ chứng nhận xuất xứ hàng hóa thì cơ quan hải quan tiến hành xác minh theo khoản 4 Điều này.
+4. Đối với các trường hợp cần xác minh tại khoản 1, khoản 2, khoản 3 Điều này, Cục Hải quan tỉnh, thành phố báo cáo, đề xuất gửi Tổng cục Hải quan để Tổng cục Hải quan gửi văn bản kèm các thông tin đề nghị xác minh xuất xứ hàng hóa đến cơ quan, tổ chức cấp giấy chứng nhận xuất xứ hàng hóa của nước xuất khẩu hoặc người xuất khẩu, người sản xuất hoặc cơ quan hải quan của nước xuất khẩu để xác minh tính xác thực của chứng từ chứng nhận xuất xứ hàng hóa hoặc tính chính xác của các thông tin liên quan đến xuất xứ hàng hóa.
+5. Trường hợp kết quả xác minh từ cơ quan, tổ chức cấp giấy chứng nhận xuất xứ hàng hóa hoặc người sản xuất, người xuất khẩu phát hành chứng từ chứng nhận xuất xứ hàng hóa hoặc cơ quan hải quan của nước xuất khẩu chưa đủ cơ sở để xác định xuất xứ hàng hóa nhập khẩu, Tổng cục Hải quan tiến hành kiểm tra tại cơ sở sản xuất của người sản xuất của nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu theo quy định tại Điều 20 Thông tư này.
+6. Quá trình xác minh (bao gồm cả việc đi kiểm tra trực tiếp tại nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu và ra thông báo kết luận kiểm tra) được thực hiện trong thời hạn không quá một trăm tám mươi (180) ngày kể từ ngày Tổng cục Hải quan gửi văn bản đề nghị xác minh, trừ trường hợp Điều ước quốc tế mà Việt Nam là thành viên có quy định thời gian xác minh dài hơn. Quá thời hạn này mà không nhận được kết quả xác minh, cơ quan hải quan thực hiện từ chối chứng từ chứng nhận xuất xứ hàng hóa.
+Trường hợp cơ quan hải quan nhận thông báo kết quả xác minh quá thời hạn quy định tại Khoản này, cơ quan hải quan xem xét chấp nhận hoặc không chấp nhận chứng từ chứng nhận xuất xứ hàng hóa căn cứ trên cơ sở kết quả xác minh, giải trình của cơ quan, tổ chức hoặc người sản xuất, người xuất khẩu phát hành chứng từ chứng nhận xuất xứ hàng hóa hoặc cơ quan hải quan của nước xuất khẩu. Giải trình của cơ quan, tổ chức hoặc người sản xuất, người xuất khẩu phát hành chứng từ chứng nhận xuất xứ hàng hóa hoặc cơ quan hải quan của nước xuất khẩu phải chi tiết và lý giải được những vấn đề mà cơ quan hải quan đã đưa ra và phải được gửi trực tiếp bằng văn bản đến Tổng cục Hải quan.
+7. Trong thời gian chờ kết quả xác minh, người khai hải quan khai thuế theo mức thuế suất MFN hoặc thuế suất thông thường đối với trường hợp xác minh xuất xứ hàng hóa trong quá trình làm thủ tục hải quan hoặc cơ quan hải quan áp dụng mức thuế suất nhập khẩu theo mức thuế suất đã áp dụng tại thời điểm làm thủ tục hải quan đối với trường hợp xác minh xuất xứ hàng hóa trong quá trình kiểm tra sau thông quan.
+Điều 20. Kiểm tra trực tiếp tại nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu
+1. Trước khi đi kiểm tra trực tiếp tại nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu, Tổng cục Hải quan tiến hành:
+a) Gửi văn bản thông báo kế hoạch kiểm tra trực tiếp tại nước, nhóm nước hoặc vùng lãnh thổ thành viên xuất khẩu tới người xuất khẩu hoặc người sản xuất có nhà xưởng sẽ bị kiểm tra trực tiếp; cơ quan, tổ chức cấp C/O của nước, nhóm nước hoặc vùng lãnh thổ thành viên xuất khẩu sẽ bị kiểm tra trực tiếp; cơ quan hải quan của nước, nhóm nước hoặc vùng lãnh thổ thành viên nơi sẽ bị kiểm tra trực tiếp và người nhập khẩu có hàng hóa cần phải kiểm tra;
+b) Thông báo kế hoạch kiểm tra gồm các nội dung:
+tên, địa chỉ người xuất khẩu hoặc người sản xuất có nhà xưởng bị kiểm tra; tên, địa chỉ cơ quan, tổ chức cấp C/O của nước, nhóm nước hoặc vùng lãnh thổ thành viên xuất khẩu sẽ bị kiểm tra trực tiếp; tên, địa chỉ cơ quan hải quan của nước, nhóm nước hoặc vùng lãnh thổ thành viên nơi sẽ bị kiểm tra trực tiếp; tên, địa chỉ người nhập khẩu; ngày dự kiến kiểm tra; phạm vi kiểm tra; nội dung kiểm tra; tên và chức danh của cán bộ kiểm tra.
+2. Tổng cục Hải quan thực hiện kiểm tra sau khi nhận được văn bản chấp thuận của người xuất khẩu hoặc người sản xuất có nhà xưởng bị kiểm tra trực tiếp hoặc cơ quan, tổ chức cấp C/O của nước, nhóm nước hoặc vùng lãnh thổ thành viên xuất khẩu hoặc cơ quan hải quan của nước, nhóm nước hoặc vùng lãnh thổ thành viên nơi sẽ kiểm tra trực tiếp.
+3. Trong thời hạn ba mươi (30) ngày kể từ ngày cơ quan hải quan gửi văn bản thông báo về kế hoạch kiểm tra tại nước xuất khẩu nhưng không nhận văn bản chấp thuận của người xuất khẩu hoặc người sản xuất hoặc cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa có thẩm quyền của nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu hoặc cơ quan hải quan của nước, nhóm nước hoặc vùng lãnh thổ, cơ quan hải quan từ chối chứng từ chứng nhận xuất xứ hàng hóa theo quy định.
+Điều 21. Xử lý kết quả xác minh, kiểm tra xuất xứ hàng hóa
+1. Cơ quan hải quan căn cứ kết quả kiểm tra, xác minh, giải trình của người khai hải quan, của cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa hoặc người sản xuất, người xuất khẩu hoặc kết quả kiểm tra trực tiếp tại nước, nhóm nước hoặc vùng lãnh thổ xuất khẩu để xác định tính xác thực của chứng từ chứng nhận xuất xứ hàng hóa:
+a) Trường hợp người khai hải quan giải trình hoặc cung cấp được chứng từ chứng minh xuất xứ hàng hóa nhập khẩu hoặc qua kết quả xác minh, kiểm tra xuất xứ hàng hóa, nội dung giải trình và chứng từ chứng minh của cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa hoặc người sản xuất, người xuất khẩu chi tiết và lý giải được những vấn đề mà cơ quan hải quan đã đưa ra, cơ quan hải quan có đủ cơ sở để xác định xuất xứ hàng hóa là hợp lệ thì chấp nhận chứng từ chứng nhận xuất xứ hàng hóa;
+b) Trường hợp qua kết quả kiểm tra chứng từ chứng minh xuất xứ hàng hóa nhập khẩu do người khai hải quan cung cấp hoặc kết quả xác minh, kiểm tra xuất xứ hàng hóa, nội dung giải trình và chứng từ chứng minh của cơ quan, tổ chức hoặc người sản xuất hoặc người xuất khẩu không đủ chi tiết và lý giải được những vấn đề mà cơ quan hải quan đã đưa ra, cơ quan hải quan không đủ cơ sở để xác định xuất xứ hàng hóa thì từ chối chứng từ chứng nhận xuất xứ hàng hóa;
+c) Trường hợp người xuất khẩu hoặc người sản xuất không cung cấp tài liệu, dữ liệu, chứng từ chứng minh xuất xứ hàng hóa, không cho phép tiếp cận nhà xưởng, quy trình sản xuất hoặc có hành vi cản trở khác dẫn đến việc không thể thực hiện xác minh trực tiếp, cơ quan hải quan từ chối chứng từ chứng nhận xuất xứ hàng hóa;
+d) Trường hợp cơ quan hải quan đủ căn cứ xác định gian lận xuất xứ hàng hóa thì xử lý vi phạm theo quy định.
+2. Cơ quan hải quan thông báo trên Hệ thống xử lý dữ liệu điện tử hải quan hoặc bằng văn bản kết quả kiểm tra, xử lý cho người nhập khẩu, người xuất khẩu hoặc người sản xuất hoặc cơ quan, tổ chức cấp chứng từ chứng nhận xuất xứ hàng hóa hoặc cơ quan hải quan nước xuất khẩu biết.
+Điều 22. Từ chối chứng từ chứng nhận xuất xứ hàng hóa
+1. Ngoài các trường hợp từ chối chứng từ xuất xứ hàng hóa quy định tai [Khoản này được bổ sung bởi Khoản 3 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)] Điều 19, Điều 20 và
+Điều 21 Thông tư này, cơ quan hải quan từ chối chứng từ chứng nhận xuất xứ hàng hóa trong các trường hợp sau: [Khoản này được bổ sung bởi Khoản 3 Điều 1 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)]
+a) Đối với hàng hóa nhập khẩu phải nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm a khoản 1 Điều 4 Thông tư này, trường hợp cơ quan hải quan đủ cơ sở xác định chứng từ chứng nhận xuất xứ hàng hóa không hợp lệ thì từ chối chứng từ chứng nhận xuất xứ hàng hóa; hàng hóa nhập khẩu áp dụng mức thuế suất MFN hoặc thuế suất thông thường;
+b) Trường hợp cơ quan hải quan đủ cơ sở xác định chứng từ chứng nhận xuất xứ hàng hóa không hợp lệ đối với hàng hóa nhập khẩu phải nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm b, điểm c khoản 1 Điều 4 Thông tư này thì từ chối chứng từ chứng nhận xuất xứ hàng hóa và xử lý theo quy định tại điểm b khoản 4 Điều 4 Thông tư này; đối với hàng hóa quy định tại khoản 2 Điều 4 Thông tư này thì từ chối chứng từ chứng nhận xuất xứ hàng hóa, hàng hóa không được thông quan và bị xử lý theo quy định của pháp luật.
+c) Đối với hàng hóa nhập khẩu phải nộp chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại điểm d khoản 1 Điều 4 Thông tư này, trường hợp cơ quan hải quan đủ cơ sở xác định chứng từ chứng nhận xuất xứ hàng hóa không hợp lệ thì hàng hóa nhập khẩu bị áp mức thuế chống bán phá giá hoặc thuế chống trợ cấp hoặc thuế tự vệ hoặc thuế suất ngoài hạn ngạch thuế quan và được thông quan theo quy định.
+2. Cơ quan hải quan thông báo trên Hệ thống xử lý dữ liệu điện tử hải quan hoặc bằng văn bản cho người khai hải quan về việc từ chối chứng từ chứng nhận xuất xứ hàng hóa hoặc thông báo trực tiếp trên chứng từ chứng nhận xuất xứ hàng hóa bằng cách ghi lý do từ chối trên chứng từ chứng nhận xuất xứ hàng hóa và gửi trả lại người khai hải quan để người khai hải quan liên hệ với cơ quan, tổ chức hoặc người sản xuất, người xuất khẩu phát hành chứng từ chứng nhận xuất xứ hàng hóa ngay sau thời điểm cơ quan hải quan từ chối chứng từ chứng nhận xuất xứ hàng hóa.
+Điều 23. Trừ lùi Giấy chứng nhận xuất xứ hàng hóa
+1. Trường hợp một lô hàng đưa từ nước ngoài vào kho ngoại quan để nhập khẩu vào nội địa nhiều lần thì được sử dụng C/O để lập Phiếu theo dõi trừ lùi cho từng lần nhập khẩu vào nội địa và được áp dụng trừ lùi tại nhiều Chi cục Hải quan khác nhau.
+2. Thủ tục lập Phiếu theo dõi, trừ lùi:
+a) Người khai hải quan đăng ký theo dõi trừ lùi C/O trên Hệ thống xử lý dữ liệu điện tử hải quan theo các chỉ tiêu thông tin tại mẫu số 01/CT/ĐNTL/GSQL Phụ lục IV ban hành kèm theo Thông tư này, nộp 01 bản chụp C/O thông qua Hệ thống xử lý dữ liệu điện tử hải quan và 01 bản chính C/O cho Chi cục Hải quan quản lý kho ngoại quan trước khi đăng ký tờ khai hải quan nhập khẩu lô hàng đầu tiên từ kho ngoại quan vào nội địa.
+Chi cục Hải quan quản lý kho ngoại quan thực hiện kiểm tra C/O theo quy định;
+b) Trên cơ sở đề nghị trừ lùi của người khai hải quan, Chi cục Hải quan quản lý kho ngoại quan lập Phiếu theo dõi trừ lùi trên Hệ thống xử lý dữ liệu điện tử hải quan theo mẫu số 03/TDTL/GSQL Phụ lục IV ban hành kèm theo Thông tư này và thông báo cho người khai hải quan biết thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
+3. Thủ tục theo dõi, trừ lùi:
+a) Khi làm thủ tục hải quan nhập khẩu cho lô hàng, người khai hải quan khai số của Phiếu theo dõi trừ lùi trên tờ khai hải quan điện tử theo hướng dẫn tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC .
+Đối với tờ khai hải quan giấy, người khai hải quan khai số của Phiếu theo dõi trừ lùi tại ô “Chứng từ đi kèm” trên tờ khai hải quan;
+b) Trường hợp người khai hải quan chưa có C/O để lập Phiếu theo dõi trừ lùi trước thời điểm đăng ký tờ khai hải quan nhập khẩu lô hàng đầu tiên và các lần nhập khẩu tiếp theo, người khai hải quan khai chậm nộp C/O theo quy định tại Điều 7 Thông tư này.
+Khi nộp bổ sung C/O, người khai hải quan thực hiện đăng ký theo dõi trừ lùi C/O theo quy định tại điểm a, khoản 2 Điều này. Chi cục Hải quan quản lý kho ngoại quan lập Phiếu theo dõi trừ lùi tại thời điểm người khai hải quan nộp bản chính C/O trong thời hạn quy định tại Điều 7 Thông tư này, kiểm tra C/O theo quy định và thực hiện trừ lùi cho các lô hàng nhập khẩu đã khai nộp bổ sung C/O trước thời điểm lập Phiếu theo dõi trừ lùi. Người khai hải quan khai số của Phiếu theo dõi, trừ lùi trên tờ khai bổ sung sau thông quan theo hướng dẫn tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC. Khi làm thủ tục nhập khẩu cho các lô hàng tiếp theo, người khai hải quan thực hiện khai số của Phiếu theo dõi trừ lùi trên tờ khai hải quan theo quy định tại điểm a Khoản này.
+Đối với tờ khai hải quan giấy, người khai hải quan khai số của Phiếu theo dõi trừ lùi tại ô “Phần ghi chú” trên tờ khai bổ sung sau thông quan.
+Trường hợp có căn cứ nghi ngờ C/O không hợp lệ, phải xác minh, cơ quan hải quan tiến hành xác minh C/O theo quy định tại Điều 19, Điều 20 Thông tư này. Trong thời gian chờ xác minh tính hợp lệ của C/O, người khai hải quan khai theo mức thuế suất MFN hoặc thuế suất thông thường;
+c) Công chức hải quan tra cứu nội dung Phiếu theo dõi trừ lùi trên hệ thống, cập nhật số lượng trừ lùi vào Phiếu theo dõi trừ lùi tương ứng với số lượng hàng hóa được nhập khẩu vào nội địa;
+d) Khi người khai hải quan nhập khẩu hết số lượng hàng hóa trên C/O, Chi cục Hải quan quản lý kho ngoại quan tổng hợp lượng hàng hóa đã nhập khẩu, xác nhận đã nhập khẩu hết lượng hàng của C/O trên Phiếu theo dõi lùi trên Hệ thống xử lý dữ liệu điện tử hải quan.
+4. Trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng theo dõi trừ lùi C/O, người khai hải quan nộp 01 bản chính văn bản đăng ký theo dõi trừ lùi C/O theo mẫu số 02/ĐNTL/GSQL Phụ lục IV ban hành kèm theo Thông tư này, 01 bản chính C/O cho Chi cục Hải quan quản lý kho ngoại quan. Chi cục Hải quan quản lý kho ngoại quan lập Phiếu theo dõi trừ lùi theo mẫu số 03/TDTL/GSQL Phụ lục IV ban hành kèm theo Thông tư này.
+a) Phiếu theo dõi, trừ lùi được lập thành 02 bản:
+01 bản gửi cho người khai hải quan để xuất trình cho Chi cục Hải quan làm thủ tục nhập khẩu cho từng lần nhập khẩu; 01 bản do Chi cục Hải quan quản lý kho ngoại quan lưu theo dõi để tiến hành thanh khoản khi người khai hải quan nhập khẩu hết số lượng hàng hóa trên Phiếu theo dõi trừ lùi;
+b) Khi làm thủ tục hải quan cho từng lần nhập khẩu, người khai hải quan khai số của Phiếu theo dõi trừ lùi trên tờ khai hải quan điện tử theo hướng dẫn tại Phụ lục ban hành kèm theo Thông tư số 39/2018/TT-BTC , xuất trình bản gốc Phiếu theo dõi trừ lùi và nộp bản chụp C/O để cơ quan hải quan kiểm tra, đối chiếu.
+Công chức hải quan kiểm tra, đối chiếu nội dung Phiếu theo dõi, trừ lùi với C/O và tiến hành trừ lùi hàng hóa trên bản gốc Phiếu theo dõi, trừ lùi do người khai hải quan xuất trình, ký xác nhận số lượng hàng hóa nhập khẩu từng lần trên Phiếu theo dõi trừ lùi và lưu bản sao Phiếu theo dõi trừ lùi đã thực hiện trừ lùi có xác nhận của Chi cục Hải quan làm thủ tục nhập khẩu và bản chụp C/O trong hồ sơ hải quan;
+c) Khi nhập khẩu hết số lượng hàng hóa trên Phiếu theo dõi trừ lùi, người khai hải quan nộp bản gốc Phiếu theo dõi trừ lùi cho Chi cục Hải quan làm thủ tục cho lần nhập khẩu cuối cùng của lô hàng để xác nhận đã nhập khẩu hết lượng hàng; Chi cục Hải quan nơi làm thủ tục cho lần nhập khẩu cuối cùng của lô hàng có trách nhiệm gửi Phiếu theo dõi trừ lùi cho Chi cục Hải quan quản lý kho ngoại quan.
+Chi cục Hải quan quản lý kho ngoại quan kiểm tra, đối chiếu với bản lưu Phiếu theo dõi trừ lùi, xác nhận tổng số lượng hàng hóa đã nhập khẩu trên C/O và trên 02 bản gốc Phiếu theo dõi trừ lùi và lưu hồ sơ hải quan theo quy định.
+5. Trường hợp lô hàng đăng ký tờ khai một lần theo quy định tại Điều 93 Thông tư số 38/2015/TT-BTC được sửa đổi, bổ sung tại khoản 60 Điều 1 Thông tư số 39/2018/TT-BTC, người khai hải quan được sử dụng C/O để theo dõi trừ lùi cho từng lần nhập khẩu vào nội địa.
+Thủ tục đăng ký, lập Phiếu theo dõi trừ lùi và theo dõi trừ lùi thực hiện theo quy định tại khoản 2, khoản 3, khoản 4 Điều này.
+Điều 24. Kiểm tra sau thông quan đối với xuất xứ hàng hóa hàng nhập khẩu
+1. Thẩm quyền, trình tự thủ tục kiểm tra sau thông quan đối với xuất xứ hàng hóa hàng nhập khẩu thực hiện theo quy định của pháp luật về hải quan.
+2. Nội dung, cách thức và xử lý kết quả kiểm tra, xác minh xuất xứ hàng hóa nhập khẩu thực hiện theo quy định tại Thông tư này.
+Chương V ĐIỀU KHOẢN THI HÀNH
+Điều 25. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 06 năm 2018.
+2. Trường hợp hàng hóa nhập khẩu phải nộp chứng từ chứng nhận xuất xứ do các bộ quản lý chuyên ngành đã công bố trước ngày Thông tư này có hiệu lực thì tiếp tục thực hiện theo công bố của các bộ quản lý chuyên ngành.
+3. Trong quá trình thực hiện, nếu các văn bản liên quan đề cập tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế./.
+Nơi nhận:
+- Thủ tướng Chính phủ; các Phó TTCP;
+- Văn phòng TW Đảng và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Quốc Hội;
+- Văn phòng Chủ tịch nước;
+- Tòa án Nhân dân Tối cao;
+- Viện kiểm sát Nhân dân Tối cao;
+- Kiểm toán Nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND tỉnh, thành phố trực thuộc TW;
+- Phòng Thương mại và Công nghiệp Việt Nam;
+- Cục Kiểm tra văn bản (Bộ Tư pháp);
+- Cục Hải quan các tỉnh, thành phố;
+- Công báo;
+- Website Chính phủ;
+- Website Bộ Tài chính;
+- Website Tổng cục Hải quan;
+- Lưu VT; TCHQ (166).
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai Phụ lục I 
+| TT | TÊN BIỂU MẪU [ID: chuong_pl_1_name] | SỐ HIỆU |
+| --- | --- | --- |
+| 1 | Chỉ tiêu thông tin Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu | 01/CT/XĐTXX/GSQL |
+| 2 | Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu | 02/XĐTXX/GSQL | Mẫu số 01/CT/XĐTXX/GSQL CHỈ TIÊU THÔNG TIN ĐƠN ĐỀ NGHỊ XÁC ĐỊNH TRƯỚC XUẤT XỨ HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU (Ban hành kèm theo Thông tư số 38/2018/TT-BTC ngày 20 tháng 04 năm 2018 của Bộ trưởng Bộ Tài chính) 
+| STT | Chỉ tiêu thông tin | Mô tả, ghi chú |
+| --- | --- | --- |
+| 1. | Số Đơn | Số Đơn do hệ thống của cơ quan hải quan tự cập nhật sau khi Đơn được chấp nhận |
+| 2. | Ngày Đơn | Ngày hệ thống tiếp nhận Đơn |
+| 3. | Tên tổ chức, cá nhân đề nghị xác định trước xuất xứ hàng hóa | Nhập tên của tổ chức cá nhân đề nghị |
+| 4. | Địa chỉ | Ô số 1: Nhập số nhà và tên đường Ô số 2: Nhập tên thành phố Ô số 3: Nhập tên nước |
+| 5. | Điện thoại | Nhập số điện thoại |
+| 6. | Fax | Nhập số fax |
+| 7. | Mã số thuế | Nhập mã số thuế người nhập khẩu/xuất khẩu |
+| 8. | Email | Nhập địa chỉ hòm thư điện tử |
+| 9. | Tên tổ chức, cá nhân xuất khẩu/nhập khẩu | +) Nhập tên của tổ chức, cá nhân xuất khẩu trong trường hợp hàng hóa nhập khẩu cần xác định trước xuất xứ. +) Nhập tên của tổ chức cá nhân nhập khẩu trong trường hợp hàng hóa xuất khẩu cần xác định trước xuất xứ. |
+| 10. | Địa chỉ | Ô số 1: Nhập số nhà và tên đường Ô số 2: Nhập tên thành phố Ô số 3: Nhập tên nước |
+| 11. | Điện thoại | Nhập số điện thoại |
+| 12. | Fax | Nhập số fax |
+| 13. | Mã số thuế | Chỉ nhập mã số thuế người nhập khẩu đối với trường hợp hàng hóa nhập khẩu cần xác định trước mã số |
+| 14. | Email | Nhập địa chỉ hòm thư điện tử |
+| 15. | Cơ sở sản xuất, gia công, lắp ráp | Nhập tên cơ sở sản xuất, gia công, lắp ráp trong trường hợp hàng hóa xuất khẩu cần xác định trước xuất xứ hàng hóa |
+| 16. | Địa chỉ | Ô số 1: Nhập số nhà và tên đường Ô số 2: Nhập tên thành phố Ô số 3: Nhập tên nước |
+| 17. | Điện thoại | Nhập số điện thoại |
+| 18. | Website | Nhập địa chỉ trang thông tin điện tử |
+| 19. | Email | Nhập địa chỉ hòm thư điện tử |
+| 20. | Tên hàng | Nhập cụ thể tên hàng |
+| 21. | Mô tả hàng hóa | Nhập thông tin mô tả hàng hóa |
+| 22. | Mã số hàng hóa | Nhập mã số HS của hàng hóa |
+| 23. | Trị giá FOB | Nhập trị giá FOB của hàng hóa |
+| 24. | Hành trình dự định của lô hàng | Nhập chi tiết từ cảng nước sản xuất, nước xuất khẩu đến cảng Việt Nam; trường hợp qua các cảng trung gian thì khai cụ thể các cảng trung gian. Đối với hàng hóa xuất khẩu từ Việt Nam thì nhập các thông tin từ Việt Nam đến cảng nước nhập khẩu |
+| 25. | Hàng hóa thuộc danh mục hàng cấm, tạm ngừng xuất khẩu, nhập khẩu | Đánh dấu tích vào ô Có hoặc Không |
+| 26. | Hàng hóa đã được xác định trước xuất xứ đăng trên Cổng thông tin điện tử của Tổng cục Hải quan | Đánh dấu tích vào ô Có hoặc Không |
+| 27. | Bản kê các nguyên liệu, vật tư dùng để sản xuất ra hàng hóa | Đánh dấu tích vào ô Có hoặc Không |
+| 28. | Bản mô tả sơ lược quy trình sản xuất hàng hóa | Đánh dấu tích vào ô Có hoặc Không |
+| 29. | Catalogue | Đánh dấu tích vào ô Có hoặc Không |
+| 30. | Hình ảnh | Đánh dấu tích vào ô Có hoặc Không |
+| 31. | Giấy chứng nhận phân tích thành phần | Đánh dấu tích vào ô Có hoặc Không | Mẫu 02/XĐTXX/GSQL
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: ………………… ….., ngày … tháng … năm …… ĐƠN ĐỀ NGHỊ XÁC ĐỊNH TRƯỚC XUẤT XỨ HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU Kính gửi: Tổng cục Hải quan A. Tổ chức, cá nhân đề nghị xác định trước xuất xứ:
+
+| 1. Tên: |  |
+| --- | --- |
+| 2. Địa chỉ: |  |
+| 3. Điện thoại: | 4. Fax: |
+| 5. Mã số thuế: |  |
+| 6. E-mail: |  | B. Tổ chức, cá nhân xuất khẩu/nhập khẩu:
+
+| 1. Tên: |
+| --- |
+| 2. Địa chỉ: |
+| 3. Điện thoại: |
+| 4. Website: |
+| 5. E-mail: | C. Cơ sở sản xuất, gia công, lắp ráp:
+
+| 1. Tên: |
+| --- |
+| 2. Địa chỉ: |
+| 3. Điện thoại: |
+| 4. Website: |
+| 5. E-mail: | D. Hàng hóa đề nghị xác định trước xuất xứ:
+
+| 1. Mô tả hàng hóa: |  |
+| --- | --- |
+| 2. Mã số HS: | 3. Trị giá FOB: |
+| 4. Hành trình dự định của lô hàng từ nước sản xuất, nước xuất khẩu đến Việt Nam (cảng nước SX → cảng nước XK → cảng nước trung gian → Việt Nam); đối với hàng hóa xuất khẩu từ Việt Nam thì ngược lại |  |
+| 5. Hàng hóa thuộc danh mục hàng cấm, tạm ngừng xuất khẩu, nhập khẩu? Có ☐ Không ☐ |  |
+| 6. Hàng hóa đã được xác định trước xuất xứ đăng trên cổng thông tin điện tử của Tổng cục Hải quan? Có ☐ Không ☐ |  | E. Tài liệu kèm theo:
+
+| 1. Bản kê các nguyên vật liệu dùng để sản xuất ra hàng hóa gồm các thông tin như (tên hàng, mã số H.S, xuất xứ, giá CIF). |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2. Bản mô tả sơ lược quy trình sản xuất ra hàng hóa. |  |  |  |  |  |
+| 3. Catalogue | Có ☐ | Không ☐ | 4. Hình ảnh | Có ☐ | Không ☐ |
+| 5. Giấy chứng nhận phân tích thành phần |  |  |  | Có ☐ | Không ☐ |
+| …. |  |  |  |  |  | ....(tên Tổ chức, cá nhân đề nghị xác định trước xuất xứ) cam kết hàng hóa nêu tại mục D là hàng hóa dự kiến xuất khẩu, nhập khẩu, chưa được xác định trước xuất xứ trước thời điểm nộp Đơn và hàng hóa không nằm trong danh mục cấm xuất khẩu, nhập khẩu, tạm ngừng xuất khẩu, nhập khẩu theo quy định của pháp luật.
+... (tên Tổ chức, cá nhân đề nghị xác định trước xuất xứ) chịu trách nhiệm trước pháp luật về tính xác thực của nội dung Đơn và các chứng từ kèm theo./.
+Tổ chức, cá nhân đề nghị (ký, ghi rõ họ tên, đóng dấu) Phụ lục II DANH MỤC HÀNG HÓA NHẬP KHẨU PHẢI NỘP CHỨNG TỪ CHỨNG NHẬN XUẤT XỨ HÀNG HÓA CHO CƠ QUAN HẢI QUAN (Ban hành kèm theo Thông tư số 38/2018/TT-BTC ngày 20 tháng 04 năm 2018 của Bộ trưởng Bộ Tài chính) 
+| Mã số HS | Mô tả |
+| --- | --- |
+| I. Thịt và các sản phẩm thịt gia súc, gia cầm |  |
+| Chương 2 | Thịt và phụ phẩm dạng thịt ăn được sau giết mổ |
+| 15.01 | Mỡ lợn (kể cả mỡ từ mỡ lá và mỡ khổ) và mỡ gia cầm, trừ các loại thuộc nhóm 02.09 hoặc 15.03. |
+| 15.02 | Mỡ của động vật họ trâu bò, cừu hoặc dê, trừ các loại mỡ thuộc nhóm 15.03. |
+| 15.03 | Stearin mỡ lợn, dầu mỡ lợn, oleostearin, dầu oleo và dầu mỡ (dầu tallow), chưa nhũ hoá hoặc chưa pha trộn hoặc chưa chế biến cách khác. |
+| 15.04 | Mỡ và dầu và các phần phân đoạn của chúng, từ cá hoặc các loài động vật có vú sống ở biển, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học. |
+| 15.05 | Mỡ lông và chất béo thu được từ mỡ lông (kể cả lanolin). |
+| 1506.00.00 | Mỡ và dầu động vật khác và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học |
+| 1516.10 | - Mỡ và dầu động vật và các phần phân đoạn của chúng |
+| 1517.10 | - Margarin, trừ loại margarin lỏng |
+| 1517.90 | - Loại khác: |
+| 1517.90.10 | - - Chế phẩm giả ghee |
+| 1517.90.20 | - - Margarin lỏng |
+| 1517.90.30 | - - Của một loại sử dụng như chế phẩm tách khuôn |
+| 1517.90.43 | - - - Shortening |
+| 1517.90.44 | - - - Chế phẩm giả mỡ lợn |
+| 1517.90.80 | - - Của hỗn hợp hoặc chế phẩm từ mỡ hoặc dầu động vật hoặc từ các phần phân đoạn của chúng |
+| 1517.90.90 | - - Loại khác |
+| 1518.00.12 | - - Mỡ và dầu động vật |
+| 1518.00.20 | - Các hỗn hợp hoặc các chế phẩm không ăn được từ mỡ hoặc dầu động vật hoặc từ các phần phân đoạn của các loại mỡ hoặc dầu khác nhau |
+| 1518.00.60 | - Các hỗn hợp hoặc các chế phẩm không ăn được từ mỡ hoặc dầu động vật hoặc từ các phần phân đoạn của chúng và chất béo hoặc dầu thực vật hoặc các phần phần đoạn của chúng |
+| 16.01 | Xúc xích và các sản phẩm tương tự làm từ thịt, từ phụ phẩm dạng thịt sau giết mổ hoặc tiết; các chế phẩm thực phẩm từ các sản phẩm đó. |
+| 16.02 | Thịt, các phụ phẩm dạng thịt sau giết mổ hoặc tiết, đã chế biến hoặc bảo quản khác |
+| 16.03 | Sản phẩm chiết xuất và nước ép từ thịt, cá hoặc từ động vật giáp xác, động vật thân mềm hoặc động vật thủy sinh không xương sống khác |
+| II. Than |  |
+| 27.01 | Than đá; than bánh, than quả bàng và nhiên liệu rắn tương tự sản xuất từ than đá |
+| 27.02 | Than non, đã hoặc chưa đóng bánh, trừ than huyền |
+| 27.03 | Than bùn (kể cả than bùn rác), đã hoặc chưa đóng bánh |
+| 27.04 | Than cốc và than nửa cốc luyện từ than đá than non hoặc than bùn, đã hoặc chưa đóng bánh; muội bình chưng than đá |
+| III. Ô tô |  |
+| Chương 87 | Ô tô (trừ xe ô tô thuộc đối tượng ưu đãi, miễn trừ ngoại giao xe ô tô chuyên dùng, xe ô tô đầu kéo container)[Nội dung này được sửa đổi bởi Điều 2 Thông tư 62/2019/TT-BTC có hiệu lực từ ngày 21/10/2019 (VB hết hiệu lực: 15/07/2023)] [JavaScript: LS_Tip_Type_Bookmark] [ID: cumtu_1] | Phụ lục III (1)……………… (2)……………… -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số:
+/QĐ-……(3) …………, ngày …..
+tháng ….. năm …..
+QUYẾT ĐỊNH Về việc kiểm tra xuất xứ hàng hóa tại..……………………………… (4) ………………………………………………………………………… (5)
+Căn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014;
+Căn cứ Nghị định số 08/2015/NĐ-CP  ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan; Nghị định số 59/2018/NĐ-CP  ngày 20 tháng 4 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP  của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan;
+Căn cứ Nghị định số 31/2018/NĐ-CP  ngày 08/03/2018 của Chính phủ quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa;
+Căn cứ Nghị định số 87/2017/NĐ-CP  ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Xét đề nghị của ………………………………………………………………(6), QUYẾT ĐỊNH:
+Điều 1.
+Kiểm tra việc khai xuất xứ hàng hóa tại ………………………………………… (4);
+Thời kỳ kiểm tra: ………………………………………………………………………………….
+Thời hạn kiểm tra là ……………… ngày, kể từ ngày công bố Quyết định kiểm tra.
+Điều 2.
+Thành lập Đoàn kiểm tra, gồm các ông (bà) có tên sau đây:
+1. ………………………………………………………………, Trưởng đoàn;
+2. ……………………………………………………………… Phó Trưởng đoàn (nếu có);
+3. ……………………………………………………………… thành viên;
+Điều 3.
+Nội dung kiểm tra ……………………………………………………. (7)
+Điều 4.
+Quyết định này có hiệu lực từ ngày ký. Các ông (bà) có tên tại Điều 2 và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- (4);
+- Như Điều 4;
+- Lưu:...
+………………, (5) (Ký, ghi rõ tên và đóng dấu) _____________ (1) Tên cơ quan cấp trên trực tiếp (nếu có).
+(2) Tên cơ quan ban hành quyết định kiểm tra.
+(3) Chữ viết tắt tên cơ quan ban hành quyết định kiểm tra.
+(4) Tên đối tượng thực hiện kiểm tra.
+(5) Chức danh của người ban hành Quyết định kiểm tra.
+(6) Thủ trưởng cơ quan, đơn vị tham mưu đề xuất tiến hành kiểm tra (nếu có).
+(7) Kiểm tra cơ sở sản xuất để xác định xuất xứ hàng hóa xuất khẩu.
+Phụ lục IV 
+| STT | TÊN BIỂU MẪU | SỐ HIỆU |
+| --- | --- | --- |
+| 1 | Chỉ tiêu thông tin đề nghị trừ lùi Giấy chứng nhận xuất xứ hàng hóa | 01/CT/ĐNTL/GSQL |
+| 2 | Đề nghị trừ lùi Giấy chứng nhận xuất xứ hàng hóa | 02/ĐNTL/GSQL |
+| 3 | Theo dõi, trừ lùi Giấy chứng nhận xuất xứ hàng hóa | 03/TDTL/GSQL | Mẫu số 01/CT/ĐNTL/GSQL Chỉ tiêu thông tin đề nghị trừ lùi Giấy chứng nhận xuất xứ hàng hóa (Ban hành kèm theo Thông tư số 38/2018/TT-BTC ngày 20 tháng 04 năm 2018 của Bộ trưởng Bộ Tài chính) 
+| STT | Chỉ tiêu thông tin | Mô tả, ghi chú | Bảng mã |
+| --- | --- | --- | --- |
+| 1. | Tên tổ chức, cá nhân | Tên tổ chức, cá nhân đề nghị trừ lùi |  |
+| 2. | Mã số thuế | Nhập mã số thuế của tổ chức, cá nhân |  |
+| 3. | Ngày đề nghị | Là ngày hệ thống tiếp nhận đề nghị |  |
+| 4. | Chi cục Hải quan | Tên Chi cục Hải quan nơi tiếp nhận đề nghị trừ lùi | X |
+| 5. | Mẫu C/O | Nhập mẫu C/O theo từng hiệp định |  |
+| 6. | Số tham chiếu | Nhập số tham chiếu C/O |  |
+| 7. | Nơi cấp | Nhập cơ quan có thẩm quyền cấp C/O |  |
+| 8. | Ngày C/O | Ngày cấp C/O |  |
+| 9. | Địa chỉ kho ngoại quan | Nhập mã kho ngoại quan | X |
+| 10. | Tên hàng | Nhập tên hàng nhập khẩu |  |
+| 11. | Mã số HS | Nhập mã số HS tương ứng |  |
+| 12. | Đơn vị tính | Nhập đơn vị tính |  |
+| 13. | Số lượng | Nhập số lượng hàng hóa nhập khẩu trên C/O |  | Mẫu 02/ĐNTL/GSQL 
+| Tên tổ chức, cá nhân………. MST:…………………………… | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- |
+| --- | --- |
+|  | ……………, ngày …… tháng … năm …… | ĐỀ NGHỊ TRỪ LÙI GIẤY CHỨNG NHẬN XUẤT XỨ HÀNG HÓA Kính gửi: Chi cục Hải quan ………………..
+……….. có địa chỉ tại …….. đề nghị Chi cục Hải quan …….. cấp Phiếu theo dõi trừ lùi cho Giấy chứng nhận xuất xứ hàng hóa mẫu ……..
+có số tham chiếu …….. do …….. cấp ngày …….. cho lô hàng đang được gửi tại kho ngoại quan …….. có địa chỉ tại …….. thuộc địa bàn quản lý của Chi cục Hải quan ……….. thuộc Cục Hải quan ……..……..……..……..……..……..
+Thông tin cụ thể như sau:
+
+| STT | Tên hàng | Mã số HS | ĐVT | Số lượng hàng hóa nhập khẩu trên C/O |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  | Chúng tôi cam kết chịu trách nhiệm trước pháp luật về các nội dung kê khai trên./.
+Người đại diện theo pháp luật của tổ chức, cá nhân (Ký tên; đóng dấu ) Mẫu 03/TDTL/GSQL Cục Hải quan ………….
+Chi cục Hải quan ………… Số phiếu: …………….
+Ngày.... tháng.... năm…… PHIẾU THEO DÕI TRỪ LÙI GIẤY CHỨNG NHẬN XUẤT XỨ HÀNG HÓA
+1. C/O mẫu ……..; số tham chiếu: ……..……..; ngày cấp:
+…../…../……….; số lượng hàng hóa nhập khẩu trên C/O ……..……....……..……..……
+2. Tên tổ chức, cá nhân nhập khẩu: ……..……..; Mã số thuế: ……..……..……..……..……..……..……..……..……....……..……..……..……..……..
+
+| STT | Số, ký hiệu, ngày tờ khai hải quan nhập khẩu | Tên hàng | Mã số HS | ĐVT | Số lượng hàng hóa nhập khẩu | Số lượng hàng hóa còn lại chưa nhập khẩu | Công chức HQ theo dõi trừ lùi xác nhận (ký, đóng dấu công chức) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | Lãnh đạo Chi cục HQ (nơi cấp phiếu) (Ký tên; đóng dấu)

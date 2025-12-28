@@ -1,0 +1,245 @@
+BÁO CÁO LUẬT TRÙNG GIỮA CÁC FILE TXT
+============================================================
+
+1. LUẬT TRÙNG:
+   Tên chuẩn: luật doanh nghiệp 2014
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - thue.txt: Luật Doanh nghiệp 2014
+
+2. LUẬT TRÙNG:
+   Tên chuẩn: luật phá sản 2014
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - doanh_nghiep.txt: Luật Phá sản 2014
+     - thue.txt: Luật Phá sản 2014
+
+3. LUẬT TRÙNG:
+   Tên chuẩn: luật đất đai 2013
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật đất đai 2013
+
+4. LUẬT TRÙNG:
+   Tên chuẩn: luật sở hữu trí tuệ 2005
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật Sở hữu trí tuệ 2005
+
+5. LUẬT TRÙNG:
+   Tên chuẩn: luật di sản văn hóa 2001
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật di sản văn hóa 2001
+
+6. LUẬT TRÙNG:
+   Tên chuẩn: hiến pháp 2013
+   GIỮ LẠI: dan_su.txt
+   ĐỀ XUẤT XÓA Ở:
+     - doanh_nghiep.txt: Hiến pháp 2013
+     - thue.txt: Hiến pháp 2013
+     - moi_truong.txt: Hiến pháp 2013
+     - dat_dai.txt: Hiến pháp 2013
+     - hai_quan.txt: Hiến pháp 2013
+
+7. LUẬT TRÙNG:
+   Tên chuẩn: luật doanh nghiệp 2020
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Doanh nghiệp 2020
+     - moi_truong.txt: Luật Doanh nghiệp 2020
+
+8. LUẬT TRÙNG:
+   Tên chuẩn: luật đầu tư 2020
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Đầu tư 2020
+     - dat_dai.txt: Luật Đầu tư 2020
+
+9. LUẬT TRÙNG:
+   Tên chuẩn: luật quản lý thuế 2019
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Quản lý thuế 2019
+
+10. LUẬT TRÙNG:
+   Tên chuẩn: luật cạnh tranh 2018
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Cạnh tranh 2018
+     - moi_truong.txt: Luật Cạnh tranh 2018
+     - dat_dai.txt: Luật Cạnh tranh 2018
+
+11. LUẬT TRÙNG:
+   Tên chuẩn: luật cán bộ, công chức 2008
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật cán bộ, công chức 2008
+
+12. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 16 vbhn vpqh năm 2025 luật thủy lợi do văn phòng quốc hội ban hành
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Văn bản hợp nhất 16/VBHN-VPQH năm 2025 Luật Thủy lợi do Văn phòng Quốc hội ban hành
+
+13. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 43 vbhn vpqh năm 2023 hợp nhất luật thủy lợi do văn phòng quốc hội ban hành
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Văn bản hợp nhất 43/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+
+14. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 07 vbhn vpqh năm 2023 hợp nhất luật thủy lợi do văn phòng quốc hội ban hành
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Văn bản hợp nhất 07/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+
+15. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 35 vbhn vpqh năm 2020 hợp nhất luật thủy lợi do văn phòng quốc hội ban hành
+   GIỮ LẠI: doanh_nghiep.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Văn bản hợp nhất 35/VBHN-VPQH năm 2020 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành
+
+16. LUẬT TRÙNG:
+   Tên chuẩn: luật sửa đổi các luật về thuế 2014
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật sửa đổi các Luật về thuế 2014
+     - hai_quan.txt: Luật sửa đổi các Luật về thuế 2014
+
+17. LUẬT TRÙNG:
+   Tên chuẩn: luật quản lý thuế 2006
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật quản lý thuế 2006
+
+18. LUẬT TRÙNG:
+   Tên chuẩn: luật quản lý thuế sửa đổi 2012
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật quản lý thuế sửa đổi 2012
+
+19. LUẬT TRÙNG:
+   Tên chuẩn: luật quản lý, sử dụng tài sản công 2017
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Quản lý, sử dụng tài sản công 2017
+
+20. LUẬT TRÙNG:
+   Tên chuẩn: luật phí và lệ phí 2015
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật phí và lệ phí 2015
+
+21. LUẬT TRÙNG:
+   Tên chuẩn: luật kiểm toán nhà nước 2015
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Kiểm toán nhà nước 2015
+     - moi_truong.txt: Luật Kiểm toán nhà nước 2015
+     - dat_dai.txt: Luật Kiểm toán nhà nước 2015
+
+22. LUẬT TRÙNG:
+   Tên chuẩn: nghị định 102 2021 nđ cp sửa đổi các nghị định về xử phạt vi phạm hành chính trong lĩnh vực thuế, hóa đơn; ...
+   GIỮ LẠI: thue.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Nghị định 102/2021/NĐ-CP sửa đổi các Nghị định về xử phạt vi phạm hành chính trong lĩnh vực thuế, hóa đơn; ...
+
+23. LUẬT TRÙNG:
+   Tên chuẩn: luật đầu tư công 2019
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Đầu tư công 2019
+
+24. LUẬT TRÙNG:
+   Tên chuẩn: luật sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch 2018
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018
+     - hai_quan.txt: Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018
+
+25. LUẬT TRÙNG:
+   Tên chuẩn: luật đầu tư theo phương thức đối tác công tư 2020
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Đầu tư theo phương thức đối tác công tư 2020
+     - dat_dai.txt: Luật Đầu tư theo phương thức đối tác công tư 2020
+
+26. LUẬT TRÙNG:
+   Tên chuẩn: công văn 13151 btc tchq năm 2018 áp dụng các biện pháp ngăn chặn từ xa, không cho phép dỡ hàng xuống cảng ...
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Công văn 13151/BTC-TCHQ năm 2018 áp dụng các biện pháp ngăn chặn từ xa, không cho phép dỡ hàng xuống cảng ...
+
+27. LUẬT TRÙNG:
+   Tên chuẩn: luật du lịch 2017
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - moi_truong.txt: Luật Du lịch 2017
+
+28. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 134 vbhn vpqh năm 2025 hợp nhất luật đầu tư do văn phòng quốc hội ban hành
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Văn bản hợp nhất 134/VBHN-VPQH năm 2025 hợp nhất Luật Đầu tư do Văn phòng Quốc hội ban hành
+
+29. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 09 vbhn vpqh năm 2025 hợp nhất luật đầu tư do văn phòng quốc hội ban hành
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Văn bản hợp nhất 09/VBHN-VPQH năm 2025 hợp nhất Luật Đầu tư do Văn phòng Quốc hội ban hành
+
+30. LUẬT TRÙNG:
+   Tên chuẩn: văn bản hợp nhất 08 vbhn vpqh năm 2024 hợp nhất luật đầu tư do văn phòng quốc hội ban hành
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Văn bản hợp nhất 08/VBHN-VPQH năm 2024 hợp nhất Luật Đầu tư do Văn phòng Quốc hội ban hành
+
+31. LUẬT TRÙNG:
+   Tên chuẩn: nghị định 131 2025 nđ cp quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực ...
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Nghị định 131/2025/NĐ-CP quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực ...
+
+32. LUẬT TRÙNG:
+   Tên chuẩn: luật đầu tư công 2024
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Đầu tư công 2024
+
+33. LUẬT TRÙNG:
+   Tên chuẩn: luật quy hoạch đô thị và nông thôn 2024
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Quy hoạch đô thị và nông thôn 2024
+
+34. LUẬT TRÙNG:
+   Tên chuẩn: luật tài nguyên nước 2023
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Tài nguyên nước 2023
+
+35. LUẬT TRÙNG:
+   Tên chuẩn: luật giá 2023
+   GIỮ LẠI: moi_truong.txt
+   ĐỀ XUẤT XÓA Ở:
+     - dat_dai.txt: Luật Giá 2023
+
+36. LUẬT TRÙNG:
+   Tên chuẩn: luật sở hữu trí tuệ sửa đổi 2022
+   GIỮ LẠI: dat_dai.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật Sở hữu trí tuệ sửa đổi 2022
+
+37. LUẬT TRÙNG:
+   Tên chuẩn: luật xử lý vi phạm hành chính sửa đổi 2020
+   GIỮ LẠI: dat_dai.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật Xử lý vi phạm hành chính sửa đổi 2020
+
+38. LUẬT TRÙNG:
+   Tên chuẩn: luật biển việt nam 2012
+   GIỮ LẠI: dat_dai.txt
+   ĐỀ XUẤT XÓA Ở:
+     - hai_quan.txt: Luật biển Việt Nam 2012
+
