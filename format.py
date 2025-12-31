@@ -208,8 +208,8 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
 
 def main():
     parser = argparse.ArgumentParser(description='Format crawled files by splitting into Điều chunks')
-    parser.add_argument('--input-dir', default='crawl_test_65', help='Input directory with crawled .txt files')
-    parser.add_argument('--output-dir', default='format_65', help='Output directory for formatted files')
+    parser.add_argument('--input-dir', default='crawl_fix_29_12_2', help='Input directory with crawled .txt files')
+    parser.add_argument('--output-dir', default='bo_luat_ds2015', help='Output directory for formatted files')
     args = parser.parse_args()
 
     input_dir = Path(args.input_dir)
