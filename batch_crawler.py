@@ -66,7 +66,7 @@ class BatchCrawler:
 
         # Resume functionality
         self.completed_urls = set()
-        self.failed_urls = set()
+        self.failed_items = [] 
 
         # # Pipeline command
         self.pipeline_cmd = ["uv", "run", "python", "pipeline.py"]
@@ -352,7 +352,7 @@ class BatchCrawler:
                     else:
                         with self.stats_lock:
                             self.stats['failed'] += 1
-                            self.failed_urls.add(url)
+                        self.failed_items.append((url, doc_name))  # <-- lưu cả tên
                         self.failed_queue.put((url, doc_name, result))
 
                     processed = True
@@ -380,9 +380,8 @@ class BatchCrawler:
                 with open(resume_file, 'r', encoding='utf-8') as f:
                     state = json.load(f)
                     self.completed_urls = set(state.get('completed_urls', []))
-                    self.failed_urls = set(state.get('failed_urls', []))
-
-                    print(f"📂 Đã tải state: {len(self.completed_urls)} hoàn thành, {len(self.failed_urls)} thất bại")
+                    # Không load failed_urls nữa
+                    print(f"📂 Đã tải state: {len(self.completed_urls)} hoàn thành")
                     return True
             except Exception as e:
                 print(f"⚠️  Không thể tải state file: {e}")
@@ -392,7 +391,7 @@ class BatchCrawler:
         """Save current state to file"""
         state = {
             'completed_urls': list(self.completed_urls),
-            'failed_urls': list(self.failed_urls),
+            # 'failed_urls': ...,  <-- XÓA DÒNG NÀY
             'timestamp': datetime.now().isoformat(),
             'stats': self.stats,
             'output_dir': self.output_dir
@@ -403,39 +402,30 @@ class BatchCrawler:
                 json.dump(state, f, ensure_ascii=False, indent=2)
         except Exception as e:
             print(f"⚠️  Không thể lưu state file: {e}")
-
     def load_urls_from_file(self, url_file: str) -> List[Tuple[str, str]]:
         """Load URLs from file"""
         urls = []
+        url_doc_pattern = re.compile(r'^(\S+)\s+(.+)$')
         try:
             with open(url_file, 'r', encoding='utf-8') as f:
                 for line_num, line in enumerate(f, 1):
                     raw = line.rstrip('\n')
-                    line = raw.strip()
-                    if not line or line.startswith('#'):
+                    stripped = raw.strip()
+                    if not stripped or stripped.startswith('#'):
                         continue
 
-                    # Support lines with optional doc-name after the URL
-                    # e.g. "<url> Luật ngân sách 2025"
-                    parts = line.split()
-                    if parts and parts[0].startswith('http'):
-                        url = parts[0]
-
-                        # If there's additional text after the URL, treat it as the doc_name
-                        doc_name = None
-                        if len(parts) > 1:
-                            # Preserve the original spacing for the doc_name portion
-                            first_space = raw.find(' ')
-                            if first_space != -1:
-                                doc_name = raw[first_space + 1 :].strip()
-
-                        # Fallback to extractor when doc_name not provided
-                        if not doc_name:
-                            doc_name = self.extract_doc_name_from_url(url)
-
-                        urls.append((url, doc_name))
+                    match = url_doc_pattern.match(stripped)
+                    if match:
+                        url = match.group(1)
+                        doc_name = match.group(2)
+                    elif stripped.startswith('http'):
+                        url = stripped
+                        doc_name = self.extract_doc_name_from_url(url)
                     else:
-                        print(f"⚠️  Dòng {line_num}: URL không hợp lệ - {line}")
+                        print(f"⚠️  Dòng {line_num}: URL không hợp lệ - {stripped}")
+                        continue
+
+                    urls.append((url, doc_name))
 
             print(f"📋 Đã tải {len(urls)} URL từ {url_file}")
             return urls
@@ -446,7 +436,6 @@ class BatchCrawler:
         except Exception as e:
             print(f"❌ Lỗi đọc file: {e}")
             return []
-
     def print_progress(self):
         """Print progress information"""
         while True:
@@ -566,12 +555,12 @@ class BatchCrawler:
         self.save_resume_state()
 
         # Save failed URLs
-        if self.failed_urls:
+        if self.failed_items:
             failed_file = os.path.join(self.output_dir, "failed_urls.txt")
             with open(failed_file, 'w', encoding='utf-8') as f:
-                for url in self.failed_urls:
-                    f.write(f"{url}\n")
-            print(f"💾 Đã lưu URL thất bại vào: {failed_file}")
+                for url, doc_name in self.failed_items:
+                    f.write(f"{url}\t{doc_name}\n")
+            print(f"💾 Đã lưu URL + tên văn bản thất bại vào: {failed_file}")
 
         print(f"📁 Output directory: {self.output_dir}")
 

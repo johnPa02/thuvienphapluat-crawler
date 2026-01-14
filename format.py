@@ -153,6 +153,18 @@ def _split_by_token_limit(text: str, encoder, max_tokens: int = 15000) -> List[s
     return out
 
 
+def fix_vb_het_hieu_luc_formatting(content: str) -> str:
+    """
+    Thêm đúng 1 dấu chấm '.' ngay sau cụm '(VB hết hiệu lực: ...)' 
+    nếu ngay sau dấu ')' chưa có dấu chấm.
+    Ví dụ: 
+        (VB hết hiệu lực: 01/02/2015) → (VB hết hiệu lực: 01/02/2015).
+        (VB hết hiệu lực: 15/08/2025). → giữ nguyên
+    """
+    # Pattern: tìm cụm "(VB hết hiệu lực: dd/mm/yyyy)" 
+    # và đảm bảo không thêm chấm nếu đã có chấm ngay sau
+    pattern = r'\(VB hết hiệu lực:\s*\d{1,2}/\d{1,2}/\d{4}\)(?!\.)'
+    return re.sub(pattern, r'\g<0>.', content)
 def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
     """Returns (master_path, total_subchunks, has_over_token)"""
     text = src_path.read_text(encoding='utf-8')
@@ -200,6 +212,8 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
 
             for sc in merged:
                 sc_clean = re.sub(r'\n\s*\n\s*(\|)', r'\n\1', sc)
+                # Apply the VB hết hiệu lực formatting fix
+                sc_clean = fix_vb_het_hieu_luc_formatting(sc_clean)
                 mf.write(title.rstrip('.') + '. ' + sc_clean.strip() + '\n\n')
                 total_subchunks += 1
 
@@ -208,8 +222,8 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
 
 def main():
     parser = argparse.ArgumentParser(description='Format crawled files by splitting into Điều chunks')
-    parser.add_argument('--input-dir', default='crawl_fix_29_12_2', help='Input directory with crawled .txt files')
-    parser.add_argument('--output-dir', default='bo_luat_ds2015', help='Output directory for formatted files')
+    parser.add_argument('--input-dir', default='bhyt_2', help='Input directory with crawled .txt files')
+    parser.add_argument('--output-dir', default='bhyt_format', help='Output directory for formatted files')
     args = parser.parse_args()
 
     input_dir = Path(args.input_dir)
