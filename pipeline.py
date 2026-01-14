@@ -353,8 +353,8 @@ def postprocess(content: str, doc_name: str) -> str:
     content = re.sub(r'(Mục\s+\d+\.)', rf'\n{doc_name}. \1', content)
     
     # Thêm dòng trống và tên văn bản trước I. II. III. ...
-    content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', rf'\n\n{doc_name}. \1', content)
-    
+    # content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', rf'\n\n{doc_name}. \1', content)
+    #
     # Nối dấu ngoặc kép đứng một mình vào dòng sau (trường hợp bị xuống dòng trong HTML)
     # Hỗ trợ cả " thường và "" Unicode (U+201C và U+201D)
     content = re.sub(r'[""\u201c\u201d]\s*\n+\s*(Điều)', r'"\1', content)
@@ -408,6 +408,7 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
     
     # Step 1: Crawl HTML
     html = crawl_html(url, cookie_file if os.path.exists(cookie_file) else None)
+    # html = crawl_html(url)
     print(f"   ✓ Đã tải {len(html):,} bytes HTML")
     
     # Step 2: Extract content

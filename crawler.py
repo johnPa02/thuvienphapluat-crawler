@@ -261,8 +261,8 @@ def main():
     print("-" * 80)
     
     try:
-        content = crawl_content(url, use_js=True, cookie_file=cookie_file if os.path.exists(cookie_file) else None)
-        
+        # content = crawl_content(url, use_js=True, cookie_file=cookie_file if os.path.exists(cookie_file) else None)
+        content = crawl_content(url, use_js=True)
         # Lưu ra file txt
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(content)
