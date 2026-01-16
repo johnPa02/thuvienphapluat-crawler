@@ -8,4 +8,13 @@ dependencies = [
     "requests>=2.31.0",
     "beautifulsoup4>=4.12.0",
     "playwright>=1.40.0",
+    "pymupdf>=1.26.7",
+    "pdf2image>=1.17.0",
+    "openai>=2.15.0",
+    "python-dotenv>=1.2.1",
+    "pillow>=12.1.0",
+    "boto3>=1.42.29",
+    "pdfplumber>=0.11.9",
+    "camelot-py>=1.0.9",
+    "opencv-python-headless>=4.12.0.88",
 ]
