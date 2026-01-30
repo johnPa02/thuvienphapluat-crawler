@@ -6,6 +6,8 @@ dist/
 wheels/
 *.egg-info
 .idea/
-
+cookies.txt
+.env
 # Virtual environments
 .venv
+Project-Lightrag_accessKeys.csv
