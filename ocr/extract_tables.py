@@ -2,6 +2,10 @@
 """
 Extract tables from PDF to Markdown using pdfplumber.
 No AI model required - fast and free!
+
+Supports:
+- Tables with borders (default)
+- Borderless tables (--text-strategy)
 """
 
 import argparse
@@ -10,7 +14,8 @@ import os
 import pdfplumber
 
 
-def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, end_page: int = None):
+def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
+                   end_page: int = None, text_strategy: bool = False):
     """
     Extract tables from PDF and save as markdown.
     
@@ -19,6 +24,7 @@ def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
         output_path: Output markdown file (default: same name as PDF with _tables.md)
         start_page: Start page (1-indexed, default: 1)
         end_page: End page (inclusive, default: last page)
+        text_strategy: Use text-based table detection for borderless tables
     """
     if not os.path.exists(pdf_path):
         print(f"❌ PDF not found: {pdf_path}")
@@ -26,6 +32,16 @@ def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
     
     if output_path is None:
         output_path = os.path.splitext(pdf_path)[0] + "_tables.md"
+    
+    # Table settings
+    table_settings = {}
+    if text_strategy:
+        table_settings = {
+            'vertical_strategy': 'text',
+            'horizontal_strategy': 'text',
+            'snap_tolerance': 3,
+            'join_tolerance': 3,
+        }
     
     with pdfplumber.open(pdf_path) as pdf:
         total_pages = len(pdf.pages)
@@ -35,6 +51,8 @@ def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
         print(f"📄 PDF: {pdf_path}")
         print(f"📝 Output: {output_path}")
         print(f"📊 Processing pages {start_page} to {end_idx} (total: {total_pages})")
+        if text_strategy:
+            print(f"🔤 Using text-based table detection (for borderless tables)")
         print("=" * 60)
         
         mode = 'a' if start_page > 1 else 'w'
@@ -46,7 +64,15 @@ def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
             table_count = 0
             for page_num in range(start_idx, end_idx):
                 page = pdf.pages[page_num]
-                tables = page.extract_tables()
+                
+                # Auto-detect: if no lines, try text strategy
+                if not text_strategy and len(page.lines) == 0:
+                    tables = page.extract_tables(table_settings={
+                        'vertical_strategy': 'text',
+                        'horizontal_strategy': 'text'
+                    })
+                else:
+                    tables = page.extract_tables(table_settings=table_settings)
                 
                 if tables:
                     for table in tables:
@@ -55,18 +81,15 @@ def extract_tables(pdf_path: str, output_path: str = None, start_page: int = 1, 
                             
                             header = table[0]
                             if header:
-                                f.write("| " + " | ".join(
-                                    str(c).replace("\n", " ") if c else "" 
-                                    for c in header
-                                ) + " |\n")
+                                # Filter out empty columns
+                                clean_row = [str(c).replace("\n", " ").strip() if c else "" for c in header]
+                                f.write("| " + " | ".join(clean_row) + " |\n")
                                 f.write("|" + "|".join(["---"] * len(header)) + "|\n")
                             
                             for row in table[1:]:
                                 if row:
-                                    f.write("| " + " | ".join(
-                                        str(c).replace("\n", " ") if c else "" 
-                                        for c in row
-                                    ) + " |\n")
+                                    clean_row = [str(c).replace("\n", " ").strip() if c else "" for c in row]
+                                    f.write("| " + " | ".join(clean_row) + " |\n")
                             
                             table_count += 1
                 
@@ -88,10 +111,13 @@ def main():
                         help="Start page (1-indexed, default: 1)")
     parser.add_argument("-e", "--end", type=int, 
                         help="End page (inclusive, default: last page)")
+    parser.add_argument("-t", "--text-strategy", action="store_true",
+                        help="Use text-based detection for borderless tables")
     
     args = parser.parse_args()
-    extract_tables(args.pdf_path, args.output, args.start, args.end)
+    extract_tables(args.pdf_path, args.output, args.start, args.end, args.text_strategy)
 
 
 if __name__ == "__main__":
     main()
+
