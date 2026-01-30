@@ -59,4 +59,4 @@ uv run python ocr/ocr_pdf.py ocr/data/file.pdf -s 0 -e 100
 | Phương pháp | Tốc độ | Chi phí | Chất lượng | Dùng khi |
 |-------------|--------|---------|------------|----------|
 | `extract_tables.py` | ~0.1s/trang | FREE | Tốt với PDF text-layer | Bảng đơn giản |
-| `ocr_pdf.py` | ~11s/trang | FREE (HF) | Xuất sắc | PDF scan, bảng phức tạp |
+| `ocr_pdf.py` | ~12s/trang | $1.8/h | Tốt | PDF scan, bảng phức tạp |
