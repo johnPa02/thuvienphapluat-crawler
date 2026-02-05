@@ -1,0 +1,10 @@
+# API Kiểm tra Hiệu lực Văn bản Pháp luật
+
+API tự động crawl và phân loại văn bản pháp luật từ Thư viện Pháp luật.
+
+## Chạy API
+```bash
+uvicorn crawl_hieu_luc:app --reload --host 0.0.0.0 --port 8000
+
+### Lưu ý
+Định dạng nhập ngày là năm-tháng-ngày
