@@ -1,0 +1,225 @@
+Thông tư 32/2025/TT-BTC. BỘ TÀI CHÍNH -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 32/2025/TT-BTC
+Hà Nội, ngày 31 tháng 5 năm 2025 THÔNG TƯ HƯỚNG DẪN THỰC HIỆN MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ THUẾ NGÀY 13 THÁNG 6 NĂM 2019, NGHỊ ĐỊNH SỐ 123/2020/NĐ-CP NGÀY 19 THÁNG 10 NĂM 2020 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ HÓA ĐƠN, CHỨNG TỪ, NGHỊ ĐỊNH SỐ 70/2025/NĐ-CP NGÀY 20 THÁNG 3 NĂM 2025 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 123/2020/NĐ-CP
+Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019;
+Căn cứ Luật Thuế giá trị gia tăng ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các luật về thuế ngày 26 tháng 11 năm 2014; Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật Quản lý thuế ngày 06 tháng 4 năm 2016;
+Căn cứ Luật số 56/2024/QH15 ngày 29 tháng 11 năm 2024 sửa đổi, bổ sung một số điều của Luật chứng khoán; Luật kế toán; Luật kiểm toán độc lập, Luật ngân sách nhà nước;
+Luật quản lý, sử dụng tài sản công; Luật quản lý thuế; Luật thuế thu nhập cá nhân; Luật dự trữ quốc gia; Luật xử lý vi phạm hành chính;
+Căn cứ Luật Thuế giá trị gia tăng ngày 26 tháng 11 năm 2024;
+Căn cứ Luật Kế toán ngày 20 tháng 11 năm 2015;
+Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ và Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ;
+Căn cứ Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Theo đề nghị của Cục trưởng Cục Thuế;
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP.
+
+Thông tư 32/2025/TT-BTC. Điều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn một số nội dung về hóa đơn, chứng từ theo quy định tại Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, hướng dẫn thi hành các khoản 3, khoản 6, khoản 7, khoản 11, khoản 18, khoản 37 và khoản 38 Điều 1 Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 của Chính phủ và một số trường hợp theo yêu cầu quản lý bao gồm: tổ chức thực hiện biện pháp khuyến khích người tiêu dùng lấy hóa đơn khi mua hàng hóa, dịch vụ; ủy nhiệm lập hóa đơn điện tử;
+ký hiệu mẫu số, ký hiệu hóa đơn, tên liên hóa đơn; áp dụng hóa đơn điện tử đối với một số trường hợp khác;
+nội dung hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế; chuyển đổi áp dụng hóa đơn điện tử; tiêu chí xác định người nộp thuế rủi ro về thuế cao trong đăng ký sử dụng hóa đơn điện tử; sử dụng chứng từ; tiêu chí đối với tổ chức cung cấp giải pháp hóa đơn điện tử và dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn và các dịch vụ khác có liên quan và hiệu lực thi hành.
+
+Thông tư 32/2025/TT-BTC. Điều 2. Đối tượng áp dụng Đối tượng áp dụng hướng dẫn tại Thông tư này là tổ chức, cá nhân quy định tại Điều 2 Nghị định số 123/2020/NĐ-CP và khoản 1 Điều 1 Nghị định số 70/2025/NĐ-CP.
+
+Thông tư 32/2025/TT-BTC. Điều 3. Tổ chức thực hiện biện pháp khuyến khích người tiêu dùng lấy hóa đơn khi mua hàng hóa, dịch vụ
+1. Cục Thuế sử dụng cơ sở dữ liệu về hóa đơn điện tử để xây dựng, triển khai chương trình hóa đơn may mắn đối với những hóa đơn điện tử có người mua là người tiêu dùng (là cá nhân).
+2. Cục Thuế xây dựng phương án tổ chức, tần suất quay thưởng, giá trị giải thưởng chương trình hóa đơn may mắn trên cơ sở dữ liệu về hóa đơn điện tử báo cáo Bộ trưởng Bộ Tài chính xem xét phê duyệt trước khi thực hiện.
+
+Thông tư 32/2025/TT-BTC. Điều 4. Ủy nhiệm lập hóa đơn điện tử
+1. Nguyên tắc ủy nhiệm lập hóa đơn
+a) Người bán hàng hóa, cung cấp dịch vụ được ủy nhiệm cho bên thứ ba là đối tượng đủ điều kiện sử dụng hóa đơn điện tử và không thuộc trường hợp ngừng sử dụng hóa đơn điện tử theo quy định tại Điều 16 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 12 Điều 1 Nghị định số 70/2025/NĐ-CP) để lập hóa đơn điện tử cho hoạt động bán hàng hóa, cung cấp dịch vụ;
+b) Việc ủy nhiệm phải được lập bằng văn bản (hợp đồng hoặc thỏa thuận) giữa bên ủy nhiệm và bên nhận ủy nhiệm;
+c) Việc ủy nhiệm phải thông báo cho cơ quan thuế khi đăng ký sử dụng hóa đơn điện tử;
+d) Hóa đơn điện tử do bên nhận ủy nhiệm lập là hóa đơn điện tử có mã hoặc không có mã của cơ quan thuế và phải thể hiện tên, địa chỉ, mã số thuế của bên ủy nhiệm và tên, địa chỉ, mã số thuế của bên nhận ủy nhiệm;
+đ) Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm niêm yết trên website của đơn vị mình hoặc thông báo công khai trên phương tiện thông tin đại chúng để người mua hàng hóa, dịch vụ được biết về việc ủy nhiệm lập hóa đơn. Khi hết thời hạn ủy nhiệm hoặc chấm dứt trước thời hạn ủy nhiệm lập hóa đơn điện tử theo thỏa thuận giữa các bên thì bên ủy nhiệm, bên nhận ủy nhiệm hủy các niêm yết, thông báo trên website của đơn vị mình hoặc thông báo công khai trên phương tiện thông tin đại chúng về việc hết thời hạn hoặc chấm dứt trước thời hạn ủy nhiệm lập hóa đơn;
+e) Trường hợp hóa đơn ủy nhiệm là hóa đơn điện tử không có mã của cơ quan thuế (sau đây gọi là hóa đơn điện tử không có mã) thì bên ủy nhiệm phải chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế quản lý trực tiếp hoặc thông qua tổ chức cung cấp dịch vụ để chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế quản lý trực tiếp;
+g) Bên nhận ủy nhiệm có trách nhiệm lập hóa đơn điện tử ủy nhiệm theo đúng thực tế phát sinh, theo thỏa thuận với bên ủy nhiệm và tuân thủ nguyên tắc tại khoản 1 Điều này;
+h) Hóa đơn điện tử do bên nhận ủy nhiệm lập phải phù hợp với phương pháp tính thuế của bên ủy nhiệm.
+2. Hợp đồng ủy nhiệm hoặc thỏa thuận ủy nhiệm
+a) Hợp đồng ủy nhiệm hoặc thỏa thuận ủy nhiệm phải thể hiện đầy đủ các thông tin về bên ủy nhiệm và bên nhận ủy nhiệm (tên, địa chỉ, mã số thuế hoặc số định danh cá nhân, chứng thư số); thông tin về hóa đơn điện tử ủy nhiệm (loại hóa đơn, ký hiệu hóa đơn, ký hiệu mẫu số hóa đơn); mục đích ủy nhiệm; thời hạn ủy nhiệm; phương thức thanh toán hóa đơn ủy nhiệm (ghi rõ trách nhiệm thanh toán tiền hàng hóa, dịch vụ trên hóa đơn ủy nhiệm);
+b) Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm lưu trữ văn bản ủy nhiệm và xuất trình khi cơ quan có thẩm quyền yêu cầu.
+3. Thông báo với cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử
+a) Việc ủy nhiệm được xác định là thay đổi thông tin đăng ký sử dụng hóa đơn điện tử theo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại điểm d khoản 11 Điều 1 Nghị định số 70/2025/NĐ-CP). Bên ủy nhiệm và bên nhận ủy nhiệm sử dụng  [Mẫu số 01/ĐKTĐ-HĐĐT](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//M%E1%BA%ABu%2001-%C4%90KT%C4%90-H%C4%90%C4%90T-Pl1a-123-2020-ND-CP.doc) ban hành kèm theo Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 2 Điều 2 Nghị định số 70/2025/NĐ-CP) để thông báo với cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử, bao gồm cả trường hợp chấm dứt trước thời hạn ủy nhiệm lập hóa đơn điện tử theo thỏa thuận giữa các bên;
+b) Bên ủy nhiệm điền thông tin của bên nhận ủy nhiệm, bên nhận ủy nhiệm điền thông tin của bên ủy nhiệm tại  [Mẫu số 01/ĐKTĐ-HĐĐT](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//M%E1%BA%ABu%2001-%C4%90KT%C4%90-H%C4%90%C4%90T-Pl1a-123-2020-ND-CP.doc) ban hành kèm theo Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 2 Điều 2 Nghị định số 70/2025/NĐ-CP) như sau:
+- Đối với bên ủy nhiệm và bên nhận ủy nhiệm tại Phần 5 “Danh sách chứng thư số sử dụng” điền thông tin đầy đủ chứng thư số sử dụng của cả hai bên;
+- Đối với bên nhận ủy nhiệm tại cột 5 Phần 6 “Đăng ký ủy nhiệm lập hóa đơn” điền thông tin tên tổ chức ủy nhiệm và mã số thuế hoặc số định danh cá nhân của bên ủy nhiệm.
+c) Trường hợp người bán hàng hóa, dịch vụ là hộ kinh doanh, cá nhân kinh doanh ủy nhiệm cho tổ chức quản lý nền tảng thương mại điện tử lập hóa đơn điện tử cho hoạt động bán hàng hóa, dịch vụ thì tổ chức quản lý nền tảng thương mại điện tử thực hiện thông báo với cơ quan thuế.
+
+Thông tư 32/2025/TT-BTC. Điều 5. Ký hiệu mẫu số, ký hiệu hóa đơn, tên liên hóa đơn
+1. Hóa đơn điện tử
+a) Ký hiệu mẫu số hóa đơn điện tử là ký tự có một chữ số tự nhiên là các số tự nhiên 1, 2, 3, 4, 5, 6, 7, 8, 9 để phản ánh loại hóa đơn điện tử như sau:
+- Số 1: Phản ánh loại hóa đơn điện tử giá trị gia tăng;
+- Số 2: Phản ánh loại hóa đơn điện tử bán hàng;
+- Số 3: Phản ánh loại hóa đơn điện tử bán tài sản công;
+- Số 4: Phản ánh loại hóa đơn điện tử bán hàng dự trữ quốc gia;
+- Số 5: Phản ánh các loại hóa đơn điện tử khác là tem điện tử, vé điện tử, thẻ điện tử, phiếu thu điện tử hoặc các chứng từ điện tử có tên gọi khác nhưng có nội dung của hóa đơn điện tử theo quy định tại Nghị định số 123/2020/NĐ-CP;
+- Số 6: Phản ánh các chứng từ điện tử được sử dụng và quản lý như hóa đơn gồm phiếu xuất kho kiêm vận chuyển nội bộ điện tử, phiếu xuất kho hàng gửi bán đại lý điện tử;
+- Số 7: Phản ánh hóa đơn thương mại điện tử;
+- Số 8: Phản ánh hóa đơn điện tử giá trị gia tăng tích hợp biên lai thu thuế, phí, lệ phí;
+- Số 9: Phản ánh hóa đơn điện tử bán hàng tích hợp biên lai thu thuế, phí, lệ phí.
+b) Ký hiệu hóa đơn điện tử là nhóm 6 ký tự gồm cả chữ viết và chữ số thể hiện ký hiệu hóa đơn điện tử để phản ánh các thông tin về loại hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử không có mã, năm lập hóa đơn, loại hóa đơn điện tử được sử dụng. Sáu (06) ký tự này được quy định như sau:
+- Ký tự đầu tiên là một (01) chữ cái được quy định là C hoặc K như sau: C thể hiện hóa đơn điện tử có mã của cơ quan thuế, K thể hiện hóa đơn điện tử không có mã;
+- Hai ký tự tiếp theo là hai (02) chữ số Ả rập thể hiện năm lập hóa đơn điện tử được xác định theo 2 chữ số cuối của năm dương lịch. Ví dụ: Năm lập hóa đơn điện tử là năm 2025 thì thể hiện là số 25;
+năm lập hóa đơn điện tử là năm 2026 thì thể hiện là số 26;
+- Một ký tự tiếp theo là một (01) chữ cái được quy định là T, D, L, M, N, B, G, H, X thể hiện loại hóa đơn điện tử được sử dụng, cụ thể:
++ Chữ T: Áp dụng đối với hóa đơn điện tử do các doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế;
++ Chữ D: Áp dụng đối với hóa đơn điện tử bán tài sản công và hóa đơn điện tử bán hàng dự trữ quốc gia hoặc hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức do các doanh nghiệp, tổ chức đăng ký sử dụng;
++ Chữ L: Áp dụng đối với hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh;
++ Chữ M: Áp dụng đối với hóa đơn điện tử được khởi tạo từ máy tính tiền;
++ Chữ N: Áp dụng đối với phiếu xuất kho kiêm vận chuyển nội bộ điện tử;
++ Chữ B: Áp dụng đối với phiếu xuất kho hàng gửi bán đại lý điện tử;
++ Chữ G: Áp dụng đối với tem, vé, thẻ điện tử là hóa đơn giá trị gia tăng;
++ Chữ H: Áp dụng đối với tem, vé, thẻ điện tử là hóa đơn bán hàng;
++ Chữ X: Áp dụng đối với hóa đơn thương mại điện tử.
+- Hai ký tự cuối là chữ viết do người bán tự xác định căn cứ theo nhu cầu quản lý. Trường hợp người bán sử dụng nhiều mẫu hóa đơn điện tử trong cùng một loại hóa đơn thì sử dụng hai ký tự cuối nêu trên để phân biệt các mẫu hóa đơn khác nhau trong cùng một loại hóa đơn. Trường hợp không có nhu cầu quản lý thì sử dụng hai ký tự YY;
+- Tại bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa đơn điện tử được thể hiện ở phía trên bên phải của hóa đơn (hoặc ở vị trí dễ nhận biết);
+- Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn điện tử và ký hiệu hóa đơn điện tử:
++ “1C25TAA” - là hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế;
++ “2C25TBB” - là hóa đơn bán hàng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế;
++ “1C25LBB” - là hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh;
++ “1K25TYY” - là hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế;
++ “1K25DAA” - là hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức bắt buộc do các doanh nghiệp, tổ chức đăng ký sử dụng;
++ “6K25NAB” - là phiếu xuất kho kiêm vận chuyển nội bộ điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế;
++ “6K25BAB” - là phiếu xuất kho hàng gửi bán đại lý điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế;
++ “7K25XAB” - là hóa đơn thương mại điện tử được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế.
+c) Tên, địa chỉ, mã số thuế của bên nhận ủy nhiệm đối với hóa đơn điện tử ủy nhiệm.
+2. Hóa đơn do Chi cục Thuế đặt in
+a) Ký hiệu mẫu số hóa đơn do Chi cục Thuế đặt in là một nhóm gồm 11 ký tự thể hiện các thông tin về: tên loại hóa đơn, số liên, số thứ tự mẫu trong một loại hóa đơn (một loại hóa đơn có thể có nhiều mẫu), cụ thể như sau:
+- Sáu (06) ký tự đầu tiên thể hiện tên loại hóa đơn:
++ 01GTKT: Hóa đơn giá trị gia tăng;
++ 02GTTT: Hóa đơn bán hàng;
++ 07KPTQ: Hóa đơn bán hàng dành cho tổ chức, cá nhân trong khu phi thuế quan;
++ 03XKNB: Phiếu xuất kho kiêm vận chuyển nội bộ;
++ 04HGDL: Phiếu xuất kho hàng gửi bán đại lý.
+- Một (01) ký tự tiếp theo là các số tự nhiên 1, 2, 3 thể hiện số liên hóa đơn;
+- Một (01) ký tự tiếp theo là “/” để phân cách;
+- Ba (03) ký tự tiếp theo là số thứ tự của mẫu trong một loại hóa đơn, bắt đầu bằng 001 và tối đa đến 999.
+Riêng đối với hóa đơn là tem, vé, thẻ do Chi cục Thuế đặt in bắt buộc ghi 03 ký tự đầu để phân biệt tem, vé, thẻ thuộc loại hóa đơn giá trị gia tăng hay hóa đơn bán hàng. Các thông tin còn lại do Chi cục Thuế tự quy định theo nhu cầu quản lý nhưng không vượt quá 11 ký tự.
+Cụ thể:
++ Ký hiệu 01/: đối với tem, vé, thẻ thuộc loại hóa đơn giá trị gia tăng;
++ Ký hiệu 02/: đối với tem, vé, thẻ thuộc loại hóa đơn bán hàng.
+b) Ký hiệu hóa đơn do Chi cục Thuế đặt in là một nhóm gồm 08 ký tự thể hiện thông tin về: Chi cục Thuế đặt in hóa đơn; năm đặt in hóa đơn; ký hiệu hóa đơn do cơ quan thuế tự xác định căn cứ theo nhu cầu quản lý, cụ thể như sau:
+- Hai (02) ký tự đầu tiên thể hiện mã của Chi cục Thuế đặt in hóa đơn và được xác định theo  [Phụ lục I.A](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%201a.doc) ban hành kèm theo Thông tư này;
+- Hai (02) ký tự tiếp theo là hai chữ cái trong 20 chữ cái in hoa của bảng chữ cái Việt Nam gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y thể hiện ký hiệu hóa đơn do cơ quan thuế tự xác định căn cứ theo nhu cầu quản lý;
+- Một (01) ký tự tiếp theo là “/” để phân cách;
+- Ba (03) ký tự tiếp theo gồm hai (02) ký tự đầu là hai chữ số Ả rập thể hiện năm Chi cục Thuế đặt in hóa đơn, được xác định theo 02 chữ số cuối của năm dương lịch và một (01) ký tự là chữ cái P thể hiện hóa đơn do Chi cục Thuế đặt in. Ví dụ: năm Chi cục Thuế đặt in là năm 2025 thì thể hiện là số 25P; năm Chi cục Thuế đặt in hóa đơn là năm 2026 thì thể hiện là số 26P;
+- Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn do Chi cục Thuế đặt in và ký hiệu hóa đơn do Chi cục Thuế đặt in:
+Ký hiệu mẫu hóa đơn “01GTKT3/001”, Ký hiệu hóa đơn “01AA/25P”: được hiểu là mẫu số 001 của hóa đơn giá trị gia tăng có 3 liên do Chi cục Thuế đặt in năm 2025.
+c) Liên hóa đơn do Chi cục Thuế đặt in là các tờ trong cùng một số hóa đơn. Mỗi số hóa đơn có 3 liên trong đó:
+- Liên 1: Lưu;
+- Liên 2: Giao cho người mua;
+- Liên 3: Nội bộ.
+
+Thông tư 32/2025/TT-BTC. Điều 6. Áp dụng hóa đơn điện tử đối với một số trường hợp khác
+1. Các trường hợp bán hàng hóa, cung cấp dịch vụ khác với số lượng lớn, phát sinh thường xuyên, cần có thời gian đối soát số liệu giữa doanh nghiệp bán hàng hóa, cung cấp dịch vụ và khách hàng, đối tác được lập hóa đơn theo quy định tại điểm a khoản 4 Điều 9 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại điểm b khoản 6 Điều 1 Nghị định số 70/2025/NĐ-CP) bao gồm: sản phẩm phái sinh theo quy định của pháp luật về các tổ chức tín dụng, pháp luật về chứng khoán và pháp luật về thương mại được quy định tại Luật Thuế giá trị gia tăng, dịch vụ cung cấp suất ăn công nghiệp, dịch vụ của sở giao dịch hàng hóa, dịch vụ thông tin tín dụng, dịch vụ kinh doanh vận tải hành khách bằng xe taxi (đối với khách hàng là các doanh nghiệp, tổ chức).
+2. Tổ chức cho thuê tài chính cho thuê tài sản thuộc đối tượng chịu thuế giá trị gia tăng phải lập hóa đơn theo quy định
+a) Tổ chức cho thuê tài chính cho thuê tài sản thuộc đối tượng chịu thuế giá trị gia tăng phải có hóa đơn giá trị gia tăng mua vào (đối với tài sản mua trong nước) hoặc chứng từ nộp thuế giá trị gia tăng ở khâu nhập khẩu (đối với tài sản nhập khẩu); khi lập hóa đơn, tổng số tiền thuế giá trị gia tăng trên hóa đơn giá trị gia tăng đầu ra phải khớp với số tiền thuế giá trị gia tăng trên hóa đơn giá trị gia tăng đầu vào của tài sản cho thuê tài chính (hoặc chứng từ nộp thuế giá trị gia tăng khâu nhập khẩu), thuế suất thể hiện ký hiệu “CTTC”. Các trường hợp tài sản mua để cho thuê thuộc đối tượng không chịu thuế giá trị gia tăng, hoặc không có hóa đơn giá trị gia tăng hoặc không có chứng từ nộp thuế giá trị gia tăng ở khâu nhập khẩu thì khi lập hóa đơn không được thể hiện thuế giá trị gia tăng trên hóa đơn.
+b) Việc lập hóa đơn đối với hoạt động cho thuê tài chính như sau:
+b.1) Trường hợp tổ chức cho thuê tài chính chuyển giao một lần toàn bộ số thuế giá trị gia tăng trên hóa đơn tài sản mua cho thuê tài chính cho bên đi thuê tài chính thì trên hóa đơn giá trị gia tăng thu tiền lần đầu của dịch vụ cho thuê tài chính, tổ chức cho thuê tài chính thể hiện rõ: thanh toán dịch vụ cho thuê tài chính và thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính hoặc thanh toán thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính, tiền hàng thể hiện giá trị dịch vụ cho thuê tài chính (không bao gồm thuế giá trị gia tăng của tài sản), thuế suất thể hiện ký hiệu “CTTC”, tiền thuế giá trị gia tăng thể hiện bằng tiền thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính.
+b.2) Xử lý lập hóa đơn khi hợp đồng cho thuê tài chính chấm dứt trước thời hạn:
+b.2.1) Thu hồi tài sản cho thuê tài chính: Trường hợp tổ chức cho thuê tài chính và bên đi thuê lựa chọn khấu trừ toàn bộ số thuế giá trị gia tăng của tài sản cho thuê, bên đi thuê điều chỉnh thuế giá trị gia tăng đã khấu trừ tính trên giá trị còn lại chưa có thuế giá trị gia tăng xác định theo biên bản thu hồi tài sản để chuyển giao cho tổ chức cho thuê tài chính. Trên hóa đơn giá trị gia tăng thể hiện rõ: số tiền thuế giá trị gia tăng xuất trả của tài sản thu hồi; thuế suất thể hiện ký hiệu “CTTC”; số thuế giá trị gia tăng tính trên giá trị còn lại chưa có thuế giá trị gia tăng xác định theo biên bản thu hồi tài sản.
+b.2.2) Bán tài sản thu hồi: Tổ chức cho thuê tài chính khi bán tài sản thu hồi phải lập hóa đơn giá trị gia tăng theo quy định giao cho khách hàng.
+
+Thông tư 32/2025/TT-BTC. Điều 7. Nội dung hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế
+1. Nội dung hóa đơn
+a) Phần A dành cho doanh nghiệp bán hàng hoàn thuế lập khi bán hàng hóa, phần này gồm các nội dung sau:
+a.1) Tên hóa đơn: HÓA ĐƠN GIÁ TRỊ GIA TĂNG KIÊM TỜ KHAI HOÀN THUẾ;
+a.2) Ký hiệu hóa đơn, ký hiệu mẫu số hóa đơn;
+a.3) Thông tin về doanh nghiệp bán hàng gồm: Tên, địa chỉ, mã số thuế;
+a.4) Thông tin về khách hàng gồm: Họ tên, quốc tịch, thông tin về số hộ chiếu, ngày cấp hộ chiếu, ngày hết hạn hộ chiếu hoặc giấy tờ nhập xuất cảnh;
+a.5) Thông tin về hàng hóa gồm: Tên hàng hóa, đơn vị tính, số lượng, đơn giá hàng hóa; thành tiền chưa có thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền thanh toán đã có thuế giá trị gia tăng.
+Tên hàng hóa ghi rõ: nhãn hiệu, ký hiệu hàng hóa (số seri, model (nếu có), xuất xứ hàng hóa áp dụng đối với hàng hóa có nguồn gốc nhập khẩu, số máy áp dụng đối với mặt hàng cơ khí điện tử).
+a.6) Chữ ký số người bán, chữ ký của người mua trên bản hiển thị của hóa đơn điện tử.
+b) Phần B dành cho cơ quan hải quan lập để ghi kết quả kiểm tra hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế, hàng hóa, tính số thuế giá trị gia tăng người nước ngoài được hoàn, phần này gồm các nội dung sau:
+b.1) Số thứ tự hàng hóa;
+b.2) Tên hàng;
+b.3) Số lượng;
+b.4) Số tiền thuế giá trị gia tăng ghi trên hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế;
+b.5) Số tiền thuế giá trị gia tăng được hoàn theo quy định;
+b.6) Thời điểm công chức hải quan kiểm tra: ghi rõ ngày, tháng, năm;
+b.7) Tên, chữ ký của công chức hải quan kiểm tra.
+c) Phần C dành cho Ngân hàng thương mại là đại lý hoàn thuế lập, phần này gồm các nội dung:
+c.1) Số hiệu, ngày tháng chuyến bay/chuyến tàu của người nước ngoài xuất cảnh;
+c.2) Số tiền thuế hoàn cho người nước ngoài xuất cảnh;
+c.3) Hình thức thanh toán: ghi rõ số tiền thanh toán theo từng hình thức thanh toán: bằng tiền mặt hoặc thẻ quốc tế (ghi rõ tên thẻ, số thẻ);
+c.4) Thời điểm thanh toán: ghi rõ ngày, tháng, năm.
+2. Chữ viết hiển thị trên hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế là tiếng Việt và tiếng Anh được đặt bên phải trong ngoặc đơn () hoặc ngay dưới dòng tiếng Việt và có cỡ chữ bằng hoặc nhỏ hơn chữ tiếng Việt.
+3. Các nội dung khoản 1 Điều này thực hiện theo quy định tại Điều 10, Điều 12 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 7, khoản 9 Điều 1 Nghị định số 70/2025/NĐ-CP). Riêng nội dung về ký hiệu hóa đơn, ký hiệu mẫu số hóa đơn thực hiện theo hướng dẫn tại Điều 5 Thông tư này.
+4. Mẫu hiển thị hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế được ban hành kèm theo Thông tư này.
+
+Thông tư 32/2025/TT-BTC. Điều 8. Chuyển đổi áp dụng hóa đơn điện tử
+1. Người nộp thuế đang sử dụng hóa đơn điện tử không có mã nếu có nhu cầu chuyển đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế thì thực hiện thay đổi thông tin sử dụng hóa đơn điện tử theo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 11 Điều 1 Nghị định số 70/2025/NĐ-CP).
+2. Người nộp thuế thuộc đối tượng sử dụng hóa đơn điện tử không có mã theo quy định tại khoản 2 Điều 91 Luật Quản lý thuế nếu thuộc trường hợp được xác định rủi ro cao về thuế theo quy định tại Thông tư số 31/2021/TT-BTC ngày 17 tháng 5 năm 2021 của Bộ Tài chính quy định về áp dụng rủi ro trong quản lý thuế và được cơ quan thuế thông báo ( [Mẫu số 01/TB-KTT Phụ lục IB](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//01-TB-KTT-Pl1b-70-2025-nd-cp.doc) ban hành kèm theo Nghị định số 70/2025/NĐ-CP) về việc chuyển đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế thì phải chuyển đổi sang áp dụng hóa đơn điện tử có mã của cơ quan thuế. Trong thời gian mười (10) ngày làm việc kể từ ngày cơ quan thuế thông báo, người nộp thuế phải thay đổi thông tin sử dụng hóa đơn điện tử (chuyển từ sử dụng hóa đơn điện tử không có mã sang hóa đơn điện tử cỏ mã của cơ quan thuế) theo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 11 Điều 1 Nghị định số 70/2025/NĐ-CP).
+Sau 12 tháng kể từ thời điểm chuyển sang sử dụng hóa đơn điện tử có mã của cơ quan thuế, nếu người nộp thuế có nhu cầu sử dụng hóa đơn điện tử không có mã thì người nộp thuế thay đổi thông tin sử dụng hóa đơn điện tử theo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 11 Điều 1 Nghị định số 70/2025/NĐ-CP), cơ quan thuế căn cứ quy định tại khoản 2 Điều 91 Luật Quản lý thuế và quy định tại Thông tư số 31/2021/TT-BTC của Bộ Tài chính để xem xét, chấp nhận hoặc không chấp nhận.
+
+Thông tư 32/2025/TT-BTC. Điều 9. Tiêu chí xác định người nộp thuế rủi ro về thuế cao trong đăng ký sử dụng hóa đơn điện tử
+1. Tiêu chí xác định người nộp thuế rủi ro về thuế cao trong đăng ký sử dụng hóa đơn điện tử Trường hợp kết quả đối chiếu thông tin khớp đúng, người nộp thuế xác nhận trên Cổng thông tin điện tử của Cục Thuế đúng thời hạn nhưng người nộp thuế có một trong những dấu hiệu sau thì thực hiện theo quy định tại điểm b khoản 11 Điều 1 Nghị định số 70/2025/NĐ-CP như sau:
+a) Tiêu chí 1: Người nộp thuế có chủ sở hữu hoặc người đại diện theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân đồng thời là chủ sở hữu hoặc người đại diện theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân có kết luận của cơ quan quản lý nhà nước có thẩm quyền có hành vi gian lận, mua bán hóa đơn trên cơ sở dữ liệu của cơ quan thuế.
+b) Tiêu chí 2: Người nộp thuế có chủ sở hữu hoặc người đại diện theo pháp luật, đại diện hộ kinh doanh, cá nhân kinh doanh hoặc chủ doanh nghiệp tư nhân thuộc danh sách có giao dịch đáng ngờ theo quy định của Luật Phòng, chống rửa tiền.
+c) Tiêu chí 3: Người nộp thuế đăng ký địa chỉ trụ sở chính không có địa chỉ cụ thể theo địa giới hành chính hoặc đặt tại chung cư (không bao gồm chung cư được phép sử dụng cho mục đích kinh doanh theo quy định của pháp luật); hoặc địa điểm kinh doanh ngoài phạm vi cấp tỉnh/thành phố nơi doanh nghiệp đặt trụ sở chính/chi nhánh.
+d) Tiêu chí 4: Người nộp thuế có người đại diện theo pháp luật hoặc chủ sở hữu đồng thời là người đại diện theo pháp luật hoặc chủ sở hữu của người nộp thuế ở trạng thái “Người nộp thuế ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt mã số thuế” hoặc ở trạng thái “Người nộp thuế không hoạt động tại địa chỉ đã đăng ký”, người nộp thuế có hành vi vi phạm về thuế, hóa đơn, chứng từ theo hướng dẫn của Bộ trưởng Bộ Tài chính.
+đ) Tiêu chí 5: Người nộp thuế có dấu hiệu rủi ro khác do cơ quan thuế xác định và có thông báo cho người nộp thuế được biết và giải trình.
+2. Tiêu chí xác định người nộp thuế thuộc diện rủi ro rất cao theo mức độ rủi ro người nộp thuế Để đáp ứng yêu cầu quản lý thuế trong từng thời kỳ, giao Cục Thuế quy định chỉ số tiêu chí nhằm đánh giá, xác định người nộp thuế thuộc diện rủi ro rất cao trên cơ sở đánh giá người nộp thuế trong công tác quản lý thuế.
+
+Thông tư 32/2025/TT-BTC. Điều 10. Sử dụng chứng từ Chi cục Thuế khởi tạo biên lai thuế điện từ  [Mẫu CTT50 Phụ lục III](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//CTT50-Pl3.doc) ban hành kèm theo Thông tư này để sử dụng thu thuế sử dụng đất nông nghiệp, thuế sử dụng đất phi nông nghiệp đối với hộ gia đình, cá nhân.
+
+Thông tư 32/2025/TT-BTC. Điều 11. Tiêu chí đối với tổ chức cung cấp giải pháp hóa đơn điện tử và dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn và các dịch vụ khác có liên quan
+1. Tiêu chí đối với tổ chức cung cấp giải pháp hóa đơn điện tử cho người bán và người mua
+a) Về chủ thể:
+a.1) Là tổ chức hoạt động trong lĩnh vực công nghệ thông tin được thành lập theo pháp luật Việt Nam;
+a.2) Thông tin về dịch vụ hóa đơn điện tử được công khai trên trang thông tin điện tử của tổ chức;
+b) Về nhân sự: Có tối thiểu 5 nhân sự trình độ đại học chuyên ngành về công nghệ thông tin;
+c) Về kỹ thuật: Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, hệ thống phần mềm đáp ứng yêu cầu:
+c.1) Cung cấp giải pháp khởi tạo, xử lý, lưu trữ dữ liệu hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền và hóa đơn điện tử không có mã cho người bán và người mua theo quy định của pháp luật về hóa đơn, chứng từ và pháp luật khác có liên quan;
+c.2) Có giải pháp nhận, truyền dữ liệu hóa đơn điện tử với người sử dụng dịch vụ; giải pháp truyền, nhận dữ liệu hóa đơn điện tử với cơ quan thuế thông qua tổ chức nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử. Thông tin quá trình nhận, truyền dữ liệu phải được ghi nhật ký để phục vụ công tác đối soát;
+c.3) Có giải pháp sao lưu, khôi phục, bảo mật dữ liệu hóa đơn điện tử;
+c.4) Có tài liệu kết quả kiểm thử kỹ thuật thành công về giải pháp truyền nhận dữ liệu hóa đơn điện tử với tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử.
+2. Tiêu chí đối với tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử
+a) Về chủ thể:
+a.1) Là tổ chức được thành lập theo pháp luật Việt Nam, có tối thiểu 05 năm hoạt động trong lĩnh vực công nghệ thông tin;
+a.2) Thông tin về dịch vụ hóa đơn điện tử được công khai trên trang thông tin điện tử của tổ chức;
+b) Về tài chính: Có ký quỹ tại một ngân hàng hoạt động hợp pháp tại Việt Nam hoặc có giấy bảo lãnh của một ngân hàng hoạt động hợp pháp tại Việt Nam với giá trị không dưới 5 tỷ đồng để giải quyết các rủi ro và bồi thường thiệt hại có thể xảy ra trong quá trình cung cấp dịch vụ;
+c) Về nhân sự: Có tối thiểu 20 nhân sự trình độ đại học chuyên ngành về công nghệ thông tin;
+d) Về kỹ thuật: Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, hệ thống phần mềm đáp ứng yêu cầu:
+d.1) Cung cấp giải pháp khởi tạo, xử lý, lưu trữ dữ liệu hóa đơn điện tử có mã của cơ quan thuế theo quy định của pháp luật về hóa đơn điện tử và pháp luật khác có liên quan;
+d.2) Có giải pháp kết nối, nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử với tổ chức cung cấp dịch vụ hóa đơn điện tử có mã của cơ quan thuế và không có mã cho người bán và người mua; giải pháp kết nối nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử với cơ quan thuế. Thông tin quá trình nhận, truyền dữ liệu phải được ghi nhật ký để phục vụ công tác đối soát;
+d.3) Hệ thống hạ tầng kỹ thuật cung cấp dịch vụ hóa đơn điện tử dược vận hành trên môi trường trung tâm dữ liệu chính và trung tâm dữ liệu dự phòng. Trung tâm dự phòng cách xa trung tâm dữ liệu chính tối thiểu 20km và sẵn sàng hoạt động khí hệ thống chính gặp sự cố;
+d.4) Hệ thống có khả năng phát hiện, cảnh báo, ngăn chặn các truy cập không hợp pháp, các hình thức tấn công trên môi trường mạng để bảo đảm tính bảo mật, toàn vẹn của dữ liệu trao đổi giữa các bên tham gia;
+d.5) Có hệ thống sao lưu, khôi phục dữ liệu;
+d.6) Kết nối với Cục Thuế thông qua kênh thuê riêng hoặc kênh MPLS VPN Layer 3 hoặc tương đương, gồm 1 kênh truyền chính và 2 kênh truyền dự phòng. Mỗi kênh truyền có băng thông tối thiểu 20 Mbps; sử dụng dịch vụ Web (Web Service) hoặc hàng đợi (Queue) có mã hóa làm phương thức để kết nối; sử dụng giao thức SOAP/TCP để đóng gói và truyền nhận dữ liệu.
+3. Cục Thuế đăng tải thông tin của tổ chức cung cấp giải pháp hóa đơn điện tử và tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn với cơ quan thuế.
+a) Đăng tải công khai thông tin của tổ chức cung cấp giải pháp hóa đơn điện tử lên Cổng thông tin điện tử của Cục Thuế:
+Tổ chức cung cấp giải pháp hóa đơn điện tử gửi hồ sơ chứng minh đáp ứng các tiêu chí tại khoản 1 Điều này, tài liệu mô tả dịch vụ và cam kết thực hiện đến Cục Thuế. Trong vòng 10 ngày kể từ ngày nhận được hồ sơ, Cục Thuế đáng công khai tài liệu mô tả dịch vụ và cam kết của tổ chức lên Cổng thông tin điện tử của Cục Thuế. Các tổ chức phải chịu trách nhiệm về hồ sơ văn bản cung cấp. Trong quá trình hoạt động, trường hợp phát hiện tổ chức cung cấp dịch vụ không đúng quy định, Cục Thuế thông báo và hủy thông tin công khai của tổ chức trên Cổng thông tin điện tử của Cục Thuế.
+b) Đăng tải thông tin của tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn với cơ quan thuế:
+Tổ chức phải đáp ứng các tiêu chí quy định tại khoản 2 Điều này đến Cục Thuế và thực hiện kết nối để chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế theo quy định tại khoản 2 Điều 15 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại điểm c khoản 11 và điểm b khoản 14 Điều 1 Nghị định số 70/2025/NĐ-CP). Cục Thuế đăng công khai danh sách các tổ chức đáp ứng đầy đủ các quy định nêu trên tại Cổng thông tin điện tử của Cục Thuế.
+
+Thông tư 32/2025/TT-BTC. Điều 12. Điều khoản thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2025 và thay thế Thông tư số 78/2021/TT-BTC ngày 17 tháng 9 năm 2021 hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ.
+2. Kể từ thời điểm Nghị định số 70/2025/NĐ-CP có hiệu lực thi hành, tổ chức khấu trừ thuế thu nhập cá nhân phải ngừng sử dụng chứng từ khấu trừ thuế thu nhập cá nhân điện tử đã thực hiện theo các quy định trước đây và chuyển sang áp dụng chứng từ khấu trừ thuế thu nhập cá nhân điện tử theo quy định tại Nghị định số 70/2025/NĐ-CP.
+Trường hợp tổ chức, cá nhân sử dụng chứng từ khấu trừ thuế thu nhập cá nhân điện tử theo quy định tại Nghị định số 70/2025/NĐ-CP, nếu phát hiện chứng từ khấu trừ thuế thu nhập cá nhân đã lập theo các quy định trước đây bị sai thì lập chứng từ khấu trừ thuế thu nhập cá nhân điện tử mới thay thế cho chứng từ khấu trừ thuế thu nhập cá nhân đã lập sai.
+3. Trường hợp tổ chức cung cấp dịch vụ về hóa đơn điện tử đã ký hợp đồng cung cấp nhận, truyền, lưu trữ dữ liệu hóa đơn với Tổng cục Thuế (từ 01 tháng 3 năm 2025 là Cục Thuế) trước ngày Thông tư này có hiệu lực thi hành thì tiếp tục thực hiện theo hợp đồng đã ký.
+4. Hộ kinh doanh, cá nhân kinh doanh có hoạt động bán hàng hóa, cung cấp dịch vụ trực tiếp đến người tiêu dùng thuộc đối tượng quy định tại khoản 8 Điều 1 Nghị định số 70/2025/NĐ-CP sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền từ thời điểm cơ quan thuế chấp nhận đăng ký sử dụng, bao gồm cả trường hợp đã đăng ký sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền với cơ quan thuế trước ngày 01 tháng 6 năm 2025.
+5. Trường hợp doanh nghiệp có hoạt động bán hàng hóa, cung cấp dịch vụ trực tiếp đến người tiêu dùng thuộc đối tượng quy định tại khoản 8 Điều 1 Nghị định số 70/2025/NĐ-CP đã đăng ký sử dụng hóa đơn điện tử với cơ quan thuế nhưng chưa đảm bảo là hóa đơn điện tử có mã của cơ quan thuế hoặc dữ liệu điện tử (bao gồm các thông tin tên, địa chỉ, mã số thuế người bán; tên, địa chỉ, mã số thuế/số định danh cá nhân/số điện thoại của người mua (nếu người mua yêu cầu); tên hàng hóa, dịch vụ, đơn giá, số lượng, giá thanh toán (giá bán chưa thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tiền thuế giá trị gia tăng, tổng tiền thanh toán có thuế giá trị gia tăng đối với trường hợp tổ chức, doanh nghiệp nộp thuế theo phương pháp khấu trừ); thời điểm lập hóa đơn và theo định dạng chuẩn dữ liệu của cơ quan thuế theo quy định tại Điều 12 Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại khoản 9 Điều 1 Nghị định số 70/2025/NĐ-CP)) thì đăng ký sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền theo quy định.
+6. Kể từ thời điểm doanh nghiệp, tổ chức, hộ, cá nhân kinh doanh sử dụng hóa đơn điện tử theo quy định tại Nghị định số 123/2020/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 70/2025/NĐ-CP) và quy định tại Thông tư này, nếu phát hiện hóa đơn đã lập theo quy định tại Nghị định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010, Nghị định số 04/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ và các văn bản hướng dẫn của Bộ Tài chính mà hóa đơn đã lập sai thì người bán và người mua phải lập văn bản thỏa thuận ghi rõ nội dung sai và lập hóa đơn điện tử mới (hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử không có mã) thay thế cho hóa đơn đã lập sai. Hóa đơn điện tử thay thế hóa đơn đã lập sai phải có dòng chữ “Thay thế cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng...
+năm”. Người bán ký số trên hóa đơn điện tử mới thay thế hóa đơn đã lập sai (hóa đơn lập theo Nghị định số 51/2010/NĐ-CP, Nghị định số 04/2014/NĐ-CP của Chính phủ và các văn bản hướng dẫn của Bộ Tài chính) để gửi cho người mua (đối với trường hợp sử dụng hóa đơn điện tử không có mã) hoặc người bán gửi cơ quan thuế để được cấp mã cho hóa đơn điện tử thay thế hóa đơn đã lập (đối với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế).
+7. Thông tư này gồm 04 Phụ lục:  [Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%201.doc) áp dụng đối với hóa đơn, biên lai đặt in, tự in (Đối với  [Phụ lục I.A](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%201a.doc) - Mã hóa đơn, biên lai của Chi cục Thuế phát hành: Trường hợp có thay đổi do sắp xếp lại địa giới hành chính cấp tỉnh dẫn đến thay đổi tên gọi, số lượng Chi cục Thuế thì Bộ Tài chính có văn bản thông báo về mã hóa đơn, biên lai do cơ quan thuế phát hành);  [Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%202.doc) hướng dẫn mẫu ký hiệu trên chứng từ khấu trừ thuế thu nhập cá nhân điện tử và mẫu ký hiệu biên lai điện tử;  [Phụ lục III](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%203.doc) hướng dẫn mẫu hiển thị một số loại hóa đơn/ biên lai để các tổ chức, doanh nghiệp tham khảo trong quá trình thực hiện;  [Phụ lục IV](https://files.thuvienphapluat.vn/uploads/DocForms/6/5/9/1/659105//PH%E1%BB%A4%20L%E1%BB%A4C%204.doc) hướng dẫn của cơ quan thuế về thông báo về việc tiếp tục sử dụng hóa đơn điện tử và thông báo về việc sử dụng hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh.
+8. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
+Nơi nhận:
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Tổng Bí thư;
+- Viện Kiểm sát nhân dân tối cao;
+- Toà án nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Cơ quan Trung ương của các đoàn thể;
+- Hội đồng nhân dân, Ủy ban nhân dân, Sở Tài chính các tỉnh, thành phố, các Chi cục Thuế, Hải quan, Kho bạc nhà nước khu vực;
+- Công báo;
+- Cục Kiểm tra văn bản và quản lý xử lý vi phạm hành chính (Bộ Tư pháp);
+- Cổng thông tin điện tử Chính phủ;
+- Cổng thông tin điện tử Bộ Tài chính, Cục Thuế;
+- Các đơn vị thuộc Bộ Tài chính;
+- Lưu: VT, CT (VT, CS).
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Cao Anh Tuấn 
+

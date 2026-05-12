@@ -1,0 +1,145 @@
+Chỉ thị số 20/CT-BVNTW ngày 05/05/2023 về việc thực hiện quy trình khám chữa bệnh BHYT tại Bệnh viện Nhi Trung ương.
+Phiên bản: 2  
+Ngày hiệu lực: 27/10/2025
+| | Họ tên             | Chức vụ                            | Chữ ký |
+|---|--------------------|------------------------------------|--------|
+| Soạn thảo | Trần Mai Phương    | Chuyên viên phòng Kế hoạch tổng hợp | ![Chữ ký] |
+| Xem xét   | Đặng Văn Thức      | Phó trưởng phòng Kế hoạch tổng hợp | ![Chữ ký] |
+|           | Phạm Hồng Sơn      | Trưởng phòng Kế hoạch tổng hợp     | ![Chữ ký] |
+| Phê duyệt | Phan Hữu Phúc      | Phó giám đốc Bệnh viện             | ![Chữ ký] |
+## Lịch sử thay đổi tài liệu:
+| Phiên bản | Ngày hiệu lực | Sửa đổi                                                                 |
+|-----------|---------------|-------------------------------------------------------------------------|
+| 1         | 05/05/2023    | Bản mới                                                                 |
+| 2         | 27/10/2025    | - Bản cập nhật định dạng<br>- Sửa các phần gạch chân in đậm<br>- Sửa đổi danh mục Tài liệu tham khảo<br>- Sửa Phụ lục 02: Mẫu phiếu chuyển cơ sở khám bệnh, chữa bệnh bảo hiểm y tế<br>- Sửa Phụ lục 03: Mẫu phiếu hẹn khám lại<br>- Bỏ Phụ lục 04 |
+## Phân phối:
+Trong toàn Bệnh viện Nhi Trung ương
+1. MỤC ĐÍCH
+Hướng dẫn thực hiện đúng quy trình khám, chữa bệnh Bảo hiểm y tế tại Bệnh viện Nhi Trung ương nhằm đảm bảo thực hiện đúng chính sách khám, chữa bệnh bảo hiểm y tế cho trẻ em tại Bệnh viện, hướng tới sự hài lòng của người bệnh.
+2. PHẠM VI ÁP DỤNG
+Áp dụng tại Bệnh viện Nhi Trung ương.
+3. TRÁCH NHIỆM
+Tất cả viên chức và người lao động tham gia vào hoạt động giải quyết chế độ bảo hiểm, chữa bệnh BHYT tại Bệnh viện Nhi Trung ương.
+4. NHỮNG NGƯỜI QUẢN LÝ, GIÁM SÁT TUÂN THỦ QUY TRÌNH
+- Lãnh đạo phòng Kế hoạch tổng hợp, phòng Công nghệ thông tin, phòng Tài chính - Kế toán
+- Lãnh đạo các khoa lâm sàng tham gia công tác khám chữa bệnh BHYT
+- Lãnh đạo các khoa lâm sàng
+5. KHÁI NIỆM/ĐỊNH NGHĨA/THUẬT NGỮ/VÍẾT TẮT
+5.1. Viết tắt
+- BHYT: Bảo hiểm y tế
+- BHXH: Bảo hiểm xã hội
+- KCB: Khám chữa bệnh
+- CCCD: Căn cước công dân
+- VssID: Ứng dụng trên nền tảng thiết bị di động của Bảo hiểm xã hội Việt Nam
+- VNeID: Ứng dụng trên thiết bị di động do Trung tâm dữ liệu quốc gia về dân cư thuộc Bộ Công An Việt Nam triển khai trên tầng cơ sở dữ liệu về dân cư, định danh và xác thực điện tử.
+- XN: Xét nghiệm
+- NB: Người bệnh
+- KHTH: Kế hoạch tổng hợp
+- CNTT: Công nghệ thông tin
+- TCKT: Tài chính - Kế toán
+5.2. Vị trí và thời gian thực hiện quy trình**
+a. Thời gian thực hiện:
+- Trong giờ hành chính:
+  + Sáng: 6h00 đến 12h00
+  + Chiều: 13h30 đến 16h30
+- Ngoài giờ hành chính:
+  + Từ 16h30 đến 6h sáng hôm sau
+  + Từ 12h00 đến 13h30
+  + Các ngày nghỉ, lễ, Tết.
+b. Vị trí khu vực giám định đối tượng khám chữa bệnh BHYT
+- Trong giờ hành chính từ thứ 2 đến thứ 6 hàng tuần:
+  + Bàn C2, C3 sảnh C nhà 15 tầng
+  + Ô số 9 quầy 1B khoa Khám bệnh Đa khoa
+- Ngoài giờ hành chính và các ngày Thứ 7, Chủ nhật, nghỉ Lễ, Tết: Bàn D2 hoặc D3 sảnh D nhà 15 tầng.
+6. CÁC BƯỚC THỰC HIỆN CỦA QUY TRÌNH
+6.1. Trường hợp NB khám bệnh BHYT thông thường
+| Bước/Lưu đồ | Mô tả | Trách nhiệm |
+|---|---|---|
+| Sàng lọc NB | NB tới làm thủ tục KB tại bàn sàng lọc:<br>- Cân, đo các chỉ số<br>- Lấy số thứ tự | Điều dưỡng |
+| Hướng dẫn NB xuất trình giấy tờ | Hướng dẫn NB xuất trình các giấy tờ:<br>+ Thẻ BHYT (thẻ BHYT giấy/ thẻ qua ứng dụng VssID/ thẻ qua ứng dụng VNeID) CCCD có gắn chip/ giấy khai sinh (với trẻ em dưới 72 tháng tuổi)/ giấy chứng sinh (với trẻ dưới 60 ngày tuổi).<br>+ Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT hợp lệ (theo mẫu tại Phụ lục 02)<br>+ Phiếu hẹn khám lại hợp lệ (theo mẫu tại Phụ lục 03)<br>+ Sổ tư vấn và theo dõi sức khỏe trẻ em | Nhân viên phòng KHTH |
+| Giám định đối tượng KCB BHYT | - Tra cứu thông tin thẻ BHYT trên Cổng tiếp nhận dữ liệu hệ thống thông tin Giám định BHYT<br>- Trường hợp giấy khai sinh (trẻ dưới 72 tháng tuổi) hoặc giấy chứng sinh tra cứu mã thẻ trên hệ thống giám định BHYT và tạo mã thẻ BHYT tạm (nếu NB chưa được tạo mã thẻ).<br>- Scan Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT bản gốc (nếu có), lưu lại, in 1 bản ghim vào Sổ tư vấn và theo dõi sức khỏe trẻ em.<br>- Ký tên, đóng dấu, đánh số thứ tự vào Sổ tư vấn và theo dõi sức khỏe trẻ em, Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT / Phiếu hẹn khám lại (theo Phụ lục 04)<br>- Giữ lại Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT (bản gốc)/ Phiếu hẹn khám lại theo thứ tự. | Nhân viên phòng KHTH |
+| Tạm ứng và nhận phiếu khám | - Nhập thông tin NB.<br>- Thu tiền tạm ứng khám bệnh<br>- Hướng dẫn NB đi khám theo số thứ tự và phòng khám trên phiếu | Nhân viên phòng CNTT, TCKT |
+6.2. Trường hợp NB khám bệnh cấp cứu**
+| Bước/Lưu đồ | Mô tả | Trách nhiệm |
+|---|---|---|
+| Sàng lọc NB | NB tới bàn sàng lọc lấy Sổ tư vấn và theo dõi sức khỏe trẻ em, lấy số thứ tự ưu tiên | Điều dưỡng |
+| Hướng dẫn NB xuất trình giấy tờ | - Hướng dẫn NB xuất trình các giấy tờ:<br>+ Thẻ BHYT/ thẻ qua ứng dụng VssID/ thẻ qua ứng dụng VNeID/ CCCD có gắn chip/ giấy khai sinh/ giấy chứng sinh<br>+ Phiếu đăng ký làm thủ tục nhập viện (Phụ lục 4)<br>+ Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT (nếu có)<br>+ Phiếu hẹn khám lại hợp lệ (nếu có)<br>+ Sổ tư vấn và theo dõi sức khỏe trẻ em | Nhân viên phòng KHTH |
+| Giám định đối tượng KCB BHYT | - Tương tự bước: Giám định đối tượng KCB BHYT - mục 6.1 trong quy trình này.<br>- Giữ lại phiếu đăng ký làm thủ tục nhập viện, Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT / Phiếu hẹn khám lại (nếu có) | Nhân viên phòng KHTH |
+| Tạm ứng và nhận phiếu khám | - Nhập thông tin NB.<br>- Thu tiền tạm ứng khám bệnh<br>- Hướng dẫn NB quay trở lại nơi tiếp nhận ban đầu | Nhân viên phòng CNTT, TCKT |
+6.3. Trường hợp NB khám bệnh ngoài giờ hành chính**
+| Bước/Lưu đồ | Mô tả | Trách nhiệm |
+|---|---|---|
+| Sàng lọc NB | NB tới làm thủ tục KB tại bàn sàng lọc:<br>- Cân, đo các chỉ số | Điều dưỡng |
+| Hướng dẫn NB xuất trình giấy tờ | - Hướng dẫn NB xuất trình các giấy tờ:<br>Tương tự bước: Hướng dẫn NB xuất trình giấy tờ tại mục 6.1 trong quy trình này | Nhân viên phòng CNTT/TCKT |
+| Nhập dữ liệu/ đánh phiếu khám | - Tra cứu thông tin thẻ BHYT trên Cổng tiếp nhận dữ liệu hệ thống thông tin Giám định BHYT<br>- Thực hiện nhập dữ liệu, đánh phiếu khám BHYT cho NB | Nhân viên phòng CNTT |
+| Thu tiền tạm ứng KB | - Thu tiền tạm ứng KB BHYT<br>- Hướng dẫn NB khám bệnh như bình thường và lưu ý NB hoàn thành thủ tục giám định BHYT vào ngày hôm sau | Nhân viên phòng TCKT |
+| Giám định đối tượng KCB BHYT | - Tương tự bước: Giám định đối tượng KCB BHYT - tại mục 6.1 trong quy trình này.<br>Lưu ý: Đóng dấu giám định BHYT và lưu giấy tờ theo ngày NB đăng ký khám. | Nhân viên phòng KHTH |
+6.4. Trường hợp NB nhập viện điều trị nội trú: (bao gồm các trường hợp NB nhập viện sau khi khám bệnh tự nguyện, khám bệnh BHYT, khám cấp cứu)
+| Bước/Lưu đồ | Mô tả | Trách nhiệm |
+|---|---|---|
+| Hướng dẫn NB xuất trình giấy tờ | - Hướng dẫn NB xuất trình các giấy tờ:<br>+ Thẻ BHYT/ thẻ qua ứng dụng VssID/ thẻ qua ứng dụng VNeID/ CCCD có gắn chip/ giấy khai sinh (với trẻ em dưới 72 tháng tuổi)/ giấy chứng sinh<br>+ Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT (nếu có)<br>+ Phiếu hẹn khám lại hợp lệ (nếu có)<br>+ Sổ tư vấn và theo dõi sức khỏe trẻ em (nếu có) | Nhân viên phòng KHTH |
+| Giám định đối tượng KCB BHYT | - Tra cứu thông tin thẻ BHYT trên Cổng tiếp nhận dữ liệu hệ thống thông tin Giám định BHYT<br>- Trường hợp giấy khai sinh (trẻ dưới 72 tháng tuổi)/ giấy chứng sinh tra cứu mã thẻ trên Cổng tiếp nhận dữ liệu hệ thống thông tin Giám định BHYT và tạo mã thẻ BHYT tạm (nếu NB chưa được tạo mã thẻ).<br>* Giám định BHYT trái tuyến: ký tên và đóng dấu vào giấy vào viện, Sổ tư vấn và theo dõi sức khỏe trẻ em (nếu có).<br>* Giám định BHYT đúng tuyến:<br>+ Ký tên và đóng dấu vào giấy vào viện, Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT, Sổ tư vấn và theo dõi sức khỏe trẻ em.<br>+ Trả NB Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT/ Phiếu hẹn khám lại (bản gốc) đã lưu theo thứ tự khi NB đăng ký khám bệnh. | Nhân viên phòng KHTH |
+| Cập nhật đối tượng BHYT trên hệ thống | - Chuyển hồ sơ sang bộ phận CNTT để cập nhật đối tượng cho NB trên hệ thống<br>- Hướng dẫn NB các bước nhập viện tiếp theo | Nhân viên phòng CNTT |
+7. BIỂU MẪU, HƯỚNG DẪN CÔNG VIỆC
+| STT | Tên tài liệu | Mã tài liệu |
+|---|---|---|
+| 1 | Phiếu đăng ký làm thủ tục nhập viện | BM1/QTQL.KH.5.2 |
+8. HỒ SƠ
+| TT | Tên hồ sơ | Nơi lưu | Thời gian lưu | PP lưu | PP hủy |
+|---|---|---|---|---|---|
+| 1 | Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT, Phiếu hẹn khám lại BHYT của NB | Phòng KHTH | 20 năm | Theo quy định | Cắt, xén |
+TÀI LIỆU THAM KHẢO
+1. Luật khám bệnh, chữa bệnh số 15/2023/QH15 ngày 09 tháng 01 năm 2023 của Quốc hội.
+2. Luật sửa đổi, bổ sung một số điều của Luật bảo hiểm y tế số 51/2024/QH15 ngày 27 tháng 11 năm 2024 của Quốc hội.
+3. Thông tư 01/2025/TT-BYT ngày 01 tháng 01 năm 2025 do Bộ Y tế quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm y tế.
+4. Nghị định 188/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật Bảo hiểm y tế.
+5. Quyết định 130/QĐ-BYT ngày 18 tháng 01 năm 2023 về việc quy định chuẩn và định dạng dữ liệu đầu ra phục vụ quản lý, giám định, thanh toán chi phí khám bệnh, chữa bệnh và giải quyết chế độ liên quan.
+PHỤ LỤC 01: QUY TRÌNH KHÁM, CHỮA BỆNH BHYT
+QUY TRÌNH KHÁM, CHỮA BỆNH CÓ BẢO HIỂM Y TẾ (KHOA KHÁM BỆNH CHUYÊN KHOA)
+graph TD
+    A["01. Lấy số thứ tự, số khám bệnh, phân loại người bệnh<br/><i>Bàn tiếp đón – Sảnh C</i>"]
+    B["02. Đăng ký khám, chữa bệnh BHYT<br/><i> Ô C2, C3 – Sảnh C<br/> Ô D3 – Sảnh D (12h–13h30; 16h30–6h)</i>"]
+    C["03. Đóng tạm ứng<br/><i> Ô C4 – Sảnh C</i>"]
+    D["04. Khám tại phòng khám<br/><i>Có chỉ định CLS?</i>"]
+    E["06. Phòng khám ban đầu"]
+    F["04A. Đóng tạm ứng bổ sung<br/><i> Ô C4 – Sảnh C</i>"]
+    G["05. Thực hiện chỉ định cận lâm sàng<br/><i>Xét nghiệm – D125<br/>Chẩn đoán hình ảnh</i>"]
+    H["06A. Đơn thuốc"]
+    I["06B. Nhập viện"]
+    J["06C. Chuyển tuyến"]
+    K["07. Thanh toán (tất toán)<br/><i> Ô C5 – Sảnh C</i>"]
+    L["08. Quầy thuốc BHYT<br/><i>Cổng 2 BV</i>"]
+    A --> B --> C --> D
+    D -- "Không có chỉ định CLS" --> H
+    D -- "Có chỉ định CLS<br/>Chi phí không vượt tiền tạm ứng" --> G
+    D -- "Có chỉ định CLS<br/>Chi phí vượt tiền tạm ứng" --> F
+    F --> G
+    G --> E
+    E --> H --> K --> L
+    E --> I
+    E --> J
+QUY TRÌNH KHÁM, CHỮA BỆNH CÓ BẢO HIỂM Y TẾ (KHOA KHÁM BỆNH ĐA KHOA)
+graph TD
+    A["01. Lấy số thứ tự, số khám bệnh<br/><i>Quầy tiếp đón</i>"]
+    B["02. Đăng ký khám, chữa bệnh BHYT<br/><i>Quầy 1B</i>"]
+    C["03. Đóng tạm ứng<br/><i>Quầy 1B</i>"]
+    D["04. Khám tại phòng khám<br/><i>Có chỉ định CLS?</i>"]
+    E["06. Phòng khám ban đầu"]
+    F["04A. Đóng tạm ứng bổ sung<br/><i>Quầy 1B</i>"]
+    G["05. Thực hiện chỉ định cận lâm sàng"]
+    H["06A. Đơn thuốc"]
+    I["06B. Nhập viện"]
+    J["06C. Chuyển tuyến"]
+    K["07. Thanh toán (tất toán)<br/><i>Quầy 1B</i>"]
+    L["08. Quầy thuốc BHYT<br/><i>Cổng 2</i>"]
+    A --> B --> C --> D
+    D -- "Không có chỉ định CLS" --> H
+    D -- "Có chỉ định CLS<br/>Chi phí không vượt tiền tạm ứng" --> G
+    D -- "Có chỉ định CLS<br/>Chi phí vượt tiền tạm ứng" --> F
+    F --> G
+    G --> E
+    E --> H --> K --> L
+    E --> I
+    E --> J
+PHỤ LỤC 02. [MẪU PHIẾU CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH BẢO HIỂM Y TẾ](https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/2025/3/mau-phieu-chuyen-co-so-kham-chua-benh.docx)
+PHỤ LỤC 03. [MẪU PHIẾU HẸN KHÁM LẠI](https://files.thuvienphapluat.vn/uploads/hopdong/PHU%20LUC%20V-01-2025-TT-BYT.doc)

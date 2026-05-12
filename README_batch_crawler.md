@@ -73,7 +73,7 @@ python batch_crawler.py example_urls.txt --threads 8 --output-dir crawled_docs
 
 # Tùy chỉnh cookie file
 python batch_crawler.py example_urls.txt --cookies cookies.txt --output-dir legal_docs
-
+source .venv/bin/activate
 # Tùy chỉnh delay giữa các requests (2-5 giây)
 python batch_crawler.py example_urls.txt --delay 2 5 --output-dir temp_crawl
 

@@ -1,0 +1,15 @@
+{
+  "completed_urls": [
+    "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-37-2024-TT-BYT-tieu-chi-xay-dung-danh-muc-thuoc-hoa-duoc-duoc-huong-bao-hiem-y-te-631167.aspx"
+  ],
+  "timestamp": "2026-04-20T14:43:38.184689",
+  "stats": {
+    "total": 1,
+    "completed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "start_time": 1776670995.5716207,
+    "end_time": 1776671018.183007
+  },
+  "output_dir": "crawl/bo_sung\\"
+}

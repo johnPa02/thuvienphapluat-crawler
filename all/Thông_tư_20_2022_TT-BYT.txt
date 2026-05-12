@@ -1,0 +1,1639 @@
+Thông tư 20/2022/TT-BYT. BỘ Y TẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 20/2022/TT-BYT
+Hà Nội, ngày 31 tháng 12 năm 2022 THÔNG TƯ BAN HÀNH DANH MỤC VÀ TỶ LỆ, ĐIỀU KIỆN THANH TOÁN ĐỐI VỚI THUỐC HÓA DƯỢC, SINH PHẨM, THUỐC PHÓNG XẠ VÀ CHẤT ĐÁNH DẤU THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ
+Căn cứ Luật bảo hiểm y tế số 25/2008/QH12 ngày 14 tháng 11 năm 2008 đã được sửa đổi, bổ sung một số điều theo Luật số 46/2014/QH13 ngày 13 tháng 6 năm 2014;
+Căn cứ Nghị định số 146/2018/NĐ-CP ngày 17 tháng 10 năm 2018 của Chính phủ quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật bảo hiểm y tế;
+Căn cứ Nghị định số 95/2022/NĐ-CP ngày 15 tháng 11 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;
+Theo đề nghị của Vụ trưởng Vụ Bảo hiểm y tế, Bộ Y tế, Bộ trưởng Bộ Y tế ban hành Thông tư ban hành Danh mục và tỷ lệ, điều kiện thanh toán đối với thuốc hóa dược, sinh phẩm, thuốc phóng xạ và chất đánh dấu thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế.
+
+Thông tư 20/2022/TT-BYT. Điều 1. Danh mục ban hành kèm theo Thông tư
+1. Danh mục thuốc hóa dược và sinh phẩm thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế được quy định tại Phụ lục I ban hành kèm theo Thông tư này (sau đây gọi là Phụ lục I).
+2. Danh mục thuốc phóng xạ và chất đánh dấu thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế được quy định tại Phụ lục II ban hành kèm theo Thông tư này (sau đây gọi là Phụ lục II).
+
+Thông tư 20/2022/TT-BYT. Điều 2. Cấu trúc danh mục thuốc và phân hạng sử dụng
+1. Danh mục thuốc hóa dược và sinh phẩm tại Phụ lục I được sắp xếp vào các nhóm theo tác dụng điều trị được phân thành 08 (tám) cột, cụ thể như sau:
+a) Cột 1: Ghi số thứ tự của thuốc có trong Danh mục;
+b) Cột 2: Ghi tên thuốc. Tên thuốc được ghi theo tên hoạt chất theo tên chung quốc tế (International Non-proprietary Name, viết tắt là INN). Trường hợp không có tên chung quốc tế thì ghi theo tên hoạt chất được cấp phép lưu hành hoặc tên trong hướng dẫn chẩn đoán, điều trị của Bộ Y tế. Các thuốc được sắp xếp theo các nhóm lớn, theo mã giải phẫu, điều trị, hóa học (Anatomy, Treatment, Chemistry, viết tắt là ATC);
+c) Cột 3: Ghi đường dùng, dạng dùng (cách sử dụng) của thuốc; không ghi hàm lượng; không ghi cụ thể dạng bào chế, trừ một số dạng bào chế có sự khác biệt rõ ràng về hiệu lực, tác dụng điều trị. Đường dùng, dạng dùng (cách sử dụng) thuốc trong Danh mục thuốc hóa dược và sinh phẩm được hiểu và thống nhất như sau:
+- Uống bao gồm các thuốc uống, nhai, ngậm;
+- Tiêm bao gồm các thuốc tiêm bắp, tiêm dưới da, tiêm trong da, tiêm tĩnh mạch, tiêm truyền, truyền tĩnh mạch, tiêm vào ổ khớp, tiêm nội nhãn cầu, tiêm trong dịch kính của mắt, tiêm hoặc truyền vào các khoang của cơ thể;
+- Dùng ngoài bao gồm các thuốc bôi ngoài da, xoa ngoài da, dán ngoài da, xịt ngoài da, thuốc rửa, bôi vào niêm mạc;
+- Đặt bao gồm các thuốc đặt âm đạo, đặt hậu môn, thụt hậu môn, trực tràng, đặt dưới lưỡi;
+- Hô hấp bao gồm các thuốc phun mù, dạng hít (dung dịch, hỗn dịch, bột dùng để hít), khí dung;
+- Nhỏ mắt bao gồm các thuốc nhỏ mắt, tra mắt; nhỏ tai bao gồm các thuốc nhỏ tai; nhỏ mũi bao gồm thuốc nhỏ mũi, xịt mũi;
+- Đường dùng, dạng dùng khác được ghi cụ thể trong Danh mục đối với một số thuốc có đường dùng, dạng dùng đặc biệt;
+d) Cột 4, 5, 6, 7: Ghi hạng bệnh viện được sử dụng và thanh toán bảo hiểm y tế. Thuốc, hoạt chất trong Danh mục thuốc quy định tại [Điểm này được bổ sung bởi Khoản 4 Điều 13 Thông tư 01/2025/TT-BYT có hiệu lực từ ngày 01/01/2025] Phụ lục I được sử dụng và thanh toán bảo hiểm y tế tại các cơ sở khám bệnh, chữa bệnh theo hạng bệnh viện, cụ thể như sau: [Điểm này được bổ sung bởi Khoản 4 Điều 13 Thông tư 01/2025/TT-BYT có hiệu lực từ ngày 01/01/2025]
+- Bệnh viện hạng đặc biệt và hạng I sử dụng các thuốc quy định tại cột 4;
+- Bệnh viện hạng II sử dụng các thuốc quy định tại cột 5;
+- Bệnh viện hạng III và hạng IV, bao gồm cả phòng khám đa khoa thuộc bệnh viện đa khoa hoặc thuộc trung tâm y tế quận, huyện, thị xã, thành phố trực thuộc tỉnh thành phố trực thuộc trung ương, phòng khám đa khoa, phòng khám chuyên khoa, nhà hộ sinh tư nhân đã được cơ quan nhà nước có thẩm quyền phân tuyến chuyên môn kỹ thuật tương đương tuyến III [Cụm từ này được sửa đổi bởi Điểm a Khoản 3 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025] sử dụng các thuốc quy định tại cột 6;
+- Phòng khám đa khoa, phòng khám chuyên khoa, nhà hộ sinh tư nhân chưa được phân tuyến chuyên môn kỹ thuật [Cụm từ này được sửa đổi bởi Điểm b Khoản 3 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025];
+trạm y tế xã, phường, thị trấn, y tế cơ quan và tương đương (sau đây gọi chung là trạm y tế xã) sử dụng các thuốc quy định tại cột 7;
+đ) Cột 8: Ghi điều kiện, tỷ lệ thanh toán và ghi chú cụ thể của một số thuốc.
+2. Danh mục thuốc phóng xạ và chất đánh dấu trong Danh mục thuốc quy định tại Phụ lục II, bao gồm 05 (năm) cột:
+a) Cột 1: Ghi số thứ tự của thuốc trong danh mục;
+b) Cột 2: Ghi tên thuốc. Tên thuốc được ghi theo tên chung quốc tế theo danh pháp INN (International Non-proprietary Name).
+Trường hợp không có tên theo danh pháp INN thì ghi theo tên hoạt chất được cấp phép lưu hành;
+c) Cột 3: Ghi đường dùng của thuốc;
+d) Cột 4: Ghi dạng dùng của thuốc;
+đ) Cột 5: Ghi đơn vị sử dụng của thuốc.
+Thuốc phóng xạ và chất đánh dấu trong Danh mục thuốc quy định tại Phụ lục II không theo phân hạng bệnh viện và chỉ được sử dụng tại các cơ sở khám bệnh, chữa bệnh được cấp có thẩm quyền cho phép thực hiện việc chẩn đoán, điều trị bằng thuốc phóng xạ và chất đánh dấu.
+
+Thông tư 20/2022/TT-BYT. Điều 3. Nguyên tắc chung về thanh toán chi phí thuốc đối với người bệnh tham gia bảo hiểm y tế
+[Điều này hết hiệu lực bởi Khoản 4 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025]
+1. Quỹ bảo hiểm y tế thanh toán chi phí thuốc sử dụng cho người bệnh theo số lượng thực tế sử dụng, trừ trường hợp quy định tại khoản 5 Điều 5 Thông tư này; giá mua thực tế của cơ sở khám bệnh, chữa bệnh theo quy định của pháp luật về đấu thầu và phù hợp với phạm vi quyền lợi, mức hưởng theo quy định pháp luật về bảo hiểm y tế.
+2. Quỹ bảo hiểm y tế thanh toán trong trường hợp chỉ định thuốc phù hợp với chỉ định của một trong các tài liệu sau:
+a) Tờ hướng dẫn sử dụng thuốc kèm theo hồ sơ đăng ký thuốc đã được Bộ Y tế cấp phép;
+b) Tờ hướng dẫn sử dụng thuốc kèm theo hồ sơ đăng ký thuốc của thuốc biệt dược gốc, sinh phẩm tham chiếu đã được Bộ Y tế cấp phép;
+c) Hướng dẫn chẩn đoán và điều trị của Bộ Y tế;
+d) Dược thư Quốc gia Việt Nam phiên bản mới nhất.
+3. Quỹ bảo hiểm y tế không thanh toán đối với các trường hợp sau:
+a) Thuốc, lô thuốc đã có quyết định đình chỉ lưu hành hoặc thu hồi. Việc không thanh toán đối với thuốc, lô thuốc đã có quyết định đình chỉ lưu hành và thu hồi theo phạm vi áp dụng tại văn bản thông báo hoặc quyết định việc đình chỉ lưu hành hoặc thu hồi thuốc, lô thuốc đó của Bộ Y tế;
+b) Chi phí các thuốc đã được kết cấu vào giá của dịch vụ kỹ thuật, khám bệnh, ngày giường điều trị hoặc giá thu trọn gói theo ca bệnh theo quy định hiện hành;
+c) Phần chi phí của các thuốc được ngân sách nhà nước hoặc các nguồn kinh phí khác chi trả;
+d) Thuốc được sử dụng trong thử nghiệm lâm sàng, nghiên cứu khoa học.
+
+Thông tư 20/2022/TT-BYT. Điều 4. Quy định thanh toán thuốc đối với một số cơ sở khám bệnh, chữa bệnh
+[Điều này hết hiệu lực bởi Khoản 4 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025] Quỹ bảo hiểm y tế thanh toán chi phí thuốc đối với một số cơ sở khám bệnh, chữa bệnh khi tuân thủ quy định tại Điều 3 và Điều 5 Thông tư này, đồng thời theo một số quy định trong một số trường hợp cụ thể như sau:
+1. Đối với cơ sở khám bệnh, chữa bệnh nhà nước có ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế nhưng chưa được phân hạng bệnh viện: Căn cứ nhân lực, trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024], cơ sở vật chất và danh mục dịch vụ kỹ thuật đã được cấp có thẩm quyền phê duyệt, Sở Y tế chủ trì, phối hợp với Bảo hiểm xã hội tỉnh xác định bằng văn bản việc sử dụng thuốc của cơ sở khám bệnh, chữa bệnh này theo hạng bệnh viện phù hợp.
+2. Đối với các cơ sở khám bệnh, chữa bệnh nhà nước thuộc lực lượng vũ trang nhân dân có ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế nhưng chưa được phân hạng bệnh viện: Căn cứ nhân lực, trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024], cơ sở vật chất và danh mục dịch vụ kỹ thuật đã được cấp có thẩm quyền phê duyệt, cơ quan quản lý trực tiếp của cơ sở khám bệnh, chữa bệnh chủ trì, phối hợp với Sở Y tế và cơ quan bảo hiểm xã hội nơi ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế để xác định bằng văn bản về danh mục thuốc được quỹ bảo hiểm y tế thanh toán của cơ sở khám bệnh, chữa bệnh này theo hạng bệnh viện phù hợp.
+3. Trường hợp cơ sở khám bệnh, chữa bệnh thực hiện dịch vụ kỹ thuật được cấp có thẩm quyền phê duyệt thì được sử dụng thuốc để thực hiện dịch vụ kỹ thuật đó (bao gồm cả những thuốc quy định tại hạng bệnh viện cao hơn). Cơ sở khám bệnh, chữa bệnh tổng hợp, gửi danh mục thuốc cho cơ quan bảo hiểm xã hội nơi ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế để làm cơ sở thanh toán.
+4. Trường hợp cơ sở khám bệnh, chữa bệnh chuyên khoa tỉnh sử dụng các thuốc không đi kèm với dịch vụ kỹ thuật, căn cứ nhân lực, trang thiết bị y tế [Cụm từ này bị thay thế bởi Khoản 7 Điều 147 Nghị định 96/2023/NĐ-CP có hiệu lực từ ngày 01/01/2024], cơ sở vật chất, nhu cầu điều trị tại cơ sở khám bệnh, chữa bệnh và hướng dẫn chẩn đoán, điều trị của Bộ Y tế, Sở Y tế chủ trì, phối hợp với Bảo hiểm xã hội tỉnh xác định bằng văn bản về danh mục thuốc vượt hạng được quỹ bảo hiểm y tế thanh toán tại cơ sở khám bệnh, chữa bệnh đó (bao gồm cả các thuốc có quy định điều kiện về hạng và chuyên khoa của các cơ sở khám bệnh, chữa bệnh tại cột 8 Danh mục thuốc quy định tại Phụ lục I) nhưng không cao hơn hạng của bệnh viện đa khoa tuyến tỉnh có hạng cao nhất đóng trên địa bàn.
+
+Thông tư 20/2022/TT-BYT. Điều 5. Quy định thanh toán đối với một số thuốc
+[Điều này hết hiệu lực bởi Khoản 4 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025] Quỹ bảo hiểm y tế thanh toán chi phí thuốc đối với người bệnh tham gia bảo hiểm y tế khi tuân thủ quy định tại Điều 3 và Điều 4 Thông tư này, đồng thời theo một số quy định trong các trường hợp cụ thể như sau:
+1. Các dạng đồng phân hóa học khác hoặc các dạng muối khác của hoạt chất (kể cả dạng đơn thành phần và dạng phối hợp đa thành phần, trừ vitamin và khoáng chất) có trong Danh mục thuốc quy định tại Phụ lục I được quỹ bảo hiểm y tế thanh toán nếu có cùng chỉ định với dạng hóa học hay thuốc ghi trong Danh mục thuốc.
+2. Thuốc được xếp nhóm này nhưng sử dụng để điều trị bệnh thuộc nhóm khác được quỹ bảo hiểm y tế thanh toán nếu có chỉ định phù hợp với quy định tại khoản 2 Điều 3 Thông tư này.
+3. Một số thuốc có quy định điều kiện, tỷ lệ thanh toán được quỹ bảo hiểm y tế thanh toán theo quy định tại cột 8 Danh mục thuốc quy định tại Phụ lục I.
+4. Trường hợp theo chỉ định chuyên môn, người bệnh chỉ sử dụng một phần lượng thuốc trong đơn vị đóng gói nhỏ nhất (ví dụ: thuốc dùng trong chuyên khoa nhi, chuyên khoa ung bướu) và lượng thuốc còn lại không thể sử dụng được (ví dụ: không có người bệnh có cùng chỉ định, lượng thuốc còn lại không đủ liều lượng, hoặc quá thời hạn bảo quản của thuốc) thì quỹ bảo hiểm y tế thanh toán toàn bộ theo giá của đơn vị đóng gói nhỏ nhất đó.
+5. Trường hợp một số thuốc ở dạng lỏng hay khí nén (như oxy dược dụng, nitric oxid) không được đóng gói để sử dụng riêng cho từng người bệnh, quỹ bảo hiểm y tế thanh toán số lượng thuốc sử dụng theo số thời gian thở khí y tế thực tế của người bệnh nhân (x) lượng khí thở trên một đơn vị thời gian (phút hoặc giờ).
+6. Đối với chất đánh dấu, thuốc phóng xạ:
+a) Đối với chất đánh dấu: Căn cứ vào dịch vụ kỹ thuật và số lượng người bệnh trực tiếp thực hiện dịch vụ kỹ thuật đó tại cơ sở, cơ sở khám bệnh, chữa bệnh tính toán định mức sử dụng thực tế bình quân của kít hoặc lọ chất đánh dấu đối với từng dịch vụ kỹ thuật. Quỹ bảo hiểm y tế thanh toán chi phí chất đánh dấu theo đơn giá của chất đánh dấu nhân (x) định mức sử dụng thực tế bình quân;
+b) Đối với thuốc phóng xạ: Căn cứ tốc độ phân rã thuốc phóng xạ, nguồn cung ứng thuốc phóng xạ, chu kỳ nhập thuốc phóng xạ và lưu lượng người bệnh sử dụng thuốc phóng xạ thực tế tại cơ sở, cơ sở khám bệnh, chữa bệnh xác định tỷ lệ sử dụng thực tế bình quân của thuốc phóng xạ. Quỹ bảo hiểm y tế thanh toán chi phí thuốc phóng xạ theo đơn giá nhân (x) liều sử dụng bình quân chia (:) tỷ lệ sử dụng thực tế bình quân của thuốc phóng xạ;
+c) Việc thống kê, tính toán chi phí sử dụng dịch vụ kỹ thuật có sử dụng thuốc phóng xạ và chất đánh dấu được quy định tại Phụ lục III ban hành kèm theo Thông tư này.
+7. Các thuốc có ký hiệu dấu sao (*) là thuốc phải được hội chẩn trước khi sử dụng, trừ trường hợp cấp cứu. Đối với thuốc kháng sinh có ký hiệu dấu sao (*), quỹ bảo hiểm y tế thanh toán khi thực hiện đúng quy trình hội chẩn khi kê đơn theo quy định về Hướng dẫn thực hiện quản lý sử dụng kháng sinh trong bệnh viện của Bộ Y tế.
+8. Đối với các thuốc điều trị ung thư, thuốc điều hòa miễn dịch:
+a) Sử dụng để điều trị ung thư khi được chỉ định bởi bác sĩ được cấp chứng chỉ hành nghề khám bệnh, chữa bệnh và có phạm vi hành nghề là ung bướu hoặc y học hạt nhân hoặc huyết học truyền máu và sử dụng tại các cơ sở khám bệnh, chữa bệnh có chức năng điều trị ung thư, trừ trường hợp quy định tại điểm b khoản này, bao gồm:
+- Cơ sở ung bướu, huyết học truyền máu, y học hạt nhân;
+- Các khoa hoặc trung tâm ung bướu, huyết học truyền máu và y học hạt nhân trong viện, bệnh viện chuyên khoa hoặc bệnh viện đa khoa;
+- Các loại hình tổ chức có nhiệm vụ điều trị ung thư được quy định trong quy chế tổ chức hoạt động hoặc điều lệ tổ chức hoạt động đã được cơ quan có thẩm quyền phê duyệt hoặc công nhận.
+b) Trường hợp sử dụng thuốc để điều trị các bệnh khác không phải ung thư: Quỹ bảo hiểm y tế thanh toán khi có hướng dẫn chẩn đoán, điều trị của Bộ Y tế hoặc của cơ sở khám bệnh, chữa bệnh. Trường hợp chưa có hướng dẫn chẩn đoán, điều trị thì phải hội chẩn với bác sĩ chuyên khoa ung bướu.
+Trường hợp chưa có hướng dẫn chẩn đoán, điều trị, không có bác sĩ chuyên khoa ung bướu thì phải được hội chẩn dưới sự chủ trì của lãnh đạo cơ sở khám bệnh, chữa bệnh trước khi chỉ định sử dụng.
+9. Đối với thuốc được bào chế hoặc pha chế (bao gồm oxy dược dụng và nitric oxid) tại cơ sở khám bệnh, chữa bệnh:
+a) Được Quỹ bảo hiểm y tế thanh toán khi:
+- Thuốc được bào chế, pha chế phải có thành phần được quy định trong Danh mục thuốc ban hành kèm Thông tư này. Trường hợp thuốc được bào chế, pha chế cấu thành bởi nhiều hoạt chất, mỗi thành phần hoạt chất của chế phẩm phải có trong Danh mục thuốc ban hành kèm theo Thông tư này dưới dạng đơn chất hoặc dạng phối hợp. Trường hợp thuốc được bào chế, pha chế cấu thành bởi nhiều hoạt chất, nhưng có thành phần không có trong Danh mục thuốc ban hành kèm theo Thông tư này, thực hiện theo hướng dẫn tại điểm d khoản này;
+- Phù hợp về đường dùng, dạng dùng, hạng bệnh viện được sử dụng trong Danh mục thuốc ban hành kèm theo Thông tư này;
+- Chỉ sử dụng tại cơ sở khám bệnh, chữa bệnh đó.
+b) Căn cứ nhu cầu sử dụng, cơ sở khám bệnh, chữa bệnh thực hiện như sau:
+- Đối với cơ sở khám bệnh, chữa bệnh trực thuộc Bộ Y tế: Người đứng đầu cơ sở khám bệnh, chữa bệnh có trách nhiệm xây dựng quy trình bào chế hoặc pha chế, tiêu chuẩn chất lượng, giá hoặc chi phí của thuốc;
+thống nhất với cơ quan bảo hiểm xã hội về giá hoặc chi phí thuốc để làm căn cứ thanh toán;
+- Đối với cơ sở khám bệnh, chữa bệnh thuộc hệ thống lực lượng vũ trang nhân dân: Thực hiện theo hướng dẫn của Bộ Công an, Bộ Quốc phòng;
+- Đối với cơ sở khám bệnh, chữa bệnh trực thuộc Sở Y tế và cơ sở khám bệnh, chữa bệnh tư nhân thực hiện theo quy định pháp luật về giá.
+c) Giá hoặc chi phí thuốc được xây dựng trên cơ sở:
+- Chi phí thành phần hoạt chất của thuốc theo giá mua vào của cơ sở khám bệnh, chữa bệnh.
+- Chi phí hao hụt (nếu có);
+- Chi phí tá dược, phụ liệu làm thuốc;
+- Chi phí khử khuẩn, tiệt khuẩn (nếu có);
+- Chi phí chế biến, bào chế bao gồm điện, nước, nhiên liệu;
+- Chi phí bao bì đóng gói, vật tư tiêu hao;
+- Chi phí vật tư, hóa chất, phụ liệu phục vụ hoạt động kiểm tra chất lượng trước khi thực hiện kiểm nghiệm;
+- Chi phí kiểm nghiệm;
+- Chi phí nhân công thực hiện;
+- Chi phí quản lý và chi phí khấu hao máy móc: Đối với chi phí quản lý và chi phí khấu hao máy móc, quỹ bảo hiểm y tế thanh toán theo lộ trình điều chỉnh các yếu tố cấu thành giá dịch vụ khám bệnh, chữa bệnh bảo hiểm y tế và được áp dụng cùng thời điểm với giá dịch vụ khám bệnh, chữa bệnh bảo hiểm y tế giữa các bệnh viện cùng hạng trên toàn quốc do Bộ trưởng Bộ Y tế ban hành;
+d) Trường hợp thuốc được bào chế, pha chế cấu thành bởi nhiều hoạt chất, nhưng có thành phần không có trong Danh mục thuốc ban hành kèm theo Thông tư này: Quỹ bảo hiểm y tế thanh toán theo quy định tại các điểm a, b và c khoản này, trừ chi phí hoạt chất không có trong Danh mục thuốc ban hành kèm theo Thông tư này;
+đ) Quỹ bảo hiểm y tế không thanh toán thuốc được bào chế, pha chế khi có thuốc thương mại trên thị trường có cùng thành phần, hàm lượng, dạng bào chế với thuốc được pha chế, bào chế và giá mua sắm thông qua đấu thầu thấp hơn giá hoặc chi phí thuốc được bào chế, pha chế tại cơ sở khám bệnh, chữa bệnh.
+10. Đối với thuốc sử dụng trong Hội chẩn từ xa:
+a) Áp dụng đối với người bệnh điều trị cấp cứu ở cơ sở khám bệnh, chữa bệnh và được sử dụng thuốc theo hướng dẫn về chuyên môn hoặc chỉ định điều trị tại buổi hội chẩn từ xa với cơ sở khám bệnh, chữa bệnh khác;
+b) Quỹ bảo hiểm y tế thanh toán mà không phụ thuộc vào hạng của bệnh viện theo quy định tại Thông tư này (kể các thuốc có quy định điều kiện về hạng và chuyên khoa của các cơ sở khám chữa bệnh tại cột 8 Danh mục thuốc quy định tại Phụ lục I) khi đáp ứng các yêu cầu sau đây:
+- Việc hội chẩn được thực hiện theo nhiệm vụ chỉ đạo tuyến hoặc theo hợp đồng chuyển giao kỹ thuật;
+- Thuốc được cơ sở khám bệnh, chữa bệnh điều trị cho người bệnh mua sắm theo quy định của pháp luật về đấu thầu;
+- Có biên bản hội chẩn theo đúng mẫu biên bản hội chẩn thực hiện theo Phụ lục I ban hành kèm theo Thông tư số 49/2017/TT-BYT ngày 28 tháng 12 năm 2017 của Bộ trưởng Bộ Y tế quy định về hoạt động y tế từ xa.
+11. Trường hợp dịch bệnh truyền nhiễm nhóm A, người bệnh không thể đến được cơ sở khám bệnh, chữa bệnh, quỹ bảo hiểm y tế thanh toán như sau:
+a) Trường hợp người bệnh được cấp giấy hẹn khám lại nhưng do dịch bệnh, không đến được cơ sở khám bệnh, chữa bệnh nơi đã cấp giấy hẹn để khám bệnh, chữa bệnh và nhận thuốc, cơ sở khám bệnh, chữa bệnh hoặc người bệnh có thể lựa chọn một hoặc nhiều các hình thức như sau:
+- Cơ sở khám bệnh, chữa bệnh nơi cấp giấy hẹn khám lại thực hiện chuyển thuốc cho cơ sở khám bệnh, chữa bệnh khác mà người bệnh có thể đến được để tiếp tục điều trị và cấp thuốc cho người bệnh. Quỹ bảo hiểm y tế thanh toán chi phí thuốc điều trị cho người bệnh cho cơ sở khám bệnh, chữa bệnh nơi nhận thuốc theo giá mua vào của cơ sở khám bệnh, chữa bệnh nơi chuyển thuốc theo phạm vi quyền lợi và mức hưởng bảo hiểm y tế;
+- Người bệnh được ủy quyền cho người đại diện đến nhận thuốc tại cơ sở khám bệnh, chữa bệnh nơi cấp giấy hẹn khám lại hoặc tại cơ sở khám bệnh, chữa bệnh khác (nơi nhận thuốc từ cơ sở khám bệnh, chữa bệnh cấp giấy hẹn khám lại).
+Việc ủy quyền phải được thực hiện bằng văn bản, trong đó phải ghi rõ thông tin về họ tên, ngày tháng năm sinh, số chứng minh nhân dân hoặc số căn cước công dân hoặc số hộ chiếu của người bệnh và người được ủy quyền nhận thuốc. Khi nhận thuốc, người được ủy quyền nhận thuốc phải xuất trình các giấy tờ phù hợp với thông tin được ghi trong văn bản ủy quyền.
+Các cơ sở khám bệnh, chữa bệnh có trách nhiệm kiểm tra tính chính xác của thông tin ghi trên giấy ủy quyền với giấy tờ mà người được ủy quyền xuất trình đến nhận thuốc tại cơ sở khám bệnh, chữa bệnh;
+- Đối với người mắc bệnh lao, lao tiềm ẩn, lao kháng thuốc hoặc người mắc bệnh HIV/AIDS và các thuốc điều trị bệnh không lây nhiễm, cơ sở khám bệnh, chữa bệnh nơi cấp giấy hẹn khám lại cử người hoặc thông qua đơn vị thứ ba vận chuyển thuốc đến cho người bệnh để tiếp tục điều trị và sử dụng thuốc.
+b) Trường hợp người bệnh đang điều trị nội trú có chỉ định chuyển tuyến nhưng do tình hình dịch bệnh không chuyển được người bệnh, quỹ bảo hiểm y tế thanh toán chi phí thuốc sử dụng cho người bệnh khi thuốc đó được cơ sở khám bệnh, chữa bệnh mua sắm theo quy định của pháp luật về đấu thầu, mà không phụ thuộc vào hạng của bệnh viện theo quy định tại Thông tư này, bao gồm cả các thuốc có điều kiện về hạng và chuyên khoa của các cơ sở khám bệnh, chữa bệnh tại cột 8 của Danh mục thuốc quy định tại Phụ lục I.
+
+Thông tư 20/2022/TT-BYT. Điều 6. Tổ chức thực hiện
+[Điều này hết hiệu lực bởi Khoản 4 Điều 20 Thông tư 37/2024/TT-BYT có hiệu lực từ ngày 01/01/2025]
+1. Vụ Bảo hiểm y tế - Bộ Y tế có trách nhiệm chỉ đạo, hướng dẫn, phổ biến, kiểm tra, đánh giá, sơ kết và tổng kết việc thực hiện Thông tư này trên phạm vi toàn quốc.
+2. Bảo hiểm xã hội Việt Nam có trách nhiệm:
+a) Chỉ đạo, hướng dẫn, kiểm tra việc thực hiện Thông tư này đối với bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương;
+b) Chỉ đạo bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương thống nhất với cơ sở khám bệnh, chữa bệnh về giá hoặc chi phí của thuốc được bào chế, pha chế tại cơ sở khám bệnh, chữa bệnh để làm cơ sở thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế.
+3. Sở Y tế các tỉnh, thành phố trực thuộc trung ương trách nhiệm chỉ đạo, hướng dẫn, phổ biến, thanh tra, kiểm tra, đánh giá, sơ kết và tổng kết việc thực hiện Thông tư này theo thẩm quyền.
+4. Cơ sở khám bệnh, chữa bệnh có trách nhiệm:
+a) Xây dựng danh mục thuốc hóa dược, sinh phẩm, thuốc phóng xạ và chất đánh dấu sử dụng tại đơn vị, kể cả thuốc do cơ sở khám bệnh chữa bệnh tự bào chế, pha chế (nếu có) và gửi cơ quan bảo hiểm xã hội nơi ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế kèm theo kế hoạch lựa chọn nhà thầu, kết quả lựa chọn nhà thầu và quy trình bào chế hoặc pha chế, tiêu chuẩn chất lượng, giá hoặc chi phí của thuốc được bào chế, pha chế tại cơ sở khám bệnh, chữa bệnh để làm cơ sở thanh toán chi phí khám bệnh, chữa bệnh bảo hiểm y tế;
+b) Trường hợp có thay đổi hay bổ sung danh mục thuốc sử dụng tại đơn vị, cơ sở khám bệnh, chữa bệnh gửi danh mục thuốc sửa đổi, bổ sung cho cơ quan bảo hiểm xã hội nơi ký hợp đồng khám bệnh chữa bệnh bảo hiểm y tế để làm cơ sở thanh toán;
+c) Trường hợp cơ sở khám bệnh, chữa bệnh không đủ khả năng tiếp tục thực hiện các dịch vụ kỹ thuật và các thuốc đã được phê duyệt, cơ sở khám bệnh, chữa bệnh có trách nhiệm báo cáo với cơ quan có thẩm quyền và cơ quan bảo hiểm xã hội nơi ký hợp đồng khám bệnh chữa bệnh bảo hiểm y tế để dừng việc thực hiện dịch vụ kỹ thuật, sử dụng thuốc và thanh toán bảo hiểm y tế.
+
+Thông tư 20/2022/TT-BYT. Điều 7. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2023.
+2. Thông tư số 30/2018/TT-BYT ngày 30 tháng 10 năm 2018 của Bộ trưởng Bộ Y tế ban hành Danh mục và tỷ lệ, điều kiện thanh toán đối với thuốc hóa dược, sinh phẩm, thuốc phóng xạ và chất đánh dấu thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế; Thông tư số 01/2020/TT-BYT ngày 16 tháng 01 năm 2020 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung Thông tư số 30/2018/TT-BYT;
+Thông tư số 20/2020/TT-BYT ngày 26 tháng 11 năm 2020 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều của Thông tư số 30/2018/TT-BYT hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực.
+
+Thông tư 20/2022/TT-BYT. Điều 8. Quy định chuyển tiếp
+1. Trường hợp người bệnh có thẻ bảo hiểm y tế vào điều trị nội trú trước ngày Thông tư này có hiệu lực và phải tiếp tục điều trị tại cơ sở khám bệnh, chữa bệnh sau ngày Thông tư này có hiệu lực thì thực hiện theo quy định tại Thông tư này đối với toàn bộ đợt điều trị nội trú đó của người bệnh.
+2. Đối với người bệnh bị ung thư có sử dụng thuốc doxorubicin, đường tiêm, dạng liposome; thuốc erlotinib, đường uống; thuốc gefitinib, đường uống; thuốc sorafenib, đường uống (điều trị ung thư tế bào biểu mô gan, thận tiến triển) trước ngày 01 tháng 01 năm 2015 và còn sử dụng sau ngày Thông tư này có hiệu lực thì tiếp tục được thanh toán với tỷ lệ 100%.
+Đối với người bệnh bị ung thư có sử dụng thuốc everolimus, đường tiêm, uống;
+thuốc L-asparaginase erwinia, đường tiêm; thuốc paclitaxel, đường tiêm, dạng liposome và dạng polymeric micelle trước ngày 01 tháng 01 năm 2019 và còn sử dụng sau ngày Thông tư này có hiệu lực; hoặc thuốc sorafenib, đường uống (điều trị ung thư tế bào biểu mô thận tiến triển) sau ngày 01 tháng 01 năm 2015 và còn sử dụng sau ngày Thông tư này có hiệu lực thì tiếp tục được quỹ bảo hiểm y tế thanh toán theo tỷ lệ quy định tại Thông tư số 40/2014/TT-BYT ngày 17 tháng 11 năm 2014 của Bộ trưởng Bộ Y tế ban hành và hướng dẫn thực hiện danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế. Quy định này áp dụng trong các trường hợp sau đây:
+a) Sử dụng cho đến hết liệu trình điều trị (từ thời điểm khi người bệnh được chẩn đoán xác định, bắt đầu điều trị đến kết thúc điều trị);
+b) Trường hợp sau khi điều trị tại cơ sở khám bệnh, chữa bệnh, người bệnh chuyển sang cơ sở khám bệnh, chữa bệnh khác, được bác sĩ chỉ định sử dụng thuốc này nhưng vẫn trong liệu trình điều trị (trừ trường hợp điều trị ngoại trú trái tuyến);
+c) Người bệnh điều trị bệnh tạm ổn và dừng điều trị, khi tái phát, bác sĩ chỉ định sử dụng thuốc đã điều trị;
+d) Trong quá trình điều trị, người bệnh không đến khám lại đúng hẹn, điều trị thuốc không liên tục;
+đ) Trường hợp người bệnh sử dụng thuốc erlotinib, đường uống có tác dụng phụ hoặc do cơ sở khám bệnh, chữa bệnh hết thuốc, bác sĩ chỉ định chuyển sang thuốc gefitinib, đường uống và ngược lại (chuyển đổi từ thuốc gefitinib, đường uống sang thuốc erlotinib, đường uống).
+
+Thông tư 20/2022/TT-BYT. Điều 9. Điều khoản tham chiếu
+Trường hợp các văn bản được dẫn chiếu trong Thông tư này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản đã được thay thế hoặc văn bản đã được sửa đổi, bổ sung đó.
+Trong quá trình tổ chức thực hiện, nếu có khó khăn vướng mắc đề nghị các đơn vị phản ánh về Bộ Y tế (Vụ Bảo hiểm y tế) để xem xét, giải quyết./.
+Nơi nhận:
+- Ủy ban Xã hội của Quốc hội (để báo cáo);
+- Thủ tướng Chính phủ (để báo cáo);
+- PTTgCP. Vũ Đức Đam (để báo cáo);
+- Bộ trưởng (để báo cáo);
+- Các Thứ trưởng (để phối hợp chỉ đạo);
+- Văn phòng Chính phủ (Vụ KGVX, Công báo, Cổng TTĐT Chính phủ);
+- Bộ Tư pháp (Cục Kiểm tra văn bản quy phạm pháp luật);
+- Bộ Tài chính;
+- Bảo hiểm xã hội Việt Nam;
+- UBND các tỉnh, thành phố trực thuộc TW;
+- Các đơn vị thuộc, trực thuộc Bộ Y tế;
+- Sở Y tế các tỉnh, thành phố trực thuộc TW;
+- Y tế các Bộ, ngành;
+- Hiệp hội Bệnh viện tư nhân Việt Nam;
+- Cổng Thông tin điện tử Bộ Y tế;
+- Các cơ sở KCB trên toàn quốc (qua Cổng Thông tin điện tử Bộ Y tế);
+- Lưu: VT, PC, BH (05).
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Thuấn
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 1. THUỐC GÂY TÊ, GÂY MÊ, THUỐC GIÃN CƠ, GIẢI GIÃN CƠ [ID: dieu_1_1] |  |  |  |  |  |  |
+|  | 1.1. Thuốc gây tê, gây mê |  |  |  |  |  |  |
+| 1 | Atropin sulfat | Tiêm | + | + | + | + |  |
+| 2 | Bupivacain hydroclorid | Tiêm | + | + | + |  |  |
+| 3 | Desfluran | Dạng hít | + | + | + |  |  |
+| 4 | Dexmedetomidin | Tiêm | + | + |  |  |  |
+| 5 | Diazepam | Tiêm | + | + | + | + | Đối với phòng khám đa khoa và trạm y tế xã: Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu. |
+| 6 | Etomidat | Tiêm | + | + | + |  |  |
+| 7 | Fentanyl | Tiêm | + | + | + |  |  |
+| 8 | Halothan | Đường hô hấp | + | + | + |  |  |
+| 9 | Isofluran | Đường hô hấp | + | + | + |  |  |
+| 10 | Ketamin | Tiêm | + | + | + |  |  |
+| 11 | Levobupivacain | Tiêm | + | + |  |  |  |
+| 12 | Lidocain hydroclodrid | Tiêm, dùng ngoài | + | + | + | + |  |
+| Khí dung | + | + | + |  |  |
+| 13 | Lidocain + epinephrin (adrenalin) | Tiêm | + | + | + | + |  |
+| 14 | Lidocain+ prilocain | Dùng ngoài | + | + | + | + |  |
+| 15 | Midazolam | Tiêm | + | + | + |  |  |
+| 16 | Morphin | Tiêm | + | + | + |  |  |
+| 17 | Oxy dược dụng | Đường hô hấp, dạng khí lỏng hoặc nén | + | + | + | + |  |
+| 18 | Pethidin | Tiêm | + | + | + |  |  |
+| 19 | Procain hydroclorid | Tiêm | + | + | + | + |  |
+| 20 | Proparacain hydroclorid | Tiêm, nhỏ mắt | + | + |  |  |  |
+| 21 | Propofol | Tiêm | + | + | + |  |  |
+| 22 | Ropivacain hydroclorid | Tiêm | + | + | + |  |  |
+| 23 | Sevofluran | Đường hô hấp, khí dung | + | + | + |  |  |
+| 24 | Sufentanil | Tiêm | + | + | + |  |  |
+| 25 | Thiopental (muối natri) | Tiêm | + | + | + |  |  |
+|  | 1.2. Thuốc giãn cơ, thuốc giải giãn cơ |  |  |  |  |  |  |
+| 26 | Atracurium besylat | Tiêm | + | + | + |  |  |
+| 27 | Neostigmin metylsulfat (bromid) | Tiêm, uống | + | + | + |  |  |
+| 28 | Pancuronium bromid | Tiêm | + | + | + |  |  |
+| 29 | Pipecuronium bromid | Tiêm | + | + | + |  |  |
+| 30 | Rocuronium bromid | Tiêm | + | + | + |  |  |
+| 31 | Suxamethonium clorid | Tiêm | + | + | + |  |  |
+| 32 | Vecuronium bromid | Tiêm | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 2. THUỐC GIẢM ĐAU, HẠ SỐT; CHỐNG VIÊM KHÔNG STEROID; THUỐC ĐIỀU TRỊ GÚT VÀ CÁC BỆNH XƯƠNG KHỚP [ID: dieu_2_1] |  |  |  |  |  |  |
+|  | 2.1. Thuốc giảm đau, hạ sốt; chống viêm không steroid |  |  |  |  |  |  |
+| 33 | Aceclofenac | Uống | + | + | + |  |  |
+| 34 | Aescin | Tiêm, uống | + | + |  |  |  |
+| 35 | Celecoxib | Uống | + | + | + |  |  |
+| 36 | Dexibuprofen | Uống | + | + | + |  |  |
+| 37 | Diclofenac | Tiêm, nhỏ mắt | + | + | + |  |  |
+| Uống, dùng ngoài, đặt hậu môn | + | + | + | + |
+| 38 | Etodolac | Uống | + | + | + |  |  |
+| 39 | Etoricoxib | Uống | + | + | + |  |  |
+| 40 | Fentanyl | Dán ngoài da | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị giảm đau do ung thư. |
+| 41 | Floctafenin | Uống | + | + | + | + |  |
+| 42 | Flurbiprofen natri | Uống, đặt | + | + | + |  |  |
+| 43 | Ibuprofen | Uống | + | + | + | + |  |
+| 44 | Ibuprofen + codein | Uống | + | + | + |  |  |
+| 45 | Ketoprofen | Tiêm, dán ngoài da | + | + | + |  |  |
+| Uống, dùng ngoài | + | + | + | + |
+| 46 | Ketorolac | Tiêm, uống, nhỏ mắt | + | + | + |  |  |
+| 47 | Loxoprofen | Uống | + | + | + | + |  |
+| 48 | Meloxicam | Tiêm | + | + | + |  |  |
+| Uống, dùng ngoài | + | + | + | + |
+| 49 | Methyl salicylat + dl-camphor + thymol + l-menthol + glycol salicylat + tocopherol acetat | Dùng ngoài | + | + | + | + |  |
+| 50 | Morphin | Tiêm | + | + | + | + | Phòng khám đa khoa và trạm y tế xã: Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu. |
+| Uống | + | + | + |  |
+| 51 | Nabumeton | Uống | + | + | + |  |  |
+| 52 | Naproxen | Uống, đặt | + | + | + |  |  |
+| 53 | Naproxen + esomeprazol | Uống | + | + | + |  |  |
+| 54 | Nefopam hydroclorid | Tiêm, uống | + | + | + |  |  |
+| 55 | Oxycodone | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị giảm đau do ung thư; thanh toán 50%. |
+| 56 | Paracetamol (acetaminophen) | Tiêm | + | + | + |  |  |
+| Uống, đặt | + | + | + | + |
+| 57 | Paracetamol + chlorpheniramin | Uống | + | + | + | + |  |
+| 58 | Paracetamol + codein phosphat | Uống | + | + | + | + |  |
+| 59 | Paracetamol + diphenhydramin | Uống | + | + | + | + |  |
+| 60 | Paracetamol + ibuprofen | Uống | + | + | + | + |  |
+| 61 | Paracetamol + methocarbamol | Uống | + | + | + |  |  |
+| 62 | Paracetamol + phenylephrin | Uống | + | + | + |  |  |
+| 63 | Paracetamol + pseudoephedrin | Uống | + | + | + |  |  |
+| 64 | Paracetamol + tramadol | Uống | + | + | + |  |  |
+| 65 | Paracetamol + chlorpheniramin + dextromethorphan | Uống | + | + | + | + |  |
+| 66 | Paracetamol + chlorpheniramin + phenylephrin | Uống | + | + | + |  |  |
+| 67 | Paracetamol + chlorpheniramin + pseudoephedrin | Uống | + | + | + |  |  |
+| 68 | Paracetamol + diphenhydramin + phenylephrin | Uống | + | + | + |  |  |
+| 69 | Paracetamol + phenylephrin + dextromethorphan | Uống | + | + | + |  |  |
+| 70 | Paracetamol + chlorpheniramin + phenylephrine + dextromethorphan | Uống | + | + | + |  |  |
+| 71 | Pethidin hydroclorid | Tiêm | + | + | + |  |  |
+| 72 | Piroxicam | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |
+| 73 | Tenoxicam | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |
+| 74 | Tiaprofenic acid | Uống | + | + | + |  |  |
+| 75 | Tramadol | Tiêm, uống | + | + | + |  |  |
+|  | 2.2. Thuốc điều trị gút |  |  |  |  |  |  |
+| 76 | Allopurinol | Uống | + | + | + | + |  |
+| 77 | Colchicin | Uống | + | + | + | + |  |
+| 78 | Probenecid | Uống | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 23. Thuốc chống thoái hóa khớp |  |  |  |  |  |  |
+| 79 | Diacerein | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị thoái hóa khớp hông hoặc gối. |
+| 80 | Glucosamin | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị thoái hóa khớp gối mức độ nhẹ và trung bình. |
+|  | 2.4. Thuốc khác |  |  |  |  |  |  |
+| 81 | Adalimumab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 82 | Alendronat | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị loãng xương, sử dụng tại Bệnh viện Lão khoa Trung ương và khoa cơ xương khớp của bệnh viện hạng đặc biệt, hạng I. |
+| 83 | Alendronat natri + cholecalciferol (Vitamin D3) | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị loãng xương, sử dụng tại Bệnh viện Lão khoa Trung ương và khoa cơ xương khớp của bệnh viện hạng đặc biệt, hạng I. |
+| 84 | Alpha chymotrypsin | Uống | + | + | + | + | Quỹ bảo hiểm y tế thanh toán trong điều trị phù nề sau phẫu thuật, chấn thương, bỏng. |
+| 85 | Calcitonin | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán: - Phòng ngừa mất xương cấp tính do bất động đột ngột như trường hợp bệnh nhân bị gãy xương do loãng xương; - Điều trị bệnh Paget cho người bệnh không đáp ứng các phương pháp điều trị khác hoặc không phù hợp với các phương pháp điều trị khác, như người bệnh có suy giảm chức năng thận nghiêm trọng; - Tăng calci máu ác tính. |
+| 86 | Etanercept | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 30%. |
+| 87 | Golimumab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 88 | Infliximab | Tiêm truyền | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 89 | Leflunomid | Uống | + | + |  |  |  |
+| 90 | Methocarbamol | Tiêm, uống | + | + | + |  |  |
+| 91 | Risedronat | Uống | + | + | + |  |  |
+| 92 | Tocilizumab | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán theo chỉ định của một trong các trường hợp sau: - Tờ hướng dẫn sử dụng tại bệnh viện hạng đặc biệt, hạng I và khoa cơ xương khớp của Bệnh viện hạng II; thanh toán 60%; - Điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 93 | Zoledronic acid | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán: - Điều trị ung thư di căn xương tại Bệnh viện hạng đặc biệt, hạng I, II; - Điều trị loãng xương tại Bệnh viện Lão khoa Trung ương và khoa cơ xương khớp của bệnh viện hạng đặc biệt, hạng I. |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 3. THUỐC CHỐNG DỊ ỨNG VÀ DÙNG TRONG CÁC TRƯỜNG HỢP QUÁ MẪN [ID: dieu_3_1] |  |  |  |  |  |  |
+| 94 | Alimemazin | Uống | + | + | + | + |  |
+| 95 | Bilastine | Uống | + | + | + |  |  |
+| 96 | Cetirizin | Uống | + | + | + | + |  |
+| 97 | Cinnarizin | Uống | + | + | + | + |  |
+| 98 | Chlorpheniramin (hydrogen maleat) | Uống | + | + | + | + |  |
+| 99 | Chlorpheniramin + dextromethorphan | Uống | + | + | + | + |  |
+| 100 | Chlorpheniramin + phenylephrin | Uống | + | + | + |  |  |
+| 101 | Desloratadin | Uống | + | + | + |  |  |
+| 102 | Dexchlorpheniramin | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |
+| 103 | Diphenhydramin | Tiêm, uống | + | + | + | + |  |
+| 104 | Ebastin | Uống | + | + | + |  |  |
+| 105 | Epinephrin (adrenalin) | Tiêm | + | + | + | + |  |
+| 106 | Fexofenadin | Uống | + | + | + |  |  |
+| 107 | Ketotifen | Uống | + | + | + |  |  |
+| Nhỏ mắt | + | + |  |  |
+| 108 | Levocetirizin | Uống | + | + | + |  |  |
+| 109 | Loratadin | Uống | + | + | + | + |  |
+| 110 | Loratadin + pseudoephedrin | Uống | + | + |  |  |  |
+| 111 | Mequitazin | Uống | + | + | + |  |  |
+| 112 | Promethazin hydroclorid | Tiêm, uống, dùng ngoài | + | + | + | + |  |
+| 113 | Rupatadine | Uống | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 4. THUỐC GIẢI ĐỘC VÀ CÁC THUỐC DÙNG TRONG TRƯỜNG HỢP NGỘ ĐỘC [ID: dieu_4_1] |  |  |  |  |  |  |
+| 114 | Acetylcystein | Tiêm | + | + | + | + |  |
+| 115 | Atropin | Tiêm | + | + | + | + |  |
+| 116 | Calci gluconat | Tiêm | + | + | + |  |  |
+| 117 | Dantrolen | Uống | + | + | + |  |  |
+| 118 | Deferoxamin | Uống, tiêm | + | + | + |  |  |
+| 119 | Dimercaprol | Tiêm | + | + | + |  |  |
+| 120 | Edetat natri calci (EDTA Ca- Na) | Tiêm, uống | + | + | + |  |  |
+| 121 | Ephedrin | Tiêm | + | + | + |  |  |
+| 122 | Esmolol | Tiêm | + | + | + |  |  |
+| 123 | Flumazenil | Tiêm | + | + | + |  |  |
+| 124 | Fomepizol | Tiêm | + | + |  |  |  |
+| 125 | Glucagon | Tiêm | + | + | + |  |  |
+| 126 | Glutathion | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán cho bệnh nhân sau xạ trị, bệnh nhân điều trị ung thư bằng cisplatin hoặc carboplatin; thanh toán 50%. |
+| 127 | Hydroxocobalamin | Tiêm | + | + | + | + |  |
+| 128 | Calci folinat (folinic acid, leucovorin) | Tiêm, uống | + | + |  |  |  |
+| 129 | Naloxon hydroclorid | Tiêm | + | + | + | + |  |
+| 130 | Naltrexon | Uống | + | + | + |  |  |
+| 131 | Natri hydrocarbonat (natri bicarbonat) | Tiêm | + | + | + | + |  |
+| 132 | Natri nitrit | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị ngộ độc cyanua. |
+| 133 | Natri thiosulfat | Tiêm, uống | + | + | + | + |  |
+| 134 | Nor-epinephrin (Nor- adrenalin) | Tiêm | + | + | + | + |  |
+| 135 | Penicilamin | Tiêm, uống | + | + | + |  |  |
+| 136 | Phenylephrin | Tiêm | + | + | + |  |  |
+| 137 | Polystyren | Uống | + | + | + |  |  |
+| Thụt hậu môn | + | + |  |  |
+| 138 | Pralidoxim | Tiêm, uống | + | + | + |  |  |
+| 139 | Protamin sulfat | Tiêm | + | + | + |  |  |
+| 140 | Meglumin natri succinat | Tiêm truyền | + | + |  |  |  |
+| 141 | Sorbitol | Dung dịch rửa | + | + | + | + |  |
+| 142 | Silibinin | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ngộ độc nấm. |
+| 143 | Succimer | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ngộ độc chì. |
+| 144 | Sugammadex | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong các trường hợp: 1. Trường hợp đã tiêm thuốc giãn cơ mà không đặt được ống nội khí quản; 2. Bệnh nhân mắc bệnh phổi tắc nghẽn mạn tính (COPD), hen phế quản; 3. Bệnh nhân suy tim, loạn nhịp tim, bệnh van tim, mạch vành; 4. Bệnh nhân béo phì (BMI > 30); 5. Bệnh nhân có bệnh lý thần kinh-cơ (loạn dưỡng cơ, nhược cơ); 6. Bệnh nhân có chống chỉ định với neostigmine và atropin. |
+| 145 | Than hoạt | Uống | + | + | + | + |  |
+| 146 | Than hoạt + sorbitol | Uống | + | + | + | + |  |
+| 147 | Xanh methylen | Tiêm | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 5. THUỐC CHỐNG CO GIẬT, CHỐNG ĐỘNG KINH [ID: dieu_5_1] |  |  |  |  |  |  |
+| 148 | Carbamazepin | Uống | + | + | + |  |  |
+| 149 | Gabapentin | Uống | + | + | + |  |  |
+| 150 | Lamotrigine | Uống | + | + | + |  |  |
+| 151 | Levetiracetam | Uống | + | + | + |  |  |
+| Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 152 | Oxcarbazepin | Uống | + | + | + | + |  |
+| 153 | Phenobarbital | Tiêm, uống | + | + | + | + |  |
+| 154 | Phenytoin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 155 | Pregabalin | Uống | + | + | + |  |  |
+| 156 | Topiramat | Uống | + | + | + |  |  |
+| 157 | Valproat natri | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+| 158 | Valproat natri + valproic acid | Uống | + | + | + |  |  |
+| 159 | Valproic acid | Uống | + | + |  |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 6. THUỐC ĐIỀU TRỊ KÝ SINH TRÙNG, CHỐNG NHIỄM KHUẨN [ID: dieu_6_1] |  |  |  |  |  |  |
+|  | 6.1. Thuốc trị giun, sán |  |  |  |  |  |  |
+| 160 | Albendazol | Uống | + | + | + | + |  |
+| 161 | Diethylcarbamazin (dihydrogen citrat) | Uống | + | + | + |  |  |
+| 162 | Ivermectin | Uống | + | + | + |  |  |
+| 163 | Mebendazol | Uống | + | + | + | + |  |
+| 164 | Niclosamid | Uống | + | + | + | + |  |
+| 165 | Praziquantel | Uống | + | + | + | + |  |
+| 166 | Pyrantel | Uống | + | + | + | + |  |
+| 167 | Triclabendazol | Uống | + | + | + | + |  |
+|  | 6.2. Chống nhiễm khuẩn |  |  |  |  |  |  |
+|  | 6.2.1. Thuốc nhóm beta-lactam |  |  |  |  |  |  |
+| 168 | Amoxicilin | Uống | + | + | + | + |  |
+| 169 | Amoxicilin + acid clavulanic | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 170 | Amoxicilin + sulbactam | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong điều trị viêm tai giữa hoặc viêm phổi cộng đồng. |
+| 171 | Ampicilin (muối natri) | Tiêm | + | + | + | + |  |
+| 172 | Ampicilin + sulbactam | Tiêm | + | + | + | + |  |
+| 173 | Benzathin benzylpenicilin | Tiêm | + | + | + | + |  |
+| 174 | Benzylpenicilin | Tiêm | + | + | + | + |  |
+| 175 | Cefaclor | Uống | + | + | + | + |  |
+| 176 | Cefadroxil | Uống | + | + | + | + |  |
+| 177 | Cefalexin | Uống | + | + | + | + |  |
+| 178 | Cefalothin | Tiêm | + |  |  |  |  |
+| 179 | Cefamandol | Tiêm | + | + | + |  |  |
+| 180 | Cefazolin | Tiêm | + | + | + | + |  |
+| 181 | Cefdinir | Uống | + | + | + |  |  |
+| 182 | Cefepim | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II, bệnh viện chuyên khoa lao và bệnh phổi. |
+| 183 | Cefixim | Uống | + | + | + |  |  |
+| 184 | Cefmetazol | Tiêm | + | + | + |  |  |
+| 185 | Cefoperazon | Tiêm | + | + | + |  |  |
+| 186 | Cefoperazon + sulbactam | Tiêm | + | + |  |  |  |
+| 187 | Cefotaxim | Tiêm | + | + | + |  |  |
+| 188 | Cefotiam | Tiêm | + | + |  |  |  |
+| 189 | Cefoxitin | Tiêm | + | + | + |  |  |
+| 190 | Cefpirom | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II, bệnh viện chuyên khoa lao và bệnh phổi. |
+| 191 | Cefpodoxim | Uống | + | + | + |  |  |
+| 192 | Cefradin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 193 | Ceftazidim | Tiêm | + | + | + |  |  |
+| 194 | Ceftazidim + avibactam | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 195 | Ceftibuten | Tiêm, uống | + | + | + |  |  |
+| 196 | Ceftizoxim | Tiêm | + | + | + |  |  |
+| 197 | Ceftolozan + tazobactam | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 198 | Ceftriaxon | Tiêm | + | + | + |  |  |
+| 199 | Cefuroxim | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 200 | Cloxacilin | Tiêm, uống | + | + | + | + |  |
+| 201 | Doripenem* | Tiêm | + | + |  |  |  |
+| 202 | Ertapenem* | Tiêm | + | + |  |  |  |
+| 203 | Imipenem + cilastatin* | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II; bệnh viện chuyên khoa lao và bệnh phổi. |
+| 204 | Meropenem* | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II; bệnh viện chuyên khoa lao và bệnh phổi. |
+| 205 | Oxacilin | Tiêm, uống | + | + | + | + |  |
+| 206 | Piperacilin | Tiêm | + | + | + |  |  |
+| 207 | Piperacilin + tazobactam | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II, bệnh viện chuyên khoa lao và bệnh phổi. |
+| 208 | Phenoxy methylpenicilin | Uống | + | + | + | + |  |
+| 209 | Procain benzylpenicilin | Tiêm | + | + | + | + |  |
+| 210 | Sultamicillin (Ampicilin + sulbactam) | Uống | + | + | + | + |  |
+| 211 | Ticarcillin + acid clavulanic | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II; bệnh viện chuyên khoa lao và bệnh phổi. |
+|  | 6.2.2. Thuốc nhóm aminoglycosid |  |  |  |  |  |  |
+| 212 | Amikacin | Tiêm | + | + |  |  |  |
+| 213 | Gentamicin | Tiêm, tra mắt, dùng ngoài | + | + | + | + |  |
+| 214 | Neomycin (sulfat) | Uống, nhỏ mắt, dùng ngoài | + | + | + | + |  |
+| 215 | Neomycin + polymyxin B | Nhỏ mắt | + | + | + | + |  |
+| 216 | Neomycin + polymyxin B + dexamethason | Nhỏ mắt, nhỏ tai | + | + | + | + |  |
+| 217 | Netilmicin sulfat | Tiêm | + | + |  |  |  |
+| 218 | Tobramycin | Tiêm | + | + | + |  |  |
+| Nhỏ mắt | + | + | + | + |  |
+| 219 | Tobramycin + dexamethason | Nhỏ mắt | + | + | + | + |  |
+|  | 6.2.3. Thuốc nhóm phenicol |  |  |  |  |  |  |
+| 220 | Cloramphenicol | Tiêm | + | + | + |  |  |
+| Uống, nhỏ mắt | + | + | + | + |  |
+|  | 6.2.4. Thuốc nhóm nitroimidazol |  |  |  |  |  |  |
+| 221 | Metronidazol | Tiêm | + | + | + |  |  |
+| Uống, dùng ngoài, đặt âm đạo | + | + | + | + |  |
+| 222 | Metronidazol + neomycin + nystatin | Đặt âm đạo | + | + | + | + |  |
+| 223 | Secnidazol | Uống | + | + | + | + |  |
+| 224 | Tinidazol | Tiêm truyền | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+|  | 6.2.5. Thuốc nhóm lincosamid |  |  |  |  |  |  |
+| 225 | Clindamycin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+|  | 6.2.6. Thuốc nhóm macrolid |  |  |  |  |  |  |
+| 226 | Azithromycin | Tiêm | + | + |  |  |  |
+| Uống | + | + | + |  |  |
+| 227 | Clarithromycin | Uống | + | + | + |  |  |
+| 228 | Erythromycin | Uống, dùng ngoài | + | + | + | + |  |
+| 229 | Roxithromycin | Uống | + | + | + |  |  |
+| 230 | Spiramycin | Uống | + | + | + | + |  |
+| 231 | Spiramycin + metronidazol | Uống | + | + | + | + |  |
+| 232 | Tretinoin + erythromycin | Dùng ngoài | + | + | + |  |  |
+|  | 6.2.7. Thuốc nhóm quinolon |  |  |  |  |  |  |
+| 233 | Ciprofloxacin | Tiêm | + | + | + |  |  |
+| Uống, nhỏ mắt, nhỏ tai | + | + | + | + |  |
+| 234 | Levofloxacin | Tiêm | + | + |  |  |  |
+| Uống, nhỏ mắt | + | + | + |  |  |
+| 235 | Lomefloxacin | Uống, nhỏ mắt | + | + | + |  |  |
+| 236 | Moxifloxacin | Tiêm | + | + |  |  |  |
+| Uống, nhỏ mắt | + | + | + |  |  |
+| 237 | Nalidixic acid | Uống | + | + | + | + |  |
+| 238 | Norfloxacin | Uống | + | + | + |  |  |
+| Nhỏ mắt | + | + | + | + |  |
+| 239 | Ofloxacin | Tiêm | + | + | + |  |  |
+| Uống, nhỏ mắt, nhỏ tai | + | + | + | + |  |
+| 240 | Pefloxacin | Tiêm, uống | + | + | + |  |  |
+|  | 6.2.8. Thuốc nhóm sulfamid |  |  |  |  |  |  |
+| 241 | Sulfadiazin bạc | Dùng ngoài | + | + | + | + |  |
+| 242 | Sulfadimidin (muối natri) | Uống | + | + | + | + |  |
+| 243 | Sulfadoxin + pyrimethamin | Uống | + | + | + |  |  |
+| 244 | Sulfaguanidin | Uống | + | + | + | + |  |
+| 245 | Sulfamethoxazol + trimethoprim | Uống | + | + | + | + |  |
+| 246 | Sulfasalazin | Uống | + | + | + |  |  |
+|  | 6.2.9. Thuốc nhóm tetracyclin |  |  |  |  |  |  |
+| 247 | Doxycyclin | Uống | + | + | + | + |  |
+| 248 | Minocyclin | Tiêm, uống | + | + | + |  |  |
+| 249 | Tigecyclin* | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán khi phác đồ sử dụng kháng sinh ban đầu không có hiệu quả trong nhiễm khuẩn ổ bụng, nhiễm khuẩn da, mô mềm biến chứng. |
+| 250 | Tetracyclin hydroclorid | Uống, tra mắt | + | + | + | + |  |
+|  | 6.2.10. Thuốc khác |  |  |  |  |  |  |
+| 251 | Argyrol | Nhỏ mắt | + | + | + | + |  |
+| 252 | Colistin* | Tiêm | + | + |  |  |  |
+| 253 | Daptomycin | Tiêm | + | + |  |  |  |
+| 254 | Fosfomycin* | Tiêm, uống, nhỏ tai | + | + |  |  |  |
+| 255 | Linezolid* | Uống, tiêm | + | + |  |  |  |
+| 256 | Nitrofurantoin | Uống | + | + | + | + |  |
+| 257 | Rifampicin | Dùng ngoài | + | + | + | + |  |
+| Nhỏ mắt, nhỏ tai | + | + | + |  |  |
+| 258 | Teicoplanin* | Tiêm | + | + |  |  |  |
+| 259 | Vancomycin | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại Bệnh viện hạng đặc biệt, hạng I, II, bệnh viện chuyên khoa lao và bệnh phổi. |
+|  | 6.3. Thuốc chống vi rút |  |  |  |  |  |  |
+|  | 6.3.1. Thuốc điều trị HIV/AIDS |  |  |  |  |  |  |
+| 260 | Abacavir (ABC) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 261 | Darunavir | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị HIV/AIDS: thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 262 | Efavirenz (EFV hoặc EFZ) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 263 | Lamivudin | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 264 | Nevirapin (NVP) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 265 | Raltegravir | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị HIV/AIDS: thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 266 | Ritonavir | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 267 | Tenofovir (TDF) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 268 | Zidovudin (ZDV hoặc AZT) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 269 | Lamivudin + tenofovir | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 270 | Lamivudine+ zidovudin | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 271 | Lopinavir + ritonavir (LPV/r) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 272 | Tenofovir + lamivudin + efavirenz | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 273 | Tenoforvir + lamivudine + dolutegravir | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+| 274 | Zidovudin (ZDV hoặc AZT) + lamivudin + nevirapin (NVP) | Uống | + | + | + |  | Đối với điều trị HIV/AIDS: Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn quản lý, điều trị và chăm sóc của Bộ Y tế. |
+|  | 6.3.2. Thuốc điều trị viêm gan C |  |  |  |  |  |  |
+| 275 | Daclatasvir | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 276 | Sofosbuvir | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 277 | Sofosbuvir + ledipasvir | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 278 | Sofosbuvir + velpatasvir | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 279 | Pegylated interferon (peginterferon) alpha (2a hoặc 2b) | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị viêm gan C theo hướng dẫn chẩn đoán và điều trị của Bộ Y tế trong trường hợp không sử dụng được các thuốc kháng vi rút trực tiếp (Direct acting antivirals - DAAs); thanh toán 30%. |
+|  | 6.3.3 Thuốc chống vi rút khác |  |  |  |  |  |  |
+| 280 | Aciclovir | Tiêm | + | + | + |  |  |
+| Uống, tra mắt, dùng ngoài | + | + | + | + |  |
+| 281 | Entecavir | Uống | + | + | + |  |  |
+| 282 | Gancyclovir* | Tiêm, uống | + | + |  |  |  |
+| 283 | Oseltamivir | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị nhiễm vi rút cúm. |
+| 284 | Ribavirin | Uống | + | + | + |  |  |
+| 285 | Valganciclovir* | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị các bệnh do vi rút cự bào (Cytomegalovirus - CMV) tái hoạt động trên bệnh nhân ghép tạng hoặc ghép tế bào gốc; thanh toán 50%. |
+| 286 | Zanamivir | Dạng hít | + |  |  |  |  |
+|  | 6.3.4. Thuốc điều trị COVID-19 |  |  |  |  |  |  |
+| 287 | Molnupiravir | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+|  | 6.4. Thuốc chống nấm |  |  |  |  |  |  |
+| 288 | Amphotericin B* | Tiêm | + | + |  |  |  |
+| Phức hợp lipid | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong trường hợp: - Nhiễm nấm Candida xâm lấn nặng; - Điều trị nhiễm nấm toàn thân nặng trên những bệnh nhân không đáp ứng với Amphotericin B dạng thông thường hoặc không đáp ứng với thuốc kháng nấm toàn thân khác, hoặc trên bệnh nhân suy thận, hoặc trên bệnh nhân đang dùng dạng quy ước có tiến triển suy thận, hoặc chống chỉ định khác với dạng thông thường. |
+| 289 | Anidulafungin | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 290 | Butoconazol nitrat | Bôi âm đạo | + | + |  |  |  |
+| 291 | Caspofungin* | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong trường hợp: - Điều trị theo kinh nghiệm nhiễm nấm xâm lấn (Candida hoặc Aspergilus) ở bệnh nhân nguy cơ cao có sốt, giảm bạch cầu trung tính; - Điều trị nhiễm nấm Candida xâm lấn; - Điều trị nhiễm nấm Aspergillus xâm lấn ở bệnh nhân kháng trị hoặc không dung nạp với các trị liệu khác. |
+| 292 | Ciclopiroxolamin | Dùng ngoài | + | + | + |  |  |
+| 293 | Clotrimazol | Đặt âm đạo | + | + | + | + |  |
+| 294 | Dequalinium clorid | Đặt âm đạo | + | + |  |  |  |
+| 295 | Econazol | Dùng ngoài, đặt âm đạo | + | + | + | + |  |
+| 296 | Fluconazol | Tiêm truyền, nhỏ mắt | + | + | + |  |  |
+| Uống, đặt âm đạo | + | + | + | + |  |
+| 297 | Fenticonazol nitrat | Đặt âm đạo, dùng ngoài | + | + | + |  |  |
+| 298 | Flucytosin | Tiêm | + | + |  |  |  |
+| 299 | Griseofulvin | Uống, dùng ngoài | + | + | + | + |  |
+| 300 | Itraconazol | Tiêm truyền | + | + |  |  |  |
+| Uống | + | + | + |  |  |
+| 301 | Ketoconazol | Nhỏ mắt | + | + | + |  |  |
+| Dùng ngoài, đặt âm đạo | + | + | + | + |  |
+| 302 | Micafungin | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 303 | Miconazol | Dùng ngoài, đặt âm đạo | + | + | + | + |  |
+| 304 | Natamycin | Nhỏ mắt, dùng ngoài, đặt âm đạo | + | + | + |  |  |
+| 305 | Nystatin | Uống, đặt âm đạo, bột đánh tưa lưỡi | + | + | + | + |  |
+| 306 | Policresulen | Đặt âm đạo | + | + | + |  |  |
+| 307 | Posaconazol* | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50% trong trường hợp: - Nhiễm nấm Fusarium, nhiễm nấm Zygomycetes, bệnh nấm Cryptococcus, bệnh nấm màu và u nấm ở những bệnh nhân mắc bệnh kháng trị với các thuốc khác hoặc những bệnh nhân không dung nạp với các thuốc khác; - Bệnh nấm Coccidioides immitis, bệnh nấm Coccidioides immitis đã thất bại hoặc không dung nạp với các thuốc chống nấm khác. |
+| 308 | Terbinafin (hydroclorid) | Uống, dùng ngoài | + | + | + |  |  |
+| 309 | Voriconazol* | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50% trong điều trị: - Nhiễm Asperillus nấm xâm lấn; - Nhiễm Candida huyết trên bệnh nhân không giảm bạch cầu; - Nhiễm nấm Candida xâm lấn nặng kháng fluconazol; - Điều trị nhiễm nấm nặng gây ra bởi Scedosporium spp. và Fusarium spp. cho những bệnh nhân không đáp ứng các điều trị khác. |
+| 310 | Clotrimazol + betamethason | Dùng ngoài | + | + | + | + |  |
+| 311 | Clorquinaldol + promestrien | Đặt âm đạo | + | + | + | + |  |
+| 312 | Miconazol + hydrocortison | Dùng ngoài | + | + | + | + |  |
+| 313 | Nystatin + metronidazol + neomycin | Đặt âm đạo | + | + | + | + |  |
+| 314 | Nystatin + neomycin + polymyxin B | Đặt âm đạo | + | + | + | + |  |
+|  | 6.5. Thuốc điều trị bệnh do amip |  |  |  |  |  |  |
+| 315 | Diiodohydroxyquinolin | Uống | + | + | + |  |  |
+| 316 | Hydroxy cloroquin | Uống | + | + |  |  |  |
+| 317 | Metronidazol | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+|  | 6.6. Thuốc điều trị bệnh lao |  |  |  |  |  |  |
+| 318 | Ethambutol | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 319 | Isoniazid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 320 | Isoniazid + ethambutol | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 321 | Pyrazinamid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 322 | Rifampicin | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 323 | Rifampicin + isoniazid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 324 | Rifampicin + isoniazid + pyrazinamid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 325 | Rifampicin + isoniazid + pyrazinamid + ethambutol | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 326 | Streptomycin | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+|  | Thuốc điều trị lao kháng thuốc |  |  |  |  |  |  |
+| 327 | Amikacin | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 328 | Bedaquiline | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị lao kháng thuốc; thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 329 | Capreomycin | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 330 | Clofazimine | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị lao kháng thuốc; thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 331 | Cycloserin | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 332 | Delamanid | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị lao kháng thuốc; thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 333 | Ethionamid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 334 | Kanamycin | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 255 | Linezolid* | Uống | + | + |  |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 234 | Levofloxacin | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 236 | Moxifloxacin | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 335 | PAS- Na | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị lao kháng thuốc; thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+| 336 | Prothionamid | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị lao kháng thuốc; thuốc được cấp phát tại trạm y tế xã theo hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao của Bộ Y tế. |
+|  | 6.7. Thuốc điều trị sốt rét |  |  |  |  |  |  |
+| 337 | Artesunat | Tiêm | + | + | + |  |  |
+| 338 | Cloroquin | Tiêm, uống | + | + | + | + |  |
+| 339 | Piperaquin + dihydroartemisinin | Uống | + | + | + |  |  |
+| 340 | Primaquin | Uống | + | + | + | + |  |
+| 341 | Quinin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 7. THUỐC ĐIỀU TRỊ ĐAU NỬA ĐẦU |  |  |  |  |  |  |
+| 342 | Dihydro ergotamin mesylat | Tiêm, uống | + | + | + |  |  |
+| 343 | Ergotamin (tartrat) | Tiêm, uống | + | + | + | + |  |
+| 344 | Flunarizin | Uống | + | + | + | + | Quỹ bảo hiểm y tế thanh toán điều trị dự phòng cơn đau nửa đầu trong trường hợp các biện pháp điều trị khác không có hiệu quả hoặc kém dung nạp. |
+| 345 | Sumatriptan | Uống | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 8. THUỐC ĐIỀU TRỊ UNG THƯ VÀ ĐIỀU HÒA MIỄN DỊCH  |  |  |  |  |  |  |
+|  | 8.1. Hóa chất |  |  |  |  |  |  |
+| 346 | Arsenic trioxid | Tiêm | + | + |  |  |  |
+| 347 | Bendamustine | Tiêm truyền | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị bệnh bạch cầu lymphô mạn binet B/C không phù hợp hóa trị với Fludarabin; U lymphô không Hodgkin, diễn tiến chậm, tiến triển sau điều trị với Rituximab; thanh toán 50%. |
+| 348 | Bleomycin | Tiêm | + | + |  |  |  |
+| 349 | Bortezomib | Tiêm | + | + |  |  |  |
+| 350 | Busulfan | Tiêm, uống | + | + |  |  |  |
+| 351 | Capecitabin | Uống | + | + |  |  |  |
+| 352 | Carboplatin | Tiêm | + | + |  |  |  |
+| 353 | Carmustin | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 354 | Cisplatin | Tiêm | + | + |  |  |  |
+| 355 | Cyclophosphamid | Tiêm, uống | + | + |  |  |  |
+| 356 | Cytarabin | Tiêm | + | + |  |  |  |
+| 357 | Dacarbazin | Tiêm | + | + |  |  |  |
+| 358 | Dactinomycin | Tiêm | + | + |  |  |  |
+| 359 | Daunorubicin | Tiêm | + | + |  |  |  |
+| 360 | Decitabin | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 361 | Docetaxel | Tiêm | + | + |  |  |  |
+| 362 | Doxorubicin | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50% đối với dạng liposome; thanh toán 100% đối với các dạng khác. |
+| 363 | Epirubicin hydroclorid | Tiêm | + | + |  |  |  |
+| 364 | Etoposid | Tiêm, uống | + | + |  |  |  |
+| 365 | Everolimus | Tiêm, uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50% đối với điều trị ung thư; thanh toán 100% đối với các trường hợp khác. |
+| 366 | Fludarabin | Tiêm, uống | + | + |  |  |  |
+| 367 | Fluorouracil (5-FU) | Tiêm, dùng ngoài | + | + |  |  |  |
+| 368 | Gemcitabin | Tiêm | + | + |  |  |  |
+| 369 | Hydroxyurea (Hydroxycarbamid) | Uống | + | + |  |  |  |
+| 370 | Idarubicin | Tiêm | + | + |  |  |  |
+| 371 | Ifosfamid | Tiêm | + | + |  |  |  |
+| 372 | Irinotecan | Tiêm | + | + |  |  |  |
+| 373 | L-asparaginase | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50% đối với dạng L-asparaginase erwinia; thanh toán 100% đối với các dạng khác. |
+| 374 | Melphalan | Tiêm, uống | + | + |  |  |  |
+| 375 | Mercaptopurin | Uống | + | + |  |  |  |
+| 376 | Mesna | Tiêm | + | + |  |  |  |
+| 377 | Methotrexat | Tiêm, uống | + | + |  |  |  |
+| 378 | Mitomycin | Tiêm | + | + |  |  |  |
+| 379 | Mitoxantron | Tiêm | + | + |  |  |  |
+| 380 | Oxaliplatin | Tiêm | + | + |  |  |  |
+| 381 | Paclitaxel | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50% đối với dạng liposome và dạng polymeric micelle; thanh toán 100% đối với các dạng khác. |
+| 382 | Pemetrexed | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán ung thư phổi không tế bào nhỏ, ung thư trung biểu mô màng phổi ác tính; thanh toán 50%. |
+| 383 | Procarbazin | Uống | + | + |  |  |  |
+| 384 | Tegafur-uracil (UFT hoặc UFUR) | Uống | + | + |  |  |  |
+| 385 | Tegafur + gimeracil + oteracil kali | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ung thư dạ dày di căn; thanh toán 70%. |
+| 386 | Temozolomid | Uống | + | + |  |  |  |
+| 387 | Tretinoin (All-trans retinoic acid) | Uống | + | + |  |  |  |
+| 388 | Vinblastin sulfat | Tiêm | + | + |  |  |  |
+| 389 | Vincristin sulfat | Tiêm | + | + |  |  |  |
+| 390 | Vinorelbin | Tiêm, uống | + | + |  |  |  |
+|  | 8.2. Thuốc điều trị đích |  |  |  |  |  |  |
+| 391 | Afatinib dimaleate | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 392 | Bevacizumab | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I và bệnh viện chuyên khoa ung bướu hạng II; thanh toán 50%. |
+| 393 | Cetuximab | Tiêm truyền | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ung thư đại trực tràng di căn thuộc type RAS tự nhiên; ung thư tế bào vảy vùng đầu. cổ. Sử dụng tại Bệnh viện hạng đặc biệt, hạng I và bệnh viện chuyên khoa ung bướu hạng II. Thanh toán 50%. |
+| 394 | Erlotinib | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ung thư phổi thể không phải tế bào nhỏ (non-­small cell lung cancer) có EGFR dương tính (epidermall growth factor receptor); thanh toán 50%. |
+| 395 | Gefitinib | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ung thư phổi thể không phải tế bào nhỏ (non­-small cell lung cancer) có EGFR dương tính (epidermall growth factor receptor); thanh toán 50%. |
+| 396 | Imatinib | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị bệnh bạch cầu tủy mạn (CML); u mô đệm dạ dày ruột (GIST). Thanh toán 80%. |
+| 397 | Nilotinib | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán khi điều trị bệnh bạch cầu tủy mạn (CML) không dung nạp hoặc kháng lại với thuốc Imatinib; thanh toán 80%. |
+| 398 | Nimotuzumab | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 399 | Pazopanib | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 400 | Rituximab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị u lympho không phải Hodgkin (non-Hodgkin lymphoma) tế bào B có CD20 dương tính. |
+| 401 | Sorafenib | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50% đối với điều trị ung thư tế bào biểu mô gan, ung thư biểu mô tuyến giáp biệt hóa tiến triển tại chỗ hoặc di căn đã thất bại điều trị với iod phóng xạ; thanh toán 30% đối với điều trị ung thư tế bào biểu mô thận tiến triển. |
+| 402 | Trastuzumab | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I và bệnh viện chuyên khoa ung bướu hạng II. Thanh toán 60% đối với ung thư vú có HER2 dương tính; thanh toán 50% đối với ung thư dạ dày tiến xa hoặc di căn có HER2 dương tính. |
+|  | 8.3. Thuốc điều trị nội tiết |  |  |  |  |  |  |
+| 403 | Abiraterone acetate | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị ung thư tiền liệt tuyến sau khi thất bại với điều trị nội tiết, hoặc sau khi thất bại với điều trị hóa trị; thanh toán 30%. |
+| 404 | Anastrozol | Uống | + | + |  |  |  |
+| 405 | Bicalutamid | Uống | + | + |  |  |  |
+| 406 | Degarelix | Tiêm | + | + |  |  |  |
+| 407 | Exemestan | Uống | + | + |  |  |  |
+| 408 | Flutamid | Uống | + | + |  |  |  |
+| 409 | Fulvestrant | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 410 | Goserelin acetat | Tiêm | + | + |  |  |  |
+| 411 | Letrozol | Uống | + | + |  |  |  |
+| 412 | Leuprorelin acetat | Tiêm | + | + |  |  |  |
+| 413 | Tamoxifen | Uống | + | + |  |  |  |
+| 414 | Triptorelin | Tiêm | + | + |  |  |  |
+|  | 8.4. Thuốc điều hòa miễn dịch |  |  |  |  |  |  |
+| 415 | Anti thymocyte globulin | Tiêm | + |  |  |  |  |
+| 416 | Azathioprin | Uống | + | + |  |  |  |
+| 417 | Các kháng thể gắn với interferon ở người | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán cho trẻ em dưới 6 tuổi nhiễm trùng đường hô hấp trên cấp tính điều trị nội trú. |
+| 418 | Ciclosporin | Tiêm, uống | + | + |  |  |  |
+| 419 | Basiliximab | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 420 | Glycyl funtumin (hydroclorid) | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán cho chỉ định bổ trợ trong điều trị ung thư. |
+| 421 | Lenalidomid | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 422 | Mycophenolat | Uống | + | + |  |  |  |
+| 423 | Tacrolimus | Tiêm, uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán theo chỉ định của một trong các trường hợp sau: - Tờ hướng dẫn sử dụng thuốc kèm theo hồ sơ đăng ký thuốc đã được cấp phép; - Hướng dẫn chẩn đoán điều trị huyết học, ghép tạng của Bộ Y tế; - Đối với người bệnh: ghép tim, ghép phổi, ghép tụy, ghép chi thể, ghép ruột; viêm thận Lupus ở người lớn hoặc trẻ em không đáp ứng đầy đủ hoặc kháng với corticoids; hội chứng thận hư ở người lớn hoặc trẻ em không đáp ứng đầy đủ hoặc kháng với corticoids hoặc không dung nạp corticoids. |
+| 424 | Thalidomid | Uống | + | + |  |  |  |
+|  | 8.5. Thuốc khác |  |  |  |  |  |  |
+| 425 | Clodronat disodium | Tiêm, uống | + | + |  |  |  |
+| 426 | Pamidronat | Tiêm, uống | + | + |  |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 9. THUỐC ĐIỀU TRỊ BỆNH ĐƯỜNG TIẾT NIỆU |  |  |  |  |  |  |
+| 427 | Alfuzosin | Uống | + | + | + |  |  |
+| 428 | Dutasterid | Uống | + | + | + |  |  |
+| 429 | Flavoxat | Uống | + | + | + |  |  |
+| 430 | Lipidosterol serenoarepense (Lipid-sterol của Serenoa repens) | Uống | + | + |  |  |  |
+| 431 | Pinene + camphene + cineol + fenchone + borneol + anethol | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị sau tán sỏi; hoặc điều trị sỏi niệu quản <7mm. |
+| 432 | Solifenacin succinate | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 70%. |
+| 433 | Tamsulosin hydroclorid | Uống | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 10. THUỐC CHỐNG PARKINSON [ID: dieu_10] |  |  |  |  |  |  |
+| 434 | Levodopa + carbidopa | Uống | + | + | + | + |  |
+| 435 | Levodopa + carbidopa monohydrat + entacapone | Uống | + | + | + | + |  |
+| 436 | Levodopa + benserazid | Uống | + | + | + | + |  |
+| 437 | Piribedil | Uống | + | + | + |  |  |
+| 438 | Pramipexol | Uống | + | + |  |  |  |
+| 439 | Tolcapon | Uống | + | + |  |  |  |
+| 440 | Rotigotine | Dán ngoài da | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 441 | Trihexyphenidyl hydroclorid | Uống | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 11. THUỐC TÁC DỤNG ĐỐI VỚI MÁU [ID: dieu_11] |  |  |  |  |  |  |
+|  | 11.1. Thuốc chống thiếu máu |  |  |  |  |  |  |
+| 442 | Acid folic (vitamin B9) | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+| 443 | Sắt fumarat | Uống | + | + |  |  |  |
+| 444 | Sắt (III) hydroxyd polymaltose | Uống | + | + |  |  |  |
+| 445 | Sắt protein succinylat | Uống | + | + | + |  |  |
+| 446 | Sắt sucrose (hay dextran) | Tiêm | + | + |  |  |  |
+| 447 | Sắt sulfat | Uống | + | + | + | + |  |
+| 448 | Sắt ascorbat + acid folic | Uống | + | + | + |  |  |
+| 449 | Sắt fumarat + acid folic | Uống | + | + | + | + |  |
+| 450 | Sắt (III) hydroxyd polymaltose + acid folic | Uống | + | + |  |  |  |
+| 451 | Sắt sulfat + acid folic | Uống | + | + | + | + |  |
+|  | 11.2. Thuốc tác dụng lên quá trình đông máu |  |  |  |  |  |  |
+| 452 | Carbazochrom | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 453 | Cilostazol | Uống | + | + | + |  |  |
+| 454 | Enoxaparin (natri) | Tiêm | + | + | + |  |  |
+| 455 | Etamsylat | Tiêm, uống | + | + | + |  |  |
+| 456 | Heparin (natri) | Tiêm | + | + | + |  |  |
+| 457 | Nadroparin | Tiêm | + | + | + |  |  |
+| 458 | Phytomenadion (vitamin K1) | Tiêm, uống | + | + | + | + |  |
+| 459 | Protamin sulfat | Tiêm | + | + | + |  |  |
+| 460 | Tranexamic acid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 461 | Triflusal | Uống | + | + | + |  |  |
+| 462 | Warfarin (muối natri) | Uống | + | + | + |  |  |
+|  | 11.3. Máu và chế phẩm máu |  |  |  |  |  |  |
+| 463 | Albumin | Tiêm truyền | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong trường hợp: Nồng độ albumin máu ≤ 2,5 g/dl hoặc sốc hoặc hội chứng suy hô hấp tiến triển; thanh toán 70%. |
+| 464 | Albumin + immuno globulin | Tiêm truyền | + | + |  |  | Quỹ bảo hiểm y tế thanh toán trong những trường hợp sốc do nguyên nhân: bỏng, chấn thương, mất nước, nhiễm trùng nặng. |
+| 465 | Huyết tương | Tiêm truyền | + | + | + |  |  |
+| 466 | Khối bạch cầu | Tiêm truyền | + | + | + |  |  |
+| 467 | Khối hồng cầu | Tiêm truyền | + | + | + |  |  |
+| 468 | Khối tiểu cầu | Tiêm truyền | + | + | + |  |  |
+| 469 | Máu toàn phần | Tiêm truyền | + | + | + |  |  |
+| 470 | Phức hợp kháng yếu tố ức chế yếu tố VIII bắc cầu (Factor Eight Inhibitor Bypassing Activity - FEIBA) | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán trong trường hợp: - Điều trị chảy máu trên người bệnh ưa chảy máu nhóm A có kèm theo yếu tố ức chế yếu tố VIII; - Điều trị chảy máu trên người bệnh ưa chảy máu nhóm B có kèm theo yếu tố ức chế yếu tố IX; - Điều trị chảy máu trên người bệnh khác (không phải bệnh nhân hemophilia) mà có yếu tố ức chế yếu tố VIII mắc phải hoặc yếu tố ức chế yếu tố IX mắc phải; - Điều trị chảy máu phẫu thuật trên người bệnh có kèm theo yếu tố ức chế cần được phẫu thuật. |
+| 471 | Yếu tố VIIa | Tiêm | + | + |  |  |  |
+| 472 | Yếu tố VIII | Tiêm | + | + | + |  |  |
+| 473 | Yếu tố IX | Tiêm truyền | + | + |  |  |  |
+| 474 | Yếu tố VIII + yếu tố von Willebrand | Tiêm truyền | + | + |  |  |  |
+|  | 11.4. Dung dịch cao phân tử |  |  |  |  |  |  |
+| 475 | Dextran 40 | Tiêm truyền | + | + | + | + |  |
+| 476 | Dextran 60 | Tiêm truyền | + | + | + |  |  |
+| 477 | Dextran 70 | Tiêm truyền | + | + | + |  |  |
+| 478 | Gelatin | Tiêm truyền | + | + | + |  |  |
+| 479 | Gelatin succinyl + natri clorid + natri hydroxyd | Tiêm truyền | + | + | + |  |  |
+| 480 | Tinh bột este hóa (hydroxyethyl starch) | Tiêm truyền | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị giảm thể tích tuần hoàn do mất máu cấp khi sử dụng dịch truyền đơn thuần không cải thiện lâm sàng; điều trị sốt xuất huyết Dengue nặng theo Hướng dẫn chẩn đoán và điều trị sốt xuất huyết Dengue của Bộ Y tế. |
+|  | 11.5. Thuốc khác |  |  |  |  |  |  |
+| 481 | Deferasirox | Uống | + | + |  |  |  |
+| 482 | Deferipron | Uống | + | + |  |  |  |
+| 483 | Eltrombopag | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán khi điều trị xuất huyết giảm tiểu cầu miễn dịch mạn tính ở người lớn kháng trị với cắt lách. |
+| 484 | Erythropoietin | Tiêm | + | + | + |  |  |
+| 485 | Filgrastim | Tiêm | + | + |  |  |  |
+| 486 | Methoxy polyethylene glycol epoetin beta | Tiêm | + | + | + |  |  |
+| 487 | Pegfilgrastim | Tiêm | + | + |  |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 12. THUỐC TIM MẠCH [ID: dieu_12] |  |  |  |  |  |  |
+|  | 12.1. Thuốc chống đau thắt ngực |  |  |  |  |  |  |
+| 488 | Diltiazem | Uống | + | + | + | + |  |
+| 489 | Glyceryl trinitrat (Nitroglycerin) | Tiêm, phun mù, dán ngoài da | + | + | + |  |  |
+| Đặt dưới lưỡi | + | + | + | + |  |
+| 490 | Isosorbid (dinitrat hoặc mononitrat) | Tiêm, khí dung, dạng xịt | + | + | + |  |  |
+| Uống, đặt dưới lưỡi | + | + | + | + |  |
+| 491 | Nicorandil | Uống | + | + | + |  |  |
+| 492 | Trimetazidin | Uống | + | + | + | + | Quỹ bảo hiểm y tế thanh toán điều trị triệu chứng ở người bệnh đau thắt ngực ổn định không được kiểm soát đầy đủ hoặc người bệnh không dung nạp với các liệu pháp điều trị khác. |
+|  | 12.2. Thuốc chống loạn nhịp |  |  |  |  |  |  |
+| 493 | Adenosin triphosphat | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 494 | Amiodaron hydroclorid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 495 | Isoprenalin | Tiêm, uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu trụy tim mạch, block tim, co thắt phế quản trong gây mê. |
+| 496 | Propranolol hydroclorid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 497 | Sotalol | Uống | + | + | + |  |  |
+| 498 | Verapamil hydroclorid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+|  | 12.3. Thuốc điều trị tăng huyết áp |  |  |  |  |  |  |
+| 499 | Acebutolol | Uống | + | + | + | + |  |
+| 500 | Amlodipin | Uống | + | + | + | + |  |
+| 501 | Amlodipin + atorvastatin | Uống | + | + | + | + |  |
+| 502 | Amlodipin + losartan | Uống | + | + | + | + |  |
+| 503 | Amlodipin + lisinopril | Uống | + | + | + | + |  |
+| 504 | Amlodipin + indapamid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị của Bộ Y tế. |
+| 505 | Amlodipin + indapamid + perindopril | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị của Bộ Y tế. |
+| 506 | Amlodipin + telmisartan | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị của Bộ Y tế. |
+| 507 | Amlodipin + valsartan | Uống | + | + | + | + |  |
+| 508 | Amlodipin + valsartan + hydrochlorothiazid | Uống | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị của Bộ Y tế. |
+| 509 | Atenolol | Uống | + | + | + | + |  |
+| 510 | Benazepril hydroclorid | Uống | + | + | + | + |  |
+| 511 | Bisoprolol | Uống | + | + | + | + |  |
+| 512 | Bisoprolol + hydroclorothiazid | Uống | + | + | + | + |  |
+| 513 | Candesartan | Uống | + | + | + | + |  |
+| 514 | Candesartan + hydrochlorothiazid | Uống | + | + | + | + |  |
+| 515 | Captopril | Uống | + | + | + | + |  |
+| 516 | Captopril + hydroclorothiazid | Uống | + | + | + | + |  |
+| 517 | Carvedilol | Uống | + | + | + | + |  |
+| 518 | Cilnidipin | Uống | + | + | + |  |  |
+| 519 | Clonidin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + |  |  |
+| 520 | Doxazosin | Uống | + | + | + |  |  |
+| 521 | Enalapril | Uống | + | + | + | + |  |
+| 522 | Enalapril + hydrochlorothiazid | Uống | + | + | + | + |  |
+| 523 | Felodipin | Uống | + | + | + | + |  |
+| 524 | Felodipin + metoprolol tartrat | Uống | + | + | + |  |  |
+| 525 | Hydralazin | Tiêm truyền | + | + |  |  |  |
+| 526 | Imidapril | Uống | + | + | + | + |  |
+| 527 | Indapamid | Uống | + | + | + | + |  |
+| 528 | Irbesartan | Uống | + | + | + | + |  |
+| 529 | Irbesartan + hydroclorothiazid | Uống | + | + | + | + |  |
+| 530 | Lacidipin | Uống | + | + | + | + |  |
+| 531 | Lercanidipin hydroclorid | Uống | + | + | + | + |  |
+| 532 | Lisinopril | Uống | + | + | + | + |  |
+| 533 | Lisinopril + hydroclorothiazid | Uống | + | + | + | + |  |
+| 534 | Losartan | Uống | + | + | + | + |  |
+| 535 | Losartan + hydroclorothiazid | Uống | + | + | + | + |  |
+| 536 | Methyldopa | Uống | + | + | + | + |  |
+| 537 | Metoprolol | Uống | + | + | + | + |  |
+| 538 | Nebivolol | Uống | + | + | + | + |  |
+| 539 | Nicardipin | Tiêm, uống | + | + | + |  |  |
+| 540 | Nifedipin | Uống | + | + | + | + |  |
+| 541 | Perindopril | Uống | + | + | + | + |  |
+| 542 | Perindopril + amlodipin | Uống | + | + | + | + |  |
+| 543 | Perindopril + indapamid | Uống | + | + | + | + |  |
+| 544 | Quinapril | Uống | + | + | + | + |  |
+| 545 | Ramipril | Uống | + | + | + | + |  |
+| 546 | Rilmenidin | Uống | + | + | + |  |  |
+| 547 | Telmisartan | Uống | + | + | + | + |  |
+| 548 | Telmisartan + hydroclorothiazid | Uống | + | + | + | + |  |
+| 549 | Valsartan | Uống | + | + | + | + |  |
+| 550 | Valsartan + hydroclorothiazid | Uống | + | + | + | + |  |
+|  | 12.4. Thuốc điều trị hạ huyết áp |  |  |  |  |  |  |
+| 551 | Heptaminol hydroclorid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+|  | 12.5. Thuốc điều trị suy tim |  |  |  |  |  |  |
+| 552 | Carvedilol | Uống | + | + | + | + |  |
+| 553 | Digoxin | Uống | + | + | + |  |  |
+| Tiêm | + | + | + | + | Đối với phòng khám đa khoa và trạm y tế xã: Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu. |
+| 554 | Dobutamin | Tiêm | + | + | + |  |  |
+| 555 | Dopamin hydroclorid | Tiêm | + | + | + |  |  |
+| 556 | Ivabradin | Uống | + | + | + |  |  |
+| 557 | Milrinon | Tiêm | + | + |  |  |  |
+|  | 12.6. Thuốc chống huyết khối |  |  |  |  |  |  |
+| 558 | Acenocoumarol | Uống | + | + | + |  |  |
+| 559 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | Uống | + | + | + | + |  |
+| 560 | Acetylsalicylic acid + clopidogrel | Uống | + | + | + |  |  |
+| 561 | Alteplase | Tiêm | + | + |  |  |  |
+| 562 | Apixaban | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán trong điều trị COVID-19 theo hướng dẫn chẩn đoán và điều trị COVID-19 của Bộ Y tế. |
+| 563 | Clopidogrel | Uống | + | + | + | + |  |
+| 564 | Dabigatran | Uống | + | + |  |  |  |
+| 565 | Dipyridamol + acetylsalicylic acid | Uống | + | + | + |  |  |
+| 566 | Eptifibatid | Tiêm | + | + |  |  |  |
+| 567 | Fondaparinux sodium | Tiêm | + |  |  |  |  |
+| 568 | Rivaroxaban | Uống | + | + |  |  |  |
+| 569 | Streptokinase | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán khi dùng để tiêm; hoặc sử dụng để bơm rửa khoang màng phổi trong trường hợp viêm màng phổi hoặc mủ màng phổi. |
+| 570 | Tenecteplase | Tiêm | + | + |  |  |  |
+| 571 | Ticagrelor | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 70%. |
+| 572 | Urokinase | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán khi dùng để tiêm; hoặc sử dụng để bơm rửa khoang màng phổi trong trường hợp viêm màng phổi hoặc mủ màng phổi. |
+|  | 12.7. Thuốc hạ lipid máu |  |  |  |  |  |  |
+| 573 | Atorvastatin | Uống | + | + | + | + | Đối với trạm y tế xã, quỹ bảo hiểm y tế thanh toán trong điều trị rối loạn lipid máu theo hướng dẫn chẩn đoán điều trị của Bộ Y tế. |
+| 574 | Atorvastatin + ezetimibe | Uống | + | + | + |  |  |
+| 575 | Bezafibrat | Uống | + | + | + |  |  |
+| 576 | Ciprofibrat | Uống | + | + | + |  |  |
+| 577 | Ezetimibe | Uống | + | + | + |  |  |
+| 578 | Fenofibrat | Uống | + | + | + |  | Đối với trạm y tế xã, quỹ bảo hiểm y tế thanh toán trong điều trị rối loạn lipid máu theo hướng dẫn chẩn đoán của Bộ Y tế. |
+| 579 | Fluvastatin | Uống | + | + | + | + |  |
+| 580 | Gemfibrozil | Uống | + | + | + |  |  |
+| 581 | Lovastatin | Uống | + | + | + | + |  |
+| 582 | Pravastatin | Uống | + | + | + | + |  |
+| 583 | Rosuvastatin | Uống | + | + | + | + |  |
+| 584 | Simvastatin | Uống | + | + | + | + | Đối với trạm y tế xã, quỹ bảo hiểm y tế thanh toán trong điều trị rối loạn lipid máu theo hướng dẫn chẩn đoán điều trị của Bộ Y tế. |
+| 585 | Simvastatin + ezetimibe | Uống | + | + | + |  |  |
+|  | 12.8. Thuốc khác |  |  |  |  |  |  |
+| 586 | Bosentan | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tăng áp lực động mạch phổi; thanh toán 50%. |
+| 587 | Iloprost | Tiêm, dạng hít, nhỏ mắt | + | + |  |  |  |
+| 588 | Prostaglandin E1 | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu trường hợp mở ống động mạch cho trẻ sơ sinh mắc dị tật tim bẩm sinh còn ống động mạch. |
+| 589 | Fructose 1,6 diphosphat | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán trong các trường hợp: - Thiếu máu cơ tim cục bộ, nhồi máu cơ tim diện rộng giai đoạn sớm, phẫu thuật tim thời gian tuần hoàn ngoài cơ thể; - Sốc do tai biến tim, do chấn thương, do chảy máu, do đột quỵ hoặc nhiễm trùng nặng; - Sau phẫu thuật gan hoặc bị bỏng nặng. |
+| 590 | Indomethacin | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị đóng chứng còn ống động mạch ở trẻ đẻ non. |
+| 591 | Magnesi clorid + kali clorid + procain hydroclorid | Tiêm | + |  |  |  |  |
+| 592 | Naftidrofuryl | Uống | + | + | + |  |  |
+| 593 | Nimodipin | Tiêm, uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị xuất huyết màng não do phình mạch não hoặc do chấn thương. |
+| 594 | Nitric oxid (nitrogen monoxid) (NO) | Khí nén | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tăng áp lực động mạch phổi ở trẻ em; sử dụng trong và sau phẫu thuật, can thiệp tim mạch. |
+| 595 | Succinic acid + nicotinamid + inosine + riboflavin natri phosphat | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị đột quỵ thiếu máu cục bộ giai đoạn cấp tính. |
+| 596 | Sulbutiamin | Uống | + | + | + |  |  |
+| 597 | Tolazolin | Tiêm, uống | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 13. THUỐC ĐIỀU TRỊ BỆNH DA LIỄU [ID: dieu_13] |  |  |  |  |  |  |
+| 598 | Acitretin | Uống | + | + | + | + |  |
+| 599 | Adapalen | Dùng ngoài | + | + |  |  |  |
+| 600 | Alpha - terpineol | Dùng ngoài | + | + |  |  |  |
+| 601 | Amorolfin | Dùng ngoài | + | + |  |  |  |
+| 602 | Azelaic acid | Dùng ngoài | + | + |  |  |  |
+| 603 | Benzoic acid + salicylic acid | Dùng ngoài | + | + | + | + |  |
+| 604 | Benzoyl peroxid | Dùng ngoài | + | + |  |  |  |
+| 605 | Bột talc | Dùng ngoài | + | + | + | + |  |
+| 606 | Calcipotriol | Dùng ngoài | + | + | + |  |  |
+| 607 | Calcipotriol + betamethason dipropionat | Dùng ngoài | + | + |  |  |  |
+| 608 | Capsaicin | Dùng ngoài | + | + | + | + |  |
+| 609 | Clotrimazol | Dùng ngoài | + | + | + | + |  |
+| 610 | Clobetasol propionat | Dùng ngoài | + | + | + |  |  |
+| 611 | Clobetasol butyrat | Dùng ngoài | + | + | + |  |  |
+| 612 | Cortison | Dùng ngoài | + | + | + |  |  |
+| 613 | Cồn A.S.A | Dùng ngoài | + | + | + | + |  |
+| 614 | Cồn boric | Dùng ngoài | + | + | + | + |  |
+| 615 | Cồn BSI | Dùng ngoài | + | + | + | + |  |
+| 616 | Crotamiton | Dùng ngoài | + | + | + | + |  |
+| 617 | Dapson | Uống | + | + |  |  |  |
+| 618 | Desonid | Dùng ngoài | + | + |  |  |  |
+| 619 | Dexpanthenol (panthenol, vitamin B5) | Dùng ngoài | + | + | + | + |  |
+| 620 | Diethylphtalat | Dùng ngoài | + | + | + | + |  |
+| 621 | S-bioallethrin + piperonyl butoxid | Dùng ngoài | + | + |  |  |  |
+| 622 | Flumethason + clioquinol | Dùng ngoài | + | + | + | + |  |
+| 623 | Fusidic acid | Dùng ngoài | + | + | + | + |  |
+| 624 | Fusidic acid + betamethason | Dùng ngoài | + | + | + |  |  |
+| 625 | Fusidic acid + hydrocortison | Dùng ngoài | + | + |  |  |  |
+| 626 | Isotretinoin | Uống, dùng ngoài | + | + | + |  |  |
+| 627 | Kẽm oxid | Dùng ngoài | + | + | + | + |  |
+| 628 | Mometason furoat | Dùng ngoài | + | + |  |  |  |
+| 629 | Mometason furoat + salicylic acid | Dùng ngoài | + | + |  |  |  |
+| 630 | Mupirocin | Dùng ngoài | + | + | + |  |  |
+| 631 | Natri hydrocarbonat | Dùng ngoài | + | + | + | + |  |
+| 632 | Nepidermin | Xịt ngoài da | + | + |  |  |  |
+| 633 | Nước oxy già | Dùng ngoài | + | + | + | + |  |
+| 634 | Para aminobenzoic acid | Uống | + | + |  |  |  |
+| 635 | Recombinant human Epidermal Growth Factor (rhEGF) | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tổn thương loét nặng do đái tháo đường độ 3, độ 4. |
+| 636 | Salicylic acid | Dùng ngoài | + | + | + | + |  |
+| 637 | Salicylic acid + betamethason dipropionat | Dùng ngoài | + | + | + | + |  |
+| 638 | Secukinumab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 639 | Tacrolimus | Dùng ngoài | + | + | + |  |  |
+| 640 | Tretinoin | Dùng ngoài | + | + | + |  |  |
+| 641 | Trolamin | Dùng ngoài | + | + | + |  |  |
+| 642 | Tyrothricin | Dùng ngoài | + | + |  |  |  |
+| 643 | Urea | Dùng ngoài | + | + | + |  |  |
+| 644 | Ustekinumab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 14. THUỐC DÙNG CHẨN ĐOÁN [ID: dieu_14] |  |  |  |  |  |  |
+|  | 14.1. Chuyên khoa mắt |  |  |  |  |  |  |
+| 645 | Fluorescein (natri) | Tiêm, nhỏ mắt | + | + | + |  |  |
+|  | 14.2. Thuốc cản quang |  |  |  |  |  |  |
+| 646 | Adipiodon (meglumin) | Tiêm truyền | + | + | + |  |  |
+| 647 | Amidotrizoat | Tiêm | + | + | + |  |  |
+| 648 | Bari sulfat | Uống | + | + | + | + |  |
+| 649 | Ethyl ester của acid béo iod hóa trong dầu hạt thuốc phiện | Tiêm | + | + | + |  |  |
+| 650 | Gadobenic acid (dimeglumin) | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán tiêm tĩnh mạch trong chụp chiếu gan. |
+| 651 | Gadobutrol | Tiêm | + |  |  |  |  |
+| 652 | Gadoteric acid | Tiêm | + | + | + |  |  |
+| 653 | Iobitridol | Tiêm | + | + | + |  |  |
+| 654 | Iodixanol | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 50%. |
+| 655 | Iohexol | Tiêm | + | + | + |  |  |
+| 656 | Iopamidol | Tiêm | + | + | + |  |  |
+| 657 | Iopromid acid | Tiêm | + | + | + |  |  |
+| 658 | Ioxitalamat natri + ioxitalamat meglumin | Tiêm | + | + |  |  |  |
+| 659 | Muối natri và meglumin của acid ioxaglic | Tiêm | + | + | + |  |  |
+|  | 14.3. Thuốc khác |  |  |  |  |  |  |
+| 660 | Polidocanol | Tiêm | + | + |  |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 15. THUỐC TẨY TRÙNG VÀ SÁT KHUẨN [ID: dieu_15] |  |  |  |  |  |  |
+| 661 | Cồn 70° | Dùng ngoài | + | + | + | + |  |
+| 662 | Cồn iod | Dùng ngoài | + | + | + | + |  |
+| 663 | Đồng sulfat | Dùng ngoài | + | + | + | + |  |
+| 664 | Povidon iodin | Dùng ngoài, đặt âm đạo | + | + | + | + |  |
+| 665 | Natri hypoclorid đậm đặc | Dùng ngoài | + | + | + |  |  |
+| 666 | Natri clorid | Dùng ngoài | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 16. THUỐC LỢI TIỂU [ID: dieu_16] |  |  |  |  |  |  |
+| 667 | Furosemid | Tiêm | + | + | + | + | Đối với phòng khám đa khoa và trạm y tế xã: Quỹ bảo hiểm y tế thanh toán điều trị cấp cứu. |
+| Uống | + | + | + | + |  |
+| 668 | Furosemid + spironolacton | Uống | + | + | + | + |  |
+| 669 | Hydroclorothiazid | Uống | + | + | + | + |  |
+| 670 | Spironolacton | Uống | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 17. THUỐC ĐƯỜNG TIÊU HÓA [ID: dieu_17] |  |  |  |  |  |  |
+|  | 17.1. Thuốc kháng acid và các thuốc chống loét khác tác dụng trên đường tiêu hóa |  |  |  |  |  |  |
+| 671 | Aluminum phosphat | Uống | + | + | + | + |  |
+| 672 | Attapulgit mormoiron hoạt hóa + hỗn hợp magnesi carbonat-nhôm hydroxyd | Uống | + | + | + | + |  |
+| 673 | Bismuth | Uống | + | + | + |  |  |
+| 674 | Cimetidin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 675 | Famotidin | Tiêm, uống | + | + | + | + |  |
+| 676 | Guaiazulen + dimethicon | Uống | + | + | + | + |  |
+| 677 | Lansoprazol | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán theo chỉ định trong tờ hướng dẫn sử dụng thuốc kèm theo hồ sơ đăng ký thuốc đã được cấp phép hoặc hướng dẫn chẩn đoán và điều trị của Bộ Y tế hoặc chỉ định dự phòng loét dạ dày tá tràng, xuất huyết tiêu hóa tại dạ dày, tá tràng do stress ở bệnh nhân hồi sức tích cực. |
+| 678 | Magnesi hydroxyd + nhôm hydroxyd | Uống | + | + | + | + |  |
+| 679 | Magnesi hydroxyd + nhôm hydroxyd + simethicon | Uống | + | + | + | + |  |
+| 680 | Magnesi trisilicat + nhôm hydroxyd | Uống | + | + | + |  |  |
+| 681 | Nizatidin | Uống | + | + | + |  |  |
+| 682 | Omeprazol | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán theo chỉ định trong tờ hướng dẫn sử dụng thuốc kèm theo hồ sơ đăng ký thuốc đã được cấp phép hoặc hướng dẫn chẩn đoán và điều trị của Bộ Y tế hoặc chỉ định dự phòng loét dạ dày tá tràng, xuất huyết tiêu hóa tại dạ dày, tá tràng do stress ở bệnh nhân hồi sức tích cực. |
+| Uống | + | + | + | + |
+| 683 | Esomeprazol | Tiêm | + | + | + |  |
+| Uống | + | + | + | + |
+| 684 | Pantoprazol | Tiêm, uống | + | + | + |  |
+| 685 | Rabeprazol | Uống | + | + | + |  |
+| Tiêm | + | + |  |  |
+| 686 | Ranitidin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 687 | Ranitidin + bismuth + sucralfat | Uống | + | + | + |  |  |
+| 688 | Rebamipid | Uống | + | + | + |  |  |
+| 689 | Sucralfat | Uống | + | + | + | + |  |
+|  | 17.2. Thuốc chống nôn |  |  |  |  |  |  |
+| 690 | Dimenhydrinat | Uống | + | + | + | + |  |
+| 691 | Domperidon | Uống | + | + | + | + |  |
+| 692 | Granisetron hydroclorid | Tiêm | + | + | + |  |  |
+| 693 | Metoclopramid | Tiêm | + | + | + |  |  |
+| Uống, đặt hậu môn | + | + | + | + |  |
+| 694 | Ondansetron | Tiêm | + | + |  |  |  |
+| Uống | + | + | + |  |  |
+| 695 | Palonosetron hydroclorid | Tiêm | + | + |  |  |  |
+|  | 17.3. Thuốc chống co thắt |  |  |  |  |  |  |
+| 696 | Alverin citrat | Tiêm, uống | + | + | + | + |  |
+| 697 | Alverin citrat + simethicon | Uống | + | + | + | + |  |
+| 698 | Atropin sulfat | Tiêm, uống | + | + | + | + |  |
+| 699 | Drotaverin clohydrat | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 700 | Hyoscin butylbromid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 701 | Mebeverin hydroclorid | Uống | + | + | + | + |  |
+| 702 | Papaverin hydroclorid | Tiêm, uống | + | + | + | + |  |
+| 703 | Phloroglucinol hydrat + trimethyl phloroglucinol | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 704 | Tiemonium methylsulfat | Tiêm | + | + | + |  |  |
+| 705 | Tiropramid hydroclorid | Uống | + | + | + |  |  |
+|  | 17.4. Thuốc tẩy, nhuận tràng |  |  |  |  |  |  |
+| 706 | Bisacodyl | Uống | + | + | + | + |  |
+| 707 | Docusate natri | Uống, thụt hậu môn/ trực tràng | + | + | + | + |  |
+| 708 | Glycerol | Thụt hậu môn/ trực tràng | + | + | + | + |  |
+| 709 | Lactulose | Uống | + | + | + | + |  |
+| 710 | Macrogol | Uống | + | + | + | + |  |
+| 711 | Macrogol + natri sulfat + natri bicarbonat + natri clorid + kali clorid | Uống | + | + | + |  |  |
+| 712 | Magnesi sulfat | Uống | + | + | + | + |  |
+| 713 | Monobasic natri phosphat + dibasic natri phosphat | Uống, thụt hậu môn/ trực tràng, dùng ngoài | + | + | + |  |  |
+| 714 | Sorbitol | Uống | + | + | + | + |  |
+| 715 | Sorbitol + natri citrat | Thụt hậu môn/ trực tràng | + | + | + |  |  |
+|  | 17.5. Thuốc điều trị tiêu chảy |  |  |  |  |  |  |
+| 716 | Attapulgit mormoiron hoạt hóa | Uống | + | + | + | + |  |
+| 717 | Bacillus subtilis | Uống | + | + | + | + |  |
+| 718 | Bacillus clausii | Uống | + | + | + | + |  |
+| 719 | Berberin (hydroclorid) | Uống | + | + | + | + |  |
+| 720 | Dioctahedral smectit | Uống | + | + | + | + |  |
+| 721 | Diosmectit | Uống | + | + | + | + |  |
+| 722 | Gelatin tannat | Uống | + | + | + |  |  |
+| 723 | Kẽm sulfat | Uống, dùng ngoài | + | + | + | + |  |
+| 724 | Kẽm gluconat | Uống | + | + | + | + |  |
+| 725 | Lactobacillus acidophilus | Uống | + | + | + | + |  |
+| 726 | Loperamid | Uống | + | + | + | + |  |
+| 727 | Nifuroxazid | Uống | + | + | + | + |  |
+| 728 | Racecadotril | Uống | + | + | + |  |  |
+| 729 | Saccharomyces boulardii | Uống | + | + | + | + |  |
+|  | 17.6. Thuốc điều trị trĩ |  |  |  |  |  |  |
+| 730 | Cao ginkgo biloba + heptaminol clohydrat + troxerutin | Uống | + | + | + | + |  |
+| 731 | Diosmin | Uống | + | + | + | + |  |
+| 732 | Diosmin + hesperidin | uống | + | + | + | + |  |
+|  | 17.7. Thuốc khác |  |  |  |  |  |  |
+| 733 | Amylase + lipase + protease | Uống | + | + | + | + |  |
+| 734 | Citrullin malat | Uống | + | + |  |  |  |
+| 735 | Itoprid | Uống | + | + |  |  |  |
+| 736 | L-Omithin - L- aspartat | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị bệnh não do gan từ giai đoạn 2 trở lên theo hệ thống phân loại West Haven. |
+| 737 | Mesalazin (mesalamin) | Uống | + | + | + |  |  |
+| Thụt hậu môn, đặt hậu môn | + |  |  |  |  |
+| 738 | Octreotid | Tiêm | + | + | + |  |  |
+| 739 | Simethicon | Uống | + | + | + | + |  |
+| 740 | Silymarin | Uống | + | + |  |  |  |
+| 741 | Somatostatin | Tiêm truyền | + | + | + |  |  |
+| 742 | Terlipressin | Tiêm | + | + | + |  |  |
+| 743 | Trimebutin maleat | Uống | + | + | + | + |  |
+| 744 | Ursodeoxycholic acid | Uống | + | + | + |  |  |
+| 745 | Otilonium bromide | Uống | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 18. HOCMON VÀ CÁC THUỐC TÁC ĐỘNG VÀO HỆ THỐNG NỘI TIẾT [ID: dieu_18] |  |  |  |  |  |  |
+|  | 18.1. Hocmon thượng thận và những chất tổng hợp thay thế |  |  |  |  |  |  |
+| 746 | Beclometason (dipropionat) | Xịt mũi, xịt họng | + | + | + |  |  |
+| 747 | Betamethason | Tiêm, uống | + | + | + |  |  |
+| Nhỏ mắt, nhỏ tai, nhỏ mũi, dùng ngoài | + | + | + | + |  |
+| 748 | Danazol | Uống | + | + |  |  |  |
+| 749 | Dexamethason | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế không thanh toán trường hợp tiêm trong dịch kính, tiêm nội nhãn. |
+| Uống | + | + | + | + |  |
+| Nhỏ mắt | + | + | + |  |  |
+| 750 | Dexamethason phosphat + neomycin | Nhỏ mắt, nhỏ mũi | + | + | + | + |  |
+| 751 | Betamethasone + dexchlorpheniramin | Uống | + | + | + |  |  |
+| 752 | Fludrocortison acetat | Uống | + | + | + |  |  |
+| 753 | Fluocinolon acetonid | Dùng ngoài | + | + | + | + |  |
+| 754 | Hydrocortison | Tiêm, uống, tra mắt | + | + | + |  |  |
+| Dùng ngoài | + | + | + | + |  |
+| 755 | Methyl prednisolon | Uống | + | + | + | + |  |
+| Tiêm | + | + | + | + | Đối với phòng khám đa khoa và trạm y tế xã, quỹ bảo hiểm y tế thanh toán điều trị cấp cứu phản vệ. |
+| 756 | Prednisolon acetat (natri phosphate) | Tiêm, nhỏ mắt | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 757 | Prednison | Uống | + | + | + |  |  |
+| 758 | Triamcinolon acetonid | Tiêm, dùng ngoài | + | + | + |  |  |
+| 759 | Triamcinolon | Uống | + | + | + |  |  |
+| 760 | Triamcinolon + econazol | Dùng ngoài | + | + | + |  |  |
+| 761 | Cyproteron acetat | Uống | + | + |  |  |  |
+| 762 | Somatropin | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị thiếu hụt hormon tăng trưởng, trẻ em sinh ra nhỏ hơn so với tuổi thai, hội chứng Turner, chậm tăng trưởng do suy thận mãn và hội chứng Prader-Willi. Đối với trẻ em dưới 16 tuổi thanh toán 70%; các đối tượng còn lại thanh toán 50%. |
+|  | 18.2. Các chế phẩm androgen, estrogen và progesteron |  |  |  |  |  |  |
+| 763 | Dydrogesteron | Uống | + | + | + |  |  |
+| 764 | Estradiol valerate | Uống | + | + | + |  |  |
+| Tiêm | + | + |  |  |  |
+| 765 | Estriol | Uống, đặt âm đạo | + | + | + |  |  |
+| 766 | Estrogen + norgestrel | Uống | + | + | + |  |  |
+| 767 | Ethinyl estradiol | Uống | + | + | + |  |  |
+| 768 | Ethinyl estradiol + cyproterone acetate | Uống | + | + |  |  |  |
+| 769 | Lynestrenol | Uống | + | + | + |  |  |
+| 770 | Nandrolon decanoat | Tiêm | + | + | + |  |  |
+| 771 | Norethisteron | Uống | + | + | + |  |  |
+| 772 | Nomegestrol acetat | Uống | + | + | + | + |  |
+| 773 | Promestrien | Dùng ngoài, đặt âm đạo | + | + | + |  |  |
+| 774 | Progesteron | Tiêm, uống, dùng ngoài, đặt âm đạo | + | + | + |  |  |
+| 775 | Raloxifen | Uống | + | + | + |  |  |
+| 776 | Testosteron (acetat, propionat, undecanoat) | Tiêm, uống | + | + | + |  |  |
+|  | 18.3. Insulin và nhóm thuốc hạ đường huyết |  |  |  |  |  |  |
+| 777 | Acarbose | Uống | + | + | + | + |  |
+| 778 | Dapagliflozin | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 70%. |
+| 779 | Empagliflozin | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán 70%. |
+| 780 | Glibenclamid + metformin | Uống | + | + | + | + |  |
+| 781 | Gliclazid | Uống | + | + | + | + |  |
+| 782 | Gliclazid + metformin | Uống | + | + | + | + |  |
+| 783 | Glimepirid | Uống | + | + | + | + |  |
+| 784 | Glimepirid + metformin | Uống | + | + | + | + |  |
+| 785 | Glipizid | Uống | + | + | + | + |  |
+| 786 | Insulin analog tác dụng nhanh, ngắn (Aspart, Lispro, Glulisine) | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 787 | Insulin analog tác dụng chậm, kéo dài (Glargine, Detemir, Degludec) | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 788 | Insulin analog trộn, hỗn hợp | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán 50% đối với dạng trộn, hỗn hợp giữa insulin Degludec và insulin Aspart; thanh toán 100% đối với các dạng còn lại. Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 789 | Insulin người tác dụng nhanh, ngắn | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 790 | Insulin người tác dụng trung bình, trung gian | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 791 | Insulin người trộn, hỗn hợp | Tiêm | + | + | + |  | Thuốc được cấp phát tại trạm y tế xã theo Hướng dẫn chẩn đoán, điều trị, quản lý bệnh đái tháo đường của Bộ Y tế. |
+| 792 | Linagliptin | Uống | + | + |  |  |  |
+| 793 | Linagliptin + metformin | Uống | + | + |  |  |  |
+| 794 | Liraglutide | Tiêm | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 30% cho người bệnh đái tháo đường típ 2 đáp ứng đồng thời các tiêu chí sau: - Trên 40 tuổi, BMI > 23, mắc đái tháo đường típ 2, có bệnh lý tim mạch hoặc tăng huyết áp; - Không kiểm soát đường huyết (HbA1C>9) sau thời gian 3 tháng; - Suy thận nồng độ CrCl <59 ml/phút. |
+| 795 | Metformin | Uống | + | + | + | + |  |
+| 796 | Repaglinid | Uống | + | + | + | + |  |
+| 797 | Saxagliptin | Uống | + | + |  |  |  |
+| 798 | Saxagliptin + metformin | Uống | + | + |  |  |  |
+| 799 | Sitagliptin | Uống | + | + |  |  |  |
+| 800 | Sitagliptin + metformin | Uống | + | + |  |  |  |
+| 801 | Vildagliptin | Uống | + | + |  |  |  |
+| 802 | Vildagliptin + metformin | Uống | + | + |  |  |  |
+|  | 18.4. Hocmon tuyến giáp, cận giáp và thuốc kháng giáp trạng tổng hợp |  |  |  |  |  |  |
+| 803 | Carbimazol | Uống | + | + | + | + |  |
+| 804 | Levothyroxin (muối natri) | Uống | + | + | + | + |  |
+| 805 | Propylthiouracil (PTU) | Uống | + | + | + |  |  |
+| 806 | Thiamazol | Uống | + | + | + | + |  |
+|  | 18.5. Thuốc điều trị bệnh đái tháo nhạt |  |  |  |  |  |  |
+| 807 | Desmopressin | Tiêm, uống, xịt mũi | + | + |  |  |  |
+| 808 | Vasopressin | Tiêm, uống | + | + |  |  |  |
+|  | 18.6. Thuốc khác |  |  |  |  |  |  |
+| 809 | Alglucosidase alfa | Tiêm truyền | + |  |  |  | Quỹ bảo hiểm y tế thanh toán 30%. |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 19. HUYẾT THANH VÀ GLOBULIN MIỄN DỊCH [ID: dieu_19] |  |  |  |  |  |  |
+| 810 | Immune globulin | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị xuất huyết giảm tiểu cầu tự miễn không đáp ứng với corticoid, hội chứng Guillain Barre, bệnh Kawasaki; điều trị nhiễm trùng nặng có giảm IgG; điều trị thay thế cho bệnh nhân thiếu hụt IgG; điều trị bệnh tay-chân-miệng; điều trị phơi nhiễm sởi, điều trị sởi khi có tình trạng nhiễm trùng nặng hoặc tình trạng suy hô hấp tiến triển nhanh hoặc viêm não theo hướng dẫn chẩn đoán và điều trị sởi của Bộ Y tế; điều trị Hội chứng viêm đa hệ thống liên quan COVID-19 ở trẻ em (MIS-C) theo hướng dẫn chẩn đoán và điều trị COVID-19 ở trẻ em của Bộ Y tế; điều trị hội chứng giảm tiểu cầu, huyết khối sau tiêm vắc xin COVID-19 theo hướng dẫn chẩn đoán và điều trị hội chứng giảm tiểu cầu, huyết khối sau tiêm vắc xin COVID-19 của Bộ Y tế. |
+| 811 | Huyết thanh kháng bạch hầu | Tiêm | + | + | + |  |  |
+| 812 | Huyết thanh kháng dại | Tiêm | + | + | + |  |  |
+| 813 | Huyết thanh kháng nọc rắn | Tiêm | + | + | + | + |  |
+| 814 | Huyết thanh kháng uốn ván | Tiêm | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 20. THUỐC LÀM MỀM CƠ VÀ ỨC CHẾ CHOLINESTERASE [ID: dieu_20] |  |  |  |  |  |  |
+| 815 | Baclofen | Uống | + | + | + |  |  |
+| 816 | Botulinum toxin | Tiêm | + | + |  |  |  |
+| 817 | Eperison | Uống | + | + | + | + |  |
+| 818 | Mephenesin | Uống | + | + | + | + |  |
+| 819 | Pyridostigmin bromid | Uống | + | + |  |  |  |
+| 820 | Rivastigmine | Uống, dán ngoài da | + | + |  |  |  |
+| 821 | Tizanidin hydroclorid | Uống | + | + | + |  |  |
+| 822 | Thiocolchicosid | Tiêm | + | + |  |  |  |
+| Uống | + | + | + | + |  |
+| 823 | Tolperison | Uống | + | + | + | + | Quỹ bảo hiểm y tế thanh toán điều trị co cứng cơ sau đột quỵ. |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 21. THUỐC ĐIỀU TRỊ BỆNH MẮT, TAI MŨI HỌNG [ID: dieu_21] |  |  |  |  |  |  |
+|  | 21.1. Thuốc điều trị bệnh mắt |  |  |  |  |  |  |
+| 824 | Acetazolamid | Tiêm | + | + |  |  |  |
+| Uống | + | + | + |  |  |
+| 825 | Atropin sulfat | Nhỏ mắt | + | + | + | + |  |
+| 826 | Besifloxacin | Nhỏ mắt | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị nhiễm khuẩn do tụ cầu vàng trong trường hợp đã kháng kháng sinh khác; sử dụng tại bệnh viện hạng đặc biệt, hạng I và bệnh viện chuyên khoa mắt hạng II. |
+| 827 | Betaxolol | Nhỏ mắt | + | + | + |  |  |
+| 828 | Bimatoprost | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 829 | Bimatoprost + timolol | Nhỏ mắt | + | + |  |  |  |
+| 830 | Brimonidin tartrat | Nhỏ mắt | + | + | + |  |  |
+| 831 | Brimonidin tartrat + timolol | Nhỏ mắt | + | + | + |  |  |
+| 832 | Brinzolamid | Nhỏ mắt | + | + | + |  |  |
+| 833 | Brinzolamid + timolol | Nhỏ mắt | + | + | + |  |  |
+| 834 | Bromfenac | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị viêm sau phẫu thuật đục thủy tinh thể; sử dụng tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 835 | Carbomer | Nhỏ mắt | + | + |  |  |  |
+| 836 | Cyclosporin | Nhỏ mắt | + | + |  |  |  |
+| 837 | Dexamethason + framycetin | Nhỏ mắt | + | + |  |  |  |
+| 838 | Dexpanthenol | Nhỏ mắt | + | + |  |  |  |
+| 839 | Dinatri inosin monophosphat | Nhỏ mắt | + | + | + |  |  |
+| 840 | FluoromethoIon | Nhỏ mắt | + | + | + |  |  |
+| 841 | Glycerin | Nhỏ mắt | + | + |  |  |  |
+| 842 | Hexamidine di-isetionat | Nhỏ mắt | + | + |  |  |  |
+| 843 | Hyaluronidase | Tiêm | + | + | + |  |  |
+| 844 | Hydroxypropylmethylcellulose | Nhỏ mắt | + | + | + |  |  |
+| 845 | Indomethacin | Nhỏ mắt | + | + | + |  |  |
+| 846 | Kali iodid + natri iodid | Nhỏ mắt | + | + | + |  |  |
+| 847 | Latanoprost | Nhỏ mắt | + | + |  |  |  |
+| 848 | Latanoprost + Timolol maleat | Nhỏ mắt | + | + |  |  |  |
+| 849 | Loteprednol etabonat | Nhỏ mắt | + | + | + |  |  |
+| 850 | Moxifloxacin + dexamethason | Nhỏ mắt | + | + | + |  |  |
+| 851 | Natamycin | Nhỏ mắt | + | + | + |  |  |
+| 852 | Natri carboxymethylcellulose (natri CMC) | Nhỏ mắt | + | + | + |  |  |
+| 853 | Natri carboxymethylcellulose + glycerin | Nhỏ mắt | + | + |  |  |  |
+| 854 | Natri clorid | Nhỏ mắt, nhỏ mũi | + | + | + | + |  |
+| 855 | Natri diquafosol | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 856 | Natri hyaluronat | Tiêm, nhỏ mắt | + | + | + |  |  |
+| 857 | Nepafenac | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị viêm sau phẫu thuật đục thủy tinh thể trên bệnh nhân đái tháo đường; sử dụng tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 858 | Olopatadin hydroclorid | Nhỏ mắt | + | + | + |  |  |
+| 859 | Pemirolast kali | Nhỏ mắt | + | + | + |  |  |
+| 860 | Pilocarpin | Nhỏ mắt | + | + | + |  |  |
+| Uống | + | + |  |  |  |
+| 861 | Pirenoxin | Nhỏ mắt | + | + | + |  |  |
+| 862 | Polyethylen glycol + propylen glycol | Nhỏ mắt | + | + | + |  |  |
+| 863 | Ranibizumab | Tiêm trong dịch kính | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tại khoa mắt của các bệnh viện hạng đặc biệt; bệnh viện chuyên khoa mắt hạng I, II; bệnh viện Hữu Nghị, Thống Nhất và C Đà Nẵng đối với đối tượng theo Hướng dẫn số 52-HD/BTCTW ngày 02 tháng 12 năm 2005 của Ban Tổ chức Trung ương đăng ký khám bệnh, chữa bệnh bảo hiểm y tế ban đầu tại bệnh viện. |
+| 864 | Tafluprost | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 865 | Tetracain | Nhỏ mắt | + | + | + |  |  |
+| 866 | Tetryzolin | Nhỏ mắt, nhỏ mũi | + | + | + |  |  |
+| 867 | Timolol | Nhỏ mắt | + | + | + |  |  |
+| 868 | Travoprost | Nhỏ mắt | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa mắt hạng III. |
+| 869 | Travoprost + timolol | Nhỏ mắt | + | + |  |  |  |
+| 870 | Tropicamid | Nhỏ mắt | + | + | + |  |  |
+| 871 | Tropicamide + phenylephrine hydroclorid | Nhỏ mắt | + | + | + |  |  |
+|  | 21.2. Thuốc tai- mũi- họng |  |  |  |  |  |  |
+| 872 | Betahistin | Uống | + | + | + |  |  |
+| 873 | Cồn boric | Dùng ngoài | + | + | + | + |  |
+| 874 | Fluticason furoat | Xịt mũi | + | + | + |  |  |
+| 875 | Fluticason propionat | Dùng ngoài, khí dung, xịt mũi, xịt họng | + | + | + |  |  |
+| 876 | Naphazolin | Nhỏ mũi | + | + | + | + |  |
+| 877 | Natri borat | Nhỏ tai | + | + |  |  |  |
+| 878 | Phenazon + lidocain hydroclorid | Nhỏ tai | + | + | + |  |  |
+| 879 | Rifamycin | Nhỏ tai | + | + |  |  |  |
+| 880 | Tixocortol pivalat | Dùng ngoài, phun mù | + | + | + | + |  |
+| 881 | Triprolidin hydroclorid + pseudoephedrin | Uống | + | + | + | + |  |
+| 882 | Tyrothricin + benzocain+ benzalkonium | Ngậm | + | + |  |  |  |
+| 883 | Xylometazolin | Nhỏ mũi, phun mù | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 22. THUỐC CÓ TÁC DỤNG THÚC ĐẺ, CẦM MÁU SAU ĐẺ VÀ CHỐNG ĐẺ NON [ID: dieu_22] |  |  |  |  |  |  |
+|  | 22.1. Thuốc thúc đẻ, cầm máu sau đẻ |  |  |  |  |  |  |
+| 884 | Carbetocin | Tiêm | + | + | + |  |  |
+| 885 | Carboprost tromethamin | Tiêm | + | + |  |  |  |
+| 886 | Dinoproston | Đặt âm đạo | + |  |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt hạng I và bệnh viện chuyên khoa sản hạng II. |
+| 887 | Levonorgestrel | Đặt tử cung | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị chứng rong kinh vô căn. |
+| 888 | Methyl ergometrin maleat | Tiêm | + | + | + | + |  |
+| 889 | Oxytocin | Tiêm | + | + | + | + |  |
+| 890 | Ergometrin (hydrogen maleat) | Tiêm | + | + | + | + |  |
+| 891 | Misoprostol | Uống | + | + | + | + |  |
+| Đặt âm đạo | + | + |  |  |  |
+|  | 22.2. Thuốc chống đẻ non |  |  |  |  |  |  |
+| 892 | Atosiban | Tiêm truyền | + | + |  |  |  |
+| 893 | Papaverin | Uống | + | + | + | + |  |
+| 894 | Salbutamol sulfat | Tiêm | + | + | + |  |  |
+|  | 23. DUNG DỊCH LỌC MÀNG BỤNG, LỌC MÁU [ID: dieu_23] |  |  |  |  |  |  |
+| 895 | Dung dịch lọc màng bụng | Tại chỗ (ngâm vào khoang màng bụng) | + | + | + |  |  |
+| 896 | Dung dịch lọc máu dùng trong thận nhân tạo (bicarbonat hoặc acetat) | Dung dịch thẩm phân | + | + | + |  |  |
+| 897 | Dung dịch lọc máu liên tục (có hoặc không có chống đông bằng citrat; có hoặc không có chứa lactat) | Tiêm truyền | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 24. THUỐC CHỐNG RỐI LOẠN TÂM THẦN VÀ THUỐC TÁC ĐỘNG LÊN HỆ THẦN KINH [ID: dieu_24] |  |  |  |  |  |  |
+|  | 24.1. Thuốc an thần |  |  |  |  |  |  |
+| 898 | Bromazepam | Uống | + | + | + |  |  |
+| 899 | Clorazepat | Uống | + | + | + |  |  |
+| 900 | Diazepam | Tiêm, uống | + | + | + | + | Dạng tiêm: Đối với phòng khám đa khoa và trạm y tế xã, quỹ bảo hiểm y tế thanh toán điều trị cấp cứu. |
+| 901 | Etifoxin chlohydrat | Uống | + | + | + |  |  |
+| 902 | Hydroxyzin | Uống | + | + | + |  |  |
+| 903 | Lorazepam | Uống | + | + | + |  |  |
+| Tiêm | + |  |  |  |  |
+| 904 | Rotundin | Uống | + | + | + | + |  |
+|  | 24.2. Thuốc gây ngủ |  |  |  |  |  |  |
+| 905 | Zolpidem | Uống | + | + | + |  |  |
+| 906 | Zopiclon | Uống | + | + |  |  |  |
+|  | 24.3. Thuốc chống rối loạn tâm thần |  |  |  |  |  |  |
+| 907 | Acid thioctic (Meglumin thioctat) | Uống, tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị rối loạn cảm giác do bệnh viêm đa dây thần kinh đái tháo đường. |
+| 908 | Alprazolam | Uống | + | + |  |  |  |
+| 909 | Amisulprid | Uống | + | + | + |  |  |
+| 910 | Clorpromazin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 911 | Clozapin | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 912 | Clonazepam | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 913 | Donepezil | Uống | + | + | + |  |  |
+| 914 | Flupentixol | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 915 | Fluphenazin decanoat | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 916 | Haloperidol | Tiêm (dạng dung dịch tiêm) | + | + | + |  |  |
+| Tiêm (dạng dầu tiêm) | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| Uống | + | + | + | + |  |
+| 917 | Levomepromazin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 918 | Levosulpirid | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 919 | Meclophenoxat | Uống, tiêm | + | + | + |  |  |
+| 920 | Olanzapin | Uống | + | + | + |  |  |
+| 921 | Quetiapin | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 922 | Risperidon | Uống | + | + | + |  |  |
+| 923 | Sulpirid | Tiêm, uống | + | + | + |  |  |
+| 924 | Thioridazin | Uống | + | + | + |  |  |
+| 925 | Tofisopam | Uống | + | + |  |  |  |
+| 926 | Ziprasidon | Uống | + | + |  |  |  |
+| 927 | Zuclopenthixol | Tiêm, uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+|  | 24.4. Thuốc chống trầm cảm |  |  |  |  |  |  |
+| 928 | Amitriptylin hydroclorid | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 929 | Citalopram | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 930 | Clomipramin | Uống | + | + | + |  |  |
+| 931 | Fluoxetin | Uống | + | + | + |  |  |
+| 932 | Fluvoxamin | Uống | + | + | + |  |  |
+| 933 | Methylphenidate hydrochloride | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán cho trẻ em dưới 16 tuổi, tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 934 | Mirtazapin | Uống | + | + | + |  |  |
+| 935 | Paroxetin | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán tại bệnh viện hạng đặc biệt, hạng I, II và bệnh viện chuyên khoa tâm thần. |
+| 936 | Sertralin | Uống | + | + | + |  |  |
+| 937 | Tianeptin | Uống | + | + | + |  |  |
+| 938 | Venlafaxin | Uống | + | + | + |  |  |
+|  | 24.5 Thuốc tác động lên hệ thần kinh |  |  |  |  |  |  |
+| 939 | Acetyl leucin | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 940 | Peptid (Cerebrolysin concentrate) | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán 50% trong các trường hợp: - Đột quỵ cấp tính; - Sau chấn thương sọ não; - Sau phẫu thuật chấn thương sọ não; - Sau phẫu thuật thần kinh sọ não. |
+| 941 | Choline alfoscerat | Tiêm | + | + | + |  |
+| 942 | Citicolin | Tiêm | + | + | + |  |
+| 943 | Panax notoginseng saponins | Tiêm, uống | + | + | + |  |
+| 944 | Cytidin-5monophosphat disodium + uridin | Tiêm, uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị tổn thương thần kinh ngoại biên. |
+| 945 | Galantamin | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị chứng sa sút trí tuệ từ nhẹ đến trung bình trong bệnh Alzheimer. |
+| Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị: - Bệnh lý thần kinh ngoại vi liên quan đến rối loạn vận động trong trường hợp người bệnh nội trú; - Liệt vận động sau khi mắc bệnh tủy sống; - Mất khả năng vận động sau đột quỵ, liệt não ở trẻ em; - Liệt ruột và bàng quang sau phẫu thuật; - Giải độc Atropin và chất tương tự Atropin. |
+| 946 | Ginkgo biloba | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị đau do viêm động mạch (đau thắt khi đi); rối loạn thị giác (bệnh võng mạc do tiểu đường); tai mũi họng (chóng mặt, ù tai, giảm thính lực), rối loạn tuần hoàn thần kinh cảm giác do thiếu máu cục bộ; hội chứng Raynaud. |
+| 947 | Mecobalamin | Tiêm, uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán điều trị thiếu máu hồng cầu khổng lồ, bệnh lý thần kinh ngoại biên do thiếu vitamin B12. |
+| 948 | Pentoxifyllin | Uống | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong điều trị rối loạn mạch máu ngoại vi. |
+| Tiêm | + | + |  |  |
+| 949 | Piracetam | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong điều trị giật rung cơ có nguồn gốc vỏ não. |
+| Uống | + | + | + | + |  |
+| 950 | Vinpocetin | Tiêm | + | + | + |  | Quỹ bảo hiểm y tế thanh toán trong điều trị triệu chứng thần kinh của chứng sa sút trí tuệ do nguyên nhân mạch. |
+| Uống | + | + | + | + |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 25. THUỐC TÁC DỤNG TRÊN ĐƯỜNG HÔ HẤP [ID: dieu_25] |  |  |  |  |  |  |
+|  | 25.1. Thuốc chữa hen và bệnh phổi tắc nghẽn mãn tính |  |  |  |  |  |  |
+| 951 | Aminophylin | Tiêm | + | + | + |  |  |
+| 952 | Bambuterol | Uống | + | + | + |  |  |
+| 953 | Budesonid | Xịt mũi, xịt họng | + | + | + |  |  |
+| Đường hô hấp | + | + | + | + |  |
+| 954 | Budesonid + formoterol | Dạng hít | + | + | + |  |  |
+| 955 | Fenoterol + ipratropium | Xịt mũi, xịt họng, khí dung | + | + | + |  |  |
+| 956 | Formoterol fumarat | Khí dung | + | + | + |  |  |
+| 957 | Indacaterol | Dạng hít | + | + | + |  |  |
+| 958 | Indacaterol+ glycopyrronium | Dạng hít | + | + | + |  |  |
+| 959 | Ipratropium | Uống, khí dung | + | + |  |  |  |
+| 960 | Natri montelukast | Uống | + | + | + |  |  |
+| 961 | Omalizumab | Tiêm | + | + |  |  | Quỹ bảo hiểm y tế thanh toán với chỉ định điều trị cho người bệnh từ 12 tuổi trở lên bị hen do dị ứng dai dẳng kéo dài với mức độ nặng (bậc 5 GINA), có test da hoặc phản ứng dị nguyên dương tính (in vitro) và không đáp ứng đầy đủ bằng corticoid liều cao và kết hợp LABA; thanh toán 50%. |
+| 962 | Salbutamol sulfat | Tiêm | + | + | + |  |  |
+| Uống, xịt mũi, đường hô hấp | + | + | + | + |  |
+| 963 | Salbutamol + ipratropium | Khí dung | + | + | + | + |  |
+| 964 | Salmeterol + fluticason propionat | Khí dung, dạng hít | + | + | + |  |  |
+| 965 | Terbutalin | Tiêm | + | + | + |  |  |
+| Uống, đường hô hấp | + | + | + | + |  |
+| 966 | Theophylin | Uống | + | + | + | + |  |
+| 967 | Tiotropium | Dạng hít | + | + | + | + |  |
+|  | 25.2. Thuốc chữa ho |  |  |  |  |  |  |
+| 968 | Ambroxol | Uống | + | + | + | + |  |
+| 969 | Bromhexin hydroclorid | Tiêm, uống | + | + | + | + |  |
+| 970 | Carbocistein | Uống | + | + | + |  |  |
+| 971 | Carbocistein + promethazin | Uống | + | + | + |  |  |
+| 972 | Codein camphosulphonat + sulfogaiacol + cao mềm grindelia | Uống | + | + | + |  |  |
+| 973 | Codein + terpin hydrat | Uống | + | + | + | + |  |
+| 974 | Dextromethorphan | Uống | + | + | + | + |  |
+| 975 | Eprazinon | Uống | + | + | + | + |  |
+| 976 | Fenspirid | Uống | + | + | + | + |  |
+| 977 | N-acetylcystein | Uống | + | + | + | + |  |
+|  | 25.3. Thuốc khác |  |  |  |  |  |  |
+| 978 | Chất ly giải vi khuẩn đông khô của Haemophilus influenzae + Diplococcus pneumoniae + Klebsiella pneumoniae and ozaenae + Staphylococcus aureus + Streptococcus pyogenes and viridans + Neisseria catarrhalis | Uống | + | + |  |  |  |
+| 979 | Bột talc | Bơm vào khoang màng phổi | + |  |  |  |  |
+| 980 | Cafein citrat | Tiêm | + | + | + |  |  |
+| 981 | Mometason furoat | Xịt mũi | + | + |  |  |  |
+| 982 | Surfactant (Phospholipid chiết xuất từ phổi lợn hoặc phổi bò; hoặc chất diện hoạt chiết xuất từ phổi bò (Bovine lung surfactant)) | Đường nội khí quản | + | + |  |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 26. DUNG DỊCH ĐIỀU CHỈNH NƯỚC, ĐIỆN GIẢI, CÂN BẰNG ACID-BASE VÀ CÁC DUNG DỊCH TIÊM TRUYỀN KHÁC [ID: dieu_26] |  |  |  |  |  |  |
+|  | 26.1. Thuốc uống |  |  |  |  |  |  |
+| 983 | Kali clorid | Uống | + | + | + | + |  |
+| 984 | Magnesi aspartat + kali aspartat | Uống | + | + | + |  |  |
+| 985 | Natri clorid + kali clorid + natri citrat + glucose khan | Uống | + | + | + | + | Quỹ bảo hiểm y tế thanh toán: Natri clorid + kali clorid+ natri citrat + glucose khan; Natri clorid + kali clorid + natri citrat + glucose khan + kẽm. |
+| 986 | Natri clorid + natri bicarbonat + kali clorid + dextrose khan | Uống | + | + | + | + |  |
+|  | 26.2. Thuốc tiêm truyền |  |  |  |  |  |  |
+| 987 | Acid amin* | Tiêm truyền | + | + | + |  |  |
+| 988 | Acid amin + điện giải (*) | Tiêm truyền | + | + | + |  |  |
+| 989 | Acid amin + glucose + điện giải (*) | Tiêm truyền | + | + | + |  |  |
+| 990 | Acid amin + glucose + lipid (*) | Tiêm truyền | + | + |  |  | Quỹ bảo hiểm y tế thanh toán: Acid amin + glucose + lipid (*); Acid amin + glucose + lipid + điện giải (*); đối với trường hợp bệnh nặng không nuôi dưỡng được bằng đường tiêu hóa hoặc qua ống xông mà phải nuôi dưỡng đường tĩnh mạch trong: hồi sức, cấp cứu, ung thư, bệnh đường tiêu hóa, suy dinh dưỡng nặng; thanh toán 50%. |
+| 991 | Calci clorid | Tiêm | + | + | + | + |  |
+| 992 | Glucose | Tiêm truyền | + | + | + | + |  |
+| 993 | Kali clorid | Tiêm | + | + | + |  |  |
+| 994 | Magnesi sulfat | Tiêm truyền | + | + | + | + |  |
+| 995 | Magnesi aspartat + kali aspartat | Tiêm | + | + | + |  |  |
+| 996 | Manitol | Tiêm truyền | + | + | + |  |  |
+| 997 | Natri clorid | Tiêm truyền | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+| 998 | Natri clorid + dextrose/glucose | Tiêm truyền | + | + | + | + |  |
+| 999 | Nhũ dịch lipid | Tiêm truyền | + | + | + |  | Đối với Bệnh viện hạng III, IV: quỹ bảo hiểm y tế thanh toán điều trị ngộ độc thuốc tê. |
+| 1000 | Natri clorid + kali clorid + monobasic kali phosphat + natri acetat + magnesi sulfat + kẽm sulfat + dextrose | Tiêm truyền | + | + | + |  |  |
+| 1001 | Ringer lactat | Tiêm truyền | + | + | + | + | Quỹ bảo hiểm y tế thanh toán: Ringer lactat; Ringer acetat; Ringerfundin. |
+| 1002 | Natri clorid + natri lactat + kali clorid + calcium clorid + glucose (Ringer lactat + glucose) | Tiêm truyền | + | + | + |  |  |
+|  | 26.3. Thuốc khác |  |  |  |  |  |  |
+| 1003 | Nước cất pha tiêm | Tiêm | + | + | + | + |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC I DANH MỤC THUỐC HÓA DƯỢC, SINH PHẨM THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên hoạt chất | Đường dùng, dạng dùng | Hạng bệnh viện |  |  |  | Ghi chú |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+|  | 27. KHOÁNG CHẤT VÀ VITAMIN [ID: dieu_27] |  |  |  |  |  |  |
+| 1004 | Calci acetat | Uống | + | + | + |  |  |
+| 1005 | Calci carbonat | Uống | + | + | + | + |  |
+| 1006 | Calci carbonat + calci gluconolactat | Uống | + | + | + | + |  |
+| 1007 | Calci carbonat + vitamin D3 | Uống | + | + | + |  |  |
+| 1008 | Calci lactat | Uống | + | + | + | + |  |
+| 1009 | Calci gluconat | Uống | + | + | + | + |  |
+| 1010 | Calci glubionat | Tiêm | + | + | + |  |  |
+| 1011 | Calci glucoheptonate + vitamin D3 | Uống | + | + | + |  |  |
+| 1012 | Calci gluconolactat | Uống | + | + | + |  |  |
+| 1013 | Calci glycerophosphat + magnesi gluconat | Uống | + | + | + |  |  |
+| 1014 | Calci-3-methyl-2-oxovalerat + calci-4-methyl-2- oxovalerat + calci-2-oxo-3- phenylpropionat + calci-3-methyl-2-oxobutyrat + calci-DL-2-hydroxy-4-methylthiobutyrat + L-lysin acetat + L-threonin + L-tryptophan + L-histidin + L-tyrosin (*) | Uống | + |  |  |  | Quỹ bảo hiểm y tế thanh toán điều trị suy thận mãn, tăng ure máu. |
+| 1015 | Calcitriol | Uống | + | + | + |  |  |
+| 1016 | Dibencozid | Uống | + | + |  |  |  |
+| 1017 | Lysin + Vitamin + Khoáng chất | Uống | + | + |  |  | Quỹ bảo hiểm y tế thanh toán điều trị cho trẻ em dưới 6 tuổi suy dinh dưỡng. |
+| 1018 | Sắt gluconat + mangan gluconat + đồng gluconat | Uống | + | + | + | + |  |
+| 1019 | Sắt clorid + kẽm clorid + mangan clorid + đồng clorid + crôm clorid + natri molypdat dihydrat + natri selenid pentahydrat + natri fluorid + kali iodid | Tiêm | + | + |  |  |  |
+| 1020 | Tricalcium phosphat | Uống | + | + | + | + |  |
+| 1021 | Vitamin A | Uống | + | + | + | + |  |
+| 1022 | Vitamin A + D2 (Vitamin A + D3) | Uống | + | + | + | + |  |
+| 1023 | Vitamin B1 | Tiêm, uống | + | + | + | + |  |
+| 1024 | Vitamin B1 + B6 + B12 | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+| 1025 | Vitamin B2 | Uống | + | + | + | + |  |
+| 1026 | Vitamin B3 | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 1027 | Vitamin B5 | Tiêm, uống | + | + | + |  |  |
+| Dùng ngoài | + | + | + | + |  |
+| 1028 | Vitamin B6 | Tiêm, uống | + | + | + | + |  |
+| 1029 | Vitamin B6 + magnesi lactat | Uống | + | + | + | + |  |
+| 1030 | Vitamin B12 (cyanocobalamin, hydroxocobalamin) | Tiêm, uống | + | + | + | + |  |
+| 1031 | Vitamin C | Tiêm | + | + | + |  |  |
+| Uống | + | + | + | + |  |
+| 1032 | Vitamin D2 | Uống | + | + | + | + |  |
+| 1033 | Vitamin D3 | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+| 1034 | Vitamin E | Uống | + | + | + | + |  |
+| Tiêm | + |  |  |  |  |
+| 1035 | Vitamin H (B8) | Uống | + | + |  |  |  |
+| 1036 | Vitamin K | Tiêm, uống | + | + | + | + |  |
+| 1037 | Vitamin PP | Uống | + | + | + | + |  |
+| Tiêm | + | + | + |  |  |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC II DANH MỤC THUỐC PHÓNG XẠ VÀ CHẤT ĐÁNH DẤU THUỘC PHẠM VI ĐƯỢC HƯỞNG CỦA NGƯỜI THAM GIA BẢO HIỂM Y TẾ (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+| STT | Tên thuốc phóng xạ và chất đánh dấu | Đường dùng | Dạng dùng | Đơn vị |
+| --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) |
+| 1 | BromoMercurHydrxyPropan (BMHP) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 2 | Carbon 11 (C-11) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 3 | Cesium 137 (Cesi-137) | Áp sát khối u | Nguồn rắn | mCi |
+| 4 | Chromium 51 (Cr-51) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 5 | Coban 57 (Co-57) | Uống | Dung dịch | mCi |
+| 6 | Coban 60 (Co-60) | Chiếu ngoài | Nguồn rắn | mCi |
+| 7 | Diethylene Triamine Pentaacetic acid (DTPA) | Tiêm tĩnh mạch, khí dung | Bột đông khô | Lọ |
+| 8 | Dimecapto Succinic Acid (DMSA) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 9 | Dimethyl-iminodiacetic acid (HIDA) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 10 | Diphosphono Propane Dicarboxylic acid (DPD) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 11 | Ethyl cysteinate dimer (ECD) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 12 | Ethylenediamine - tetramethylenephosphonic acid (EDTMP) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 13 | Fluorine 18 Fluoro L-DOPA (F-18DOPA) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 14 | Fluorine 18 Fluorodeoxyglucose (F-18FDG) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 15 | F18-NaF | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 16 | Gallium citrate 67 (Ga-67) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 17 | Gallium citrate 68 (Ga-68) | Tiêm tĩnh mạch, tiêm động mạch | Dung dịch | mCi |
+| 18 | Hexamethylpropyleamineoxime (HMPAO) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 19 | Holmium 166 (Ho-166) | Tiêm vào khối u, mạch máu nuôi u | Dung dịch | mCi |
+| 20 | Human Albumin Microphere (HAM) | Tiêm tĩnh mạch | Dung dịch | Lọ |
+| 21 | Human Albumin Mini-Micropheres (HAMM) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 22 | Human Albumin Serum (HAS, SENTI-SCINT) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 23 | Hydroxymethylene Diphosphonate (HMDP) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 24 | Imino Diacetic Acid (IDA) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 25 | Indiumclorid 111 (In-111) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 26 | Iode 123 (I-123) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 27 | Iode 125 (I-125) | Cấy vào khối u | Hạt | mCi |
+| 28 | Iode131 (I-131) | Uống | Viên nang, Dung dịch | mCi |
+| Tiêm tĩnh mạch | Dung dịch | mCi |
+| 29 | Iodomethyl 19 Norcholesterol | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 30 | Iridium 192 (Ir-192) | Chiếu ngoài | Nguồn rắn | mCi |
+| 31 | Keo vàng 198 (Au-198 Colloid) | Tiêm vào khoang tự nhiên | Dung dịch | mCi |
+| 32 | Lipiodol I-131 | Tiêm động mạch khối u | Dung dịch | mCi |
+| 33 | MacroAgregated Albumin (MAA) | Tiêm tĩnh mạch | Dung dịch | Lọ |
+| 34 | Mecapto Acetyl Triglicerine (MAG 3) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 35 | Metaiodbelzylguanidine (MIBG I-131) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 36 | Methionin | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 37 | Methoxy isobutyl isonitrine (MIBI) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 38 | Methylene Diphosphonate (MDP) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 39 | Nanocis (Colloidal Rhenium Sulphide) | Tiêm dưới da | Bột đông khô | Lọ |
+| 40 | Nitrogen 13- amonia | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 41 | Octreotide Indium-111 | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 42 | Orthoiodohippurate (I-131OIH, Hippuran I-131) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 43 | Osteocis (Hydroxymethylened phosphonate) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 44 | Phospho 32 (P-32) | Uống, tiêm tĩnh mạch | Dung dịch | mCi |
+| Áp ngoài da | Tấm áp | mCi |
+| 45 | Phospho 32 (P-32) - Silicon | Tiêm vào khối u | Dung dịch | mCi |
+| 46 | Phytate (Phyton, Fyton) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 47 | Pyrophosphate (Pyron) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 48 | Rhennium 188 (Re-188) | Tiêm động mạch khối u | Dung dịch | mCi |
+| 49 | Rose Bengal I-131 | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 50 | Samarium 153 (Sm-153) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 51 | Sestamibi (6-methoxy isobutyl isonitrile) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 52 | Strontrium 89 (Sr-89) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 53 | Sulfur Colloid (SC) | Tiêm tĩnh mạch, dưới da | Bột đông khô | Lọ |
+| 54 | Technetium 99m (Tc-99m) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 55 | Teroboxime (Boronic acid adducts of technetium dioxime complexes) | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 56 | Tetrofosmin (1,2 bis (2-ethoxyethyl) phosphino) ethane | Tiêm tĩnh mạch | Bột đông khô | Lọ |
+| 57 | Thallium 201 (Tl-201) | Tiêm tĩnh mạch | Dung dịch | mCi |
+| 58 | Urea (NH2 14CoNH2) | Uống | Viên nang | mCi |
+| 59 | Ytrium 90 (Y-90) | Tiêm vào khoang tự nhiên | Dung dịch | mCi |
+
+Thông tư 20/2022/TT-BYT. PHỤ LỤC III THỐNG KÊ CÁC DỊCH VỤ KỸ THUẬT CÓ SỬ DỤNG THUỐC PHÓNG XẠ VÀ CHẤT ĐÁNH DẤU (Áp dụng kể từ ngày….tháng .... năm 20….) (Ban hành kèm theo Thông tư số 20/2022/TT-BYT ngày 31/12/2022 của Bộ trưởng Bộ Y tế) 
+CƠ SỞ Y TẾ ………………………………………………………………….
+| STT | Loại DVKT |  | Chất đánh dấu |  |  |  |  |  | Thuốc phóng xạ |  |  |  |  |  | Giá đề nghị thanh toán (đồng) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tên | Giá (đồng) | Tên chất đánh dấu | Đơn vị (kit/lọ) | Đơn giá (đồng) | Định mức sử dụng của nhà sản xuất | Định mức sử dụng thực tế bình quân | Thành tiền (đồng) | Tên thuốc phóng xạ | Đơn vị (mci) | Đơn giá (đồng) | Liều sử dụng bình quân | Tỷ lệ sử dụng thực tế bình quân | Thành tiền (đồng) |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) | (14) | (15) | (16) |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Người lập biểu (Ký, ghi rõ họ và tên) Trưởng phòng…….
+(Ký, ghi rõ họ và tên) ….., ngày…..tháng……năm…… Thủ trưởng cơ sở y tế (Ký, ghi rõ họ và tên, đóng dấu) Ghi chú:
+- Cột (1): Số thứ tự của dịch vụ kỹ thuật.
+- Cột (2): Tên của dịch vụ kỹ thuật có sử dụng thuốc phóng xạ, chất đánh dấu.
+- Cột (3): Giá của dịch vụ kỹ thuật chưa bao gồm chi phí của thuốc phóng xạ và chất đánh dấu, do cấp có thẩm quyền phê duyệt.
+- Từ cột (4) đến cột (9): Các chỉ tiêu để tính chi phí của chất đánh dấu sử dụng trong dịch vụ kỹ thuật, trong đó:
++ Cột (4): Tên của chất đánh dấu.
++ Cột (5): Ghi đơn vị tính (kít hoặc lọ).
++ Cột (6): Ghi đơn giá của chất đánh dấu.
++ Cột (7): Định mức sử dụng nhà sản xuất: Ghi định mức sử dụng do nhà sản xuất quy định cho chất đánh dấu đối với từng dịch vụ kỹ thuật.
++ Cột (8): Định mức sử dụng thực tế bình quân:
+Lưu ý: Cơ sở y tế tính toán định mức sử dụng thực tế bình quân của kít hoặc lọ chất đánh dấu đối với từng dịch vụ kỹ thuật căn cứ vào kỹ thuật của dịch vụ kỹ thuật và số lượng bệnh nhân trực tiếp thực hiện dịch vụ kỹ thuật đó tại cơ sở y tế. Ví dụ đối với xạ hình SPECT tưới máu cơ tim pha nghỉ, sử dụng chất đánh dấu Methoxyisobytul isonitrin (MIBI), cứ 1 kít MIBI sử dụng được cho 4 bệnh nhân, do vậy định mức sử dụng HCĐD là 1/4. Cơ sở y tế ghi con số này vào cột 8 đối với dịch vụ kỹ thuật xạ hình SPECT tưới máu cơ tim pha nghỉ.
+- Cột (9): Thành tiền chi phí chất đánh dấu tại cột (9) bằng (=) cột (6) nhân (x) cột (8).
+- Từ cột (10) đến cột (15): các chỉ tiêu để tính chi phí của thuốc phóng xạ sử dụng trong dịch vụ kỹ thuật, trong đó:
++ Cột (10): Ghi tên của thuốc phóng xạ.
++ Cột (11): Ghi đơn vị tính của thuốc phóng xạ.
++ Cột (12): Ghi đơn giá của thuốc phóng xạ (theo giá mua của cơ sở y tế).
++ Cột (13): Ghi liều sử dụng bình quân của thuốc phóng xạ sử dụng trong dịch vụ kỹ thuật.
++ Cột (14): Ghi tỷ lệ sử dụng thực tế bình quân của thuốc phóng xạ. Cơ sở y tế xây dựng tỷ lệ sử dụng thuốc phóng xạ thực tế bình quân dựa vào tốc độ phân rã chất phóng xạ, nguồn cung ứng chất phóng xạ, chu kỳ nhập chất phóng xạ và lưu lượng người bệnh sử dụng thuốc phóng xạ thực tế tại cơ sở y tế. Ví dụ đối với I-131, căn cứ vào thời gian phân rã T1/2 là 8 ngày, nếu cơ sở y tế nhập về với chu kỳ 15 ngày, thì vào ngày đầu tiên tỷ lệ sử dụng thuốc phóng xạ là 100% nhưng sau 8 ngày tỷ lệ sử dụng thuốc phóng xạ còn 50% (do bị phân rã 50%) và sau 16 ngày tỷ lệ sử dụng thuốc phóng xạ còn 25% (do 50% còn lại tiếp tục bị phân rã tiếp 50%), căn cứ trên lượng bệnh nhân sử dụng thuốc, cơ sở y tế xác định tỷ lệ sử dụng thuốc phóng xạ thực tế bình quân của I-131 là 50% thì sẽ ghi vào cột (14) tương ứng với I-131 là 50%.
++ Cột (15): Thành tiền chi phí thuốc phóng xạ tại cột (15) bằng (=) số tiền tại cột (12) nhân (x) cột (13) chia (:) cột (14).
+- Cột (16): Thành tiền chi phí giá dịch vụ kỹ thuật bao gồm cả chi phí thuốc phóng xạ và chất đánh dấu bằng (=) cột (3) cộng (+) cột (9) cộng (+) cột (15)./.
+

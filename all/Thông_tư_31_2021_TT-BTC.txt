@@ -1,0 +1,346 @@
+Thông tư 31/2021/TT-BTC. BỘ TÀI CHÍNH -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 31/2021/TT-BTC
+Hà Nội, ngày 17 tháng 5 năm 2021 THÔNG TƯ QUY ĐỊNH VỀ ÁP DỤNG QUẢN LÝ RỦI RO TRONG QUẢN LÝ THUẾ
+Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019;
+Căn cứ Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế;
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Theo đề nghị của Tổng cục trưởng Tổng cục Thuế, Bộ trưởng Bộ Tài chính ban hành Thông tư quy định về áp dụng quản lý rủi ro trong quản lý thuế.
+
+Thông tư 31/2021/TT-BTC. 
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về áp dụng quản lý rủi ro trong quản lý thuế của cơ quan thuế các cấp, bao gồm:
+1. Thu thập, xử lý, quản lý, sử dụng thông tin liên quan đến người nộp thuế phục vụ quản lý rủi ro.
+2. Đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế.
+3. Áp dụng các biện pháp nghiệp vụ quản lý thuế tương ứng với các mức độ tuân thủ pháp luật thuế và mức độ rủi ro người nộp thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 2. Đối tượng áp dụng
+1. Người nộp thuế.
+2. Cơ quan thuế.
+3. Công chức thuế.
+4. Cơ quan Nhà nước, tổ chức, cá nhân có liên quan theo quy định tại Điều 2 Luật Quản lý thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 3. Giải thích từ ngữ
+1. Áp dụng quản lý rủi ro trong quản lý thuế là việc ứng dụng các quy trình nghiệp vụ, các nguyên tắc, biện pháp, kỹ thuật về quản lý rủi ro và kết quả đánh giá tuân thủ pháp luật thuế, mức độ rủi ro người nộp thuế để quyết định thực hiện các biện pháp nghiệp vụ trong quản lý thuế.
+2. Thông tin quản lý rủi ro là thông tin về thuế và liên quan đến thuế được thu thập, xử lý phục vụ áp dụng quản lý rủi ro trong quản lý thuế.
+3. Mức độ tuân thủ là kết quả đánh giá phân loại của cơ quan thuế về chấp hành pháp luật thuế của người nộp thuế.
+4. Tiêu chí đánh giá tuân thủ là các tiêu chuẩn để đánh giá tuân thủ pháp luật thuế của người nộp thuế.
+5. Chỉ số tiêu chí đánh giá tuân thủ là các chỉ tiêu thông tin mang giá trị cụ thể của tiêu chí đánh giá tuân thủ pháp luật thuế của người nộp thuế.
+6.
+Đánh giá tuân thủ pháp luật thuế là việc thu thập, phân tích, xác minh, đối chiếu thông tin về quá trình hoạt động và chấp hành pháp luật về thuế với các tiêu chí, chỉ số tiêu chí đánh giá tuân thủ để phân loại mức độ tuân thủ pháp luật của người nộp thuế.
+7.
+Quản lý tuân thủ pháp luật thuế là việc cơ quan thuế thực hiện đánh giá tuân thủ pháp luật thuế, phân loại mức độ rủi ro, phân tích hành vi của người nộp thuế, từ đó sử dụng nguồn lực hợp lý cho các biện pháp quản lý phù hợp với từng mức độ, nhằm khuyến khích tuân thủ và phòng ngừa hành vi không tuân thủ.
+8. Phân tích rủi ro người nộp thuế là việc phân tích các thông tin về người nộp thuế nhằm phát hiện các dấu hiệu vi phạm pháp luật thuế dẫn đến khả năng gây thất thu ngân sách nhà nước về thuế.
+9. Mức độ rủi ro là tính nghiêm trọng của rủi ro được xác định dựa trên sự kết hợp giữa tần suất và hậu quả của rủi ro.
+10. Tiêu chí phân loại mức độ rủi ro là các tiêu chuẩn để đánh giá phân loại mức độ rủi ro trong quản lý thuế.
+11. Chỉ số tiêu chí phân loại mức độ rủi ro là các chỉ tiêu thông tin mang giá trị cụ thể của tiêu chí phân loại mức độ rủi ro.
+12. Đánh giá rủi ro là việc phân loại, xem xét, đối chiếu mức độ rủi ro với các chỉ số tiêu chí phân loại mức độ rủi ro và việc xử lý các rủi ro trước đó để sắp xếp thứ tự ưu tiên.
+13. Dấu hiệu rủi ro là yếu tố mang giá trị thông tin phản ánh sự tiềm ẩn của hành vi vi phạm pháp luật.
+14. Dấu hiệu vi phạm về thuế là yếu tố mang giá trị thông tin, làm cơ sở nhận diện hành vi vi phạm pháp luật về thuế.
+15. Giám sát trọng điểm là việc cơ quan thuế áp dụng các biện pháp nghiệp vụ đối với người nộp thuế (được đánh giá) rủi ro cao về thuế hoặc không tuân thủ pháp luật thuế theo từng lĩnh vực hoạt động, từng địa bàn trong từng thời kỳ.
+16. Ứng dụng công nghệ thông tin quản lý rủi ro trong quản lý thuế (sau đây gọi là ứng dụng quản lý rủi ro) là ứng dụng công nghệ thông tin thực hiện việc kết nối, tiếp nhận thông tin từ các nguồn dữ liệu liên quan trong và ngoài cơ quan thuế, điện tử hóa các biện pháp, kỹ thuật quản lý rủi ro dựa trên bộ tiêu chí, chỉ số được ban hành để phân tích, đánh giá tuân thủ, xác định mức độ rủi ro phục vụ cho việc quyết định áp dụng các biện pháp nghiệp vụ của cơ quan thuế.
+17. Phân đoạn người nộp thuế là việc cơ quan thuế phân chia người nộp thuế thành những nhóm có đặc điểm chung để áp dụng các biện pháp quản lý phù hợp.
+18. Phân loại theo phương pháp học máy (machine learning) là thực hiện các thuật toán tính toán, thống kê trên máy tính để xác định các mô hình, hàm số, chỉ số giúp phân loại, dự báo mức độ rủi ro.
+19. Phương pháp xếp hạng theo danh mục là phương pháp đánh giá người nộp thuế qua đối chiếu với các tiêu chí, chỉ số về quá trình hoạt động và chấp hành pháp luật về thuế, được sắp xếp theo các nhóm tương ứng với mỗi mức xếp hạng. Người nộp thuế đạt một mức xếp hạng cụ thể nếu được đánh giá thỏa mãn tiêu chí, chỉ số trong nhóm tiêu chí, chỉ số tương ứng với mức xếp hạng đó.
+20. Phương pháp chấm điểm và phân loại theo điểm là phương pháp đánh giá người nộp thuế trên cơ sở điểm số của các tiêu chí, chỉ số về quá trình hoạt động và chấp hành pháp luật về thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 4. Nguyên tắc quản lý rủi ro
+1. Áp dụng quản lý rủi ro đảm bảo hiệu lực, hiệu quả của quản lý thuế; khuyến khích, tạo điều kiện thuận lợi để người nộp thuế tự nguyện tuân thủ tốt các quy định của pháp luật về thuế và quản lý thuế đồng thời phòng chống, phát hiện, xử lý kịp thời các hành vi vi phạm pháp luật về thuế và quản lý thuế.
+2. Thông tin quản lý rủi ro được thu thập từ các nguồn thông tin bên trong và bên ngoài cơ quan thuế (bao gồm cả thông tin từ nước ngoài) theo quy định của pháp luật; được quản lý tập trung tại Tổng cục Thuế thông qua hệ thống ứng dụng công nghệ thông tin và được xử lý, chia sẻ, cung cấp cho cơ quan thuế các cấp, các cơ quan quản lý nhà nước khác để phục vụ cho mục đích quản lý thuế theo quy định của pháp luật.
+3. Việc đánh giá, phân loại mức độ tuân thủ pháp luật thuế và mức độ rủi ro người nộp thuế được thực hiện tự động, định kỳ, theo một hoặc kết hợp các phương pháp quy định tại Thông tư này trên cơ sở các quy định của pháp luật, các quy trình, biện pháp nghiệp vụ quản lý thuế, dựa trên phân đoạn người nộp thuế, các tiêu chí quy định tại Thông tư này và cơ sở dữ liệu về người nộp thuế.
+4. Căn cứ vào kết quả đánh giá mức độ tuân thủ pháp luật thuế, phân loại mức độ rủi ro người nộp thuế, thông tin có trên các ứng dụng hỗ trợ quản lý thuế của cơ quan thuế, thông tin dấu hiệu vi phạm, dấu hiệu rủi ro khác được cung cấp tại thời điểm ra quyết định, cơ quan thuế thực hiện:
+a) Quyết định kiểm tra, thanh tra, giám sát, áp dụng các biện pháp nghiệp vụ phù hợp.
+b) Xây dựng kế hoạch nâng cao tuân thủ tổng thể phù hợp với nguồn lực của cơ quan thuế dựa trên kết quả phân tích bản chất hành vi, nguyên nhân và quy mô của mỗi mức độ tuân thủ pháp luật thuế, mức độ rủi ro.
+5. Trường hợp đã thực hiện đúng các quy định của pháp luật, quy định tại Thông tư này và các quy định, hướng dẫn về quản lý rủi ro, công chức thuế được miễn trừ trách nhiệm cá nhân theo quy định của pháp luật.
+6. Trường hợp ứng dụng quản lý rủi ro gặp sự cố hoặc chưa đáp ứng yêu cầu áp dụng quản lý rủi ro theo nội dung quy định tại Thông tư này, việc áp dụng quản lý rủi ro được thực hiện thủ công bằng phê duyệt văn bản đề xuất hoặc văn bản ký phát hành của người có thẩm quyền áp dụng các biện pháp nghiệp vụ quản lý thuế theo quy định tại Luật Quản lý thuế và các văn bản hướng dẫn thi hành.
+7. Trường hợp có thay đổi thông tin dẫn đến thay đổi kết quả đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế, ứng dụng quản lý rủi ro chưa tự động điều chỉnh mức độ tuân thủ và mức độ rủi ro, việc cập nhật thay đổi kết quả đánh giá được thực hiện thủ công bởi công chức, sau khi có phê duyệt của người có thẩm quyền.
+8. Kết quả áp dụng các biện pháp nghiệp vụ tương ứng với các mức xếp hạng rủi ro phải được cập nhật đầy đủ, chính xác vào các ứng dụng hỗ trợ quản lý thuế của cơ quan thuế hoặc ứng dụng quản lý rủi ro đối với từng trường hợp cụ thể, phục vụ hoàn thiện và thực hiện đánh giá tuân thủ pháp luật thuế và phân loại rủi ro người nộp thuế trong kỳ tiếp theo.
+
+Thông tư 31/2021/TT-BTC. Điều 5. Phương pháp đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế
+Mức độ tuân thủ pháp luật thuế và mức độ rủi ro người nộp thuế được xác định theo một hoặc kết hợp các phương pháp dưới đây:
+1. Phương pháp chấm điểm và phân loại theo điểm.
+2. Phương pháp học máy.
+3. Phương pháp xếp hạng theo danh mục.
+
+Thông tư 31/2021/TT-BTC. Điều 6. Trình tự áp dụng quản lý rủi ro về thuế
+Áp dụng quản lý rủi ro trong quản lý thuế được cơ quan thuế thực hiện theo trình tự sau:
+1. Đánh giá tình hình, xác định mục tiêu và yêu cầu quản lý rủi ro Cơ quan thuế thực hiện rà soát các rủi ro, sai phạm thường gặp của người nộp thuế trong việc thực hiện quy định tại Điều 17 Luật Quản lý thuế số 38/2019/QH14 hoặc quy định hiện hành để xác định các rủi ro chính cần được xử lý, người nộp thuế có rủi ro lớn và hướng xử lý.
+2. Tổ chức thu thập, xử lý thông tin quản lý rủi ro Thông tin quản lý rủi ro được thu thập, xử lý theo quy định tại Chương II Thông tư này.
+Trường hợp thông tin kê khai sai, không đầy đủ phát hiện trong quá trình phân tích rủi ro, người nộp thuế có trách nhiệm cung cấp, giải trình hoặc bổ sung thông tin, tài liệu theo yêu cầu và thời hạn thông báo của cơ quan thuế để đảm bảo đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế được chính xác.
+3. Thiết lập, cập nhật các chỉ số để phân tích, đánh giá tuân thủ pháp luật thuế, phân loại mức độ rủi ro người nộp thuế
+Căn cứ kết quả đánh giá tình hình, xác định mục tiêu và yêu cầu quản lý rủi ro quy định tại khoản 1 Điều này, thông tin quản lý rủi ro và ứng dụng công nghệ thông tin để thiết lập, cập nhật các chỉ số tiêu chí, trọng số dùng đánh giá, phân loại mức độ tuân thủ pháp luật thuế, mức độ rủi ro người nộp thuế.
+4. Phân tích, đánh giá mức độ tuân thủ pháp luật thuế; xác định mức độ rủi ro người nộp thuế;
+xác định mức độ rủi ro trong các nghiệp vụ quản lý thuế; quản lý hồ sơ rủi ro đối với các trường hợp giám sát trọng điểm Người nộp thuế được phân đoạn theo điều kiện xác định phù hợp với yêu cầu quản lý thuế trong từng thời kỳ khi thực hiện việc phân tích, đánh giá mức độ tuân thủ pháp luật thuế và mức độ rủi ro người nộp thuế.
+Việc thực hiện phân tích, phân loại mức độ tuân thủ pháp luật thuế và mức độ rủi ro người nộp thuế được thực hiện bằng các phương pháp quy định tại Điều 5 Thông tư này.
+5. Căn cứ kết quả xác định mức độ rủi ro; đánh giá tuân thủ pháp luật của người nộp thuế để áp dụng biện pháp quản lý thuế và xây dựng kế hoạch nâng cao tuân thủ tổng thể đối với người nộp thuế.
+6. Theo dõi, cập nhật, đánh giá thông tin phản hồi về kết quả thực hiện các biện pháp quản lý thuế.
+7. Thực hiện thu thập, xử lý, sử dụng, lưu trữ, thông tin; chỉ đạo, hướng dẫn điều chỉnh, bổ sung việc áp dụng quản lý rủi ro phù hợp để đảm bảo hiệu quả quản lý thuế.
+
+Thông tư 31/2021/TT-BTC. 
+Chương II THU THẬP, XỬ LÝ THÔNG TIN QUẢN LÝ RỦI RO
+Điều 7. Thông tin quản lý rủi ro
+Thông tin phục vụ quản lý rủi ro trong hoạt động nghiệp vụ thuế bao gồm:
+1. Thông tin trong cơ quan thuế
+a) Thông tin về đăng ký kinh doanh, đăng ký thuế; thông tin về nhân thân các thành viên sáng lập, chủ sở hữu và người đại diện pháp luật của người nộp thuế; đăng ký và sử dụng lao động;
+thông tin về trạng thái người nộp thuế; số lần thay đổi các thông tin đăng ký kinh doanh, đăng ký thuế; tình hình góp vốn của các thành viên; ngành nghề kinh doanh chính;
+b) Thông tin về các hồ sơ khai thuế; nộp thuế; nợ thuế; ưu đãi, miễn, giảm thuế; gia hạn nộp thuế; nộp dần tiền thuế; hoàn thuế; đăng ký, quản lý, sử dụng hóa đơn, chứng từ; thông tin khiếu nại, tố cáo; thông tin về kết quả thanh tra, kiểm tra và xử lý sau thanh tra, kiểm tra; thông tin về giao dịch liên kết;
+c) Các thông tin khác.
+2. Thông tin thu thập từ cơ quan quản lý nhà nước, tổ chức, cá nhân liên quan có trách nhiệm cung cấp
+a) Thông tin về người nộp thuế thu thập từ cơ quan quản lý nhà nước, tổ chức, cá nhân liên quan theo quy định tại Điều 26, Điều 27, Điều 30 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế hoặc theo quy định hiện hành;
+b) Thông tin từ nước ngoài, tổ chức quốc tế cung cấp theo nghĩa vụ tại các điều ước quốc tế có liên quan đến thuế mà Việt Nam là thành viên.
+3. Thông tin khác có liên quan đến người nộp thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 8. Thu thập, xử lý thông tin quản lý rủi ro
+1. Nguồn thu thập thông tin
+a) Từ hệ thống thông tin trong cơ quan thuế;
+b) Từ phối hợp với các cơ quan, đơn vị thuộc Bộ Tài chính và các cơ quan, đơn vị thuộc các Bộ, ngành liên quan trong việc trao đổi, cung cấp thông tin phục vụ công tác quản lý thuế;
+c) Từ phối hợp trao đổi thông tin với cơ quan thuế, cơ quan có thẩm quyền ở nước ngoài theo quy định của pháp luật;
+d) Tiếp nhận thông tin của các cơ quan nhà nước, tổ chức, cá nhân cung cấp theo quy định của pháp luật;
+đ) Thông tin liên quan đến hoạt động của người nộp thuế thu thập được trong quá trình quản lý thuế;
+e) Mua thông tin theo quy định tại Luật Quản lý thuế và các văn bản hướng dẫn thi hành;
+g) Tiếp nhận thông tin liên quan đến thuế từ nước ngoài, tổ chức quốc tế cung cấp theo nghĩa vụ tại các điều ước quốc tế mà Việt Nam là thành viên;
+h) Từ các nguồn thông tin có liên quan khác theo quy định của pháp luật.
+2. Hình thức thu thập thông tin
+a) Cung cấp, trao đổi dưới dạng dữ liệu điện tử, chứng từ điện tử, thư điện tử (e-mail), trao đổi qua cổng thông tin điện tử Tổng cục Thuế; tin nhắn và cuộc gọi đến số điện thoại được cơ quan thuế công bố chính thức;
+b) Cung cấp, trao đổi bằng văn bản, điện tín, điện báo, fax, tài liệu giấy;
+c) Trao đổi trực tiếp trên cơ sở biên bản ghi nhận, có xác nhận của các bên liên quan; cử đại diện làm việc, xác minh, thu thập thông tin, tài liệu; tổ chức hội nghị và các hình thức khác.
+3. Xử lý thông tin thu thập
+a) Đánh giá mức độ liên quan của thông tin với nhu cầu, mục đích sử dụng thông tin; xem xét độ tin cậy, tính chính xác của thông tin;
+b) Phân loại, sắp xếp, lưu trữ thông tin từ các nguồn theo từng nhóm thông tin phục vụ khai thác, phân tích thông tin;
+c) Phân tích thông tin, xem xét, phát hiện các yếu tố cấu thành nội dung thông tin phục vụ quản lý rủi ro;
+d) Tổng hợp, liên kết các yếu tố có liên quan được phát hiện qua phân tích để làm rõ nội dung, giá trị của thông tin được thu thập phục vụ phân loại mức độ rủi ro, đánh giá tuân thủ pháp luật thuế của người nộp thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 9. Ứng dụng công nghệ thông tin trong quản lý rủi ro
+1. Ứng dụng quản lý rủi ro, cơ sở dữ liệu về người nộp thuế được xây dựng, quản lý tập trung tại Tổng cục Thuế, đảm bảo thông tin làm cơ sở đánh giá rủi ro được cập nhật đầy đủ, chính xác, kịp thời nhờ việc kết nối trao đổi thông tin với các hệ thống xử lý dữ liệu điện tử thuế và các hệ thống thông tin dữ liệu liên quan Trường hợp hệ thống bị sự cố hoặc lỗi đường truyền, việc cập nhật, tích hợp, xử lý, lưu trữ thông tin trên hệ thống được thực hiện ngay khi sự cố, lỗi hệ thống được khắc phục.
+2. Áp dụng các biện pháp quản lý nhằm đảm bảo an toàn, bảo mật dữ liệu, an toàn máy tính và an ninh mạng theo quy định của pháp luật.
+3. Tổng cục Thuế quy định cụ thể trách nhiệm của đơn vị, công chức thuế các cấp trong việc xây dựng, quản lý, vận hành, cập nhật, khai thác, sử dụng ứng dụng quản lý rủi ro phù hợp với từng lĩnh vực hoạt động nghiệp vụ thuế.
+
+Thông tư 31/2021/TT-BTC. 
+Chương III ĐÁNH GIÁ TUÂN THỦ PHÁP LUẬT THUẾ VÀ PHÂN LOẠI MỨC ĐỘ RỦI RO NGƯỜI NỘP THUẾ TRONG QUẢN LÝ THUẾ
+Điều 10. Đánh giá tuân thủ pháp luật thuế của người nộp thuế
+1. Người nộp thuế được đánh giá, phân loại theo một trong các mức độ tuân thủ pháp luật thuế như sau:
+a) Mức 1: Tuân thủ cao.
+b) Mức 2: Tuân thủ trung bình.
+c) Mức 3: Tuân thủ thấp.
+d) Mức 4: Không tuân thủ.
+2. Mức độ tuân thủ pháp luật thuế của người nộp thuế được phân loại dựa trên các tiêu chí quy định tại Phụ lục I Thông tư này.
+3. Kết quả đánh giá tuân thủ pháp luật thuế của người nộp thuế được cơ quan thuế theo dõi, xử lý như sau:
+a) Đối với người nộp thuế thuộc mức không tuân thủ, thực hiện các biện pháp quản lý theo quy định tại Điều 22 Thông tư này;
+b) Đối với người nộp thuế thuộc các mức tuân thủ cao, trung bình, thấp và không tuân thủ, thực hiện phân tích bản chất hành vi để xác định biện pháp nâng cao tuân thủ.
+
+Thông tư 31/2021/TT-BTC. Điều 11. Phân loại mức độ rủi ro người nộp thuế là doanh nghiệp
+1. Phân loại mức độ rủi ro tổng thể
+a) Người nộp thuế là doanh nghiệp được phân loại mức độ rủi ro theo một trong những hạng sau:
+a.1) Hạng 1: Người nộp thuế rủi ro rất thấp.
+a.2) Hạng 2: Người nộp thuế rủi ro thấp.
+a.3) Hạng 3: Người nộp thuế rủi ro trung bình.
+a.4) Hạng 4:
+Người nộp thuế rủi ro cao.
+a.5) Hạng 5:
+Người nộp thuế rủi ro rất cao.
+b) Mức độ rủi ro người nộp thuế được phân loại dựa trên kết quả đánh giá tuân thủ pháp luật thuế tại Điều 10 và các tiêu chí quy định tại Phụ lục II Thông tư này.
+c) Xử lý kết quả phân loại mức độ rủi ro người nộp thuế là doanh nghiệp c.1) Đối với người nộp thuế thuộc mức rủi ro rất cao, rủi ro cao áp dụng các biện pháp quản lý theo quy định tại Điều 22 Thông tư này;
+c.2) Theo yêu cầu công tác quản lý thuế trong từng thời kỳ, người nộp thuế thuộc các mức rủi ro có thể tiếp tục được phân loại rủi ro trong các nghiệp vụ quản lý thuế quy định tại khoản 2 Điều này.
+2. Phân loại mức độ rủi ro trong các nghiệp vụ quản lý thuế
+a) Mức độ rủi ro người nộp thuế là doanh nghiệp trong các nghiệp vụ quản lý thuế được phân loại theo một trong các mức sau:
+a.1) Rủi ro cao.
+a.2) Rủi ro trung bình.
+a.3) Rủi ro thấp.
+b) Mức độ rủi ro người nộp thuế trong các nghiệp vụ quản lý thuế được phân loại dựa trên kết quả xếp hạng mức độ rủi ro người nộp thuế tại khoản 1 Điều này và các tiêu chí quy định tại Phụ lục II Thông tư này.
+c) Xử lý kết quả phân loại mức độ rủi ro Kết quả phân loại mức độ rủi ro người nộp thuế được áp dụng các biện pháp quản lý thuế trong từng nghiệp vụ quản lý thuế quy định tại Chương IV Thông tư này.
+
+Thông tư 31/2021/TT-BTC. Điều 12. Phân loại mức độ rủi ro người nộp thuế là cá nhân
+1. Mức độ rủi ro người nộp thuế là cá nhân được phân loại theo một trong các mức sau:
+a) Rủi ro cao.
+b) Rủi ro trung bình.
+c) Rủi ro thấp.
+2. Mức độ rủi ro người nộp thuế là cá nhân được phân loại dựa trên kết quả đánh giá tuân thủ pháp luật thuế tại
+Điều 10 và các tiêu chí quy định tại Phụ lục III Thông tư này.
+3. Xử lý kết quả phân loại mức độ rủi ro người nộp thuế là cá nhân Kết quả phân loại mức độ rủi ro của người nộp thuế được áp dụng các biện pháp quản lý thuế quy định tại Điều 15 Thông tư này.
+
+Thông tư 31/2021/TT-BTC. 
+Thông tư 31/2021/TT-BTC. Điều 13. Áp dụng quản lý rủi ro trong quản lý thuế
+Điều 13. Áp dụng quản lý rủi ro trong quản lý thuế
+1. Cơ quan thuế căn cứ vào kết quả đánh giá tuân thủ pháp luật thuế tại Điều 10, kết quả phân loại mức độ rủi ro người nộp thuế tại Điều 11 và Điều 12 Thông tư này và các thông tin nghiệp vụ tại thời điểm ra quyết định để xác định danh sách người nộp thuế phân loại theo các mức rủi ro trong từng thời kỳ và thực hiện:
+a) Quản lý tuân thủ pháp luật thuế;
+b) Quản lý rủi ro về đăng ký thuế;
+c) Quản lý rủi ro trong kiểm tra hồ sơ thuế tại trụ sở của cơ quan thuế;
+d) Quản lý rủi ro trong quản lý hoàn thuế;
+đ) Quản lý rủi ro trong thanh tra, kiểm tra tại trụ sở của người nộp thuế;
+e) Quản lý rủi ro trong quản lý nợ thuế và cưỡng chế thi hành quyết định hành chính thuế;
+g) Quản lý rủi ro trong quản lý hóa đơn, chứng từ;
+h) Quản lý rủi ro đối với người nộp thuế thuộc trường hợp kiểm soát, giám sát trọng điểm;
+i) Quản lý rủi ro đối với người nộp thuế là cá nhân;
+k) Áp dụng quản lý rủi ro trong các hoạt động nghiệp vụ khác trong quản lý thuế.
+2. Danh sách người nộp thuế rủi ro theo các trường hợp nêu tại khoản 1 Điều này được cập nhật trên ứng dụng quản lý rủi ro trong quản lý thuế. Cơ quan thuế các cấp có trách nhiệm tổng hợp, cập nhật, quản lý thông tin người nộp thuế có rủi ro để phục vụ cho công tác quản lý thuế trong toàn ngành thuế.
+3. Tổng cục Thuế quy định chi tiết định kỳ việc đánh giá, lập danh sách người nộp thuế rủi ro theo các trường hợp nêu tại khoản 1 Điều này để xác định trọng điểm trong công tác quản lý thuế đáp ứng yêu cầu quản lý thuế trong từng thời kỳ.
+4. Nếu có thông tin nghi ngờ hoặc phát hiện có dấu hiệu vi phạm pháp luật thuế qua công tác thanh tra, kiểm tra, kiểm toán, qua đơn thư tố cáo, qua thông tin từ các cơ quan quản lý nhà nước, cơ quan điều tra, thủ trưởng cơ quan thuế quyết định thay đổi hình thức, mức độ kiểm tra, thay đổi biện pháp quản lý thuế khác theo thẩm quyền và chịu trách nhiệm về quyết định của mình.
+
+Thông tư 31/2021/TT-BTC. Điều 14. Các biện pháp nâng cao tuân thủ pháp luật thuế của người nộp thuế
+Căn cứ kết quả đánh giá tuân thủ pháp luật thuế được quy định tại Điều 10 Thông tư này, cơ quan thuế thực hiện phân tích bản chất hành vi, quy mô của mỗi mức độ tuân thủ pháp luật thuế của người nộp thuế, xây dựng kế hoạch nâng cao tuân thủ pháp luật thuế với các biện pháp xử lý phù hợp với mỗi vấn đề tuân thủ như sau:
+1. Đối với trường hợp tuân thủ cao: Đưa vào danh sách xem xét, lựa chọn tuyên dương, khen thưởng người nộp thuế tuân thủ pháp luật thuế.
+2. Đối với các trường hợp cần nâng cao tuân thủ:
+a) Phối hợp với các cơ quan, tổ chức liên quan, các đại lý thuế để triển khai các biện pháp hỗ trợ người nộp thuế thực hiện các thủ tục về thuế; tổ chức các chương trình tiếp xúc với người nộp thuế, hội nghị đối thoại, hội thảo, đào tạo giúp người nộp thuế thực hiện đúng, đủ nghĩa vụ thuế;
+b) Nghiên cứu sửa đổi chính sách, đơn giản hóa các thủ tục hành chính, triển khai các biện pháp hỗ trợ, ứng dụng công nghệ thông tin để việc kê khai, nộp thuế được thuận tiện, tiết kiệm thời gian và chi phí tuân thủ cho người nộp thuế;
+c) Được phân loại rủi ro và áp dụng các biện pháp quản lý thuế đối với các mức rủi ro người nộp thuế quy định tại các Điều 15, Điều 16, Điều 17, Điều 18,
+Điều 19, Điều 20, Điều 21, Điều 22 Thông tư này.
+
+Thông tư 31/2021/TT-BTC. Điều 15. Áp dụng quản lý rủi ro đối với người nộp thuế là cá nhân
+Căn cứ vào danh sách người nộp thuế là cá nhân phân loại theo các mức rủi ro tại Điều 13 Thông tư này, cơ quan thuế áp dụng các biện pháp quản lý thuế phù hợp theo quy định.
+1. Đối với hộ kinh doanh, cá nhân kinh doanh
+a) Rủi ro cao: Áp dụng một hoặc kết hợp các biện pháp sau:
+a.1) Rà soát, kiểm tra, xác minh các thông tin liên quan làm cơ sở xác định lại doanh thu, mức thuế của hộ kinh doanh, cá nhân kinh doanh;
+a.2) Lập danh sách kiểm tra, khảo sát để xác định lại doanh thu, mức thuế của hộ kinh doanh, cá nhân kinh doanh và việc thực hiện nghĩa vụ thuế của các tổ chức có liên quan.
+b) Rủi ro trung bình: Lựa chọn ngẫu nhiên đưa vào danh sách khảo sát doanh thu hộ kinh doanh, cá nhân kinh doanh; tiếp tục thực hiện phân loại rủi ro cho kỳ đánh giá tiếp theo;
+c) Rủi ro thấp: Lưu hồ sơ, thực hiện phân loại mức độ rủi ro cho kỳ đánh giá tiếp theo.
+2. Đối với cá nhân có các khoản thu nhập chịu thuế thu nhập cá nhân (không bao gồm hộ kinh doanh, cá nhân kinh doanh)
+a) Rủi ro cao: Lựa chọn vào danh sách kiểm tra, xác minh thực tế và tổ chức thực hiện kiểm tra, xác minh theo quy định hiện hành;
+b) Rủi ro trung bình và rủi ro thấp: Lưu hồ sơ, thực hiện phân loại mức độ rủi ro cho kỳ đánh giá tiếp theo.
+Trường hợp cá nhân có các khoản thu nhập chịu thuế thu nhập cá nhân thông qua tổ chức chi trả thu nhập thì được kiểm soát qua việc phân tích dấu hiệu rủi ro của tổ chức chi trả thu nhập.
+3. Đối với cá nhân có các khoản thu liên quan đến đất đai, tài sản gắn liền với đất
+a) Rủi ro cao: Thực hiện phân tích hồ sơ, lập danh sách trình thủ trưởng cơ quan thuế kế hoạch kiểm tra tại trụ sở cơ quan thuế, thực hiện kiểm tra hồ sơ khai thuế tại trụ sở cơ quan thuế theo quy định hiện hành đối với cá nhân và tổ chức có liên quan;
+b) Rủi ro trung bình và rủi ro thấp: Lưu hồ sơ, thực hiện phân loại mức độ rủi ro cho kỳ đánh giá tiếp theo.
+
+Thông tư 31/2021/TT-BTC. Điều 16. Áp dụng quản lý rủi ro trong quản lý về đăng ký thuế
+Căn cứ danh sách người nộp thuế phân loại theo các mức rủi ro về đăng ký thuế tại Điều 13 Thông tư này để cơ quan thuế áp dụng các biện pháp phù hợp trong giải quyết, xử lý hoặc phối hợp với cơ quan đăng ký kinh doanh giải quyết, xử lý theo quy định của pháp luật đăng ký kinh doanh, đăng ký thuế.
+1. Trường hợp người nộp thuế có thay đổi thông tin đăng ký thuế làm thay đổi cơ quan thuế quản lý trực tiếp:
+a) Rủi ro cao:
+Cơ quan thuế nơi chuyển đi và cơ quan thuế nơi chuyển đến phối hợp thực hiện kiểm tra tại trụ sở của cơ quan thuế, thanh tra hoặc kiểm tra tại trụ sở của người nộp thuế theo quy định pháp luật hiện hành;
+b) Rủi ro trung bình: Cơ quan thuế nơi chuyển đến thực hiện đưa vào giám sát, đề nghị người nộp thuế giải trình bổ sung thông tin tài liệu khi có yêu cầu của cơ quan thuế;
+c) Rủi ro thấp:
+Chưa thực hiện việc kiểm tra, giám sát; thực hiện đánh giá tuân thủ pháp luật người nộp thuế, phân loại rủi ro cho kỳ đánh giá tiếp theo.
+2. Trường hợp người nộp thuế thông báo tạm ngừng hoạt động kinh doanh
+a) Rủi ro cao:
+Tăng cường thực hiện các biện pháp quản lý thuế theo quy định, phù hợp với tình hình thực hiện nghĩa vụ thuế của người nộp thuế để xử lý kịp thời nợ thuế, hóa đơn, hành vi vi phạm (nếu có);
+b) Rủi ro trung bình và rủi ro thấp: Thực hiện các biện pháp quản lý thuế theo quy định; thực hiện đánh giá tuân thủ pháp luật thuế, phân loại rủi ro cho kỳ đánh giá tiếp theo.
+3. Trường hợp chấm dứt hiệu lực mã số thuế Ưu tiên theo kết quả xếp hạng rủi ro từ cao xuống thấp để thực hiện thanh tra, kiểm tra quyết toán thuế tại trụ sở của người nộp thuế theo quy định.
+Cập nhật trạng thái giải thể, phá sản hoặc ngừng hoạt động trên hệ thống ứng dụng đăng ký thuế đối với các trường hợp đã hoàn thành nghĩa vụ về thuế theo quy định. Áp dụng các biện pháp đôn đốc người nộp thuế hoàn thành nghĩa vụ thuế trước khi giải thể, phá sản, ngừng hoạt động theo quy định.
+4. Đối với trường hợp còn lại:
+Thường xuyên rà soát các trường hợp có dấu hiệu rủi ro cao để xác định danh sách cần kiểm tra, xác minh tình trạng hoạt động tại địa điểm kinh doanh.
+
+Thông tư 31/2021/TT-BTC. Điều 17. Áp dụng quản lý rủi ro trong kiểm tra hồ sơ khai thuế tại trụ sở của cơ quan thuế
+Căn cứ danh sách người nộp thuế phân loại theo các mức rủi ro về hồ sơ khai thuế tại Điều 13 Thông tư này để áp dụng biện pháp phù hợp trong giải quyết, xử lý hồ sơ khai thuế.
+1. Rủi ro cao: Thực hiện phân tích hồ sơ, lập danh sách trình thủ trưởng cơ quan thuế kế hoạch kiểm tra tại trụ sở của cơ quan thuế, thực hiện kiểm tra hồ sơ khai thuế tại trụ sở của cơ quan thuế theo quy định;
+2. Rủi ro trung bình và rủi ro thấp: Chưa thực hiện kiểm tra hồ sơ khai thuế tại trụ sở của cơ quan thuế; thực hiện đánh giá tuân thủ pháp luật, phân loại rủi ro hồ sơ khai thuế của người nộp thuế cho kỳ đánh giá tiếp theo.
+
+Thông tư 31/2021/TT-BTC. Điều 18. Áp dụng quản lý rủi ro trong hoàn thuế
+Cơ quan thuế phân loại hồ sơ hoàn thuế theo quy định tại Luật Quản lý thuế, các văn bản quy phạm pháp luật có liên quan hoặc các quy định hiện hành. Đối với phân loại hồ sơ hoàn thuế theo rủi ro, căn cứ kết quả phân loại rủi ro hồ sơ hoàn thuế tại Điều 13 Thông tư này, cơ quan thuế áp dụng các biện pháp phù hợp trong giải quyết, xử lý hồ sơ hoàn thuế như sau:
+1. Phân loại giải quyết hồ sơ hoàn thuế
+a) Hồ sơ hoàn thuế thuộc loại rủi ro cao về thuế: Thực hiện kiểm tra trước, hoàn thuế sau Trong 12 tháng liên tục tính từ đầu năm tài chính, người nộp thuế có hồ sơ hoàn thuế liên tiếp được đánh giá là rủi ro cao:
+a.1) Trường hợp lần đánh giá rủi ro đang thực hiện so với lần đánh giá trước liền kề khác nhau về tổng số điểm rủi ro hoặc điểm rủi ro tại mỗi tiêu chí, chỉ số khác nhau: Hồ sơ hoàn thuế thuộc diện kiểm tra trước hoàn thuế sau.
+a.2) Trường hợp lần đánh giá rủi ro đang thực hiện so với lần đánh giá trước liền kề giống nhau về tổng số điểm và số điểm tại mỗi tiêu chí, chỉ số; hoặc hồ sơ hoàn thuế đang thực hiện so với lần đánh giá trước liền kề có số điểm rủi ro tại mỗi chỉ số thấp hơn dẫn đến tổng điểm rủi ro thấp hơn tương ứng:
+- Kết quả kiểm tra hồ sơ hoàn thuế lần trước liền kề hoặc thanh tra, kiểm tra sau hoàn thuế không phát hiện hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được hoàn thì hồ sơ hoàn thuế lần tiếp theo không thuộc diện kiểm tra trước hoàn thuế.
+- Trường hợp kiểm tra hồ sơ hoàn thuế lần trước liền kề hoặc thanh tra, kiểm tra sau hoàn thuế phát hiện hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được hoàn thì hồ sơ hoàn thuế lần tiếp theo thuộc diện kiểm tra trước hoàn thuế.
+b) Hồ sơ hoàn thuế thuộc các loại rủi ro trung bình và rủi ro thấp: Thực hiện hoàn thuế trước, kiểm tra sau.
+c) Trường hợp, sau khi ứng dụng phân loại hồ sơ hoàn thuế, trong quá trình giải quyết hồ sơ hoàn thuế, cơ quan thuế phát hiện người nộp thuế có dấu hiệu vi phạm pháp luật thuế, pháp luật hải quan hoặc trường hợp nếu người nộp thuế không giải trình, bổ sung hồ sơ hoàn thuế hoặc có giải trình, bổ sung nhưng không chứng minh được số thuế đã khai là đúng, cơ quan thuế thay đổi việc áp dụng hình thức phân loại hồ sơ hoàn thuế của người nộp thuế đang thuộc diện hoàn thuế trước, kiểm tra sau sang thuộc diện hồ sơ kiểm tra trước hoàn thuế sau; việc phê duyệt thay đổi áp dụng hình thức phân loại phải được cập nhật vào hệ thống thông tin nghiệp vụ.
+2. Kiểm tra, thanh tra sau hoàn thuế
+a) Việc sắp xếp thứ tự kiểm tra, thanh tra sau hoàn thuế được cơ quan thuế thực hiện trên cơ sở tổng điểm rủi ro từ cao xuống thấp trong thời hạn năm (05) năm kể từ ngày có quyết định hoàn thuế:
+a1) Rủi ro cao (đối với hồ sơ hoàn thuế không thuộc diện kiểm tra trước hoàn thuế sau quy định tại điểm a khoản 1 Điều này): Thực hiện kiểm tra, thanh tra trong thời hạn một (01) năm kể từ ngày ban hành quyết định hoàn thuế;
+a2) Rủi ro trung bình: Thực hiện kiểm tra, thanh tra trong thời hạn ba (03) năm kể từ ngày ban hành quyết định hoàn thuế;
+a3) Rủi ro thấp: Thực hiện kiểm tra, thanh tra trong thời hạn năm (05) năm kể từ ngày ban hành quyết định hoàn thuế;
+a4) Căn cứ tình hình thực tế, cơ quan thuế có thể kiểm tra, thanh tra sau hoàn thuế sớm hơn thời hạn nêu trên.
+b) Tổng cục Thuế quy định cụ thể về kiểm tra, thanh tra sau hoàn thuế; kết hợp với thanh tra, kiểm tra chấp hành pháp luật thuế theo quy định.
+
+Thông tư 31/2021/TT-BTC. Điều 19. Áp dụng quản lý rủi ro trong thanh tra, kiểm tra tại trụ sở của người nộp thuế
+1. Cơ quan thuế lựa chọn trường hợp thanh tra, kiểm tra tại trụ sở của người nộp thuế phải đảm bảo:
+a) Trường hợp được lựa chọn qua phân tích, đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế không dưới 90% số lượng trường hợp được thanh tra, kiểm tra theo kế hoạch hàng năm;
+b) Trường hợp được lựa chọn ngẫu nhiên không quá 10% số lượng trường hợp được thanh tra, kiểm tra theo kế hoạch hàng năm.
+2. Lựa chọn người nộp thuế để xây dựng kế hoạch thanh, tra kiểm tại trụ sở của người nộp thuế
+Căn cứ danh sách người nộp thuế phân loại theo các mức rủi ro về hoạt động thanh tra, kiểm tra thuế tại Điều 13 Thông tư này, cơ quan thuế lựa chọn các trường hợp thanh tra, kiểm tra tại trụ sở của người nộp thuế như sau:
+a) Lựa chọn trường hợp thanh tra: Lựa chọn người nộp thuế dự kiến đưa vào kế hoạch thanh tra năm tại trụ sở của người nộp thuế theo kết quả xếp hạng rủi ro từ cao xuống.
+b) Lựa chọn trường hợp kiểm tra: Lựa chọn người nộp thuế dự kiến đưa vào kế hoạch kiểm tra năm tại trụ sở của người nộp thuế theo kết quả xếp hạng rủi ro từ cao xuống và không trùng lặp với người nộp thuế đã được lựa chọn đưa vào kế hoạch thanh tra tại điểm a khoản 2 Điều này.
+c) Việc áp dụng quản lý rủi ro trong lựa chọn người nộp thuế có dấu hiệu rủi ro để xây dựng kế hoạch thanh tra, kiểm tra thuế phải tránh trùng lặp, chồng chéo theo quy định tại Luật Quản lý thuế, các văn bản hướng dẫn thi hành và các văn bản quy phạm pháp luật khác có liên quan.
+Trường hợp cơ quan thuế trong công tác quản lý thuế có thông tin tin cậy làm giảm mức độ rủi ro của người nộp thuế tới mức thấp hoặc có cơ sở cho rằng mức độ rủi ro của người nộp thuế là thấp chưa đưa vào kế hoạch thanh tra, kiểm tra năm thì cơ quan thuế quyết định không lựa chọn người nộp thuế đó vào kế hoạch thanh tra, kiểm tra và lựa chọn người nộp thuế khác theo quy định để đưa vào kế hoạch thanh tra, kiểm tra năm. Trường hợp trong công tác quản lý thuế, có thông tin được thu thập và xác minh được người nộp thuế có dấu hiệu rủi ro cao thì cơ quan thuế lựa chọn bổ sung vào kế hoạch thanh tra, kiểm tra năm. Cơ quan thuế chịu trách nhiệm về các quyết định thay đổi của mình.
+d) Việc xây dựng và thẩm quyền phê duyệt kế hoạch thanh tra, kiểm tra tại trụ sở của người nộp thuế; danh sách bổ sung, điều chỉnh kế hoạch thanh tra, kiểm tra tại trụ sở của người nộp thuế tại Điều này được thực hiện theo quy định tại Luật Quản lý thuế, các văn bản hướng dẫn thi hành và các văn bản quy phạm pháp luật khác có liên quan.
+3. Cơ quan thuế căn cứ kết quả phân tích rủi ro bằng ứng dụng công nghệ thông tin hoặc rủi ro từ phân tích nghiệp vụ, thông tin từ thực tế công tác quản lý thuế để xác định nội dung, phạm vi thanh tra, kiểm tra thuế.
+
+Thông tư 31/2021/TT-BTC. Điều 20. Áp dụng quản lý rủi ro trong quản lý nợ thuế và cưỡng chế thi hành quyết định hành chính thuế
+Căn cứ danh sách người nộp thuế phân loại theo các mức rủi ro về quản lý nợ thuế và cưỡng chế thi hành quyết định hành chính thuế tại Điều 13 Thông tư này, cơ quan thuế thực hiện việc quản lý nợ thuế và cưỡng chế thi hành quyết định hành chính thuế theo quy định tại Luật Quản lý thuế và các văn bản hướng dẫn thi hành, có xem xét đến mức độ rủi ro để ưu tiên xử lý hoặc tăng cường đôn đốc.
+1.
+Rủi ro cao: Căn cứ tình hình thực tế, cơ quan thuế lựa chọn người nộp thuế có khả năng thu hồi được số tiền thuế nợ vào ngân sách nhà nước, người nộp thuế có số thuế nợ lớn, người nộp thuế có hành vi phát tán tài sản hoặc bỏ trốn, người nộp thuế xuất cảnh ra nước ngoài để thực hiện tăng tần suất đôn đốc; hoặc ưu tiên triển khai trước trong danh sách người nôp thuế cần áp dụng các biện pháp cưỡng chế thi hành quyết định hành chính thuế;
+2.
+Rủi ro trung bình và rủi ro thấp: Thực hiện theo dõi, đôn đốc và áp dụng các biện pháp thu nợ theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành.
+
+Thông tư 31/2021/TT-BTC. Điều 21. Áp dụng quản lý rủi ro trong quản lý hóa đơn, chứng từ và trong các nghiệp vụ khác trong quản lý thuế
+1. Áp dụng quản lý rủi ro trong quản lý hóa đơn, chứng từ Căn cứ danh sách người nộp thuế phân loại theo các mức rủi ro trong quản lý hóa đơn, chứng từ tại Điều 13 Thông tư này, cơ quan thuế áp dụng các biện pháp quản lý như sau:
+a) Rủi ro cao: Đưa vào danh sách thực hiện rà soát, kiểm tra tại trụ sở của cơ quan thuế, bổ sung kế hoạch kiểm tra thanh tra tại trụ sở của người nộp thuế hàng năm theo quy định tại Luật Quản lý thuế, các văn bản hướng dẫn thi hành và các văn bản quy phạm pháp luật khác có liên quan. Trên cơ sở kết quả kiểm tra, thanh tra thực hiện chuyển hình thức sử dụng hóa đơn đang thực hiện sang thực hiện mua hóa đơn của cơ quan thuế hoặc sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc thực hiện các biện pháp quản lý hóa đơn khác theo quy định hiện hành; quyết định hình thức sử dụng hóa đơn đối với người nộp thuế sử dụng hóa đơn lần đầu;
+b) Rủi ro trung bình và rủi ro thấp: Thực hiện chọn mẫu để rà soát, kiểm tra, xử lý và tăng cường hỗ trợ người nộp thuế tuân thủ tốt các quy định pháp luật về hóa đơn.
+Tổng cục Thuế quy định phương pháp chọn mẫu phù hợp theo yêu cầu quản lý thuế của từng địa phương, trong từng thời kỳ.
+2.
+Áp dụng quản lý rủi ro trong các nghiệp vụ khác Căn cứ mức độ rủi ro trong hoạt động nghiệp vụ khác và các thông tin nghiệp vụ, cơ quan thuế quyết định áp dụng các biện pháp nghiệp vụ phù hợp theo chức năng, nhiệm vụ.
+
+Thông tư 31/2021/TT-BTC. Điều 22. Kiểm soát, giám sát trọng điểm đối với người nộp thuế có dấu hiệu vi phạm pháp luật thuế
+1. Người nộp thuế thuộc trường hợp giám sát trọng điểm về thuế là người nộp thuế có một trong các dấu hiệu sau:
+a) Người nộp thuế thực hiện các giao dịch qua ngân hàng có dấu hiệu đáng ngờ theo quy định của pháp luật về phòng, chống rửa tiền có liên quan đến trốn thuế, gian lận thuế.
+b) Người nộp thuế hoặc người đại diện hợp pháp của người nộp thuế bị khởi tố về các hành vi vi phạm về thuế, hóa đơn, chứng từ.
+c) Người nộp thuế có dấu hiệu rủi ro cao về thuế thuộc chuyên đề trọng điểm hoặc qua thu thập thông tin từ công tác quản lý của cơ quan thuế cần giám sát quản lý thuế.
+d) Người nộp thuế được lựa chọn từ danh sách người nộp thuế thuộc mức không tuân thủ pháp luật thuế quy định tại Điều 10, danh sách người nộp thuế thuộc mức rủi ro rất cao, rủi ro cao theo quy định tại khoản 1 Điều 11 Thông tư này và người nộp thuế không giải trình, bổ sung thông tin hoặc có giải trình, bổ sung thông tin nhưng không đầy đủ theo yêu cầu và thời hạn tại thông báo bằng văn bản của cơ quan thuế.
+2. Cơ quan thuế các cấp có trách nhiệm theo dõi, giám sát, áp dụng các biện pháp nghiệp vụ quản lý thuế phù hợp với từng trường hợp tại khoản 1 Điều này.
+3. Tổng cục Thuế quy định cụ thể việc thu thập, phân tích thông tin, xác định trọng điểm giám sát, biện pháp giám sát phù hợp với quy định của pháp luật trong từng thời kỳ.
+
+Thông tư 31/2021/TT-BTC. Điều 23. Kiểm tra, đánh giá việc thực hiện áp dụng quản lý rủi ro trong quản lý thuế
+1. Thực hiện kiểm tra, đánh giá các nội dung sau:
+a) Chất lượng tổ chức thực hiện các biện pháp, kỹ thuật nghiệp vụ quản lý rủi ro;
+b) Hiệu lực, hiệu quả áp dụng quản lý rủi ro trong các hoạt động nghiệp vụ quản lý thuế;
+c) Việc tổ chức thực hiện và kết quả thực hiện quyết định kiểm tra, thanh tra hoặc các biện pháp nghiệp vụ khác trên cơ sở áp dụng quản lý rủi ro;
+d) Đánh giá hiệu quả của các tiêu chí, chỉ số đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro người nộp thuế.
+2. Biện pháp kiểm tra, đánh giá
+a) Tổng hợp thông tin, số liệu báo cáo của cơ quan thuế các cấp, các Vụ, đơn vị thuộc Tổng cục Thuế trong việc thực hiện, áp dụng quản lý rủi ro;
+b) Thu thập, phân tích, tổng hợp thông tin kết quả áp dụng quản lý rủi ro trong các nghiệp vụ quản lý thuế;
+c) Tổ chức các đoàn công tác kiểm tra việc thực hiện và áp dụng quản lý rủi ro tại cơ quan thuế các cấp.
+3. Tổng cục trưởng Tổng cục Thuế phân cấp trách nhiệm cho các đơn vị quản lý rủi ro kiểm tra, đánh giá việc thực hiện, áp dụng quản lý rủi ro trong quản lý thuế theo quy định tại khoản 2 Điều này. Việc đánh giá được thực hiện thường xuyên; Báo cáo định kỳ (6 tháng và hàng năm) và theo các yêu cầu nghiệp vụ phát sinh cụ thể.
+
+Thông tư 31/2021/TT-BTC. Điều 24. Giám sát, đánh giá việc thực hiện kế hoạch nâng cao tuân thủ
+1. Thực hiện giám sát, đánh giá các nội dung sau:
+a) Việc tổ chức thực hiện kế hoạch nâng cao tuân thủ;
+b) Kết quả và hiệu quả thực hiện kế hoạch nâng cao tuân thủ. Cụ thể:
+b.1) Hiệu lực, hiệu quả áp dụng các biện pháp xử lý mà cơ quan thuế các cấp triển khai trên cơ sở phân tích, xác định rủi ro theo từng phân đoạn người nộp thuế;
+b.2) Kết quả thực tế và kết quả mong đợi việc thực hiện các biện pháp giảm thiểu rủi ro thông qua việc đo lường tuân thủ.
+c) Việc áp dụng quy trình minh bạch trong việc xây dựng và thực hiện kế hoạch nâng cao tuân thủ;
+d) Việc cải thiện mức độ tuân thủ tổng thể của các nhóm người nộp thuế và các nghĩa vụ thuế khác nhau;
+đ) Về bộ máy tổ chức và nguồn nhân lực của cơ quan thuế các cấp trong việc thực hiện kế hoạch đảm bảo hiệu lực, hiệu quả theo các mục tiêu đề ra.
+2. Biện pháp giám sát, đánh giá
+a) Tổng hợp thông tin, số liệu báo cáo của cơ quan thuế các cấp, các Vụ, đơn vị thuộc Tổng cục Thuế trong việc thực hiện kế hoạch nâng cao tuân thủ;
+b) Thu thập, phân tích, tổng hợp thông tin kết quả thực hiện;
+c) Tổ chức các đoàn công tác kiểm tra tại cơ quan thuế các cấp.
+3. Tổng cục trưởng Tổng cục Thuế phân cấp trách nhiệm cho các đơn vị quản lý rủi ro giám sát, đánh giá việc thực hiện kế hoạch nâng cao tuân thủ theo quy định tại khoản 2 Điều này. Việc giám sát, đánh giá được thực hiện thường xuyên, báo cáo định kỳ (6 tháng và hàng năm) và theo yêu cầu về tiến độ triển khai kế hoạch nâng cao tuân thủ.
+
+Thông tư 31/2021/TT-BTC. 
+Chương V TỔ CHỨC THỰC HIỆN
+Điều 25. Trách nhiệm thi hành
+1. Các cơ quan, đơn vị chức năng thuộc Bộ Tài chính và các Bộ, ngành có liên quan; các tổ chức, cá nhân có liên quan đến hoạt động quản lý thuế có trách nhiệm cung cấp thông tin và phối hợp trong công tác áp dụng quản lý rủi ro trong quản lý thuế theo quy định của pháp luật hiện hành và quy định tại Thông tư này.
+2. Tổng cục trưởng Tổng cục Thuế căn cứ vào hướng dẫn tại Thông tư này có trách nhiệm ban hành:
+a) Các chỉ số tiêu chí quy định tại Điều 10, Điều 11 và Điều 12 Thông tư này để đáp ứng yêu cầu quản lý thuế trong từng thời kỳ; định kỳ hàng năm có thể thực hiện rà soát, sửa đổi, bổ sung chỉ số tiêu chí đảm bảo tính cập nhật, phù hợp thực tế;
+b) Các quy định cụ thể về trách nhiệm của cơ quan thuế các cấp, công chức thuế và biện pháp thu thập, xử lý thông tin quản lý rủi ro; điểm số, trọng số và biện pháp kỹ thuật nghiệp vụ quản lý rủi ro trong quản lý thuế;
+c) Các quy trình, quy chế, quy định, hướng dẫn việc thực hiện, áp dụng quản lý rủi ro trong quản lý thuế.
+3. Đơn vị Quản lý rủi ro là đơn vị đầu mối, chủ trì có trách nhiệm:
+a) Quản lý, vận hành ứng dụng quản lý rủi ro trong quản lý thuế và các hệ thống thông tin, dữ liệu phục vụ quản lý rủi ro theo phân cấp;
+b) Tổ chức thực hiện và hướng dẫn nghiệp vụ, kiểm tra việc thu thập, xử lý thông tin quản lý rủi ro; các biện pháp, kỹ thuật nghiệp vụ quản lý rủi ro và việc áp dụng quản lý rủi ro trong các hoạt động nghiệp vụ quản lý thuế;
+c) Quản lý bộ chỉ số tiêu chí do Tổng cục trưởng ban hành tại điểm a khoản 2 Điều này trên hệ thống thông tin quản lý rủi ro và các hệ thống thông tin liên quan; theo dõi, đánh giá, điều chỉnh, bổ sung các chỉ số tiêu chí đáp ứng yêu cầu quản lý trong từng thời kỳ.
+4. Các Chi cục Thuế, Chi cục Thuế khu vực, Cục Thuế, các Cục, Vụ, đơn vị thuộc Tổng cục Thuế, công chức thuế có trách nhiệm thực hiện đúng, đầy đủ các nội dung quy định về thực hiện, áp dụng quản lý rủi ro tại Thông tư này và các văn bản quy định khác có liên quan.
+
+Thông tư 31/2021/TT-BTC. Điều 26. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 02 tháng 7 năm 2021.
+2. Thông tư này thay thế Thông tư số 204/2015/TT-BTC ngày 21 tháng 12 năm 2015 của Bộ Tài chính quy định về áp dụng quản lý rủi ro trong quản lý thuế.
+3. Trường hợp các văn bản quy phạm pháp luật mới ban hành sửa đổi, bổ sung, thay thế các văn bản được dẫn chiếu tại Thông tư này thì thực hiện theo văn bản mới được ban hành./.
+Nơi nhận:
+- Thủ tướng Chính phủ; các Phó Thủ tướng Chính phủ;
+- VP TW Đảng và các Ban của Đảng;
+- VP Tổng Bí thư;
+- VP Quốc hội;
+- VP Chủ tịch nước;
+- Văn phòng Chính phủ;
+- Viện Kiểm sát Nhân dân Tối cao;
+- Tòa án Nhân dân Tối cao;
+- Kiểm toán Nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND tỉnh, thành phố trực thuộc TW;
+- Phòng Thương mại và Công nghiệp Việt Nam;
+- Công báo;
+- Cục Kiểm tra văn bản - Bộ Tư pháp;
+- Website Chính phủ;
+- Website Bộ Tài chính;
+- Website Tổng cục Thuế;
+- Cục Thuế các tỉnh, thành phố;
+- Lưu: VT, TCT (05).
+BỘ TRƯỞNG Hồ Đức Phớc

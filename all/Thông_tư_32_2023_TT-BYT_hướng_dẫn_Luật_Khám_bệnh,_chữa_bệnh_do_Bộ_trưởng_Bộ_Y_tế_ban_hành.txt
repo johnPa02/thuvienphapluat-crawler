@@ -1,0 +1,619 @@
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. BỘ Y TẾ --------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 32/2023/TT-BYT
+Hà Nội, ngày 31 tháng 12 năm 2023 THÔNG TƯ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT KHÁM BỆNH, CHỮA BỆNH
+Căn cứ Luật Khám bệnh, chữa bệnh số 15/2023/QH15 ngày 09 tháng 01 năm 2023;
+Căn cứ Nghị định số 95/2022/NĐ-CP ngày 15 tháng 11 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;
+Theo đề nghị của Cục trưởng Cục Quản lý Khám, chữa bệnh và Cục trưởng Cục Khoa học Công nghệ và đào tạo, Vụ trưởng Vụ Tổ chức cán bộ;
+Bộ trưởng Bộ Y tế ban hành Thông tư quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.
+
+Chương I QUY ĐỊNH CHUNG
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về:
+1. Cập nhật kiến thức y khoa liên tục trong khám bệnh, chữa bệnh quy định tại khoản 14 Điều 2 và khoản 4 Điều 22 của Luật Khám bệnh, chữa bệnh.
+2. Phạm vi hành nghề khám bệnh, chữa bệnh đối với các chức danh chuyên môn quy định tại khoản 3 Điều 26 của Luật Khám bệnh, chữa bệnh.
+3. Mẫu giấy phép hành nghề khám bệnh, chữa bệnh quy định tại khoản 5 Điều 27 của Luật Khám bệnh, chữa bệnh.
+4. Thừa nhận tiêu chuẩn chất lượng cơ sở khám bệnh, chữa bệnh do tổ chức trong nước, tổ chức nước ngoài ban hành quy định tại điểm d khoản 1 và khoản 4 Điều 57 của Luật Khám bệnh, chữa bệnh.
+5. Hồ sơ bệnh án và bản tóm tắt hồ sơ bệnh án quy định tại khoản 1 Điều 69 của Luật Khám bệnh, chữa bệnh.
+6. Trực khám bệnh, chữa bệnh quy định tại khoản 3 Điều 70 của Luật Khám bệnh, chữa bệnh.
+7. Tiêu chuẩn và việc khám sức khỏe quy định tại khoản 2 Điều 83 của Luật Khám bệnh, chữa bệnh.
+8. Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng quy định tại điểm d khoản 4 Điều 99 của Luật Khám bệnh, chữa bệnh.
+9. Quy chế tổ chức, hoạt động của Hội đồng chuyên môn và trình tự, thủ tục giải quyết tranh chấp khi xảy ra tai biến y khoa quy định tại khoản 6 Điều 101 của Luật Khám bệnh, chữa bệnh.
+10. Huy động, điều động, phân công nhiệm vụ đối với các đối tượng tham gia khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm họa, dịch bệnh truyền nhiễm thuộc nhóm A hoặc tình trạng khẩn cấp quy định tại khoản 4 Điều 115 của Luật Khám bệnh, chữa bệnh.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 2. Giải thích từ ngữ
+1. Cơ sở cập nhật kiến thức y khoa liên tục trong khám bệnh, chữa bệnh là cơ sở khám bệnh, chữa bệnh, cơ sở giáo dục tham gia đào tạo nhân lực y tế, tổ chức xã hội - nghề nghiệp về khám bệnh, chữa bệnh đáp ứng yêu cầu tổ chức cập nhật kiến thức y khoa liên tục theo quy định tại Thông tư này.
+2. Giờ tín chỉ trong cập nhật kiến thức y khoa liên tục là đơn vị tính thời gian người hành nghề tham gia một trong các hình thức cập nhật kiến thức y khoa liên tục với công thức quy đổi theo quy định tại [Phụ lục số I](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20I.doc) ban hành kèm theo Thông tư này.
+3. Thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới và thiết bị y tế là hoạt động khoa học nghiên cứu về kỹ thuật mới, phương pháp mới, thiết bị y tế trên người tình nguyện nhằm thăm dò hoặc xác định sự an toàn và hiệu quả của kỹ thuật mới, phương pháp mới, thiết bị y tế trên lâm sàng; nhận biết, phát hiện phản ứng có hại do tác động của kỹ thuật mới, phương pháp mới hoặc thiết bị y tế; mức độ dễ sử dụng của thiết bị y tế đối với bác sỹ và nhân viên y tế; thẩm định hoặc xác nhận phương pháp và đánh giá hiệu năng của thiết bị y tế chẩn đoán in vitro trên lâm sàng.
+4. Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng (Good Clinical Practice - GCP) là bộ nguyên tắc, tiêu chuẩn cho việc thiết kế, tổ chức triển khai, thực hiện, giám sát, kiểm tra, ghi chép, phân tích và báo cáo về thử kỹ thuật mới, phương pháp mới, thiết bị y tế trên lâm sàng nhằm bảo đảm tính tin cậy, chính xác của dữ liệu và báo cáo kết quả nghiên cứu, bảo vệ quyền, sự an toàn và bảo mật thông tin của đối tượng nghiên cứu.
+5. Hồ sơ sản phẩm dành cho nghiên cứu viên (Investigator’s Brochure - IB) là tài liệu có thông tin chung về kỹ thuật mới, phương pháp mới, thiết bị y tế nghiên cứu lâm sàng; tài liệu nghiên cứu tiền lâm sàng và các tài liệu nghiên cứu thử nghiệm lâm sàng giai đoạn trước (nếu có).
+6. Phiếu thu thập thông tin nghiên cứu hoặc Bệnh án nghiên cứu (Case Report Form - CRF) là công cụ bằng giấy hoặc điện tử được thiết kế để thu thập dữ liệu nghiên cứu của người tham gia thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới, thiết bị y tế.
+7. ICD (International Classification of Diseases) là phân loại quốc tế về bệnh tật.
+
+Chương II CẬP NHẬT KIẾN THỨC Y KHOA LIÊN TỤC CHO NGƯỜI HÀNH NGHỀ KHÁM BỆNH, CHỮA BỆNH
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 3. Thời gian cập nhật kiến thức y khoa liên tục
+1. Người hành nghề khám bệnh, chữa bệnh có nghĩa vụ tham gia cập nhật kiến thức y khoa liên tục tối thiểu 120 giờ tín chỉ trong 05 năm liên tục (01 giờ tín chỉ đối với các khóa đào tạo, bồi dưỡng ngắn hạn tương đương với 01 tiết học).
+2. Người hành nghề khám bệnh, chữa bệnh tham gia một trong các hình thức cập nhật kiến thức y khoa liên tục quy định tại các Điều 4, 5, 6 và Điều 7 Thông tư này sau khi quy đổi sang giờ tín chỉ sẽ được cộng các hình thức để tính tổng thời gian cập nhật kiến thức y khoa liên tục.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 4. Cập nhật kiến thức y khoa liên tục bằng hình thức tham gia các khóa đào tạo, bồi dưỡng ngắn hạn, hội nghị, hội thảo về y khoa phù hợp với phạm vi hành nghề
+1. Cập nhật kiến thức y khoa liên tục bằng hình thức tham gia các khóa đào tạo, bồi dưỡng ngắn hạn:
+a) Khóa đào tạo, bồi dưỡng ngắn hạn về khám bệnh, chữa bệnh là các khoá đào tạo có chương trình, tài liệu đào tạo được xây dựng, thẩm định và ban hành theo quy định của Thông tư này;
+b) Các khóa đào tạo, bồi dưỡng ngắn hạn được tổ chức theo hình thức trực tiếp hoặc trực tiếp kết hợp trực tuyến phù hợp với nội dung chuyên môn của từng khóa học;
+c) Đơn vị tổ chức là cơ sở khám bệnh, chữa bệnh, cơ sở giáo dục tham gia đào tạo nhân lực y tế, tổ chức xã hội - nghề nghiệp về khám bệnh, chữa bệnh;
+d) Cơ sở cập nhật kiến thức y khoa liên tục xây dựng kế hoạch tổ chức các khóa đào tạo, bồi dưỡng ngắn hạn và công khai trên Trang thông tin điện tử của cơ sở trước khi tổ chức;
+đ) Chương trình cập nhật kiến thức y khoa liên tục phải phù hợp với phạm vi hoạt động chuyên môn đã được phê duyệt cho cơ sở cập nhật kiến thức y khoa liên tục hoặc phù hợp với trình độ đào tạo các ngành, chuyên ngành về khám bệnh chữa bệnh của cơ sở giáo dục đã được giao nhiệm vụ đào tạo. Chương trình cập nhật kiến thức y khoa liên tục xây dựng theo hướng dẫn tại [Phụ lục số III](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20III.doc) ban hành kèm theo Thông tư này và được rà soát, cập nhật thường xuyên bảo đảm tính khoa học, phù hợp với nhu cầu thực tiễn;
+e) Tài liệu cập nhật kiến thức y khoa liên tục được xây dựng trên cơ sở chương trình đã được ban hành và theo hướng dẫn tại [Phụ lục số III](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20III.doc) ban hành kèm theo Thông tư này. Tài liệu cần được rà soát, cập nhật thường xuyên bảo đảm tính khoa học, phù hợp với nhu cầu thực tiễn;
+g) Cơ sở cập nhật kiến thức y khoa liên tục được sử dụng các chương trình, tài liệu của cơ sở khác đã được ban hành khi được cơ sở đó đồng ý bằng văn bản;
+h) Người đứng đầu cơ sở cập nhật kiến thức y khoa liên tục lựa chọn và bố trí đủ giảng viên đáp ứng theo yêu cầu của chương trình đào tạo;
+i) Chứng nhận tham gia các khóa đào tạo, bồi dưỡng ngắn hạn: Người hành nghề sau khi hoàn thành khóa đào tạo, bồi dưỡng ngắn hạn được cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+2. Cập nhật kiến thức y khoa liên tục bằng hình thức tham gia hội nghị, hội thảo:
+a) Hội nghị, hội thảo về y khoa là một sự kiện do các cơ sở cập nhật kiến thức y khoa liên tục trong khám bệnh, chữa bệnh tổ chức thực hiện có nội dung liên quan đến khám bệnh, chữa bệnh;
+b) Đơn vị chủ trì tổ chức: Có phạm vi hoạt động chuyên môn được cấp có thẩm quyền phê duyệt phù hợp nội dung hội nghị, hội thảo;
+c) Chủ đề và nội dung:
+Phù hợp với phạm vi hoạt động chuyên môn khám bệnh, chữa bệnh của đơn vị chủ trì tổ chức;
+d) Báo cáo viên: Có phạm vi hành nghề phù hợp với nội dung bài báo cáo và chủ đề của hội nghị, hội thảo;
+đ) Hình thức tổ chức:
+Trực tiếp hoặc trực tuyến;
+e) Chứng nhận tham gia hội nghị, hội thảo: Người hành nghề tham gia hội nghị, hội thảo được đơn vị chủ trì tổ chức hội nghị, hội thảo cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 5. Cập nhật kiến thức y khoa liên tục bằng hình thức tham gia biên soạn giáo trình, tài liệu giảng dạy, tài liệu chuyên môn về khám bệnh, chữa bệnh
+1. Biên soạn giáo trình, tài liệu giảng dạy, tài liệu chuyên môn về khám bệnh, chữa bệnh là tham gia các ban hoặc tổ chuyên môn soạn thảo giáo trình, tài liệu giảng dạy, tài liệu chuyên môn, quy trình chuyên môn có nội dung về khám bệnh, chữa bệnh và được Thủ trưởng đơn vị chủ trì soạn thảo ban hành.
+2. Người hành nghề khám bệnh, chữa bệnh chủ trì hoặc tham gia các ban hoặc tổ chuyên môn soạn thảo giáo trình, tài liệu giảng dạy, tài liệu chuyên môn có nội dung về khám bệnh, chữa bệnh phù hợp với phạm vi hành nghề chuyên môn và đã được được Thủ trưởng đơn vị chủ trì soạn thảo ban hành.
+3. Chứng nhận tham gia biên soạn giáo trình, tài liệu giảng dạy, tài liệu chuyên môn: Người hành nghề chủ trì hoặc tham gia biên soạn giáo trình, tài liệu giảng dạy, tài liệu chuyên môn quy trình chuyên môn được Thủ trưởng đơn vị chủ trì soạn thảo tính giờ tín chỉ và cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 6. Cập nhật kiến thức y khoa liên tục bằng hình thức thực hiện các nghiên cứu khoa học, giảng dạy về y khoa thuộc phạm vi hành nghề
+1. Cập nhật kiến thức y khoa liên tục bằng hình thức thực hiện các nghiên cứu khoa học thuộc phạm vi hành nghề:
+a) Người hành nghề chủ trì hoặc tham gia nhiệm vụ khoa học và công nghệ cấp cơ sở, cấp bộ, cấp tỉnh và cấp Nhà nước hoặc sáng kiến cải tiến kỹ thuật, viết bài báo khoa học trong và ngoài nước có nội dung về khám bệnh, chữa bệnh, phù hợp với phạm vi hành nghề.
+Nhiệm vụ khoa học và công nghệ đã có quyết định nghiệm thu, sáng kiến cải tiến kỹ thuật đã được công nhận, bài báo khoa học đã được công bố trên các tạp chí khoa học, bản tin, đặc san ở trong và ngoài nước;
+b) Chứng nhận thực hiện các nghiên cứu khoa học: Người hành nghề hoàn thành nhiệm vụ khoa học và công nghệ các cấp, sáng kiến cải tiến kỹ thuật, viết bài báo khoa học được Thủ trưởng đơn vị chủ trì nhiệm vụ khoa học và công nghệ các cấp, sáng kiến cải tiến kỹ thuật tính giờ tín chỉ và được cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+2. Cập nhật kiến thức y khoa liên tục bằng hình thức giảng dạy về y khoa thuộc phạm vi hành nghề:
+a) Giảng dạy về y khoa là hoạt động truyền đạt kiến thức, kỹ năng, thái độ trong khám bệnh, chữa bệnh thuộc phạm vi chuyên môn của người hành nghề;
+b) Người hành nghề được phân công hoặc mời tham gia giảng dạy các khóa đào tạo cấp văn bằng hoặc các khóa đào tạo để cấp chứng chỉ, giấy chứng nhận trong lĩnh vực sức khỏe có nội dung đào tạo phù hợp với phạm vi hành nghề khám bệnh, chữa bệnh;
+c) Chứng nhận tham gia giảng dạy về y khoa: Người hành nghề tham gia giảng dạy về y khoa thuộc phạm vi hành nghề được Thủ trưởng đơn vị tổ chức giảng dạy tính giờ tín chỉ dựa trên minh chứng người hành nghề đã tham gia giảng dạy và cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 7. Cập nhật kiến thức y khoa liên tục bằng hình thức tự cập nhật kiến thức y khoa và các hình thức khác
+1. Tự cập nhật kiến thức y khoa là quá trình tự tìm hiểu, tư duy, nghiên cứu các kiến thức, kỹ năng về y khoa phù hợp với phạm vi chuyên môn của người hành nghề.
+2. Hình thức tự cập nhật kiến thức y khoa và các hình thức khác bao gồm:
+a) Người hành nghề tham gia hướng dẫn luận văn, luận án có nội dung phù hợp với phạm vi hành nghề và luận văn, luận án do người hành nghề hướng dẫn đã được Hội đồng đánh giá luận văn, luận án cấp trường thông qua;
+b) Người hành nghề tham gia các hội đồng đánh giá luận văn, luận án; hội đồng nghiệm thu các nhiệm vụ khoa học và công nghệ các cấp; hội đồng chuyên môn thẩm định chương trình và tài liệu đào tạo có nội dung về khám bệnh chữa bệnh phù hợp với phạm vi hành nghề, hội đồng giám định, hội đồng sai sót chuyên môn;
+c) Người hành nghề tham gia các hoạt động sinh hoạt chuyên môn về lĩnh vực khám bệnh, chữa bệnh phù hợp với phạm vi hành nghề bao gồm: hội chẩn ca bệnh trực tiếp hoặc gián tiếp, phân tích ca bệnh;
+d) Tham gia các khóa đào tạo cấp văn bằng trong và ngoài nước (không bao gồm thời gian gia hạn học tập) phù hợp với phạm vi hành nghề khám bệnh, chữa bệnh;
+đ) Tham gia các khóa đào tạo để cấp chứng chỉ: chuyên khoa cơ bản, chuyên khoa sâu, kỹ thuật chuyên môn, chuyển giao kỹ thuật phù hợp với phạm vi hành nghề khám bệnh, chữa bệnh;
+3. Chứng nhận tự cập nhật kiến thức y khoa và các hình thức khác: Người hành nghề tự cập nhật kiến thức y khoa và các hình thức khác được Thủ trưởng đơn vị chủ trì các hoạt động hoặc quản lý trực tiếp người hành nghề cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 8. Quy đổi sang giờ tín chỉ và giấy chứng nhận tham gia cập nhật kiến thức y khoa liên tục
+1. Việc quy đổi sang giờ tín chỉ của các hình thức cập nhật kiến thức y khoa liên tục được thực hiện theo [Phụ lục số I](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20I.doc) ban hành kèm theo Thông tư này.
+2. Đối với việc cập nhật kiến thức y khoa liên tục của người hành nghề khám bệnh, chữa bệnh do cơ sở nước ngoài tổ chức: Việc xác nhận thời gian tham gia cập nhật kiến thức y khoa liên tục do Thủ trưởng đơn vị quản lý trực tiếp người hành nghề tính giờ tín chỉ và cấp giấy chứng nhận theo [Phụ lục số II](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20II.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 9. Trách nhiệm của cơ sở cập nhật kiến thức y khoa liên tục
+1. Tạo điều kiện để người hành nghề được cập nhật kiến thức y khoa liên tục; theo dõi, quản lý; xác nhận và tính giờ tín chỉ cho người hành nghề tham gia cập nhật kiến thức y khoa liên tục do cơ sở tổ chức.
+2. Phân công cán bộ phụ trách, quản lý hoạt động cập nhật kiến thức y khoa liên tục của cơ sở.
+3. Tổ chức hoạt động cập nhật kiến thức y khoa liên tục theo quy định tại Thông tư này và chịu trách nhiệm về chất lượng cập nhật kiến thức y khoa liên tục do cơ sở thực hiện.
+4. Quản lý và lưu trữ hồ sơ, chương trình và tài liệu các khóa đào tạo, bồi dưỡng ngắn hạn, hồ sơ hội nghị, hội thảo cập nhật kiến thức y khoa liên tục của cơ sở; quản lý việc xác nhận cho người hành nghề đã hoàn thành cập nhật kiến thức y khoa liên tục theo đúng quy định của Thông tư này.
+5. Đối với cơ sở cập nhật kiến thức y khoa liên tục bằng hình thức tổ chức các khóa đào tạo, bồi dưỡng ngắn hạn: Trước khi tổ chức đào tạo, bồi dưỡng có trách nhiệm gửi thông báo theo [Phụ lục số IV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20IV.doc) ban hành kèm theo Thông tư này về Bộ Y tế (Cục Khoa học công nghệ và Đào tạo) đối với cơ sở thuộc thẩm quyền quản lý của Bộ Y tế hoặc gửi thông báo về Bộ Y tế và Sở Y tế đối với cơ sở thuộc thẩm quyền quản lý của Sở Y tế.
+
+Chương III PHẠM VI HÀNH NGHỀ CỦA NGƯỜI HÀNH NGHỀ VÀ MẪU GIẤY PHÉP HÀNH NGHỀ
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 10. Nguyên tắc xác định phạm vi hành nghề của người hành nghề
+1. Việc xác định phạm vi hành nghề của người hành nghề phải phù hợp với văn bằng, chứng chỉ chuyên môn liên quan đến y tế mà người đó đã được cấp hoặc công nhận tại Việt Nam; phù hợp với năng lực thực hiện hoạt động khám bệnh, chữa bệnh, bao gồm các phương pháp, kỹ thuật chuyên môn của người hành nghề theo chuyên khoa đăng ký hành nghề.
+2. Phạm vi hành nghề của người hành nghề bao gồm việc khám bệnh, chữa bệnh, chỉ định các phương pháp cận lâm sàng, thực hiện các phương pháp khám bệnh, chữa bệnh, chuyên môn kỹ thuật, kê đơn thuốc, chỉ định các chế độ chăm sóc, chế độ dinh dưỡng, đánh giá kết quả khám bệnh, chữa bệnh, tư vấn, giáo dục sức khỏe cho người bệnh theo chức danh nghề nghiệp và quy định của Bộ trưởng Bộ Y tế quy định tại Điều 11 Thông tư này tương ứng với từng chức danh.
+3. Bảo đảm chất lượng dịch vụ khám bệnh, chữa bệnh và an toàn người bệnh.
+4. Phù hợp với điều kiện thực tiễn, đặc biệt tại đơn vị có tính đặc thù, các cấp chuyên môn kỹ thuật trong khám bệnh, chữa bệnh, thuộc vùng kinh tế - xã hội khó khăn và đặc biệt khó khăn.
+5. Không phân biệt người hành nghề làm việc ở các cấp chuyên môn kỹ thuật trong khám bệnh, chữa bệnh và thời gian hành nghề khám bệnh, chữa bệnh.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 11. Phạm vi hành nghề của người hành nghề
+1. Bác sỹ y khoa: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số V](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20V%20-%20Bac%20sy%20y%20khoa.doc) ban hành kèm theo Thông tư này.
+2. Bác sỹ y học cổ truyền: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số VI](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20VI%20-%20Bac%20sy%20YHCT.doc) ban hành kèm theo Thông tư này.
+3. Bác sỹ y học dự phòng: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số VII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20VII%20-%20Bac%20sy%20y%20hoc%20du%20phong.doc) ban hành kèm theo Thông tư này.
+4. Bác sỹ răng hàm mặt:
+Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số VIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20VIII%20-%20Bac%20sy%20rang%20ham%20mat.doc) ban hành kèm theo Thông tư này.
+5. Bác sỹ chuyên khoa:
+a) Bác sỹ chuyên khoa hồi sức cấp cứu: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số V](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20V%20-%20Bac%20sy%20y%20khoa.doc) và Phụ lục số IX phần Nội khoa và Hồi sức cấp cứu ban hành kèm theo Thông tư này;
+b) Bác sỹ chuyên khoa dinh dưỡng: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số V](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20V%20-%20Bac%20sy%20y%20khoa.doc) và [Phụ lục số XV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XV%20-%20Dinh%20duong%20lam%20sang.doc) ban hành kèm theo Thông tư này;
+c) Bác sỹ chuyên khoa khác: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số V](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20V%20-%20Bac%20sy%20y%20khoa.doc) và Phụ lục số IX theo chuyên khoa ban hành kèm theo Thông tư này.
+6. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là y sỹ:
+a) Y sỹ đa khoa: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại [Phụ lục số X](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20X%20-%20Y%20sy%20da%20khoa.doc) ban hành kèm theo Thông tư này (bao gồm các kỹ thuật sơ cứu ban đầu, khám bệnh, chữa bệnh thông thường theo quy định tại Thông tư liên tịch số 10/2015/TTLT-BYT-BNV ngày 27 tháng 5 năm 2015 của Bộ Y tế và Bộ Nội vụ quy định mã số, tiêu chuẩn chức danh nghề nghiệp bác sĩ, bác sĩ y học dự phòng, y sĩ);
+b) Y sỹ y học cổ truyền: Phạm vi hành nghề khám bệnh, chữa bệnh quy định tại Phụ lục số XI ban hành kèm theo Thông tư này.
+7. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là điều dưỡng quy định tại Phụ lục số XII ban hành kèm theo Thông tư này.
+8. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là hộ sinh quy định tại Phụ lục số XIII ban hành kèm theo Thông tư này.
+9. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là kỹ thuật y quy định tại [Phụ lục số XIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XIV%20-%20Ky%20thuat%20y.doc) ban hành kèm theo Thông tư này.
+10. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là dinh dưỡng lâm sàng quy định tại [Phụ lục số XV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XV%20-%20Dinh%20duong%20lam%20sang.doc) ban hành kèm theo Thông tư này.
+11. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là tâm lý lâm sàng quy định tại [Phụ lục số XVI](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XVI%20-%20Tam%20ly%20lam%20sang.doc) ban hành kèm theo Thông tư này và cung cấp các dịch vụ chăm sóc liên tục và toàn diện về nhận thức, hành vi, cảm xúc, tâm lý xã hội cho cá nhân, nhóm, gia đình, bao gồm đánh giá các rối loạn tâm thần, chỉ định, xây dựng và triển khai các can thiệp tâm lý tại các cơ sở khám bệnh, chữa bệnh.
+12. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là cấp cứu viên ngoại viện quy định tại [Phụ lục số XVII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XVIII%20-%20Cap%20cuu%20ngoai%20vien.doc) ban hành kèm theo Thông tư này.
+13. Phạm vi hành nghề của người hành nghề có chức danh chuyên môn là lương y được khám bệnh, chữa bệnh bằng các phương pháp, kỹ thuật chuyên môn của y học cổ truyền và danh mục kỹ thuật quy định tại [Phụ lục số XVIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20%20XVII%20-%20Luong%20y.doc) ban hành kèm theo Thông tư này.
+14. Phạm vi hành nghề của người có bài thuốc gia truyền:
+a) Người có bài thuốc gia truyền được khám bệnh, sử dụng bài thuốc gia truyền được cấp có thẩm quyền cấp giấy chứng nhận để chữa bệnh hoặc chứng bệnh;
+b) Bài thuốc gia truyền sử dụng chữa bệnh phải đúng thành phần, dạng bào chế, công dụng (chỉ định), liều lượng, cách dùng;
+c) Được sử dụng nhiều bài thuốc gia truyền được cấp có thẩm quyền cấp giấy chứng nhận để chữa bệnh hoặc chứng bệnh khác nhau trong cùng một người bệnh;
+d) Người vừa có bài thuốc gia truyền và phương pháp chữa bệnh gia truyền được sử dụng đồng thời cho người bệnh trong cùng một thời điểm ;
+đ) Không được kê đơn và sử dụng thuốc hóa dược, thuốc dược liệu và sử dụng phương pháp, kỹ thuật chuyên môn của y học hiện đại để khám bệnh, chữa bệnh.
+15. Phạm vi hành nghề của người có phương pháp chữa bệnh gia truyền:
+a) Người có phương pháp chữa bệnh gia truyền được khám bệnh, sử dụng phương pháp chữa bệnh gia truyền được cấp có thẩm quyền cấp giấy chứng nhận để chữa bệnh hoặc chứng bệnh;
+b) Phương pháp chữa bệnh gia truyền sử dụng chữa bệnh phải đúng quy trình, đúng bệnh hoặc chứng bệnh được cấp có thẩm quyền phê duyệt;
+c) Được sử dụng nhiều phương pháp chữa bệnh gia truyền, kết hợp với bài thuốc gia truyền để chữa các bệnh, chứng bệnh khác nhau trong cùng một người bệnh;
+d) Không được sử dụng phương pháp, kỹ thuật chuyên môn của y học hiện đại để khám bệnh, chữa bệnh ngoài phạm vi hành nghề phương pháp chữa bệnh gia truyền.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 12. Mẫu giấy phép hành nghề khám bệnh, chữa bệnh
+Bộ Y tế, Sở Y tế các tỉnh, thành phố, Bộ Quốc phòng, Bộ Công an cấp giấy phép hoạt động theo mẫu quy định tại [Phụ lục số XIX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XIX.doc) ban hành kèm theo Thông tư này.
+
+Chương IV THỪA NHẬN TIÊU CHUẨN QUẢN LÝ CHẤT LƯỢNG CƠ SỞ KHÁM BỆNH, CHỮA BỆNH
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 13. Thừa nhận tiêu chuẩn quốc tế, tiêu chuẩn về quản lý chất lượng cơ sở khám bệnh, chữa bệnh
+1. Thừa nhận các tiêu chuẩn quốc tế, tiêu chuẩn về quản lý chất lượng cơ sở khám bệnh, chữa bệnh đã được Hiệp hội quốc tế về chất lượng y tế (International Society for Quality in Healthcare - ISQua) công nhận.
+2. Cục Quản lý Khám, chữa bệnh rà soát để công bố và cập nhật trên Cổng Thông tin điện tử của Bộ Y tế, Trang thông tin điện tử của Cục Quản lý Khám, chữa bệnh và hệ thống thông tin quản lý hoạt động khám bệnh, chữa bệnh.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 14. Tiêu chí thừa nhận tiêu chuẩn quản lý chất lượng cơ sở khám bệnh, chữa bệnh không thuộc trường hợp quy định tại Điều 13 Thông tư này
+1. Tiêu chí chung:
+a) Tiêu chuẩn quy định về thời hạn áp dụng, phương thức đánh giá các tiêu chuẩn;
+b) Tiêu chuẩn quy định việc chứng nhận chất lượng là hoạt động tự nguyện của các cơ sở khám bệnh, chữa bệnh;
+c) Tiêu chuẩn bảo đảm tính khoa học và hiệu quả để quản lý chất lượng từng lĩnh vực dịch vụ khám bệnh, chữa bệnh;
+d) Tiêu chuẩn bảo đảm đánh giá được tổng thể các đặc tính chất lượng: an toàn, hiệu quả, kịp thời, công bằng, hướng đến người bệnh và nhân viên y tế;
+đ) Tiêu chuẩn bao gồm các tiêu chí, chỉ số bảo đảm đánh giá đầy đủ 3 thành tố chất lượng: đầu vào, quy trình và kết quả thực hiện.
+2. Tiêu chí cụ thể được quy định tại [Mẫu số 1 Phụ lục số XX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%201%20-%20Phu%20luc%20XX%20-%20Thua%20nhan%20chat%20luong.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 15. Hồ sơ đề nghị thừa nhận tiêu chuẩn quản lý chất lượng cơ sở khám bệnh, chữa bệnh
+1. Đơn đề nghị thừa nhận tiêu chuẩn quản lý chất lượng cơ sở khám bệnh, chữa bệnh theo mẫu quy định tại [Mẫu số 02 Phụ lục số XX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2002-%20PL%20XX.doc) ban hành kèm theo Thông tư này.
+2. Bản đầy đủ của tiêu chuẩn quản lý chất lượng đề nghị thừa nhận.
+3. Bản sao có chứng thực Giấy chứng nhận đăng ký hoạt động đánh giá, chứng nhận chất lượng cơ sở khám bệnh, chữa bệnh của Tổ chức chứng nhận chất lượng theo quy định tại Điều 76 và Điều 77 Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh (sau đây gọi tắt là Nghị định số 96/2023/NĐ-CP).
+4. Bản sao có chứng thực Quyết định thành lập, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư của Tổ chức chứng nhận chất lượng.
+5. Tài liệu chứng minh tiêu chuẩn đã được áp dụng thử nghiệm tại các cơ sở khám bệnh, chữa bệnh tại Việt Nam bao gồm: báo cáo thử nghiệm áp dụng tiêu chuẩn; tổng hợp ý kiến của cán bộ quản lý các cơ sở khám bệnh, chữa bệnh và các chuyên gia trong lĩnh vực quản lý chất lượng.
+6. Bản trả lời đáp ứng các tiêu chí cụ thể thừa nhận tiêu chuẩn quản lý chất lượng cơ sở khám chữa bệnh theo mẫu quy định tại [Mẫu số 1 Phụ lục số XX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%201%20-%20Phu%20luc%20XX%20-%20Thua%20nhan%20chat%20luong.doc) ban hành kèm theo Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 16. Thủ tục thừa nhận tiêu chuẩn quản lý chất lượng cơ sở khám bệnh, chữa bệnh
+1. Tổ chức chứng nhận chất lượng nộp 01 bộ hồ sơ theo quy định tại Điều 15 Thông tư này đến Bộ Y tế (Cục Quản lý Khám, chữa bệnh).
+2. Thành lập Hội đồng thẩm định:
+a) Hội đồng thẩm định do Bộ trưởng Bộ Y tế phê duyệt Quyết định thành lập bao gồm:
+- Lãnh đạo Bộ Y tế là Chủ tịch Hội đồng;
+- Lãnh đạo Cục Quản lý Khám, chữa bệnh là Phó Chủ tịch thường trực, Lãnh đạo Vụ Pháp chế là Phó Chủ tịch Hội đồng;
+- Lãnh đạo một số Vụ, Cục, Viện của Bộ Y tế, một số chuyên gia về quản lý chất lượng, đại diện các Bộ, ngành, tổ chức, hiệp hội liên quan được mời tham gia là thành viên theo từng lĩnh vực chuyên môn của tiêu chuẩn đề nghị thừa nhận.
+b) Giúp việc cho Hội đồng là Tổ thư ký do Trưởng phòng Quản lý chất lượng, Cục Quản lý Khám, chữa bệnh là Tổ trưởng và một số thành viên có liên quan.
+3. Quy trình thẩm định tiêu chuẩn:
+a) Tổ thư ký xem xét kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Nếu hồ sơ đầy đủ, hợp lệ, Tổ thư ký có nhiệm vụ đối chiếu tiêu chuẩn quản lý chất lượng với các tiêu chí thừa nhận quy định tại Điều 14 Thông tư này và lập báo cáo thẩm định trình Hội đồng;
+b) Hội đồng họp thẩm định, thống nhất kết luận và thông qua biên bản;
+c) Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ ghi trên Phiếu tiếp nhận theo mẫu quy định tại [Mẫu số 03 Phụ lục số XX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2003-%20PL%20XX.doc) ban hành kèm theo Thông tư này, căn cứ kết luận của Hội đồng:
+- Trường hợp Hội đồng đồng ý thừa nhận tiêu chuẩn, Cục Quản lý Khám, chữa bệnh trình Bộ trưởng Bộ Y tế ban hành Quyết định thừa nhận tiêu chuẩn của tổ chức chứng nhận chất lượng theo mẫu quy định [Mẫu số 04 tại Phụ lục số XX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2004-%20PL%20XX.doc) ban hành kèm theo Thông tư này;
+- Trường hợp Hội đồng không đồng ý thừa nhận tiêu chuẩn, trong thời hạn 05 ngày làm việc, kể từ ngày có kết luận của Hội đồng, Cục Quản lý Khám, chữa bệnh thông báo bằng văn bản cho tổ chức chứng nhận chất lượng đã gửi hồ sơ đề nghị và nêu rõ lý do.
+d) Quyết định thừa nhận tiêu chuẩn của tổ chức chứng nhận chất lượng được công bố trên Trang thông tin điện tử của Cục Quản lý Khám, chữa bệnh trong thời hạn 05 ngày làm việc, kể từ ngày ban hành Quyết định thừa nhận.
+
+Chương V THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI HOẶC THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG 
+Mục 1. QUY ĐỊNH CHUNG VỀ THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI HOẶC THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 17. Nguyên tắc, tiêu chuẩn Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+Ban hành nguyên tắc, tiêu chuẩn Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng tại [Phụ lục số XXI](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XXI%20-%20Thu%20nghiem%20lam%20sang.doc) ban hành kèm theo Thông tư này trên cơ sở tham khảo hướng dẫn của ICH, WHO.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 18. Các trường hợp đánh giá, kiểm tra việc đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Đánh giá lần đầu:
+Được thực hiện khi cơ sở nhận thử nghiệm lâm sàng có triển khai hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế.
+2. Đánh giá định kỳ:
+Được thực hiện nhằm duy trì việc đáp ứng GCP, đánh giá định kỳ được thực hiện 03 năm một lần kể từ ngày cấp giấy chứng nhận đáp ứng GCP (không bao gồm các đợt đánh giá, kiểm tra đột xuất).
+3. Đánh giá đột xuất việc đáp ứng GCP được thực hiện theo quy định tại Điều 27 Thông tư này.
+4. Kiểm tra việc đáp ứng GCP: Bộ Y tế, Sở Y tế căn cứ vào yêu cầu quản lý nhà nước thực hiện kiểm tra việc đáp ứng GCP hoặc lồng ghép kiểm tra việc đáp ứng GCP trong kế hoạch kiểm tra các hoạt động chuyên môn hàng năm hoặc trong các đợt đánh giá đột xuất đáp ứng GCP đối với các cơ sở nhận thử thuộc trách nhiệm quản lý.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 19. Mức độ tuân thủ Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Mức độ 1: Cơ sở nhận thử đáp ứng GCP trong trường hợp không có nội dung cần khắc phục, sửa chữa.
+2. Mức độ 2: Cơ sở nhận thử còn có nội dung phải khắc phục, sửa chữa để đáp ứng GCP trong trường hợp nội dung cần khắc phục, sửa chữa không ảnh hưởng đến tính chính xác và trung thực của dữ liệu nghiên cứu và an toàn, sức khoẻ của người tham gia thử kỹ thuật mới, phương pháp mới, thiết bị y tế.
+3. Mức độ 3: Cơ sở nhận thử không đáp ứng GCP trong các trường hợp sau:
+a) Có nội dung sai lệch với tiêu chuẩn GCP có nguy cơ ảnh hưởng đến tính chính xác và trung thực của dữ liệu nghiên cứu và/hoặc sức khoẻ, an toàn của người tham gia thử kỹ thuật mới, phương pháp mới, thiết bị y tế;
+b) Gian lận, giả mạo, sửa chữa số liệu, dữ liệu, tài liệu.
+
+Mục 2. ĐÁNH GIÁ LẦN ĐẦU VIỆC ĐÁP ỨNG THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI HOẶC THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG
+Điều 20. Hồ sơ đề nghị đánh giá lần đầu việc đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Đơn đề nghị đánh giá đáp ứng GCP theo [Mẫu số 01 quy định tại Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2001-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này.
+2. Bản kê khai Các thông tin chung về cơ sở nhận thử; cơ sở vật chất, danh mục thiết bị y tế; danh sách nhân sự đáp ứng điều kiện cho đánh giá đáp ứng GCP tương ứng; các quy trình thực hành chuẩn (SOPs), hệ thống quản lý chất lượng phục vụ cho việc thử nghiệm lâm sàng và các giấy tờ chứng minh, xác nhận các kê khai đó. Chi tiết lập hồ sơ theo hướng dẫn tại [Phụ lục số XXII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XXII%20-%20Thu%20nghiem%20lam%20sang.doc) ban hành kèm theo Thông tư này.
+3. Bản sao giấy phép hoạt động đối với cơ sở nhận thử là cơ sở khám bệnh, chữa bệnh; bản sao quyết định thành lập hoặc bản sao giấy chứng nhận đăng ký doanh nghiệp kèm theo bản sao giấy chứng nhận hoạt động khoa học công nghệ đối với cơ sở nhận thử là tổ chức khoa học và công nghệ.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 21. Trình tự tiếp nhận hồ sơ và đánh giá việc đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Cơ sở nhận thử nộp 01 bộ hồ sơ theo quy định tại Điều 20 Thông tư này đến Bộ Y tế (Cục Khoa học công nghệ và Đào tạo).
+2. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Khoa học công nghệ và Đào tạo kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ đầy đủ, hợp lệ, Cục Khoa học công nghệ và Đào tạo tổ chức Đoàn đánh giá theo quy định tại Điều 28 Thông tư này để tiến hành đánh giá thực tế tại cơ sở nhận thử trong thời hạn 15 ngày làm việc.
+Trường hợp hồ sơ chưa đầy đủ, hợp lệ, Cục Khoa học công nghệ và Đào tạo có văn bản thông báo cho cơ sở nhận thử.
+3. Đoàn đánh giá tiến hành đánh giá thực tế việc triển khai áp dụng GCP tại cơ sở nhận thử theo các tiêu chuẩn GCP quy định tại [Phụ lục số XXI](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XXI%20-%20Thu%20nghiem%20lam%20sang.doc) ban hành kèm theo Thông tư này.
+4. Trên cơ sở kết quả đánh giá thực tế tại cơ sở nhận thử, Đoàn đánh giá trao đổi với cơ sở nhận thử về các nội dung đánh giá đáp ứng GCP và có biên bản đánh giá theo [Mẫu số 02 Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2002-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này, trong đó xác định mức độ đáp ứng GCP của cơ sở nhận thử theo quy định tại Điều 19 Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 22. Quy trình đánh giá việc đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Đoàn đánh giá công bố Quyết định thành lập Đoàn đánh giá; mục đích, nội dung và kế hoạch đánh giá tại cơ sở nhận thử.
+2. Cơ sở nhận thử trình bày tóm tắt về tổ chức, nhân sự, hoạt động triển khai, áp dụng GCP hoặc các vấn đề khác theo nội dung đánh giá.
+3. Đoàn đánh giá tiến hành đánh giá thực tế việc triển khai áp dụng GCP tại cơ sở nhận thử theo từng nội dung đánh giá cụ thể.
+4. Đoàn đánh giá họp với cơ sở nhận thử để thông báo về mức độ đáp ứng GCP của cơ sở nhận thử theo quy định tại Điều 19 Thông tư này, các nội dung chưa đáp ứng, cần khắc phục, sửa chữa phát hiện được trong quá trình đánh giá (nếu có);
+thảo luận với cơ sở thử thuốc trên lâm sàng trong trường hợp cơ sở không thống nhất với đánh giá của Đoàn đối với từng nội dung.
+5. Lập và ký biên bản đánh giá: Biên bản đánh giá được Lãnh đạo cơ sở thử thuốc trên lâm sàng cùng Trưởng Đoàn đánh giá ký xác nhận; biên bản phải thể hiện thành phần Đoàn đánh giá, địa điểm, thời gian, phạm vi đánh giá, liệt kê và phân tích cụ thể các nội dung chưa đáp ứng mà cơ sở nhận thử cần khắc phục, sửa chữa (nếu có) đối chiếu với điều khoản quy định tương ứng của Thông tư này, đánh giá mức độ tuân thủ GCP của cơ sở nhận thử theo quy định tại Điều 19 Thông tư này, các vấn đề chưa thống nhất giữa Đoàn đánh giá và cơ sở nhận thử liên quan đến việc đánh giá đáp ứng GCP (nếu có). Biên bản được lập thành 01 bản: 01 bản lưu tại cơ sở nhận thử, 01 bản lưu tại Cơ quan tiếp nhận hồ sơ.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 23. Xử lý kết quả đánh giá đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Trường hợp Biên bản đánh giá việc đáp ứng GCP kết luận cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế đáp ứng GCP theo quy định tại khoản 1 Điều 19 Thông tư này thì trong thời hạn 10 ngày làm việc, kể từ ngày ký biên bản đánh giá, Bộ trưởng Bộ Y tế giao Cục Khoa học công nghệ và Đào tạo thực hiện cấp Giấy chứng nhận đạt GCP theo [Mẫu số 03 quy định tại Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2003-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này.
+2. Trường hợp Biên bản đánh giá việc đáp ứng GCP kết luận cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế cần khắc phục, sửa chữa theo quy định tại khoản 2 Điều 19 Thông tư này:
+a) Trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc việc đánh giá thực tế tại cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế và ký biên bản đánh giá, Cục Khoa học công nghệ và Đào tạo gửi Biên bản đánh giá việc đáp ứng GCP kèm theo văn bản thông báo về các nội dung cần khắc phục, sửa chữa cho cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế;
+b) Sau khi hoàn thành việc khắc phục, sửa chữa, cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế phải có văn bản báo cáo kèm theo bằng chứng (hồ sơ tài liệu, hình ảnh, video, giấy chứng nhận) chứng minh đã hoàn thành việc khắc phục, sửa chữa các nội dung được ghi trong Biên bản đánh giá;
+c) Trong thời hạn 20 ngày, kể từ ngày nhận được báo cáo khắc phục, sửa chữa của cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế, Cục Khoa học công nghệ và Đào tạo xem xét báo cáo khắc phục của cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế và kết luận về tình trạng đáp ứng GCP của cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế:
+- Trường hợp việc khắc phục, sửa chữa của cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế đã đáp ứng yêu cầu: Cục Khoa học công nghệ và Đào tạo thực hiện theo quy định tại khoản 1 Điều này.
+- Trường hợp việc khắc phục, sửa chữa của cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế chưa đáp ứng yêu cầu: Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu tiếp tục khắc phục, sửa chữa, bổ sung cho đến khi đạt yêu cầu.
+d) Trong thời hạn 06 tháng, kể từ ngày Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu khắc phục, sửa chữa mà cơ sở nhận thử không nộp báo cáo khắc phục, sửa chữa theo yêu cầu thì hồ sơ đã nộp không còn giá trị và việc đánh giá đáp ứng GCP phải thực hiện lại từ đầu.
+3. Trường hợp Biên bản đánh giá việc đáp ứng GCP kết luận cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế không đáp ứng GCP theo quy định khoản 3 Điều 19 Thông tư này: Trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc việc đánh giá thực tế tại cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế và ký biên bản đánh giá, Cục Khoa học công nghệ và Đào tạo ban hành văn bản thông báo về việc không đáp ứng GCP gửi kèm theo Biên bản đánh giá GCP cho cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế và không cấp giấy chứng nhận đạt GCP.
+4. Trong thời gian 05 ngày làm việc, kể từ ngày cấp giấy chứng nhận cơ sở đạt GCP, Cục Khoa học công nghệ và Đào tạo công bố trên Cổng thông tin điện tử của Bộ Y tế và Trang thông tin điện tử của Cục Khoa học công nghệ và Đào tạo các thông tin sau đây:
+a) Tên và địa chỉ cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế đáp ứng GCP;
+b) Họ tên người chịu trách nhiệm chuyên môn, số chứng chỉ hành nghề (đối với trường hợp cơ sở nhận thử lâm sàng là cơ sở khám bệnh, chữa bệnh);
+c) Số giấy chứng nhận đạt GCP (nếu có);
+d) Thời gian hết hiệu lực của việc đánh giá đáp ứng GCP và ngày đánh giá định kỳ tiếp theo;
+đ) Phạm vi hoạt động của cơ sở nhận thử.
+
+Mục 3. ĐÁNH GIÁ VIỆC DUY TRÌ ĐÁP ỨNG THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI HOẶC THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 24. Đánh giá định kỳ việc duy trì đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Định kỳ vào tháng 12 hằng năm Cục Khoa học công nghệ và Đào tạo công bố trên Trang thông tin điện tử của Cục Khoa học công nghệ và Đào tạo danh sách cơ sở nhận thử phải đánh giá duy trì đáp ứng GCP trong năm tiếp theo.
+2. Căn cứ danh sách công bố của Cục Khoa học công nghệ và Đào tạo cơ sở nhận thử phải nộp hồ sơ đề nghị đánh giá duy trì đáp ứng GCP theo quy định tại khoản 6 Điều này về Cục Khoa học công nghệ và Đào tạo trong thời gian tối thiểu 60 ngày, trước thời điểm hết hạn của giấy chứng nhận đáp ứng GCP đã được cấp.
+3. Trường hợp cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế không nộp hồ sơ đề nghị đánh giá định kỳ theo thời hạn quy định tại khoản 2 Điều này trong thời hạn 15 ngày làm việc kể từ ngày cơ sở phải nộp hồ sơ, Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu cơ sở thực hiện việc nộp hồ sơ theo quy định.
+4. Trong thời hạn 45 ngày, kể từ ngày Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu, cơ sở nhận thử phải nộp báo cáo hoạt động, duy trì đáp ứng GCP kèm theo giải trình về lý do chậm nộp báo cáo. Nếu sau thời hạn này, cơ sở nhận thử không nộp báo cáo, Cục Khoa học công nghệ và Đào tạo tiến hành đánh giá đột xuất, kiểm tra việc duy trì đáp ứng GCP của cơ sở theo quy định tại Điều 27 Thông tư này.
+5. Sau khi nộp hồ sơ đề nghị đánh giá định kỳ việc duy trì đáp ứng GCP theo thời gian quy định, cơ sở nhận thử được tiếp tục hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế theo phạm vi quy định tại giấy chứng nhận đáp ứng GCP đã được cấp cho đến khi có kết quả đánh giá định kỳ việc duy trì đáp ứng nguyên tắc, tiêu chuẩn GCP và phải bảo đảm duy trì việc đáp ứng nguyên tắc, tiêu chuẩn GCP.
+6. Hồ sơ đề nghị đánh giá định kỳ việc duy trì đáp ứng GCP bao gồm:
+a) Đơn đề nghị đánh giá định kỳ việc duy trì đáp ứng GCP theo [Mẫu số 04 quy định tại Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2004-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này;
+b) Báo cáo tóm tắt về hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế của cơ sở nhận thử trong thời gian 03 năm gần nhất tính từ thời điểm đánh giá liền trước (không bao gồm các đợt đánh giá đột xuất, thanh tra, kiểm tra của Bộ Y tế, Sở Y tế) đến ngày đề nghị đánh giá định kỳ;
+c) Tài liệu cập nhật về điều kiện cơ sở vật chất, kỹ thuật và nhân sự của cơ sở nhận thử (nếu có thay đổi).
+7. Quy trình, xử lý kết quả đánh giá duy trì đáp ứng GCP thực hiện theo quy định tại Điều 22 và Điều 23 Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 25. Xử lý kết quả đánh giá định kỳ việc duy trì đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Trường hợp Biên bản đánh giá GCP kết luận cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế đáp ứng GCP theo quy định tại khoản 1 Điều 19 Thông tư này:
+Trong thời hạn 10 ngày làm việc, kể từ ngày kết thúc việc đánh giá thực tế tại cơ sở nhận thử và ký biên bản đánh giá, Cục Khoa học công nghệ và Đào tạo thực hiện việc cấp giấy chứng nhận đạt GCP theo [Mẫu số 03 quy định tại Phụ lục XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2003-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này.
+2. Trường hợp Biên bản đánh giá GCP kết luận cơ sở nhận thử cần khắc phục, sửa chữa theo quy định tại khoản 2 Điều 19 Thông tư này:
+a) Trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc việc đánh giá thực tế tại cơ sở nhận thử và ký biên bản đánh giá, Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu cơ sở nhận thử tiến hành khắc phục, sửa chữa tồn tại, gửi báo cáo khắc phục về Cục Khoa học công nghệ và Đào tạo;
+b) Trong thời hạn 45 ngày, kể từ ngày Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu, cơ sở nhận thử phải hoàn thành việc khắc phục, sửa chữa và có văn bản báo cáo kèm theo bằng chứng chứng minh (hồ sơ tài liệu, hình ảnh, video, giấy chứng nhận) đã hoàn thành việc khắc phục, sửa chữa tồn tại được ghi trong Biên bản đánh giá;
+c) Trong thời hạn 20 ngày, kể từ ngày nhận được báo cáo khắc phục, sửa chữa tồn tại kèm theo bằng chứng chứng minh (hồ sơ tài liệu, hình ảnh, video, giấy chứng nhận), Cục Khoa học công nghệ và Đào tạo đánh giá kết quả khắc phục của cơ sở nhận thử và kết luận về tình trạng đáp ứng GCP của cơ sở như sau:
+- Trường hợp việc khắc phục của cơ sở nhận thử đã đáp ứng yêu cầu: Cục Khoa học công nghệ và Đào tạo thực hiện việc cấp giấy chứng nhận đạt GCP theo [Mẫu số 03 quy định tại Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2003-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này.
+- Trường hợp việc khắc phục của cơ sở nhận thử chưa đáp ứng yêu cầu: Cục Khoa học công nghệ và Đào tạo có văn bản yêu cầu nội dung cần tiếp tục khắc phục, sửa chữa và nộp báo cáo bổ sung. Thời hạn gia hạn để tiếp tục khắc phục, sửa chữa và báo cáo là 45 ngày, kể từ ngày có văn bản yêu cầu.
+d) Trong thời hạn 90 ngày, kể từ ngày kết thúc việc đánh giá thực tế mà cơ sở nhận thử không có báo cáo khắc phục hoặc sau khi khắc phục theo quy định tại điểm c Khoản này mà kết quả khắc phục vẫn tiếp tục không đạt yêu cầu, Cục Khoa học công nghệ và Đào tạo ban hành văn bản thông báo về việc không đáp ứng GCP và tùy theo tính chất, mức độ vi phạm, Cục Khoa học công nghệ và Đào tạo thực hiện một hoặc các biện pháp theo quy định tại các điểm a, b khoản 3 Điều này.
+3. Trường hợp Biên bản đánh giá GCP kết luận cơ sở nhận thử không đáp ứng GCP theo quy định tại khoản 3 Điều 19 Thông tư này: Trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc đánh giá tại cơ sở nhận thử và ký biên bản đánh giá, trên cơ sở đánh giá nguy cơ tồn tại được phát hiện đối với chất lượng nghiên cứu, sức khỏe, an toàn của đối tượng tham gia thử kỹ thuật mới, phương pháp mới, thiết bị y tế, Cục Khoa học công nghệ và Đào tạo ban hành văn bản thông báo về việc không đáp ứng GCP và tùy theo tính chất, mức độ vi phạm, Cục Khoa học công nghệ và Đào tạo thực hiện một hoặc các biện pháp sau đây:
+a) Kiến nghị cơ quan có thẩm quyền xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính;
+b) Thực hiện việc thu hồi Giấy chứng nhận đáp ứng GCP đã được cấp cho cơ sở nhận thử.
+4. Trong thời hạn 05 ngày làm việc, kể từ ngày kết luận cơ sở nhận thử được đánh giá duy trì đáp ứng GCP hoặc từ ngày ban hành Quyết định thu hồi giấy chứng đáp ứng GCP, Cục Khoa học công nghệ và Đào tạo cập nhật trên Trang thông tin điện tử của Cục Khoa học công nghệ và Đào tạo các thông tin theo quy định tại khoản 4 Điều 23 Thông tư này đối với cơ sở nhận thử đáp ứng GCP hoặc thông tin về việc thu hồi giấy chứng nhận đáp ứng GCP đối với cơ sở nhận thử không duy trì đáp ứng GCP.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 26. Kiểm soát thay đổi
+1. Trong khoảng thời gian giữa các đợt đánh giá định kỳ, cơ sở nhận thử phải thực hiện thủ tục đề nghị đánh giá đáp ứng GCP hoặc báo cáo thay đổi theo [Mẫu số 05 quy định tại Phụ lục số XXIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%2005-%20PL%20XXIII.doc) ban hành kèm theo Thông tư này nếu thuộc một trong các trường hợp sau đây:
+a) Thay đổi phạm vi Giấy chứng nhận đạt GCP;
+b) Thay đổi địa điểm thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế; thay đổi vị trí một trong các phòng kỹ thuật phục vụ thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế (phòng khám, điều trị, phòng cấp cứu, phòng xét nghiệm) tại địa điểm mới;
+c) Thay đổi, bổ sung một trong các phòng kỹ thuật phục vụ thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế (phòng khám, điều trị, phòng cấp cứu, phòng xét nghiệm) tại cùng địa điểm thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế;
+d) Thay đổi các thông tin hành chính về tên, địa chỉ của cơ sở nhận thử, cập nhật thông tin liên quan đến cơ sở nhận thử, thay đổi tên của các bộ phận, phòng ban thuộc cơ sở nhận thử liên quan đến thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế.
+2. Trường hợp cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế có thay đổi theo quy định tại điểm a và điểm b khoản 1 Điều này, cơ sở phải gửi hồ sơ đề nghị đánh giá đáp ứng GCP theo quy định tại Điều 20 Thông tư này. Trình tự đánh giá việc đáp ứng GCP, phân loại kết quả và xử lý kết quả đánh giá mức độ tuân thủ GCP thực hiện theo quy định tại các Điều 22 và Điều 23 Thông tư này.
+3. Trường hợp cơ sở nhận thử có thay đổi thuộc trường hợp quy định tại các điểm c và điểm d khoản 1 Điều này, cơ sở nhận thử gửi văn bản báo cáo về việc thay đổi kèm theo các tài liệu tương ứng với sự thay đổi về Cục Khoa học công nghệ và Đào tạo.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 27. Đánh giá đột xuất việc đáp ứng Thực hành tốt thử kỹ thuật mới, phương pháp mới hoặc thử thiết bị y tế trên lâm sàng
+1. Đánh giá đột xuất việc đáp ứng GCP tại cơ sở nhận thử thuộc một trong các trường hợp sau đây:
+a) Cơ sở nhận thử không nộp báo cáo đánh giá duy trì việc đáp ứng GCP theo quy định tại Điều 24 Thông tư này;
+b) Cơ sở nhận thử có thay đổi, bổ sung theo quy định tại điểm c khoản 1 Điều 26 Thông tư này mà các thay đổi, bổ sung đó có nguy cơ ảnh hưởng đến tính chính xác, trung thực của dữ liệu nghiên cứu thử nghiệm lâm sàng hoặc ảnh hưởng đến sự an toàn và quyền lợi của người tham gia thử nghiệm lâm sàng;
+c) Cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế có kết quả thanh tra, kiểm tra của cơ quan chức năng kết luận có vi phạm nghiêm trọng nguyên tắc, tiêu chuẩn GCP;
+d) Có thông tin phản ánh, kiến nghị cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế vi phạm nghiêm trọng nguyên tắc, tiêu chuẩn GCP.
+2. Hồ sơ, trình tự, quy trình đánh giá đột xuất tại cơ sở nhận thử thực hiện theo quy định tại các khoản 6 và khoản 7 Điều 24 Thông tư này.
+
+Mục 4. ĐOÀN ĐÁNH GIÁ VIỆC ĐÁP ỨNG THỰC HÀNH TỐT THỬ KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI THỬ THIẾT BỊ Y TẾ TRÊN LÂM SÀNG
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 28. Thành phần và tiêu chuẩn của thành viên Đoàn đánh giá
+1. Bộ trưởng Bộ Y tế thành lập đoàn đánh giá việc đáp ứng GCP với các thành phần như sau:
+a) Đại diện Lãnh đạo Cục Khoa học công nghệ và Đào tạo làm trưởng đoàn;
+b) Đại diện Lãnh đạo Vụ Pháp chế làm Phó trưởng đoàn;
+c) Đại diện Lãnh đạo Cục Cơ sở hạ tầng và Thiết bị y tế làm Phó trưởng đoàn (đối với trường hợp đoàn đánh giá đáp ứng GCP của đơn vị nhận thử thiết bị y tế);
+d) Thành viên là đại diện các đơn vị thuộc Bộ Y tế, bao gồm: Cục Khoa học công nghệ và Đào tạo; Cục Quản lý khám, chữa bệnh; Vụ Pháp chế; Cục Cơ sở hạ tầng và Thiết bị y tế; Cục Quản lý Y, Dược cổ truyền; Hội đồng đạo đức trong nghiên cứu y sinh học quốc gia;
+đ) Thành viên là đại diện Sở Y tế tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Sở Y tế) nơi cơ sở nhận thử đặt trụ sở chính;
+e) Thành viên là chuyên gia trong lĩnh vực chuyên môn liên quan đến phạm vi đánh giá. Thành viên của cơ quan, đơn vị liên quan trong trường hợp cần thiết;
+g) Thành viên là Chuyên viên Cục Khoa học công nghệ và Đào tạo làm Thư ký Đoàn.
+2. Thường trực Đoàn đánh giá đáp ứng GCP quy định tại khoản 1 Điều này đặt tại Cục Khoa học công nghệ và Đào tạo - Bộ Y tế. Trưởng đoàn đánh giá mời các thành viên phù hợp trong từng trường hợp đánh giá cụ thể.
+3. Cán bộ tham gia Đoàn đánh giá là chuyên gia trong lĩnh vực chuyên môn liên quan đến phạm vi đánh giá phải đáp ứng tiêu chuẩn sau đây:
+a) Có trình độ đại học trở lên;
+b) Đã được tập huấn về GCP, đánh giá GCP;
+c) Trung thực, khách quan và nghiêm chỉnh chấp hành quy chế, quy định pháp luật trong quá trình đánh giá, không có xung đột lợi ích với cơ sở nhận thử được đánh giá theo quy định tại khoản 4 Điều này.
+4. Nguyên tắc đánh giá xung đột lợi ích: Thành viên Đoàn đánh giá được coi là có xung đột lợi ích với cơ sở nhận thử được đánh giá nếu thuộc một trong các trường hợp sau đây:
+a) Đã từng làm việc trong vòng 05 năm gần đây cho cơ sở nhận thử được đánh giá;
+b) Đã tham gia hoạt động tư vấn trong vòng 05 năm gần đây cho cơ sở nhận thử được đánh giá;
+c) Đang có quyền lợi về tài chính với cơ sở nhận thử được đánh giá;
+d) Có vợ hoặc chồng, con, bố hoặc mẹ, anh chị em ruột, anh chị em ruột của bố hoặc mẹ hoặc vợ hoặc chồng hoặc con đang làm việc cho cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế được đánh giá.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 29. Trách nhiệm, quyền hạn của Đoàn đánh giá và trách nhiệm của cơ sở nhận thử
+1. Trách nhiệm của Đoàn đánh giá:
+a) Đánh giá toàn bộ hoạt động của cơ sở nhận thử theo nguyên tắc, tiêu chuẩn GCP tương ứng quy định tại Điều 17 Thông tư này và các quy định chuyên môn kỹ thuật có liên quan; ghi nhận cụ thể các nội dung đánh giá, tồn tại, nội dung có ý kiến không thống nhất giữa Đoàn đánh giá và cơ sở nhận thử (nếu có); lập biên bản đánh giá;
+b) Bảo mật toàn bộ thông tin liên quan về đợt đánh giá và toàn bộ thông tin liên quan đến hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế của cơ sở nhận thử; trừ trường hợp có sự đồng ý của cơ sở hoặc theo yêu cầu của cơ quan Nhà nước có thẩm quyền để phục vụ công tác thanh tra, kiểm tra, điều tra.
+2. Quyền hạn của Đoàn đánh giá:
+a) Kiểm tra toàn bộ khu vực có liên quan đến hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế của cơ sở nhận thử;
+b) Yêu cầu cung cấp hồ sơ tài liệu liên quan đến hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế của cơ sở nhận thử;
+c) Thực hiện việc thu thập hồ sơ tài liệu bằng chứng (sao chụp tài liệu, chụp ảnh, quay video) chứng minh về tồn tại phát hiện được trong quá trình đánh giá;
+d) Lập biên bản và yêu cầu cơ sở nhận thử tạm dừng hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế nếu trong quá trình đánh giá Đoàn phát hiện cơ sở nhận thử có vi phạm ảnh hưởng nghiêm trọng tới tính chính xác, trung thực của dữ liệu nghiên cứu và/hoặc an toàn, sức khỏe của người tham gia thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới, thiết bị y tế và báo cáo người có thẩm quyền xử lý theo quy định.
+3. Trách nhiệm của cơ sở nhận thử:
+a) Tổ chức thực hiện Thông tư này phù hợp với thực tế của cơ sở;
+b) Bảo đảm đáp ứng nguyên tắc, tiêu chuẩn GCP trong suốt quá trình hoạt động của cơ sở;
+c) Thực hiện hoạt động thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới hoặc thiết bị y tế theo đúng phạm vi được cấp phép trên cơ sở tuân thủ các quy định của pháp luật;
+d) Tuân thủ các quy định về thời hạn, hồ sơ, thủ tục đánh giá việc đáp ứng GCP theo quy định của Thông tư này;
+đ) Chịu sự thanh tra, kiểm tra, đánh giá đột xuất việc duy trì đáp ứng GCP của cơ quan Nhà nước có thẩm quyền theo quy định của pháp luật.
+
+
+Chương VI TIÊU CHUẨN VÀ VIỆC KHÁM SỨC KHỎE 
+Mục 1. QUY ĐỊNH CHUNG VỀ TIÊU CHUẨN VÀ VIỆC KHÁM SỨC KHỎE
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 30. Đối tượng khám sức khỏe
+1. Đối tượng khám sức khỏe:
+a) Khám sức khỏe đối với công dân Việt Nam, người nước ngoài đang sống, làm việc tại Việt Nam: khám sức khỏe định kỳ; khám phân loại sức khỏe để đi học, đi làm việc; khám sức khỏe cho học sinh, sinh viên;
+b) Khám sức khỏe theo yêu cầu;
+c) Khám sức khỏe đối với người Việt Nam khi đi làm việc ở nước ngoài theo hợp đồng.
+2. Việc khám sức khỏe tại Chương này không áp dụng đối với các trường hợp sau đây:
+a) Khám bệnh ngoại trú, nội trú trong các cơ sở khám bệnh, chữa bệnh;
+b) Khám giám định y khoa, khám giám định pháp y, khám giám định pháp y tâm thần;
+c) Khám để cấp giấy chứng thương;
+d) Khám bệnh nghề nghiệp;
+đ) Khám sức khỏe đối với đối tượng thuộc thẩm quyền quản lý của Bộ Quốc phòng, Bộ Công an;
+e) Khám sức khỏe đối với các ngành, nghề đặc thù.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 31. Nguyên tắc thực hiện khám sức khoẻ
+1. Việc khám sức khỏe được thực hiện tại các cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động khám bệnh, chữa bệnh theo quy định của Luật Khám bệnh, chữa bệnh.
+2. Việc khám sức khỏe lưu động tại cơ quan, tổ chức, đơn vị thực hiện theo quy định tại Điều 79 của Luật Khám bệnh, chữa bệnh và các Điều 82, 83 Nghị định số 96/2023/NĐ-CP.
+3. Đối với người có giấy khám sức khỏe do cơ sở y tế có thẩm quyền của nước ngoài cấp thì giấy khám sức khỏe được sử dụng trong trường hợp Việt Nam và quốc gia hoặc vùng lãnh thổ cấp giấy khám sức khỏe có điều ước hoặc thỏa thuận thừa nhận lẫn nhau và thời hạn sử dụng của giấy khám sức khỏe đó không quá 6 tháng kể từ ngày được cấp.
+Giấy khám sức khỏe phải được dịch sang tiếng Việt và có chứng thực bản dịch.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 32. Sử dụng tiêu chuẩn sức khỏe để phân loại sức khỏe
+1. Việc phân loại sức khỏe của người được khám sức khỏe thực hiện theo quy định của Bộ Y tế về việc ban hành tiêu chuẩn phân loại sức khỏe để khám tuyển, khám định kỳ cho người lao động.
+2. Đối với những trường hợp khám sức khỏe theo tiêu chuẩn sức khỏe chuyên ngành do cơ quan quản lý nhà nước có thẩm quyền của Việt Nam ban hành hoặc thừa nhận thì việc phân loại sức khỏe căn cứ vào quy định của tiêu chuẩn sức khỏe chuyên ngành đó.
+3. Đối với những trường hợp khám sức khỏe theo yêu cầu, nếu không khám đầy đủ các chuyên khoa theo quy định tại mẫu giấy khám sức khỏe ban hành tại Thông tư này, thì cơ sở khám sức khỏe chỉ khám, kết luận đối với từng chuyên khoa theo yêu cầu và không phân loại sức khỏe.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 33. Chi phí khám sức khỏe
+1. Tổ chức, cá nhân đề nghị khám sức khỏe phải trả chi phí khám sức khỏe cho cơ sở khám sức khỏe, theo mức giá dịch vụ khám bệnh, chữa bệnh đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc theo thỏa thuận giữa hai đơn vị, trừ các trường hợp được miễn hoặc giảm theo quy định của pháp luật.
+2. Trường hợp người được khám sức khỏe có yêu cầu cấp từ hai giấy khám sức khỏe trở lên, người được khám sức khỏe phải nộp thêm phí cấp giấy khám sức khỏe theo quy định của cơ sở khám bệnh, chữa bệnh đó.
+3. Việc thu, nộp, quản lý và sử dụng nguồn thu phí từ hoạt động khám sức khỏe được thực hiện theo quy định của pháp luật.
+
+Mục 2. HỒ SƠ, QUY TRÌNH, NỘI DUNG VÀ PHÂN LOẠI SỨC KHỎE
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 34. Hồ sơ khám sức khỏe
+1. Hồ sơ khám sức khỏe của người từ đủ 18 (mười tám) tuổi trở lên là giấy khám sức khỏe theo mẫu quy định tại [Mẫu số 01 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%201-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này, có dán ảnh chân dung cỡ 04cm x 06cm, được chụp trên nền trắng trong thời gian không quá 06 (sáu) tháng tính đến ngày nộp hồ sơ khám sức khỏe.
+2. Hồ sơ khám sức khỏe của người chưa đủ 18 (mười tám) tuổi là giấy khám sức khỏe theo mẫu quy định tại [Mẫu số 02 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%202-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này, có dán ảnh chân dung cỡ 04cm x 06cm, được chụp trên nền trắng trong thời gian không quá 06 (sáu) tháng tính đến ngày nộp hồ sơ khám sức khỏe.
+3. Đối với người mất năng lực hành vi dân sự hoặc hạn chế năng lực hành vi dân sự đề nghị khám sức khỏe nhưng không thuộc trường hợp khám sức khỏe định kỳ, hồ sơ khám sức khỏe bao gồm:
+a) Giấy khám sức khỏe theo quy định tại khoản 1 hoặc khoản 2 Điều này;
+b) Văn bản đồng ý của thân nhân người bệnh quy định tại khoản 11 Điều 2 của Luật Khám bệnh, chữa bệnh.
+4. Đối với người được khám sức khỏe định kỳ, hồ sơ khám sức khỏe bao gồm:
+a) Sổ khám sức khỏe định kỳ theo [Mẫu số 03 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%203-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này;
+b) Giấy giới thiệu của cơ quan, tổ chức nơi người đó đang làm việc đối với trường hợp khám sức khỏe định kỳ đơn lẻ hoặc có tên trong danh sách khám sức khỏe định kỳ do cơ quan, tổ chức nơi người đó đang làm việc xác nhận để thực hiện khám sức khỏe định kỳ theo hợp đồng.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 35. Quy trình khám sức khỏe
+1. Người đến khám sức khỏe nộp hồ sơ theo mẫu quy định tại cơ sở khám sức khỏe.
+2. Sau khi nhận được hồ sơ khám sức khỏe, cơ sở khám sức khỏe thực hiện như sau:
+a) Đối chiếu ảnh trong hồ sơ khám sức khỏe với người đến khám sức khỏe;
+b) Đóng dấu giáp lai vào ảnh sau khi đã đối chiếu theo quy định tại điểm a khoản này đối với các trường hợp quy định tại các khoản 1, 2 và khoản 3 Điều 37 Thông tư này;
+c) Kiểm tra đối chiếu giấy tờ tùy thân hợp lệ của thân nhân người bệnh đối với trường hợp quy định tại khoản 3 Điều 37 Thông tư này;
+d) Hướng dẫn quy trình khám sức khỏe của đơn vị cho người được khám sức khỏe hoặc người giám hộ của người được khám sức khỏe (nếu có);
+đ) Cơ sở khám sức khỏe xây dựng, ban hành và thực hiện quy trình khám sức khỏe;
+e) Trả kết quả và lưu hồ sơ khám sức khoẻ.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 36. Nội dung khám sức khỏe
+1. Đối với khám sức khỏe cho người từ đủ 18 (mười tám) tuổi trở lên nhưng không thuộc trường hợp khám sức khỏe định kỳ: Khám theo nội dung ghi trong giấy khám sức khỏe quy định tại [Mẫu số 01 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%201-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này.
+2. Đối với khám sức khỏe cho người chưa đủ 18 (mười tám) tuổi nhưng không thuộc trường hợp khám sức khỏe định kỳ: Khám theo nội dung ghi trong giấy khám sức khỏe quy định tại [Mẫu số 02 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%202-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này.
+3.
+Đối với trường hợp khám sức khỏe định kỳ: Khám theo nội dung ghi trong sổ khám sức khỏe định kỳ quy định tại [Mẫu số 03 Phụ lục số XXIV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//M%E1%BA%ABu%20s%E1%BB%91%203-%20PL%20XXIV.doc) ban hành kèm theo Thông tư này.
+4.
+Đối với lao động nữ, khi khám sức khỏe định kỳ được khám chuyên khoa phụ sản theo danh mục quy định tại [Phụ lục số XXV](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//PH%E1%BB%A4%20L%E1%BB%A4C%20S%E1%BB%90%20XXV.doc) ban hành kèm theo Thông tư này.
+5. Phải khám đầy đủ các nội dung theo từng chuyên khoa. Trường hợp khó cần hội chẩn hoặc chỉ định làm cận lâm sàng để chẩn đoán xác định và mức độ bệnh, tật làm cơ sở phân loại sức khoẻ.
+6. Đối với trường hợp khám sức khỏe theo yêu cầu chỉ khám, kết luận đối với từng chuyên khoa theo yêu cầu và không phân loại sức khỏe.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 37. Phân loại sức khỏe
+1. Tiêu chuẩn phân loại sức khỏe của người được khám sức khoẻ thực hiện theo quy định của Bộ trưởng Bộ Y tế.
+2. Căn cứ vào kết quả khám chuyên khoa, người thực hiện khám chuyên khoa ghi rõ bệnh, tật thuộc chuyên khoa đã khám và phân loại sức khỏe theo chuyên khoa được phân công khám.
+3. Căn cứ vào kết quả khám của từng chuyên khoa, người hành nghề được cơ sở khám sức khỏe phân công thực hiện việc kết luận phân loại sức khỏe và ký giấy khám sức khỏe, sổ khám sức khỏe định kỳ (sau đây gọi tắt là người kết luận) thực hiện việc kết luận phân loại sức khỏe như sau:
+a) Phân loại sức khỏe cho người được khám sức khỏe thực hiện theo quy định của Bộ trưởng Bộ Y tế về việc ban hành tiêu chuẩn phân loại sức khỏe để khám tuyển, khám sức khỏe định kỳ cho người lao động;
+b) Trường hợp người được khám sức khỏe có bệnh, tật thì người kết luận tư vấn phương án điều trị, phục hồi chức năng hoặc giới thiệu để khám bệnh, chữa bệnh.
+4. Sau khi phân loại sức khỏe, người kết luận phải ký, ghi rõ họ tên và đóng dấu của cơ sở khám sức khỏe vào giấy khám sức khỏe hoặc sổ khám sức khỏe định kỳ. Dấu sử dụng trong giao dịch chính thức của cơ sở khám sức khỏe theo quy định của pháp luật về quản lý và sử dụng con dấu.
+5. Đối với những trường hợp khám sức khoẻ theo bộ tiêu chuẩn sức khỏe chuyên ngành do cơ quan quản lý nhà nước có thẩm quyền của Việt Nam ban hành hoặc thừa nhận thì việc phân loại sức khỏe căn cứ vào quy định của bộ tiêu chuẩn sức khỏe chuyên ngành đó.
+6. Đối với những trường hợp khám sức khỏe theo yêu cầu nhưng không khám đầy đủ các chuyên khoa theo mẫu giấy khám sức khoẻ quy định tại Thông tư này, cơ sở khám bệnh, chữa bệnh nơi thực hiện việc khám sức khoẻ chỉ khám, kết luận đối với từng chuyên khoa theo yêu cầu của người được khám sức khoẻ và không phân loại sức khỏe.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 38. Cấp và lưu Giấy khám sức khỏe
+1. Giấy khám sức khỏe được cấp 01 (một) bản cho người được khám sức khỏe và 01 bản lưu tại cơ sở khám sức khỏe. Thời gian lưu hồ sơ giấy khám sức khỏe thực hiện theo quy định tại mục 20 nhóm 01 Tài liệu về khám bệnh, chữa bệnh và phục hồi chức năng ban hành kèm theo Thông tư số 53/2017/TT- BYT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Y tế quy định về thời hạn bảo quản hồ sơ, tài liệu chuyên môn nghiệp vụ ngành y tế. Hồ sơ khám sức khỏe định kỳ do đơn vị quản lý người được khám sức khỏe bảo quản và lưu trữ.
+2. Trường hợp người được khám sức khỏe có yêu cầu cấp nhiều giấy khám sức khỏe, thì cơ sở khám sức khỏe thực hiện nhân bản giấy khám sức khoẻ. Việc nhân bản thực hiện theo quy định tại Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ về công tác văn thư (sau đây gọi tắt là Nghị định số 30/2020/NĐ-CP).
+3. Thời hạn trả giấy khám sức khỏe, sổ khám sức khỏe định kỳ:
+a) Đối với trường hợp khám sức khỏe đơn lẻ: cơ sở khám sức khỏe trả giấy khám sức khỏe, sổ khám sức khỏe định kỳ cho người được khám sức khỏe trong vòng 24 (hai mươi tư) giờ kể từ khi kết thúc việc khám sức khỏe, trừ trường hợp phải khám hoặc xét nghiệm bổ sung theo yêu cầu của người thực hiện khám sức khỏe;
+b) Đối với trường hợp khám sức khỏe tập thể theo hợp đồng: cơ sở khám sức khỏe trả giấy khám sức khỏe, sổ khám sức khỏe định kỳ cho người được khám sức khỏe theo thỏa thuận đã ghi trong hợp đồng.
+4. Giá trị sử dụng của giấy khám sức khỏe, kết quả khám sức khỏe định kỳ:
+a) Giấy khám sức khỏe có giá trị trong thời hạn 12 (mười hai) tháng kể từ ngày ký kết luận sức khỏe;
+b) Kết quả khám sức khỏe định kỳ có giá trị sử dụng theo quy định của pháp luật.
+
+Chương VII HUY ĐỘNG, ĐIỀU ĐỘNG NGƯỜI THAM GIA HOẠT ĐỘNG KHÁM BỆNH, CHỮA BỆNH TRONG TRƯỜNG HỢP XẢY RA THIÊN TAI, THẢM HOẠ, DỊCH BỆNH TRUYỀN NHIỄM THUỘC NHÓM A HOẶC TÌNH TRẠNG KHẨN CẤP
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 39. Huy động, điều động người tham gia hoạt động khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm thuộc nhóm A hoặc tình trạng khẩn cấp
+1. Trong trường hợp nhân lực của đơn vị, địa phương không đáp ứng yêu cầu công tác khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm thuộc nhóm A hoặc tình trạng khẩn cấp, ngoài việc điều động, huy động người có chuyên môn phù hợp với yêu cầu công tác phòng, chống thiên tai, thảm hoạ, dịch bệnh truyền nhiễm nhóm A hoặc tình trạng khẩn cấp theo quy định của pháp luật, cơ quan, người có thẩm quyền được phép điều động, huy động những người sau đây tham gia hoạt động khám bệnh, chữa bệnh, bao gồm cả việc xét nghiệm, lấy mẫu xét nghiệm, tiêm chủng, sơ cứu, cấp cứu:
+a) Người hành nghề khám bệnh, chữa bệnh tại Việt Nam (bao gồm cả người nước ngoài) được thực hiện xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh, sơ cứu, cấp cứu khác với phạm vi hoạt động chuyên môn được ghi trong giấy phép hành nghề;
+b) Người nước ngoài, người Việt Nam định cư ở nước ngoài đã được cơ quan có thẩm quyền của nước ngoài cấp phép hành nghề khám bệnh, chữa bệnh được thực hiện xét nghiệm, tiêm chủng, sơ cứu, cấp cứu và các hoạt động khám bệnh, chữa bệnh tại các cơ sở y tế được thành lập để thực hiện hoặc được giao nhiệm vụ tiếp nhận, cấp cứu, quản lý, chăm sóc sức khỏe, điều trị người bị nhiễm bệnh truyền nhiễm nhóm A hoặc người bệnh bị tai nạn, người bệnh cần được sơ cứu, cấp cứu, chăm sóc, điều trị trong thiên tai, thảm hoạ, tình huống khẩn cấp mà không cần có giấy phép hành nghề khám bệnh, chữa bệnh do cơ quan có thẩm quyền của Việt Nam cấp;
+c) Sinh viên, học sinh, học viên của các trường thuộc khối ngành sức khỏe; người thuộc đối tượng được cấp giấy phép hành nghề khám bệnh, chữa bệnh nhưng chưa được cấp giấy phép hành nghề khám bệnh, chữa bệnh được tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh truyền nhiễm nhóm A, sơ cứu, cấp cứu và khám bệnh, chữa bệnh đối với người bị thiên tai, thảm hoạ hoặc trong tình huống khẩn cấp.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 40. Căn cứ và thẩm quyền điều động, huy động người tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm nhóm A hoặc tình trạng khẩn cấp
+1. Căn cứ để điều động, huy động người tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm nhóm A hoặc tình trạng khẩn cấp:
+a) Theo đề nghị của Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Giám đốc Sở Y tế, Chủ tịch Ủy ban nhân dân các quận, huyện, thành phố trực thuộc tỉnh, thành phố trực thuộc trung ương có nhu cầu hỗ trợ nhân lực tham gia tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm nhóm A hoặc tình trạng khẩn cấp theo mẫu quy định tại [Phụ lục số XXVII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XXVII%20-%20Dieu%20dong%20huy%20dong%20nhan%20luc.doc) ban hành kèm theo Thông tư này;
+b) Theo đề nghị của Thủ trưởng cơ sở khám bệnh, chữa bệnh, cơ sở thu dung, điều trị bệnh truyền nhiễm nhóm A và cơ sở y tế dự phòng có nhu cầu hỗ trợ nhân lực tham gia phòng, chống dịch bệnh truyền nhiễm nhóm A hoặc cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp;
+c) Theo điều động của Bộ trưởng Bộ Y tế bổ sung nhân lực hỗ trợ đối với các địa phương, cơ sở khám bệnh, chữa bệnh và cơ sở y tế dự phòng để tăng cường lực lượng tham gia phòng, chống dịch bệnh truyền nhiễm nhóm A hoặc cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp.
+2. Thẩm quyền điều động, huy động người tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, dịch bệnh truyền nhiễm nhóm A hoặc tình trạng khẩn cấp:
+a) Bộ trưởng Bộ Y tế điều động, huy động lực lượng tham gia phòng, chống dịch bệnh truyền nhiễm nhóm A, tham gia cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp trong phạm vi toàn quốc, trừ lực lượng do Bộ Quốc phòng, Bộ Công an quản lý;
+b) Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị được Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ủy quyền điều động, huy động lực lượng tham gia phòng, chống dịch bệnh truyền nhiễm nhóm A, tham gia cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp trên địa bàn quản lý;
+c) Thủ trưởng cơ sở khám bệnh, chữa bệnh, cơ sở thu dung, điều trị bệnh truyền nhiễm nhóm A, cơ sở y tế dự phòng, cơ sở đào tạo khối ngành sức khỏe điều động, huy động lực lượng tham gia phòng, chống dịch bệnh truyền nhiễm nhóm A, tham gia cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp thuộc phạm vi quản lý.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 41. Tiếp nhận và phân công người tham gia xét nghiệm, tiêm chủng, khám bệnh, chữa bệnh dịch bệnh truyền nhiễm nhóm A, tham gia cấp cứu, điều trị người bệnh trong thiên tai, thảm họa hoặc tình trạng khẩn cấp
+1. Giám đốc Sở Y tế tiếp nhận, phân công lực lượng do cơ quan có thẩm quyền điều động, huy động đến từng cơ sở để thực hiện nhiệm vụ tham gia tiêm chủng, xét nghiệm, hoạt động khám bệnh, chữa bệnh, chăm sóc, điều trị bệnh truyền nhiễm nhóm A, tham gia cấp cứu, điều trị người bệnh trong thiên tai, thảm hoạ hoặc tình trạng khẩn cấp.
+2. Thủ trưởng cơ sở khám bệnh, chữa bệnh, cơ sở thu dung, điều trị, cơ sở y tế dự phòng, cơ sở đào tạo khối ngành sức khỏe thực hiện tiếp nhận, phân công nhiệm vụ chi tiết cho từng vị trí, nhân lực phù hợp với yêu cầu chuyên môn tham gia phòng chống dịch bệnh truyền nhiễm nhóm A hoặc tham gia cấp cứu điều trị người bệnh trong trường hợp xảy ra thiên tai, thảm hoạ, tình trạng khẩn cấp.
+
+Chương VIII TRỰC KHÁM BỆNH, CHỮA BỆNH
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 42. Đối tượng trực khám bệnh, chữa bệnh
+Trực khám bệnh, chữa bệnh theo quy định tại Chương này áp dụng đối với các cơ sở khám bệnh, chữa bệnh có giường bệnh nội trú; cơ sở khám bệnh, chữa bệnh có giường lưu; cơ sở cấp cứu ngoại viện (sau đây gọi tắt là cơ sở khám bệnh, chữa bệnh).
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 43. Nguyên tắc trực khám bệnh, chữa bệnh
+1. Trực ngoài giờ hành chính, ngày lễ, ngày nghỉ phải được cơ sở khám bệnh, chữa bệnh tổ chức bảo đảm hoạt động khám bệnh, chữa bệnh liên tục 24/24 giờ trong ngày.
+2. Các phiên trực phải được tổ chức chặt chẽ, có đầy đủ nhân lực, phương tiện vận chuyển, thiết bị y tế và thuốc để cấp cứu người bệnh.
+3. Các vị trí trực phải bảo đảm dễ tiếp cận và đủ thông tin liên lạc.
+4. Người trực phải có mặt trước giờ nhận trực để nhận bàn giao của phiên trực trước và khi hết giờ phải bàn giao cho phiên trực sau, không được rời bỏ vị trí trực và phải thực hiện mệnh lệnh trực của cấp trên.
+5. Danh sách các thành viên trực được phân công theo tháng, lịch trực được công bố trước thời điểm trực ít nhất một tuần, do lãnh đạo bệnh viện ký duyệt và được ghi trên bảng ở mỗi vị trí trực. Công chức, viên chức, người lao động đã được phân công trực theo lịch, chỉ được thực hiện đổi trực ngang cấp khi được sự phê duyệt của lãnh đạo.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 44. Nhiệm vụ của các vị trí trực trong bệnh viện
+1. Trực lãnh đạo:
+a) Đối tượng trực lãnh đạo: Giám đốc, phó giám đốc và trưởng khoa, trưởng phòng được giám đốc chỉ định tham gia thường trực lãnh đạo và phải được ủy quyền bằng văn bản.
+b) Nhiệm vụ của trực lãnh đạo:
+- Kiểm tra đôn đốc các phiên trực trong bệnh viện.
+- Chỉ đạo giải quyết các vấn đề, tình huống khó khăn vượt khả năng chuyên môn của các thành viên trực cấp dưới không giải quyết được.
+- Chỉ đạo xử lý các vụ việc bất thường về an ninh, trật tự xảy ra trong bệnh viện.
+- Báo cáo cấp trên trực tiếp quản lý bệnh viện về những trường hợp đặc biệt, đột xuất xảy ra vượt quá thẩm quyền giải quyết.
+2. Trực lâm sàng:
+a) Tổ chức trực lâm sàng:
+- Trưởng phiên trực là người hành nghề giữ vị trí trưởng khoa, phó khoa hoặc bác sĩ có trình độ sau đại học.
+- Bác sĩ trực lâm sàng là người hành nghề có đủ trình độ, độc lập giải quyết công việc và chịu trách nhiệm với phương án giải quyết công việc.
+- Điều dưỡng, hộ sinh, kĩ thuật y là người hành nghề do giám đốc bệnh viện quyết định phân công trực lâm sàng.
+b) Nhiệm vụ của trưởng phiên trực lâm sàng:
+- Điều hành nhân lực trong phiên trực.
+- Khám và chỉ định giải quyết các trường hợp cấp cứu, người bệnh mới đến và người bệnh nặng đang điều trị có diễn biến bất thường khi bác sĩ trực lâm sàng của khoa không giải quyết được.
+- Báo cáo và xin ý kiến trực lãnh đạo trong trường hợp vượt quá khả năng giải quyết về chuyên môn và các trường hợp đặc biệt như tự sát, dịch bệnh, thảm họa, cấp cứu hàng loạt.
+- Thông báo cho trực bảo vệ, đồng thời báo cáo trực lãnh đạo trong trường hợp mất an ninh, trật tự trong bệnh viện.
+- Kiểm tra, đôn đốc các vị trí trực.
+c) Nhiệm vụ của bác sĩ trực:
+- Tiếp nhận người bệnh đến cấp cứu.
+- Theo dõi xử lý người bệnh được bàn giao.
+- Hướng dẫn, đôn đốc thành viên trực thực hiện đầy đủ các chỉ định.
+- Phân công trách nhiệm cho mỗi thành viên trực theo dõi sát sao, xử lý kịp thời các diễn biến xấu đối với người bệnh nặng diện chăm sóc cấp 01.
+- Thăm khám người bệnh và ghi hồ sơ bệnh án sau mỗi lần thăm khám.
+d) Nhiệm vụ của điều dưỡng, hộ sinh, kĩ thuật y trực:
+- Điều dưỡng trực là điều dưỡng của từng khoa có thể tổ chức trực điều dưỡng liên khoa do giám đốc bệnh viện quyết định.
+- Thực hiện chỉ định của bác sỹ, chăm sóc theo dõi người bệnh.
+- Đôn đốc người bệnh thực hiện nội quy bệnh viện.
+- Bảo quản hồ sơ, tủ thuốc, tài sản của khoa.
+- Phát hiện người bệnh có diễn biến bất thường, có nguy cơ tử vong, báo cáo bác sĩ trực, đồng thời ghi đầy đủ các diễn biến vào phiếu theo dõi.
+3. Trực cận lâm sàng:
+a) Tổ chức trực riêng từng chuyên khoa, tùy theo khối lượng công việc ở mỗi khoa để bố trí số người trực cho phù hợp;
+b) Nhiệm vụ trực cận lâm sàng: Làm các kỹ thuật phục vụ cho việc chẩn đoán, điều trị theo chỉ định của trực lâm sàng.
+4. Trực hậu cần, quản trị:
+a) Trực dược và vật tư thiết bị y tế có nhiệm vụ bảo đảm cung cấp đầy đủ thuốc và vận hành trang thiết bị y tế phục vụ cho kíp trực;
+b) Trực tài chính - kế toán có nhiệm vụ bảo đảm thu viện phí cho người bệnh đến khám, ra - vào viện ngoài giờ hành chính;
+c) Trực công nghệ thông tin có nhiệm vụ bảo đảm hệ thống mạng quản lý bệnh viện hoạt động bình thường;
+d) Trực điện, nước bảo đảm cho máy phát điện hoạt động khi có sự cố mất điện đột xuất; sửa chữa điện, nước hỏng bất thường;
+đ) Trực hành chính phải bảo đảm thông tin liên lạc bằng điện thoại và hình thức thông tin khác (theo quy định của cơ sở khám bệnh, chữa bệnh);
+e) Trực bảo vệ có nhiệm vụ bảo đảm an ninh, trật tự trong bệnh viện;
+g) Trực lái xe phải bảo đảm cho xe ô tô cứu thương sẵn sàng làm nhiệm vụ khi có lệnh.
+5. Trực thường trú ngoại viện:
+a) Ngoài những người được phân công trực nêu trên ở 4 cấp thường trực, tuỳ theo điều kiện thực tế của từng bệnh viện, lãnh đạo bệnh viện có thể bố trí trực thường trú ngoại viện để sẵn sàng hỗ trợ về chuyên môn, hành chính khi cần;
+c) Người được phân công trực thường trú phải giữ liên lạc liên tục trong thời gian được phân công trực và có mặt tại bệnh viện khi được huy động.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 45. Nội dung báo cáo tình hình phiên trực
+1. Sau phiên trực, các bộ phận trực ghi đầy đủ nội dung báo cáo vào sổ trực; các khoa, phòng phải tổ chức giao ban để nghe báo cáo tình hình trực của các bộ phận trực: lâm sàng, cận lâm sàng, hậu cần, quản trị.
+2. Báo cáo trực lâm sàng phải bảo đảm báo cáo diễn biến trong phiên trực đối với các nội dung:
+a) Tử vong: Ghi rõ diễn biến của người bệnh, cách xử lý, nguyên nhân, thời gian tử vong và những việc làm cụ thể sau khi người bệnh tử vong;
+b) Cấp cứu: Ghi rõ tên, tuổi, địa chỉ, chẩn đoán và cách giải quyết đối với từng người bệnh đến cấp cứu;
+c) Diễn biến nặng của người bệnh nội trú: Ghi rõ các diễn biến về bệnh tật, cách xử lý đối với từng người bệnh;
+d) Thuốc: Thống kê, báo cáo số lượng thuốc đã sử dụng trong phiên trực.
+3. Trực cận lâm sàng:
+Báo cáo tình hình xét nghiệm cấp cứu và kỹ thuật cận lâm sàng đã thực hiện trong phiên thường trực.
+4. Trực hậu cần, quản trị: Báo cáo các nội dung theo quy định tại khoản 4 Điều 44 Thông tư này.
+5. Trực lãnh đạo: Có nhận xét chung về tình hình phiên thường trực tại giao ban toàn bệnh viện.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 46. Trực tại cơ sở khám bệnh, chữa bệnh có hình thức tổ chức không phải là bệnh viện nhưng có giường bệnh nội trú hoặc có giường lưu
+1. Cơ sở khám bệnh, chữa bệnh có hình thức tổ chức không phải là bệnh viện nhưng có giường bệnh nội trú hoặc có giường lưu (trừ trường hợp quy định tại khoản 2 Điều này) phải bố trí nhân lực cho một phiên trực như sau: Có tối thiểu 01 người hành nghề với chức danh là bác sĩ hoặc y sỹ và 01 người hành nghề thuộc một trong các chức danh sau đây: điều dưỡng, hộ sinh hoặc kỹ thuật y.
+2. Đối với trạm y tế cấp xã phải bố trí nhân lực cho một phiên trực như sau: Có tối thiểu 01 người hành nghề thuộc một trong các chức danh sau đây: bác sĩ, y sỹ, điều dưỡng, hộ sinh, kỹ thuật y.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 47. Trực cấp cứu ngoại viện
+1. Cơ sở cấp cứu ngoại viện (bao gồm cả các cơ sở vận chuyển người bệnh đã thành lập theo quy định của Luật Khám bệnh, chữa bệnh số 40/2009/QH12) bảo đảm tổ chức hoạt động trực cấp cứu 24/24 giờ trong ngày (kể cả ngày lễ, ngày nghỉ) theo quy định tại Quyết định số 01/2008/QĐ-BYT ngày 21 tháng 01 năm 2008 của Bộ trưởng Bộ Y tế ban hành quy chế cấp cứu, hồi sức tích cực và chống độc.
+2. Đối với cơ sở khám bệnh, chữa bệnh có phạm vi hoạt động cấp cứu ngoại viện phải bố trí:
+a) Nhân lực trực 24/24 giờ;
+b) Số lượng người cho một phiên trực phải bảo đảm tối thiểu:
+- 01 người hành nghề với chức danh là bác sĩ hoặc y sỹ.
+- 01 người hành nghề thuộc một trong các chức danh sau đây: điều dưỡng, hộ sinh hoặc kỹ thuật y.
+- 01 lái xe cấp cứu.
+c) Nhân lực thuộc phiên trực cấp cứu quy định tại điểm b Khoản này phải bố trí độc lập với nhân lực của phiên trực khác cùng thời điểm và có thể bố trí theo hình thức trực thường trú.
+
+Chương IX TỔ CHỨC, HOẠT ĐỘNG CỦA HỘI ĐỒNG CHUYÊN MÔN VÀ TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT TRANH CHẤP KHI XẢY RA TAI BIẾN Y KHOA
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 48. Tổ chức của hội đồng chuyên môn
+1. Cơ cấu tổ chức, số lượng thành viên của hội đồng chuyên môn gồm:
+a) Chủ tịch hội đồng: 01 người;
+b) Phó Chủ tịch hội đồng: 01 - 02 người;
+c) Các thành viên: Tối thiểu 03 người;
+d) Thư ký hội đồng: Tối thiểu 01 người.
+2. Nguyên tắc thành lập hội đồng:
+a) Bảo đảm độc lập, khách quan, không có xung đột lợi ích;
+b) Thành viên hội đồng phải có phạm vi hành nghề hoặc có trình độ chuyên môn liên quan đến tai biến y khoa;
+c) Số lượng thành viên của hội đồng (bao gồm cả Chủ tịch hội đồng) phải là số lẻ.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 49. Hoạt động của hội đồng chuyên môn
+1. Điều kiện tổ chức họp hội đồng chuyên môn: ít nhất phải đủ 2/3 số thành viên của hội đồng có mặt.
+2. Phiên họp hội đồng:
+a) Hội đồng có thể họp một hoặc nhiều phiên;
+b) Từng thành viên của hội đồng căn cứ hồ sơ để thực hiện việc đánh giá về tai biến y khoa;
+c) Hội đồng thảo luận tập thể, kết luận theo đa số trên cơ sở ý kiến đánh giá của các thành viên và chịu trách nhiệm trước pháp luật về kết luận của mình;
+d) Nội dung thảo luận tại phiên họp hội đồng phải ghi thành biên bản, có đầy đủ chữ ký của thành viên hội đồng tham dự phiên họp.
+3. Kết luận của hội đồng chuyên môn phải xác định nguyên nhân xảy ra tai biến y khoa:
+a) Trường hợp tai biến y khoa xảy ra do các nguyên nhân quy định tại Khoản 2 Điều 100 của Luật Khám bệnh, chữa bệnh thì kết luận là người hành nghề không có sai sót chuyên môn kỹ thuật.
+b) Trường hợp tai biến y khoa xẩy ra do sai sót chuyên môn kỹ thuật trong quá trình khám bệnh, chữa bệnh thì phải kết luận cụ thể các nội dung sau đây:
+- Người hành nghề có vi phạm thuộc một trong các trường hợp quy định tại khoản 1 Điều 100 của Luật Khám bệnh, chữa bệnh.
+- Mức độ sai sót chuyên môn và hình thức xử lý đối với người hành nghề (nếu có).
+4. Văn bản kết luận do Chủ tịch hội đồng ký phải có nội dung phù hợp kết luận trong biên bản họp hội đồng và được lập thành 02 bản, 01 bản lưu tại cơ quan thành lập hội đồng, 01 bản gửi cho cơ quan đề nghị thành lập hội đồng trừ trường hợp cơ quan thành lập hội đồng là cơ sở khám bệnh, chữa bệnh nơi xảy ra tai biến y khoa. Chữ ký của Chủ tịch hội đồng phải được xác thực của cơ quan thành lập hội đồng.
+5. Trong quá trình họp hội đồng, nếu cần thiết Chủ tịch hội đồng đề nghị cơ quan thành lập hội đồng mời thêm các chuyên gia tham gia họp mà không phải bổ sung quyết định thành lập hội đồng.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 50. Trình tự, thủ tục giải quyết tranh chấp khi xảy ra tai biến y khoa
+1. Trình tự giải quyết tranh chấp đối với trường hợp bệnh viện thuộc thẩm quyền quản lý của Sở Y tế (bao gồm cả các bệnh viện của các bộ, ngành, trừ bệnh viện trực thuộc Bộ Quốc phòng, Bộ Công an):
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì bệnh viện phải thành lập hội đồng chuyên môn theo quy định tại khoản 1 Điều 101 của Luật Khám bệnh, chữa bệnh (gọi là hội đồng chuyên môn cấp cơ sở);
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm a Khoản này thì có văn bản đề nghị Sở Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp;
+c) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm b Khoản này thì có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+d) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+2. Trình tự giải quyết tranh chấp đối với trường hợp cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Sở Y tế nhưng không phải là hình thức bệnh viện (bao gồm cả các cơ sở khám bệnh, chữa bệnh không phải là hình thức bệnh viện của các bộ, ngành, trừ cơ sở trực thuộc Bộ Quốc phòng, Bộ Công an):
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì cơ sở có văn bản đề nghị Sở Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp;
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm a Khoản này thì có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+c) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+3. Trình tự giải quyết tranh chấp đối với trường hợp bệnh viện, bệnh xá thuộc thẩm quyền quản lý của Bộ Quốc phòng, Bộ Công an:
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì bệnh viện, bệnh xá tự thành lập hội đồng chuyên môn theo quy định tại khoản 1 Điều 101 của Luật Khám bệnh, chữa bệnh (gọi là hội đồng chuyên môn cấp cơ sở);
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm a Khoản này thì có văn bản đề nghị Cục Quân y - Bộ Quốc phòng, Cục Y tế - Bộ Công an thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp;
+c) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm b Khoản này thì có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+d) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+4. Trình tự giải quyết tranh chấp đối với trường hợp cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Bộ Quốc phòng, Bộ Công an nhưng không phải là hình thức bệnh viện, bệnh xá hoặc là hình thức bệnh xá nhưng không đủ điều kiện thành lập hội đồng chuyên môn:
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì cơ sở có văn bản đề nghị Cục Quân y - Bộ Quốc phòng, Cục Y tế - Bộ Công an thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp;
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm a Khoản này thì có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+c) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+5. Trình tự giải quyết tranh chấp đối với trường hợp bệnh viện thuộc thẩm quyền quản lý của Bộ Y tế:
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì bệnh viện tự thành lập hội đồng chuyên môn theo quy định tại khoản 1 Điều 101 của Luật Khám bệnh, chữa bệnh (gọi là hội đồng chuyên môn cấp cơ sở);
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định tại điểm a Khoản này thì có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+c) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+6. Trình tự giải quyết tranh chấp đối với trường hợp cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Bộ Y tế nhưng không phải là hình thức bệnh viện:
+a) Khi xảy ra tai biến y khoa mà có tranh chấp cần giải quyết, theo đề nghị của người bệnh, người đại diện người bệnh, người hành nghề hoặc cơ quan cảnh sát điều tra, tòa án thì cơ sở có văn bản đề nghị Bộ Y tế thành lập hội đồng chuyên môn để giải quyết và gửi kèm theo hồ sơ liên quan đến tranh chấp. Kết luận của hội đồng chuyên môn của Bộ Y tế là kết luận cuối cùng;
+b) Trường hợp các bên có tranh chấp khi không nhất trí với kết luận của hội đồng chuyên môn quy định của Bộ Y tế thì các bên khởi kiện tại tòa án.
+
+Chương X HỒ SƠ BỆNH ÁN
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 51. Các bệnh án, mẫu giấy, phiếu y sử dụng trong hồ sơ bệnh án
+1. Ban hành kèm theo Thông tư này 82 mẫu bệnh án, mẫu giấy, phiếu y bao gồm:
+a) Các mẫu bệnh án theo mẫu quy định tại [Phụ lục số XXVIII](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Phu%20luc%20XXVIII%20-%20Mau%20benh%20an.doc) ban hành kèm theo Thông tư này;
+b) Các mẫu giấy, phiếu y theo mẫu quy định tại [Phụ lục số XXIX](https://files.thuvienphapluat.vn/uploads/DocForms/5/9/3/3/593360//Ph%E1%BB%A5%20l%E1%BB%A5c%20s%E1%BB%91%20XXIX.doc) ban hành kèm theo Thông tư này;
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 52. Quy định về sử dụng hồ sơ bệnh án, ghi chép hồ sơ bệnh án
+1. Quy định về sử dụng hồ sơ bệnh án:
+a) Cơ sở khám bệnh, chữa bệnh sử dụng hồ sơ bệnh án theo hình thức bệnh án giấy hoặc bệnh án điện tử.
+b) Đối với cơ sở khám bệnh, chữa bệnh áp dụng bệnh án điện tử phải bảo đảm có đầy đủ nội dung các trường thông tin của hồ sơ bệnh án.
+2. Quy định về ghi chép hồ sơ bệnh án:
+a) Ghi chép chính xác, trung thực, đầy đủ các thông tin trong hồ sơ bệnh án, kết quả khám bệnh, cận lâm sàng, thăm dò chức năng, quá trình chẩn đoán, điều trị, chăm sóc và những thông tin khác có liên quan trong quá trình chữa bệnh của người bệnh tại cơ sở khám bệnh, chữa bệnh;
+b) Việc ghi chép phải tuân thủ các nội dung, hướng dẫn chuyên môn đã được ban hành;
+c) Sử dụng các từ ngữ rõ ràng, khoa học, trình bày dễ hiểu, dễ đọc. Không được sử dụng chữ viết tắt trong các tài liệu cung cấp cho người bệnh bao gồm: bản tóm tắt hồ sơ bệnh án, tài liệu bàn giao cho cơ sở khám bệnh, chữa bệnh khác, giấy chuyển tuyến khám bệnh, chữa bệnh bảo hiểm y tế, giấy hẹn khám lại. Đối với các chữ viết tắt phải theo danh sách ký hiệu, chữ viết tắt được dùng trong hồ sơ bệnh án đã được xây dựng, ban hành sử dụng thống nhất tại cơ sở khám bệnh, chữa bệnh;
+d) Thông tin trong hồ sơ bệnh án cần thể hiện rõ thời gian và người ghi chép.
+
+Chương XI ĐIỀU KHOẢN THI HÀNH
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 53. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2024.
+2. Các văn bản sau đây hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành:
+a) Thông tư số 35/2019/TT-BYT ngày 30 tháng 12 năm 2019 của Bộ trưởng Bộ Y tế quy định phạm vi hoạt động chuyên môn đối với người hành nghề khám bệnh, chữa bệnh;
+b) Thông tư số 55/2015/TT-BYT ngày 29 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định về công nhận nghiên cứu thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới trong khám bệnh, chữa bệnh;
+c) Thông tư số 14/2013/TT-BYT ngày 06 tháng 5 năm 2013 của Bộ trưởng Bộ Y tế về “Hướng dẫn khám sức khỏe”;
+d) Thông tư số 09/2023/TT-BYT ngày 05 tháng 5 năm 2023 của Bộ trưởng Bộ Y tế “Sửa đổi, bổ sung một số điều của Thông tư số 14/2013/TT-BYT ngày 06 tháng 5 năm 2013 của Bộ trưởng Bộ Y tế về “Hướng dẫn khám sức khỏe”;
+đ) Quy chế thường trực tại khoản 1 Phần IV Quyết định số 1895/1997/QĐ- BYT ngày 19 tháng 09 năm 1997 về việc ban hành quy chế bệnh viện;
+e) Quyết định số 4069/2001/QĐ-BYT ngày 28 tháng 9 năm 2001 của Bộ trưởng Bộ Y tế về Mẫu hồ sơ, bệnh án;
+g) Mẫu bản tóm tắt hồ sơ bệnh án (CV-01) thay thế “Mẫu bản tóm tắt hồ sơ bệnh án” tại Phụ lục 4 ban hành kèm theo Thông tư số 18/2022/TT-BYT ngày 31 tháng 12 năm 2022 của Bộ trưởng Bộ Y tế về việc sửa đổi, bổ sung một số điều của Thông tư số 56/2017/TT-BYT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Y tế quy định chi tiết thi hành Luật Bảo hiểm xã hội và Luật An toàn vệ sinh lao động thuộc lĩnh vực y tế;
+h) Quyết định số 1941/QĐ-BYT ngày 22 tháng 5 năm 2019 của Bộ trưởng Bộ Y tế ban hành mẫu bệnh án y học cổ truyền sử dụng trong các cơ sở khám bệnh, chữa bệnh y học cổ truyền;
+i) Quyết định số 3730/QĐ-BYT ngày 05 tháng 8 năm 2021 của Bộ trưởng Bộ Y tế về việc ban hành ban hành sửa đổi, bổ sung mẫu hồ sơ bệnh án phục hồi chức năng và một số mẫu phiếu Phục hồi chức năng;
+k) Thông tư số 41/2011/TT-BYT ngày 14 tháng 11 năm 2011 của Bộ trưởng Bộ Y tế hướng dẫn cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh;
+l) Thông tư số 41/2015/TT-BYT ngày 16 tháng 11 năm 2015 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều của Thông tư số 41/2011/TT- BYT ngày 14 tháng 11 năm 2011 của Bộ trưởng Bộ Y tế hướng dẫn cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh;
+m) Các quy định về cập nhật kiến thức y khoa liên tục trong khám bệnh, chữa bệnh tại Thông tư số 22/2013/TT-BYT ngày 09 tháng 8 năm 2013 của Bộ trưởng Bộ Y tế hướng dẫn việc đào tạo liên tục cho cán bộ y tế được sửa đổi, bổ sung tại Thông tư số 26/2020/TT-BYT ngày 28 tháng 12 năm 2020 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều của Thông tư số 22/2013/TT-BYT ngày 09 tháng 8 năm 2013 của Bộ trưởng Bộ Y tế hướng dẫn việc đào tạo liên tục cho cán bộ y tế.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 54. Điều khoản tham chiếu
+Trường hợp các văn bản dẫn chiếu trong Thông tư này được thay thế, sửa đổi, bổ sung thì áp dụng theo các văn bản đã được thay thế, sửa đổi, bổ sung.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 55. Điều khoản chuyển tiếp
+1. Trường hợp người hành nghề đã được cấp chứng chỉ hành nghề (sau đây là giấy phép hành nghề) theo quy định tại Luật Khám bệnh, chữa bệnh số 40/2009/QH12 thì phạm vi hành nghề được áp dụng theo quy định tại Thông tư này.
+2. Đối với các cơ sở nhận thử đã được cấp Giấy chứng nhận đáp ứng GCP với phạm vi thử thuốc trên lâm sàng (thuốc hóa dược, thuốc dược liệu, thuốc cổ truyền, sinh phẩm, sinh phẩm điều trị), cơ sở nhận thử thực hiện việc rà soát, chuẩn bị các điều kiện đáp ứng nguyên tắc, tiêu chuẩn GCP theo quy định tại Thông tư này và gửi hồ sơ theo quy định tại Điều 20 Thông tư này đến Cục Khoa học công nghệ và Đào tạo.
+3. Cục Khoa học công nghệ và Đào tạo có trách nhiệm kiểm tra, đánh giá việc đáp ứng GCP căn cứ vào hồ sơ của cơ sở nhận thử. Trường hợp hồ sơ của cơ sở nhận thử đã đầy đủ và đáp ứng các điều kiện quy định tại Thông tư này, Bộ Y tế giao Cục Khoa học công nghệ và Đào tạo cấp giấy chứng nhận đáp ứng GCP với phạm vi thử kỹ thuật mới, phương pháp mới và/hoặc thử thiết bị y tế trên lâm sàng tương ứng trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+4. Cục Khoa học công nghệ và Đào tạo thực hiện việc đánh giá thực tế tại cơ sở nhận thử thuộc một trong các trường hợp sau đây:
+a) Cơ sở nhận thử đề nghị cấp giấy chứng nhận đáp ứng thực hành tốt thử thiết bị y tế trên lâm sàng;
+b) Các tài liệu minh chứng trong hồ sơ về điều kiện của cơ sở nhận thử chưa đáp ứng theo quy định tại Thông tư này;
+c) Hồ sơ có dấu hiệu tẩy xóa, sửa chữa thông tin;
+d) Cơ sở nhận thử đã bị cơ quan có thẩm quyền xử phạt vi phạm hành chính liên quan đến thử nghiệm lâm sàng.
+5. Trường hợp thực hiện đánh giá thực tế tại cơ sở nhận thử, việc xử lý kết quả đánh giá được thực hiện tại Điều 23 Thông tư này.
+
+Thông tư 32/2023/TT-BYT hướng dẫn Luật Khám bệnh, chữa bệnh do Bộ trưởng Bộ Y tế ban hành. Điều 56. Trách nhiệm thi hành
+1. Chánh Văn phòng Bộ, Cục trưởng Cục Quản lý Khám, chữa bệnh, Cục trưởng Cục Khoa học Công nghệ và Đào tạo, Cục trưởng Cục Quản lý Y, Dược cổ truyền, Vụ trưởng các Vụ, Cục trưởng các Cục thuộc Bộ Y tế, Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng cơ quan y tế các Bộ, ngành và các cơ quan tổ chức có liên quan chịu trách nhiệm thi hành Thông tư này.
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Y tế (Cục Quản lý Khám, chữa bệnh, Cục Khoa học Công nghệ và Đào tạo) để xem xét, giải quyết./.
+Nơi nhận:
+- Văn phòng Chính phủ (Công báo, Cổng Thông tin điện tử Chính phủ);
+- Bộ Tư pháp (Cục Kiểm tra văn bản QPPL);
+- Bộ trưởng (để báo cáo);
+- Các đồng chí Thứ trưởng Bộ Y tế;
+- Bảo hiểm xã hội Việt Nam;
+- Sở Y tế các tỉnh, thành phố trực thuộc trung ương;
+- Các đơn vị trực thuộc Bộ Y tế;
+- Y tế các Bộ, Ngành;
+- Các Vụ, Cục, Văn phòng Bộ, Thanh tra Bộ thuộc Bộ Y tế;
+- Cổng Thông tin điện tử Bộ Y tế;
+- Lưu: VT, KCB, PC.
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Thuấn 

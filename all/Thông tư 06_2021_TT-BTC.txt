@@ -1,0 +1,699 @@
+Thông tư 06/2021/TT-BTC. BỘ TÀI CHÍNH --------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------------
+Số: 06/2021/TT-BTC
+Hà Nội, ngày 22 tháng 01 năm 2021 THÔNG TƯ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ THUẾ NGÀY 13 THÁNG 06 NĂM 2019 VỀ QUẢN LÝ THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU
+Căn cứ Luật Quản lý thuế ngày 13 tháng 06 năm 2019;
+Căn cứ Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế;
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan;
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thi hành một số điều của Luật Quản lý thuế ngày 13 tháng 06 năm 2019 về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu.
+
+Thông tư 06/2021/TT-BTC. Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn thi hành Điều 3, Điều 7, Điều 8, Điều 9, Điều 42, Điều 55, Điều 56, Điều 59, Điều 60, Điều 61, Điều 64, Điều 72, Điều 73, Điều 76, Điều 78, Điều 80, Điều 86, Điều 96, Điều 107 và Điều 124 của Luật Quản lý thuế ngày 13 tháng 06 năm 2019 (sau đây gọi tắt là Luật Quản lý thuế) bao gồm các nội dung: Tờ khai hải quan; đồng tiền khai thuế, nộp thuế bằng ngoại tệ tự do chuyển đổi; hồ sơ, thủ tục về giao dịch điện tử trong lĩnh vực thuế; quản lý rủi ro trong quản lý thuế; khai thuế, nộp thuế đối với hoạt động kinh doanh thương mại điện tử; thời hạn nộp thuế đối với hàng hóa xuất khẩu, nhập khẩu; thời hạn chuyển tiền vào ngân sách nhà nước; thủ tục xử lý đối với việc chậm nộp tiền thuế; thẩm quyền, thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa; hồ sơ gia hạn nộp thuế; trình tự, thủ tục hoàn thuế; thủ tục không thu thuế đối với trường hợp không phải nộp thuế xuất khẩu, thuế nhập khẩu; hồ sơ miễn thuế, giảm thuế; hồ sơ xóa nợ tiền thuế, tiền chậm nộp, tiền phạt; xây dựng, thu thập, xử lý, quản lý hệ thống thông tin người nộp thuế; mẫu biểu thanh tra, kiểm tra thuế, trình tự, thủ tục, hồ sơ kiểm tra thuế; nộp dần tiền thuế nợ; hướng dẫn thi hành khoản 4 Điều 7, khoản 4 Điều 8, Điều 39 Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế, bao gồm các nội dung: Mẫu tờ khai khai bổ sung; các trường hợp hàng hóa xuất khẩu, nhập khẩu không phải khai thuế theo từng lần phát sinh; ủy nhiệm thu phí hải quan, lệ phí hàng hóa, phương tiện quá cảnh.
+
+Thông tư 06/2021/TT-BTC. Điều 2. Đối tượng áp dụng Đối tượng áp dụng quy định tại Thông tư này bao gồm:
+Người nộp thuế, cơ quan hải quan, công chức hải quan, cơ quan nhà nước, tổ chức, cá nhân khác có liên quan theo quy định tại Điều 2 Luật Quản lý thuế.
+
+Thông tư 06/2021/TT-BTC. Chương II QUY ĐỊNH CỤ THỂ
+Điều 3. Hướng dẫn khoản 8 Điều 3; khoản 1, khoản 4 Điều 42 Luật Quản lý thuế về tờ khai hải quan, khai thuế, tính thuế; khoản 1, khoản 4 Điều 7, điểm c khoản 4 Điều 8 Nghị định số 126/2020/NĐ-CP về mẫu tờ khai bổ sung, các trường hợp hàng hóa xuất khẩu, nhập khẩu không phải khai thuế theo từng lần phát sinh
+1. Mẫu tờ khai hải quan, mẫu tờ khai hải quan khai bổ sung đối với hàng hóa xuất khẩu, nhập khẩu thực hiện theo quy định tại khoản 5, khoản 9 Điều 1 Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu.
+2. Người nộp thuế phải khai chính xác, trung thực, đầy đủ các nội dung trong tờ khai hải quan theo quy định tại khoản 5 Điều 1 Thông tư số 39/2018/TT-BTC, nộp đủ các chứng từ, tài liệu quy định trong hồ sơ hải quan cho cơ quan hải quan.
+3. Các trường hợp hàng hóa xuất khẩu, nhập khẩu không phải khai thuế theo từng lần phát sinh quy định tại điểm c khoản 4 Điều 8 Nghị định số 126/2020/NĐ-CP, bao gồm:
+a) Mặt hàng điện năng xuất khẩu, nhập khẩu theo quy định tại Điều 93 Thông tư số 38/2015/TT-BTC;
+b) Hàng hóa bán trong khu vực cách ly tại các sân bay quốc tế (trừ hàng bán miễn thuế) theo quy định tại Điều 93 Thông tư số 38/2015/TT-BTC;
+c) Hàng hóa cung cấp cho hành khách trên các chuyến bay tuyến quốc tế theo quy định tại Điều 93 Thông tư số 38/2015/TT-BTC;
+d) Xăng, dầu cung ứng cho tàu bay xuất cảnh theo quy định tại Điều 93 Thông tư số 38/2015/TT-BTC;
+đ) Các trường hợp hàng hóa xuất khẩu, nhập khẩu tại chỗ thực hiện việc giao nhận hàng hóa nhiều lần trong ngày hoặc trong tháng theo quy định tại Điều 86 Thông tư số 38/2015/TT-BTC.
+4. Khai thuế, nộp thuế đối với hàng hóa xuất khẩu, nhập khẩu thông qua hoạt động kinh doanh thương mại điện tử, kinh doanh trên nền tảng số và các dịch vụ khác được thực hiện bởi nhà cung cấp ở nước ngoài không có cơ sở thường trú tại Việt Nam quy định tại khoản 4 Điều 42 Luật Quản lý thuế thực hiện như khai thuế, nộp thuế đối với hàng hóa xuất khẩu, nhập khẩu được quy định tại Điều 5 Nghị định số 08/2015/NĐ-CP ngày 21/01/2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát hải quan và kiểm soát hải quan được sửa đổi, bổ sung tại khoản 3 Điều 1 Nghị định số 59/2018/NĐ-CP ngày 20/4/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP ngày 21/01/2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan, Thông tư số 38/2015/TT-BTC, Thông tư số 39/2018/TT-BTC.
+
+Thông tư 06/2021/TT-BTC. Điều 4. Hướng dẫn khoản 4 Điều 7 Luật Quản lý thuế quy định về đồng tiền khai thuế, nộp thuế bằng ngoại tệ tự do chuyển đổi
+1. Đồng tiền khai thuế, nộp thuế và các khoản thu khác đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh, phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh là đồng Việt Nam.
+2. Khai thuế, nộp thuế bằng ngoại tệ tự do chuyển đổi quy định tại khoản 4 Điều 7 Luật Quản lý thuế được thực hiện như sau:
+a) Trường hợp khai thuế, nộp thuế xuất khẩu bằng ngoại tệ tự do chuyển đổi đối với mặt hàng dầu thô, khí thiên nhiên xuất khẩu thực hiện theo quy định tại Thông tư số 36/2016/TT-BTC ngày 26/02/2016 của Bộ Tài chính hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò và khai thác dầu khí theo quy định của Luật Dầu khí.
+b) Trường hợp khai phí, nộp tiền phí hải quan bằng ngoại tệ tự do chuyển đổi đối với chuyến bay của nước ngoài đến các Cảng hàng không Việt Nam thực hiện theo quy định tại Thông tư số 194/2016/TT-BTC ngày 08/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp phí hải quan và lệ phí ra, vào cảng hàng không, sân bay đối với chuyến bay của nước ngoài đến các cảng hàng không Việt Nam.
+3. Trường hợp người nộp thuế có nghĩa vụ khai thuế, nộp thuế bằng ngoại tệ tự do chuyển đổi nhưng được phép nộp thuế bằng đồng Việt Nam, tỷ giá quy đổi từ ngoại tệ tự do chuyển đổi sang đồng Việt Nam thực hiện theo quy định tại Điều 86 Luật Hải quan ngày 23 tháng 6 năm 2014 (sau đây gọi tắt là Luật Hải quan), khoản 3 Điều 21 Nghị định số 08/2015/NĐ-CP được sửa đổi, bổ sung tại khoản 9 Điều 1 Nghị định số 59/2018/NĐ-CP, Điều 35 Thông tư số 38/2015/TT-BTC.
+
+Thông tư 06/2021/TT-BTC. Điều 5. Hướng dẫn khoản 8 Điều 8 Luật Quản lý thuế quy định hồ sơ, thủ tục về giao dịch điện tử trong lĩnh vực thuế
+1. Hồ sơ, thủ tục về giao dịch điện tử trong lĩnh vực thuế áp dụng đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế thực hiện theo quy định tại khoản 5, khoản 7, khoản 8, khoản 9, khoản 10, khoản 11, khoản 14, khoản 15, khoản 16, khoản 17, khoản 18, khoản 19, khoản 20, khoản 21, khoản 22 Điều 1 Thông tư số 39/2018/TT-BTC.
+2. Hồ sơ về giao dịch điện tử trong lĩnh vực thuế áp dụng đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng miễn thuế thực hiện theo quy định tại Điều 14 Thông tư này. Thủ tục miễn thuế thực hiện theo quy định tại khoản 3 Điều 31 Nghị định số 134/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thuế xuất khẩu, thuế nhập khẩu. Thủ tục thông báo Danh mục hàng hóa miễn thuế đối với các trường hợp phải thông báo Danh mục hàng hóa miễn thuế thực hiện theo quy định tại khoản 4, khoản 5, khoản 6, khoản 7 Điều 30 Nghị định số 134/2016/NĐ-CP.
+Thủ tục miễn thuế đối với hàng hóa nhập khẩu phục vụ trực tiếp cho an ninh, quốc phòng trong trường hợp người nộp thuế đề nghị miễn thuế trước khi làm thủ tục hải quan thực hiện theo quy định tại điểm a khoản 4 Điều 20 Nghị định số 134/2016/NĐ-CP, trường hợp thông báo miễn thuế của Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan (sau đây gọi tắt là Hệ thống), cơ quan hải quan nơi làm thủ tục nhập khẩu căn cứ thông báo miễn thuế của Tổng cục Hải quan trên Hệ thống để thực hiện thủ tục miễn thuế.
+Thủ tục miễn thuế đối với hàng an ninh, quốc phòng trong trường hợp người nộp thuế đề nghị miễn thuế sau khi làm thủ tục hải quan thực hiện theo quy định tại điểm b khoản 4 Điều 20 Nghị định số 134/2016/NĐ-CP.
+3. Hồ sơ về giao dịch điện tử trong lĩnh vực thuế áp dụng đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng giảm thuế thực hiện theo quy định tại Điều 15 Thông tư này. Thủ tục giảm thuế thực hiện theo quy định tại khoản 3 Điều 32 Nghị định số 134/2016/NĐ-CP.
+4. Hồ sơ, thủ tục về giao dịch điện tử trong lĩnh vực thuế áp dụng đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng hoàn thuế thực hiện theo quy định tại Điều 12 Thông tư này.
+5. Hồ sơ, thủ tục về giao dịch điện tử trong lĩnh vực thuế áp dụng đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không thu thuế thực hiện theo quy định tại Điều 13 Thông tư này.
+
+Thông tư 06/2021/TT-BTC. Điều 6. Hướng dẫn khoản 6 Điều 9, khoản 4 Điều 96 Luật Quản lý thuế quy định về quản lý rủi ro trong quản lý thuế Quản lý rủi ro trong quản lý thuế, xây dựng, thu thập, xử lý, quản lý hệ thống thông tin người nộp thuế thực hiện theo quy định tại Luật Hải quan, Luật Quản lý thuế, các Nghị định hướng dẫn các Luật này, Thông tư số 81/2019/TT-BTC ngày 15/11/2019 của Bộ Tài chính quy định về quản lý rủi ro trong hoạt động nghiệp vụ hải quan.
+
+Thông tư 06/2021/TT-BTC. Điều 7. Hướng dẫn điểm b khoản 4 Điều 55 Luật Quản lý thuế quy định về thời hạn nộp thuế đối với hàng hóa xuất khẩu, nhập khẩu
+1. Thời hạn nộp thuế đối với hàng hóa phải phân tích, giám định để xác định chính xác số tiền thuế phải nộp được thực hiện như sau:
+a) Người nộp thuế phải tạm nộp thuế theo mã số khai báo trước khi giải phóng hàng. Thời hạn nộp thuế thực hiện theo quy định tại Điều 9 Luật Thuế xuất khẩu, thuế nhập khẩu ngày 06 tháng 4 năm 2016 (sau đây gọi tắt là Luật Thuế xuất khẩu, thuế nhập khẩu).
+b) Trường hợp kết quả phân tích, giám định hàng hóa khác so với nội dung khai của người nộp thuế dẫn đến tăng số tiền thuế phải nộp, thời hạn nộp số tiền thuế thiếu là 05 ngày làm việc kể từ ngày người nộp thuế nhận được yêu cầu khai bổ sung của cơ quan hải quan.
+Trường hợp kết quả phân tích, giám định hàng hóa khác so với nội dung khai của người nộp thuế dẫn đến giảm số tiền thuế phải nộp, cơ quan hải quan thông báo cho người nộp thuế thực hiện khai bổ sung theo quy định của pháp luật về hải quan và xử lý số tiền thuế nộp thừa theo quy định tại Điều 10 Thông tư này.
+2. Thời hạn nộp thuế đối với trường hợp chưa có giá chính thức tại thời điểm đăng ký tờ khai hải quan thực hiện như sau:
+a) Người nộp thuế phải tạm nộp thuế theo giá khai báo trước khi thông quan hoặc giải phóng hàng. Thời hạn nộp thuế thực hiện theo quy định của Điều 9 Luật Thuế xuất khẩu, thuế nhập khẩu.
+b) Trường hợp có giá chính thức người nộp thuế phải khai bổ sung, nộp số tiền thuế chênh lệch tăng thêm trong thời hạn là 05 ngày làm việc kể từ thời điểm có giá chính thức.
+Trường hợp có giá chính thức dẫn đến giảm số tiền thuế phải nộp, cơ quan hải quan xử lý số tiền thuế nộp thừa theo quy định tại Điều 10 Thông tư này.
+Giá chính thức thực hiện theo quy định tại Điều 17 Thông tư số 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu.
+3. Thời hạn nộp tiền thuế đối với trường hợp hàng hóa có khoản thực thanh toán, hàng hóa có các khoản điều chỉnh cộng vào trị giá hải quan chưa xác định được tại thời điểm đăng ký tờ khai hải quan thực hiện như sau:
+a) Người nộp thuế phải tạm nộp thuế theo giá khai báo trước khi thông quan hoặc giải phóng hàng. Thời hạn nộp thuế thực hiện theo quy định của Điều 9 Luật Thuế xuất khẩu, thuế nhập khẩu.
+b) Trường hợp có các khoản thực thanh toán, các khoản điều chỉnh cộng vào trị giá hải quan, thời hạn nộp thuế là 05 ngày làm việc kể từ thời điểm người nhập khẩu xác định được các khoản này.
+Các khoản thực thanh toán, các khoản điều chỉnh cộng vào trị giá hải quan thực hiện theo quy định tại Thông tư số 39/2015/TT-BTC và Thông tư số 60/2019/TT-BTC ngày 30/8/2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 39/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính quy định về trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu.
+
+Thông tư 06/2021/TT-BTC. Điều 8. Hướng dẫn khoản 4 Điều 56 Luật Quản lý thuế quy định về thời hạn chuyển tiền vào ngân sách nhà nước Thời hạn chuyển tiền vào ngân sách nhà nước đối với trường hợp thu thuế bằng tiền mặt tại vùng sâu, vùng xa, hải đảo, vùng đi lại khó khăn quy định tại khoản 4 Điều 56 Luật Quản lý thuế là 03 ngày làm việc theo quy định tại khoản 3 Điều 21 Thông tư số 184/2015/TT-BTC ngày 17/11/2015 của Bộ Tài chính quy định thủ tục về kê khai, bảo lãnh tiền thuế, thu nộp tiền thuế, tiền chậm nộp, tiền phạt, tiền phí, lệ phí, các khoản thu khác, đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh.
+
+Thông tư 06/2021/TT-BTC. Điều 9. Hướng dẫn khoản 9 Điều 59 Luật Quản lý thuế quy định về thủ tục xử lý đối với việc chậm nộp tiền thuế
+1. Các trường hợp phải nộp tiền chậm nộp, mức tính tiền chậm nộp, thời gian tính tiền chậm nộp thực hiện theo quy định tại khoản 1, khoản 2, khoản 4 Điều 59 Luật Quản lý thuế. Cơ quan hải quan không tính tiền chậm nộp theo quy định tại khoản 5 Điều 59, khoản 1 Điều 60, khoản 4 Điều 62 Luật Quản lý thuế.
+2. Thủ tục xử lý đối với việc chậm nộp tiền thuế thực hiện như sau:
+a) Trách nhiệm của người nộp thuế:
+Người nộp thuế tự xác định số tiền chậm nộp theo quy định tại khoản 1 Điều này và nộp vào ngân sách nhà nước.
+b) Trách nhiệm của cơ quan hải quan:
+Cơ quan hải quan kiểm tra, xử lý số tiền chậm nộp như sau:
+b.1) Trường hợp sau 30 ngày kể từ ngày hết thời hạn nộp thuế, người nộp thuế chưa nộp tiền thuế, tiền chậm nộp, tiền phạt hoặc đã nộp nhưng số tiền tiền thuế, tiền chậm nộp, tiền phạt còn thiếu thì cơ quan hải quan thông báo cho người nộp thuế biết số tiền thuế, tiền phạt còn nợ, số ngày chậm nộp qua Hệ thống theo  [Mẫu số 1 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2001%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) hoặc bản giấy theo  [Mẫu số 01/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2001-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+Trường hợp số tiền chậm nộp đã nộp lớn hơn số tiền chậm nộp phải nộp, cơ quan hải quan xử lý số tiền chậm nộp nộp thừa theo quy định tại Điều 10 Thông tư này.
+b.2) Trường hợp người nộp thuế khai bổ sung hồ sơ khai thuế làm giảm số tiền thuế phải nộp hoặc cơ quan quản lý thuế, cơ quan nhà nước có thẩm quyền kiểm tra, thanh tra phát hiện số tiền thuế phải nộp giảm, cơ quan hải quan điều chỉnh số tiền chậm nộp đã tính tương ứng với số tiền chênh lệch giảm.
+
+Thông tư 06/2021/TT-BTC. Điều 10. Hướng dẫn khoản 5 Điều 60, khoản 3 Điều 61 Luật Quản lý thuế quy định về thẩm quyền, thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa
+1. Tiền thuế, tiền chậm nộp, tiền phạt đối với hàng hóa xuất khẩu, nhập khẩu được xác định là nộp thừa theo quy định tại Điều 60 Luật Quản lý thuế.
+2. Thẩm quyền xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa:
+a) Tổng cục trưởng Tổng cục Hải quan, Cục trưởng Cục Hải quan tỉnh, thành phố, Cục trưởng Cục Kiểm tra sau thông quan, Cục trưởng Cục Điều tra chống buôn lậu đối với trường hợp ban hành Quyết định ấn định thuế, Quyết định xử phạt.
+b) Chi cục trưởng Chi cục Hải quan, Chi cục trưởng Chi cục Kiểm tra sau thông quan nơi có số tiền thuế, tiền chậm nộp, tiền phạt và các khoản thu ngân sách khác người nộp thuế đã nộp lớn hơn số tiền phải nộp.
+c) Thủ trưởng cơ quan hải quan nơi phát sinh số tiền thuế, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, tiền chậm nộp, tiền phạt được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền, bản án, quyết định của Tòa án.
+3. Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa thực hiện theo quy định tại khoản 2, khoản 3, khoản 4
+Điều 131 quy định tại khoản 64 Điều 1 Thông tư số 39/2018/TT-BTC.
+
+Thông tư 06/2021/TT-BTC. Điều 11. Hướng dẫn khoản 3 Điều 64 Luật Quản lý thuế quy định về hồ sơ gia hạn nộp thuế Hồ sơ gia hạn nộp thuế thực hiện theo quy định tại khoản 2 Điều 64 Luật Quản lý thuế, bao gồm:
+1. Công văn đề nghị gia hạn nộp tiền thuế theo  [Mẫu số 02/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2002-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính;
+2. Tài liệu gửi kèm công văn đề nghị gia hạn nộp tiền thuế đối với trường hợp quy định tại điểm a khoản 1 Điều 62 Luật Quản lý thuế:
+a) Văn bản, biên bản xác nhận nguyên nhân thiệt hại của cơ quan chức năng tại địa bàn nơi phát sinh thiệt hại:
+a.1) Văn bản xác nhận của một trong các cơ quan, tổ chức sau: Cơ quan Công an xã, phường, thị trấn; Ủy ban nhân dân xã, phường, thị trấn; Ban quản lý Khu công nghiệp, Khu chế xuất, Khu kinh tế, Ban quản lý cửa khẩu, Cảng vụ hàng không, Cảng vụ hàng hải nơi xảy ra sự kiện bất khả kháng về việc thiên tai, thảm họa, dịch bệnh, tai nạn bất ngờ gây thiệt hại vật chất, ảnh hưởng trực tiếp đến sản xuất, kinh doanh: 01 bản chính;
+a.2) Biên bản xác nhận vụ cháy của cơ quan cảnh sát phòng cháy chữa cháy của địa phương nơi xảy ra vụ cháy: 01 bản chính.
+b) Trường hợp gặp khó khăn bất khả kháng do chiến tranh, bạo loạn, đình công phải ngừng, nghỉ sản xuất, kinh doanh hoặc rủi ro không thuộc nguyên nhân, trách nhiệm chủ quan của người nộp thuế quy định tại khoản 1 Điều 3 Nghị định số 126/2020/NĐ-CP, người nộp thuế nộp các chứng từ, tài liệu chứng minh nguyên nhân gặp khó khăn bất khả kháng dẫn đến không có khả năng nộp tiền thuế, tiền chậm nộp, tiền phạt đúng hạn: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị gia hạn nộp thuế;
+c) Hợp đồng bảo hiểm, thông báo trả tiền bồi thường của tổ chức nhận bảo hiểm (nếu có), trường hợp hợp đồng bảo hiểm không bao gồm nội dung bồi thường về thuế phải có xác nhận của tổ chức bảo hiểm; hợp đồng hoặc biên bản thỏa thuận đền bù của hãng vận tải đối với trường hợp tổn thất do hãng vận tải gây ra (nếu có); 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị gia hạn nộp thuế.
+3. Tài liệu gửi kèm công văn đề nghị gia hạn nộp tiền thuế đối với trường hợp quy định tại điểm b khoản 1 Điều 62 Luật Quản lý thuế:
+a) Quyết định thu hồi địa điểm sản xuất, kinh doanh của cơ quan nhà nước có thẩm quyền đối với địa điểm sản xuất cũ của doanh nghiệp (trừ trường hợp di dời địa điểm sản xuất kinh doanh theo mục đích yêu cầu của doanh nghiệp): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị gia hạn nộp thuế;
+b)  Văn bản xác nhận của chính quyền địa phương về việc doanh nghiệp phải ngừng sản xuất kinh doanh do di chuyển địa điểm:
+01 bản chính;
+c) Tài liệu chứng minh mức độ thiệt hại trực tiếp do phải di chuyển địa điểm kinh doanh. Giá trị thiệt hại được xác định trên giá trị còn lại của hàng hóa bị thiệt hại. Giá trị còn lại của hàng hóa bị thiệt hại được xác định căn cứ vào hồ sơ, chứng từ và các quy định của pháp luật có liên quan trực tiếp để xác định: Nhà xưởng, kho, máy móc, trang thiết bị bị phá dỡ không thu hồi được vốn (nguyên giá sau khi trừ chi phí đã khấu hao), chi phí tháo dỡ trang thiết bị, nhà xưởng ở cơ sở cũ, chi phí vận chuyển lắp đặt ở cơ sở mới (sau khi trừ đi chi phí thu hồi), chi phí trả lương cho người lao động do ngừng làm việc (nếu có). Trường hợp phức tạp liên quan đến chuyên ngành kinh tế kỹ thuật phải có văn bản xác nhận của cơ quan chuyên môn: 01 bản chính.
+
+Thông tư 06/2021/TT-BTC. Điều 12. Hướng dẫn khoản 4 Điều 72, khoản 4 Điều 73, khoản 4 Điều 76 Luật Quản lý thuế quy định về trình tự, thủ tục hoàn thuế
+1. Tiếp nhận, phản hồi thông tin hồ sơ hoàn thuế
+a) Người nộp thuế gửi qua Hệ thống công văn đề nghị hoàn thuế theo chỉ tiêu thông tin quy định tại  [Mẫu số 2 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2002%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, các chứng từ, tài liệu có liên quan theo quy định tại Điều 33, Điều 34, Điều 35, Điều 36,
+Điều 37 Nghị định số 134/2016/NĐ-CP.
+Trường hợp hồ sơ giấy, người nộp thuế gửi công văn đề nghị hoàn thuế theo  [Mẫu số 03/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2003-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này, các chứng từ, tài liệu có liên quan theo quy định Điều 33, Điều 34, Điều 35, Điều 36, Điều 37 Nghị định số 134/2016/NĐ-CP.
+b) Cơ quan hải quan nơi đăng ký tờ khai hải quan hàng hóa xuất khẩu, nhập khẩu có phát sinh số tiền thuế đề nghị hoàn, thực hiện tiếp nhận, phản hồi hồ sơ đề nghị hoàn thuế thông qua Hệ thống. Trường hợp nộp hồ sơ bản giấy, cơ quan hải quan đóng dấu tiếp nhận, vào sổ tiếp nhận, xử lý hồ sơ giấy.
+2. Phân loại hồ sơ hoàn thuế
+a) Hồ sơ thuộc diện kiểm tra trước hoàn thuế thực hiện theo quy định tại Điều 22 Nghị định số 126/2020/NĐ-CP;
+b) Hồ sơ thuộc diện hoàn thuế trước là hồ sơ của người nộp thuế không thuộc trường hợp quy định tại điểm a khoản này.
+c) Thông báo cho người nộp thuế Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ hoàn thuế, cơ quan hải quan thông báo cho người nộp thuế về việc chấp nhận hồ sơ, phân loại hồ sơ, thời hạn giải quyết hồ sơ hoàn thuế thông qua Hệ thống theo  [Mẫu số 3 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2003%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp bản giấy thì thông báo theo  [Mẫu số 04/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+Trường hợp cần giải trình, bổ sung, cơ quan hải quan thông báo cho người nộp thuế thông qua Hệ thống theo  [Mẫu số 4 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp bản giấy thì thông báo theo  [Mẫu số 05/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+3. Trình tự, thủ tục hoàn thuế
+a) Trường hợp hoàn thuế trước:
+Cơ quan hải quan nơi phát sinh số tiền hoàn thuế thực hiện kiểm tra tại trụ sở cơ quan hải quan theo quy định tại khoản 1 Điều 74 Luật Quản lý thuế, kiểm tra các thông tin trong hồ sơ đề nghị hoàn thuế với thông tin trên Hệ thống để xác định điều kiện hoàn thuế, số tiền thuế phải hoàn.
+a.1) Trường hợp đủ điều kiện hoàn thuế thì ban hành Quyết định hoàn thuế theo quy định tại điểm c khoản này.
+a.2) Trường hợp hồ sơ chưa đầy đủ các thông tin để ban hành Quyết định hoàn thuế, cơ quan hải quan thông báo cho người nộp thuế về việc bổ sung các thông tin cần thiết thông qua Hệ thống theo  [Mẫu số 4 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp hồ sơ giấy thì thông báo theo  [Mẫu số 05/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này;
+a.3) Trường hợp không đủ điều kiện hoàn thuế, cơ quan hải quan thông báo lý do không hoàn thuế cho người nộp thuế thông qua Hệ thống theo  [Mẫu số 5 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp hồ sơ giấy thì thông báo theo  [Mẫu số 06/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2006-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này;
+a.4) Chuyển hồ sơ thuộc diện hoàn thuế trước sang hồ sơ thuộc diện kiểm tra trước hoàn thuế Hồ sơ thuộc diện hoàn thuế trước nhưng hết thời hạn theo thông báo bằng văn bản của cơ quan hải quan mà người nộp thuế không giải trình, bổ sung hồ sơ hoàn thuế hoặc có giải trình, bổ sung hồ sơ hoàn thuế nhưng không chứng minh được số tiền thuế đã khai là đúng, cơ quan hải quan thông báo qua Hệ thống theo  [Mẫu số 4 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) hoặc bản giấy theo  [Mẫu số 05/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này cho người nộp thuế về việc chuyển hồ sơ thuộc diện hoàn thuế trước sang diện kiểm tra trước tại trụ sở người nộp thuế theo quy định tại điểm đ khoản 2 Điều 73 Luật Quản lý thuế. Trình tự thực hiện kiểm tra thực hiện theo quy định tại điểm b khoản này.
+b) Trường hợp kiểm tra trước hoàn thuế:
+b.1) Trình tự kiểm tra Trong thời hạn 03 ngày làm việc kể từ ngày ký thông báo cho người nộp thuế về việc chấp nhận hồ sơ thuộc diện kiểm tra trước hoàn thuế, Chi cục trưởng Chi cục Hải quan nơi tiếp nhận hồ sơ đề nghị hoàn thuế phải ban hành Quyết định kiểm tra tại trụ sở người nộp thuế theo  [Mẫu số 07/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2007-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này và gửi cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày ký.
+Trong thời hạn 05 ngày làm việc kể từ ngày ký Quyết định kiểm tra, cơ quan hải quan phải tiến hành kiểm tra tại trụ sở của người nộp thuế. Thời gian kiểm tra không quá 05 ngày làm việc. Trước khi tiến hành kiểm tra, trưởng đoàn kiểm tra phải công bố Quyết định kiểm tra, lập Biên bản công bố Quyết định kiểm tra theo  [Mẫu số 08/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2008-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm Thông tư này với đại diện có thẩm quyền của người nộp thuế.
+Trường hợp hồ sơ hoàn thuế phức tạp không thể kết thúc kiểm tra trong thời hạn 05 ngày làm việc, đoàn kiểm tra cần gia hạn thời gian để xác minh, thu thập tài liệu, chậm nhất là trước 01 ngày làm việc trước khi kết thúc thời hạn kiểm tra, trưởng đoàn kiểm tra phải báo cáo bằng văn bản với người đã ký Quyết định kiểm tra để ban hành Quyết định gia hạn thời hạn kiểm tra theo  [Mẫu số 09/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2009-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này, thời hạn gia hạn kiểm tra không quá 05 ngày làm việc.
+Trưởng đoàn kiểm tra thực hiện công bố Quyết định gia hạn thời hạn kiểm tra, lập Biên bản công bố Quyết định gia hạn thời hạn kiểm tra.
+b.2) Nội dung kiểm tra b.2.1) Kiểm tra hồ sơ hải quan, hồ sơ hoàn thuế, chứng từ, sổ sách kế toán, chứng từ thanh toán, phiếu xuất kho, nhập kho; đối chiếu số tiền thuế đề nghị hoàn với số tiền thuế đã thu trên Hệ thống kế toán tập trung của cơ quan hải quan, thông tin trong hồ sơ hoàn thuế với các thông tin trên Hệ thống liên quan đến tờ khai xuất khẩu, nhập khẩu có số tiền thuế người nộp thuế đề nghị hoàn.
+b.2.2) Trường hợp hoàn thuế theo quy định tại Điều 35 Nghị định số 134/2016/NĐ-CP thì cơ quan hải quan thực hiện kiểm tra nội dung kê khai của người nộp thuế về tỷ lệ khấu hao, cách tính tỷ lệ khấu hao.
+b.2.3) Trường hợp hoàn thuế theo quy định tại Điều 36 Nghị định số 134/2016/NĐ-CP, cơ quan hải quan thực hiện kiểm tra sự phù hợp giữa định mức người nộp thuế phản ánh trong báo cáo tính thuế nguyên liệu, vật tư đề nghị hoàn thuế nhập khẩu  [Mẫu số 10 Phụ lục VII](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2007%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Nghị định số 134/2016/NĐ-CP với định mức thực tế sản xuất, sổ sách, chứng từ kế toán, tài liệu kỹ thuật trong quá trình sản xuất có liên quan đến nguyên liệu, vật tư nhập khẩu đề nghị hoàn thuế.
+Trường hợp kiểm tra lần đầu hoặc chưa có kết luận kiểm tra cơ sở sản xuất, cơ quan hải quan phải kiểm tra cơ sở sản xuất, quyền sử dụng đối với máy móc, thiết bị tại cơ sở sản xuất.
+b.2.4) Kiểm tra các chứng từ, tài liệu, dữ liệu khác có liên quan đến hàng hóa xuất khẩu, nhập khẩu theo quy định tại khoản 6 Điều 1 Thông tư số 39/2018/TT-BTC.
+b.2.5) Kết thúc việc kiểm tra, cơ quan hải quan phải xác định số tiền thuế được hoàn theo từng loại thuế, số tiền thuế không đủ điều kiện hoàn, lý do không đủ điều kiện hoàn.
+Trường hợp hàng hóa nhập khẩu thuộc đối tượng hoàn thuế theo Điều 36 Nghị định số 134/2016/NĐ-CP, người nộp thuế đã nộp thuế nhập khẩu theo tờ khai hải quan đồng thời đã nộp thuế nhập khẩu theo Quyết định ấn định thuế của cơ quan hải quan, cơ quan hải quan phải xác định số tiền thuế nhập khẩu được hoàn theo tờ khai hải quan và số tiền thuế nhập khẩu được hoàn theo Quyết định ấn định thuế.
+b.2.6) Lập biên bản kiểm tra theo  [Mẫu số 10/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2010-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm Thông tư này trong thời hạn 05 ngày làm việc kể từ ngày kết thúc kiểm tra tại trụ sở người nộp thuế.
+b.2.7) Lập dự thảo kết luận kiểm tra và gửi cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày lập biên bản kiểm tra theo  [Mẫu số 11/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2011-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm Thông tư này hoặc gửi bằng fax hoặc thư bảo đảm hoặc giao trực tiếp cho người nộp thuế.
+Trường hợp người nộp thuế không thống nhất với dự thảo kết luận kiểm tra của cơ quan hải quan, trong thời hạn 03 ngày làm việc kể từ ngày nhận được dự thảo kết luận kiểm tra, người nộp thuế phải giải trình với cơ quan hải quan thông qua Hệ thống hoặc giải trình bằng văn bản hoặc giải trình trực tiếp với cơ quan hải quan. Trường hợp người nộp thuế giải trình trực tiếp, cơ quan hải quan lập biên bản làm việc theo  [Mẫu số 12/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2012-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+b.2.8) Trong thời hạn 03 ngày làm việc kể từ ngày người nộp thuế hết thời hạn giải trình, thủ trưởng cơ quan hải quan đã ban hành Quyết định kiểm tra thực hiện ban hành kết luận kiểm tra.
+Trường hợp không đủ điều kiện hoàn thuế, cơ quan hải quan thông báo qua Hệ thống theo  [Mẫu số 5 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này hoặc thông báo bằng văn bản cho người nộp thuế về việc không đủ điều kiện hoàn thuế theo  [Mẫu số 06/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2006-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+c) Ban hành Quyết định hoàn thuế c.1) Chi cục trưởng Chi cục Hải quan ban hành Quyết định hoàn thuế theo  [Mẫu số 13/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2013-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này, gửi bản scan Quyết định hoàn thuế cho người nộp thuế, các cơ quan có liên quan (nếu có) thông qua Hệ thống, gửi bản chính Quyết định hoàn thuế cho người nộp thuế, các cơ quan có liên quan (nếu có). Thời hạn ban hành Quyết định hoàn thuế thực hiện theo quy định tại Điều 75 Luật Quản lý thuế.
+c.2) Trường hợp hàng hóa nhập khẩu thuộc đối tượng hoàn thuế theo Điều 36 Nghị định số 134/2016/NĐ-CP, người nộp thuế đã nộp thuế nhập khẩu theo tờ khai hải quan đồng thời đã nộp thuế nhập khẩu theo Quyết định ấn định thuế của cơ quan hải quan, số tiền thuế được hoàn của một tờ khai hải quan bao gồm số tiền thuế đã nộp theo tờ khai hải quan và số tiền thuế đã nộp theo Quyết định ấn định thuế, việc ban hành Quyết định hoàn thuế được thực hiện như sau:
+c.2.1) Chi cục trưởng Chi cục Hải quan nơi đăng ký tờ khai hải quan ban hành Quyết định hoàn thuế đối với số tiền thuế người nộp thuế đã nộp theo tờ khai hải quan.
+c.2.2) Thủ trưởng cơ quan hải quan đã ban hành Quyết định ấn định thuế theo quy định tại khoản 7 Điều 17 Nghị định số 126/2020/NĐ-CP thực hiện ban hành Quyết định hoàn thuế đối với số tiền thuế người nộp thuế đã nộp theo Quyết định ấn định thuế.
+4. Cục trưởng Cục Hải quan tỉnh, thành phố nơi phát sinh số tiền thuế đề nghị hoàn ban hành Quyết định thanh tra, kiểm tra đối với hồ sơ thuộc diện hoàn thuế trước theo nguyên tắc quản lý rủi ro trong quản lý thuế và trong thời hạn 05 năm kể từ ngày ban hành Quyết định hoàn thuế theo quy định tại [Khoản này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026] khoản 1 Điều 77  Luật Quản lý thuế.
+
+Thông tư 06/2021/TT-BTC. Điều 13. Hướng dẫn khoản 2 Điều 78 Luật Quản lý thuế quy định về thủ tục không thu thuế đối với trường hợp không phải nộp thuế xuất khẩu, thuế nhập khẩu Thủ tục không thu thuế nhập khẩu đối với hàng hóa xuất khẩu phải tái nhập quy định tại Điều 33 Nghị định số 134/2016/NĐ-CP, không thu thuế xuất khẩu đối với hàng hóa nhập khẩu phải tái xuất quy định tại Điều 34 Nghị định số 134/2016/NĐ-CP được thực hiện như sau:
+1. Trách nhiệm của người nộp thuế
+a) Kê khai đầy đủ, chính xác, trung thực và chịu trách nhiệm đối với nội dung kê khai trên hồ sơ đề nghị không thu thuế.
+a.1) Trường hợp không thu thuế nhập khẩu đối với hàng hóa xuất khẩu phải tái nhập theo quy định tại Điều 33 Nghị định số 134/2016/NĐ-CP, người nộp thuế gửi công văn đề nghị không thu thuế qua Hệ thống theo  [Mẫu số 6 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2006%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, hoặc bản giấy theo  [Mẫu số 14/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2014-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính; các chứng từ quy định tại Điều 33 Nghị định số 134/2016/NĐ-CP bao gồm:
+a.1.1) Chứng từ thanh toán hàng hóa xuất khẩu đối với trường hợp đã thanh toán: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.1.2) Hợp đồng xuất khẩu, hợp đồng ủy thác xuất khẩu nếu là hình thức xuất khẩu ủy thác (nếu có): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.1.3) Hóa đơn thương mại theo hợp đồng xuất khẩu đối với trường hợp hàng hóa xuất khẩu sau đó phải tái nhập (trừ xuất khẩu vào khu phi thuế quan thì thực hiện theo quy định tại điểm a.1.4 khoản này): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.1.4) Hóa đơn của người xuất khẩu theo quy định của pháp luật về hóa đơn đối với trường hợp hàng hóa xuất khẩu vào khu phi thuế quan phải tái nhập: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.1.5) Hàng hóa phải nhập khẩu trở lại do khách hàng nước ngoài từ chối nhận hàng hoặc không có người nhận hàng theo thông báo của hãng vận tải, phải có thêm thông báo của khách hàng nước ngoài hoặc văn bản thỏa thuận với khách hàng nước ngoài về việc nhận lại hàng hóa hoặc văn bản thông báo của hãng vận tải về việc không có người nhận hàng nêu rõ lý do, số lượng, chủng loại hàng hóa trả lại: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế.
+Trường hợp vì lý do bất khả kháng hoặc người nộp thuế tự phát hiện hàng hóa có sai sót phải nhập khẩu trở lại thì không phải có văn bản này nhưng phải nêu rõ lý do nhập khẩu hàng hóa trả lại trong công văn đề nghị không thu thuế;
+a.1.6) Hàng hóa xuất khẩu do tổ chức, cá nhân ở Việt Nam gửi cho tổ chức, cá nhân ở nước ngoài thông qua dịch vụ bưu chính và chuyển phát nhanh quốc tế nhưng không giao được cho người nhận hàng hóa phải tái nhập phải nộp thêm văn bản thông báo của doanh nghiệp bưu chính, dịch vụ chuyển phát nhanh quốc tế về việc không giao được cho người nhận: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2) Trường hợp không thu thuế xuất khẩu đối với hàng hóa nhập khẩu phải tái xuất quy định tại Điều 34 Nghị định số 134/2016/NĐ-CP, người nộp thuế gửi công văn đề nghị không thu thuế qua Hệ thống theo  [Mẫu số 6 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2006%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, hoặc bản giấy theo  [Mẫu số 14/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2014-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính; các chứng từ quy định tại Điều 34 Nghị định số 134/2016/NĐ-CP bao gồm:
+a.2.1) Hóa đơn của người xuất khẩu theo quy định của pháp luật về hóa đơn đối với trường hợp hàng hóa nhập khẩu sau đó xuất khẩu vào khu phi thuế quan: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.2) Hóa đơn thương mại theo hợp đồng xuất khẩu đối với trường hợp hàng hóa nhập khẩu sau đó xuất khẩu ra nước ngoài (trừ xuất khẩu vào khu phi thuế quan thực hiện theo quy định tại điểm a.2.1 khoản này): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.3) Hóa đơn thương mại theo hợp đồng nhập khẩu đối với trường hợp hàng hóa nhập khẩu phải tái xuất trả lại chủ hàng nước ngoài: 01 bản chụp có đóng dấu sao y bản chính của cơ quan đề nghị không thu thuế; kèm văn bản thỏa thuận trả lại hàng hóa cho phía nước ngoài: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.4) Hợp đồng xuất khẩu đối với trường hợp hàng hóa nhập khẩu được bán ra nước ngoài hoặc bán vào khu phi thuế quan; hợp đồng ủy thác xuất khẩu nếu là hình thức xuất khẩu ủy thác: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.5) Hợp đồng nhập khẩu đối với trường hợp nhập khẩu hàng hóa; hợp đồng ủy thác nhập khẩu nếu là hình thức nhập khẩu ủy thác;
+chứng từ thanh toán hàng hóa nhập khẩu đối với trường hợp đã thanh toán: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.6) Văn bản thông báo của doanh nghiệp bưu chính, dịch vụ chuyển phát nhanh quốc tế về việc không giao được cho người nhận:
+01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị không thu thuế;
+a.2.7) Văn bản xác nhận của doanh nghiệp cung ứng tàu biển về số lượng, trị giá hàng hóa mua của doanh nghiệp đầu mối nhập khẩu đã thực cung ứng cho tàu biển nước ngoài kèm bảng kê chứng từ thanh toán của các hãng tàu biển nước ngoài: 01 bản chính;
+b) Giải trình, bổ sung thông tin đúng hạn cho cơ quan hải quan nơi phát sinh số tiền thuế đề nghị không thu thuế.
+c) Chấp hành các quyết định xử lý về thuế của cơ quan hải quan theo quy định của pháp luật về quản lý thuế.
+2. Trách nhiệm của cơ quan hải quan
+a) Cơ quan hải quan nơi phát sinh số tiền thuế đề nghị không thu thuế thực hiện tiếp nhận và xử lý hồ sơ thông qua Hệ thống. Trường hợp tiếp nhận hồ sơ bản giấy, cơ quan hải quan đóng dấu tiếp nhận, vào sổ theo dõi.
+b) Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị không thu thuế, cơ quan hải quan thông báo cho người nộp thuế về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ đề nghị không thu thuế thông qua Hệ thống theo  [Mẫu số 3 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2003%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp bản giấy thì thông báo theo  [Mẫu số 04/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+Trường hợp cần giải trình, bổ sung, cơ quan hải quan thông báo cho người nộp thuế thông qua Hệ thống theo  [Mẫu số 4 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2004%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp bản giấy thì thông báo theo  [Mẫu số 05/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2005-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này.
+c) Trình tự, thủ tục không thu thuế:
+c.1) Trường hợp tờ khai hàng hóa xuất khẩu, nhập khẩu lần đầu của lô hàng tái nhập, tái xuất không phát sinh số tiền thuế đề nghị hoàn và người nộp thuế nộp hồ sơ không thu thuế tại thời điểm làm thủ tục hải quan:
+Cơ quan hải quan nơi phát sinh số tiền thuế người nộp thuế đề nghị không thu thuế thực hiện kiểm tra hồ sơ, kiểm tra thực tế hàng hóa (trừ doanh nghiệp ưu tiên) nếu có đủ cơ sở xác định hàng hóa tái nhập là hàng hóa đã xuất khẩu trước đây, hàng hóa tái xuất là hàng hóa đã nhập khẩu trước đây thì ban hành Quyết định không thu thuế nhập khẩu đối với hàng hóa tái nhập, không thu thuế xuất khẩu đối với hàng hóa tái xuất trong thời hạn làm thủ tục hải quan. Thời hạn làm thủ tục hải quan thực hiện theo quy định tại Điều 23 Luật Hải quan.
+c.2) Trường hợp tờ khai hàng hóa xuất khẩu, nhập khẩu lần đầu của lô hàng tái nhập, tái xuất có phát sinh số tiền thuế đề nghị hoàn:
+c.2.1) Trường hợp hàng hóa tái nhập, tái xuất không cùng cửa khẩu với hàng hóa khi xuất khẩu, nhập khẩu lần đầu:
+Cơ quan hải quan nơi đăng ký tờ khai hải quan hàng hóa tái nhập, tái xuất ban hành Quyết định không thu thuế lô hàng tái nhập hoặc tái xuất sau khi cơ quan hải quan nơi phát sinh số tiền thuế xuất khẩu, nhập khẩu người nộp thuế đề nghị hoàn đã xác định đủ điều kiện hoàn thuế đối với hàng hóa xuất khẩu hoặc nhập khẩu lần đầu. Số tiền thuế đã nộp của hàng hóa tái nhập hoặc tái xuất được xử lý tiền thuế nộp thừa theo quy định tại Điều 10 Thông tư này.
+c.2.2) Trường hợp hàng hóa tái nhập, tái xuất cùng cửa khẩu với hàng hóa khi xuất khẩu, nhập khẩu lần đầu:
+Cơ quan hải quan nơi hàng hóa tái nhập, tái xuất tiếp nhận, làm thủ tục không thu thuế hàng hóa tái nhập, tái xuất sau khi hoàn thành thủ tục hoàn thuế hàng hóa xuất khẩu, nhập khẩu lần đầu.
+c.3) Trường hợp tờ khai hàng hóa xuất khẩu, nhập khẩu lần đầu không phát sinh số tiền thuế đề nghị hoàn nhưng người nộp thuế đã nộp thuế đối với tờ khai tái nhập, tái xuất và nộp hồ sơ đề nghị không thu thuế sau khi hàng hóa tái nhập, tái xuất đã được thông quan:
+c.3.1) Người nộp thuế nộp hồ sơ đề nghị không thu thuế theo quy định tại điểm a khoản 1 Điều này.
+c.3.2) Cơ quan hải quan tiếp nhận, xử lý hồ sơ không thu thuế hàng hóa tái nhập, tái xuất theo quy định tại điểm a, điểm b khoản 2 Điều này.
+c.3.3) Số tiền thuế đã nộp của hàng hóa tái nhập hoặc tái xuất được xử lý tiền thuế nộp thừa theo quy định tại Điều 10 Thông tư này.
+d) Thẩm quyền ban hành Quyết định không thu thuế Chi cục trưởng Chi cục Hải quan nơi đăng ký tờ khai hải quan hàng hóa xuất khẩu, nhập khẩu phát sinh số tiền thuế người nộp thuế đề nghị không thu thuế, có thẩm quyền ban hành quyết định không thu thuế.
+
+Thông tư 06/2021/TT-BTC. Điều 14. Hướng dẫn khoản 4 Điều 80 Luật Quản lý thuế quy định về hồ sơ miễn thuế xuất khẩu, nhập khẩu
+1. Hồ sơ miễn thuế (trừ hàng hóa nhập khẩu miễn thuế phục vụ trực tiếp cho an ninh, quốc phòng)
+a) Hồ sơ miễn thuế đối với hàng hóa xuất khẩu, nhập khẩu trong thông quan là hồ sơ hải quan theo quy định của pháp luật về hải quan.
+b) Ngoài hồ sơ quy định tại điểm a khoản này, hồ sơ miễn thuế được thực hiện theo quy định từ Điều 5 đến Điều 19,
+Điều 21 đến Điều 29, Điều 31 Nghị định số 134/2016/NĐ-CP.
+c) Hồ sơ miễn thuế quy định tại điểm a, điểm b khoản này, một số trường hợp được quy định cụ thể như sau:
+c.1) Đối với hàng hóa xuất khẩu, nhập khẩu được miễn thuế xuất khẩu, thuế nhập khẩu theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên quy định tại khoản 1 Điều 29 Nghị định số 134/2016/NĐ-CP:
+c.1.1) Điều ước quốc tế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế;
+c.1.2) Danh mục chủng loại, định lượng hàng hóa được miễn thuế đã được Thủ tướng Chính phủ phê duyệt đối với trường hợp điều ước quốc tế không quy định cụ thể định lượng, chủng loại miễn thuế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế;
+c.1.3) Hợp đồng ủy thác, hợp đồng cung cấp hàng hóa theo văn bản trúng thầu hoặc văn bản chỉ định thầu ghi rõ giá cung cấp hàng hóa không bao gồm thuế nhập khẩu đối với trường hợp nhập khẩu ủy thác, đấu thầu: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế;
+c.2) Đối với hàng hóa xuất khẩu được sản xuất từ hoạt động tái chế, xử lý chất thải được miễn thuế theo quy định tại điểm b khoản 19 Điều 16 Luật Thuế xuất khẩu, thuế nhập khẩu, khoản 3 Điều 25 Nghị định số 134/2016/NĐ-CP, khoản 23 Điều 1 Nghị định số 40/2019/NĐ-CP ngày 13/5/2019 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết, hướng dẫn thi hành Luật Bảo vệ môi trường:
+c.2.1) Giấy chứng nhận đăng ký đầu tư của cơ sở xử lý chất thải, trong đó nêu rõ hàng hóa được sản xuất từ hoạt động tái chế, xử lý chất thải: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế;
+c.2.2) Giấy phép xử lý chất thải nguy hại của Bộ Tài nguyên và Môi trường: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế.
+c.3) Đối với hàng hóa là nguyên liệu, vật tư nhập khẩu được miễn thuế theo quy định tại điểm a khoản 11, điểm b khoản 15, điểm a khoản 16 Điều 16 Luật Thuế xuất khẩu, thuế nhập khẩu:
+Hợp đồng chế tạo máy móc, thiết bị hoặc chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng của máy móc, thiết bị: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế.
+c.4) Đối với hàng hóa mua bán, trao đổi của cư dân biên giới được miễn thuế theo quy định tại [Điểm này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026] khoản 1 Điều 9 Nghị định số 134/2016/NĐ-CP: Người khai hải quan xuất trình bản chính Giấy chứng minh thư biên giới hoặc Giấy thông hành biên giới hoặc thẻ căn cước công dân hoặc giấy tờ có giá trị xuất nhập cảnh khác được cấp theo quy định của pháp luật. [Điểm này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026]
+2. Hồ sơ miễn thuế đối với hàng hóa nhập khẩu miễn thuế phục vụ trực tiếp cho an ninh, quốc phòng được thực hiện như sau: [Khoản này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026]
+a) Hồ sơ miễn thuế đối với trường hợp đề nghị miễn thuế trước khi làm thủ tục hải quan:
+a.1) Hồ sơ đề nghị miễn thuế thực hiện theo quy định tại khoản 3 Điều 20 Nghị định số 134/2016/NĐ-CP. Ngoài ra, người nộp thuế nộp bổ sung Giấy phép nhập khẩu của Bộ Công an, Bộ Quốc Phòng theo quy định tại khoản 3 Điều 8 Nghị định số 69/2018/NĐ-CP ngày 15/5/2018 của Chính phủ quy định chi tiết một số điều của Luật Quản lý ngoại thương: 01 bản chính.
+a.2) Hồ sơ miễn thuế trong thông quan:
+Hồ sơ miễn thuế ngoài các chứng từ quy định tại điểm a khoản 1 Điều này, người nộp thuế nộp Thông báo miễn thuế của Tổng cục Hải quan: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị miễn thuế (xuất trình bản chính để đối chiếu); Phiếu theo dõi trừ lùi để cơ quan hải quan thực hiện trừ lùi: 01 bản chính.
+Trường hợp Thông báo miễn thuế của Tổng cục Hải quan được thực hiện trên Hệ thống, người nộp thuế không phải nộp Thông báo miễn thuế, cơ quan hải quan sử dụng Thông báo miễn thuế trên Hệ thống để thực hiện miễn thuế theo quy định.
+b) Hồ sơ miễn thuế đối với trường hợp đề nghị miễn thuế sau khi làm thủ tục hải quan:
+Hồ sơ miễn thuế thực hiện theo quy định tại khoản 3 Điều 20 Nghị định số 134/2016/NĐ-CP và các chứng từ thuộc hồ sơ hải quan theo quy định của pháp luật về hải quan.
+3. Các trường hợp người nộp thuế tự xác định số tiền thuế được miễn và các trường hợp cơ quan quản lý thuế xác định số tiền thuế được miễn
+a) Người nộp thuế tự xác định số tiền thuế được miễn, trừ các trường hợp quy định tại điểm b khoản này.
+Cơ quan hải quan căn cứ tờ khai hàng hóa xuất khẩu, nhập khẩu và các chứng từ kèm theo để xử lý miễn thuế ngay trong thông quan theo nội dung khai báo của người nộp thuế.
+b) Các trường hợp cơ quan hải quan xác định số tiền thuế được miễn:
+b.1) Tài sản di chuyển vượt định mức miễn thuế do Bộ trưởng Bộ Tài chính quyết định theo quy định tại khoản 2 Điều 7 Nghị định số 134/2016/NĐ-CP;
+b.2) Quà biếu, quà tặng vượt định mức miễn thuế theo quy định tại khoản 2 Điều 8 Nghị định số 134/2016/NĐ-CP;
+b.3) Hàng hóa nhập khẩu phục vụ trực tiếp cho an ninh, quốc phòng đề nghị miễn thuế sau khi làm thủ tục hải quan theo quy định tại điểm b khoản 4 Điều 20 Nghị định số 134/2016/NĐ-CP;
+b.4) Hàng hóa trong các trường hợp đặc biệt khác được miễn thuế theo thẩm quyền của Thủ tướng Chính phủ theo quy định tại khoản 1 Điều 28 Nghị định số 134/2016/NĐ-CP.
+Cơ quan hải quan nơi làm thủ tục hải quan cho hàng hóa xuất khẩu, nhập khẩu căn cứ Quyết định miễn thuế hoặc văn bản chấp thuận miễn thuế của cấp có thẩm quyền và các chứng từ kèm theo để xử lý miễn thuế.
+
+Thông tư 06/2021/TT-BTC. Điều 15. Hướng dẫn khoản 4 Điều 80 Luật Quản lý thuế quy định về hồ sơ giảm thuế
+1. Hồ sơ giảm thuế Hồ sơ giảm thuế đối với hàng hóa hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng giảm thuế quy định tại Điều 18 Luật Thuế xuất khẩu, thuế nhập khẩu, bao gồm:
+a) Công văn đề nghị giảm thuế nêu rõ loại thuế đề nghị giảm, lý do giảm thuế, số tiền thuế đề nghị giảm theo quy định tại điểm a khoản 2 Điều 80 Luật Quản lý thuế gửi qua Hệ thống theo [Mẫu số 7 Phụ lục II](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2007%20Ph%E1%BB%A5%20l%E1%BB%A5c%202.doc) ban hành kèm theo Thông tư này, trường hợp hồ sơ giấy thực hiện theo  [Mẫu số 15/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2015-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính.
+b) Hợp đồng bảo hiểm, thông báo trả tiền bồi thường của tổ chức nhận bảo hiểm (nếu có), trường hợp hợp đồng bảo hiểm không bao gồm nội dung bồi thường về thuế phải có xác nhận của tổ chức bảo hiểm; hợp đồng hoặc biên bản thỏa thuận đền bù của hãng vận tải đối với trường hợp tổn thất do hãng vận tải gây ra (nếu có): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị giảm thuế.
+c) Văn bản, biên bản xác nhận nguyên nhân thiệt hại của cơ quan chức năng tại địa bàn nơi phát sinh thiệt hại:
+c.1) Văn bản xác nhận của một trong các cơ quan, tổ chức sau: Cơ quan Công an xã, phường, thị trấn; Ủy ban nhân dân xã, phường, thị trấn; Ban quản lý Khu công nghiệp, Khu chế xuất, Khu kinh tế, Ban quản lý cửa khẩu, Cảng vụ hàng không, Cảng vụ hàng hải nơi xảy ra sự kiện bất khả kháng về việc thiên tai, thảm họa, dịch bệnh, tai nạn bất ngờ gây thiệt hại cho nguyên liệu, máy móc, thiết bị nhập khẩu: 01 bản chính.
+c.2) Biên bản xác nhận vụ cháy của cơ quan cảnh sát phòng cháy chữa cháy của địa phương nơi xảy ra vụ cháy: 01 bản chính.
+d) Giấy chứng nhận giám định của thương nhân kinh doanh dịch vụ giám định về số lượng hàng hóa bị mất mát hoặc tỷ lệ tổn thất thực tế của hàng hóa: 01 bản chính.
+2. Cơ quan hải quan căn cứ hồ sơ giảm thuế quy định tại khoản 1 Điều này và các quy định có liên quan để ban hành Quyết định giảm thuế.
+
+Thông tư 06/2021/TT-BTC. Điều 16. Hướng dẫn khoản 3 Điều 86 Luật Quản lý thuế quy định về hồ sơ xóa nợ tiền thuế, tiền chậm nộp, tiền phạt Hồ sơ xóa nợ tiền thuế, tiền chậm nộp, tiền phạt bao gồm:
+1. Công văn đề nghị xóa nợ tiền thuế, tiền chậm nộp, tiền phạt:
+a) Công văn đề nghị xóa nợ tiền thuế, tiền chậm nộp, tiền phạt của Cục Hải quan nơi người nộp thuế còn nợ tiền thuế, tiền chậm nộp, tiền phạt (đối với trường hợp thẩm quyền xóa nợ của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính, Thủ tướng Chính phủ) theo  [Mẫu số 16/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2016-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính;
+b) Công văn đề nghị xóa nợ tiền thuế, tiền chậm nộp, tiền phạt của Cục Hải quan hoặc Chi cục Hải quan (tại địa bàn tỉnh mà Cục Hải quan không đóng trụ sở chính) nơi người nộp thuế còn nợ tiền thuế, tiền chậm nộp, tiền phạt (đối với trường hợp thẩm quyền xóa nợ của Chủ tịch Ủy ban nhân dân cấp tỉnh) theo  [Mẫu số 16/TXNK Phụ lục I](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2016-TXNK%20Ph%E1%BB%A5%20l%E1%BB%A5c%201.doc) ban hành kèm theo Thông tư này: 01 bản chính.
+2. Tương ứng với các trường hợp được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt quy định tại Điều 85 Luật Quản lý thuế, hồ sơ xóa nợ gồm các chứng từ sau:
+a) Quyết định của cơ quan nhà nước có thẩm quyền về tuyên bố phá sản doanh nghiệp đối với trường hợp quy định tại khoản 1 Điều 85 Luật Quản lý thuế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị xóa nợ thuế;
+b) Giấy chứng tử, giấy báo tử hoặc Quyết định tuyên bố mất tích của Tòa án; Quyết định tuyên bố mất năng lực hành vi dân sự của Tòa án hoặc các văn bản của cơ quan nhà nước có thẩm quyền chứng minh một người là đã chết, mất tích, mất năng lực hành vi dân sự đối với trường hợp quy định tại khoản 2 Điều 85 Luật Quản lý thuế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị xóa nợ thuế;
+c) Thông báo của cơ quan có thẩm quyền về việc thu hồi Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hộ kinh doanh, Giấy chứng nhận đăng ký đầu tư, Giấy phép thành lập và hoạt động, Giấy phép hành nghề đối với trường hợp quy định tại khoản 3 Điều 85 Luật Quản lý thuế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị xóa nợ thuế;
+d) Các Quyết định cưỡng chế hoặc hồ sơ thực hiện biện pháp cưỡng chế thi hành Quyết định hành chính về quản lý thuế đối với người nộp thuế là doanh nghiệp, tổ chức (nếu có): 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị xóa nợ thuế;
+đ) Văn bản của cơ quan nhà nước có thẩm quyền xác nhận cho các trường hợp bị ảnh hưởng do thiên tai, thảm họa, dịch bệnh quy định tại khoản 4 Điều 85 Luật Quản lý thuế: 01 bản chụp có đóng dấu xác nhận của cơ quan đề nghị xóa nợ thuế.
+
+Thông tư 06/2021/TT-BTC. Điều 17. Hướng dẫn khoản 2 Điều 107 Luật Quản lý thuế quy định về mẫu biểu thanh tra, kiểm tra thuế, trình tự, thủ tục, hồ sơ kiểm tra thuế
+1. Mẫu biểu thanh tra thuế thực hiện theo hướng dẫn tại Thông tư số 05/2014/TT-TTCP ngày 16/10/2014 của Thanh tra Chính phủ quy định về tổ chức, hoạt động, quan hệ công tác của Đoàn thanh tra và trình tự, thủ tục tiến hành một cuộc thanh tra, Thông tư số 08/2015/TT-TTCP ngày 15/12/2015 của Thanh tra Chính phủ quy định về Sổ nhật ký đoàn thanh tra, Thông tư số 03/2013/TT-TTCP ngày 10/6/2013 của Thanh tra Chính phủ quy định chế độ báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.
+2. Mẫu biểu kiểm tra thuế, hồ sơ, trình tự, thủ tục kiểm tra thuế thực hiện như sau:
+a) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế trong thông quan đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế:
+a.1) Mẫu biểu, hồ sơ kiểm tra thuế trong thông quan là mẫu biểu, hồ sơ hải quan theo quy định của pháp luật về hải quan.
+a.2) Thủ tục kiểm tra thuế trong thông quan đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế.
+a.2.1) Trách nhiệm của người nộp thuế:
+Người nộp thuế tự kê khai, tự tính thuế, tự chịu trách nhiệm trước pháp luật về số tiền thuế phải nộp theo quy định tại khoản 1, khoản 2 Điều 42 Luật Quản lý thuế.
+a.2.2) Trách nhiệm của cơ quan hải quan:
+Cơ quan hải quan thực hiện kiểm tra; Hồ sơ hải quan, chính sách thuế, tên hàng, mã số, số lượng, trọng lượng, khối lượng, chủng loại, chất lượng, xuất xứ, trị giá hải quan của hàng hóa; kiểm tra việc áp dụng văn bản thông báo kết quả xác định trước, kiểm tra giấy phép xuất khẩu, nhập khẩu, kết quả kiểm tra chuyên ngành (nếu có); kiểm tra thực tế hàng hóa theo quy định của pháp luật về hải quan. Quy định này không áp dụng đối với các trường hợp hàng hóa xuất khẩu, nhập khẩu được miễn kiểm tra hồ sơ hải quan, miễn kiểm tra thực tế hàng hóa theo quy định của pháp luật về hải quan.
+b) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu không thuộc đối tượng chịu thuế:
+b.1) Mẫu biểu, hồ sơ kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu không thuộc đối tượng chịu thuế thực hiện theo quy định tại Thông tư số 38/2015/TT-BTC, Thông tư số 39/2018/TT-BTC.
+b.2) Thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu không thuộc đối tượng chịu thuế:
+b.2.1) Trách nhiệm của người nộp thuế:
+Người nộp thuế tự kê khai, tự xác định hàng hóa không thuộc đối tượng chịu thuế, tự chịu trách nhiệm trước pháp luật về nội dung kê khai theo quy định tại khoản 1, khoản 2 Điều 42 Luật Quản lý thuế.
+b.2.2) Trách nhiệm của cơ quan hải quan:
+Cơ quan hải quan thực hiện kiểm tra: Hồ sơ hải quan, chính sách thuế, giấy phép xuất khẩu, nhập khẩu (nếu có), kết quả kiểm tra chuyên ngành (nếu có), kiểm tra thực tế hàng hóa theo quy định của pháp luật về hải quan.
+c) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng miễn thuế:
+c.1) Mẫu biểu, hồ sơ kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng miễn thuế thực hiện theo quy định tại Điều 14 Thông tư này.
+c.2) Thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng miễn thuế thực hiện theo quy định tại khoản 3 Điều 31 Nghị định số 134/2016/NĐ-CP.
+d) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng giảm thuế:
+d.1) Mẫu biểu, hồ sơ kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng giảm thuế thực hiện theo quy định tại khoản 1 Điều 15 Thông tư này.
+d.2) Thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng giảm thuế thực hiện theo quy định tại khoản 3 Điều 32 Nghị định số 134/2016/NĐ-CP.
+đ) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng hoàn thuế, không thu thuế:
+đ.1) Mẫu biểu, hồ sơ kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng hoàn thuế thực hiện theo quy định tại điểm a khoản 1 Điều 12 Thông tư này, hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không thu thuế thực hiện theo quy định tại điểm a khoản 1 Điều 13 Thông tư này.
+đ.2) Thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng hoàn thuế thực hiện theo quy định tại Điều 12 Thông tư này, hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không thu thuế thực hiện theo quy định tại Điều 13 Thông tư này.
+e) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với trường hợp xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa:
+e.1) Mẫu biểu, hồ sơ kiểm tra thuế đối với trường hợp xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa thực hiện theo quy định tại khoản 2 Điều 131 quy định tại khoản 64 Điều 1 Thông tư số 39/2018/TT-BTC.
+e.2) Thủ tục kiểm tra thuế đối với trường hợp xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa thực hiện theo quy định tại khoản 2, khoản 3, khoản 4 Điều 131 quy định tại khoản 64 Điều 1 Thông tư số 39/2018/TT-BTC.
+g) Mẫu biểu, hồ sơ, thủ tục kiểm tra thuế đối với hàng hóa xuất khẩu, nhập khẩu trong hoạt động kiểm tra sau thông quan thực hiện theo quy định tại khoản 73, khoản 74 Điều 1 Thông tư số 39/2018/TT-BTC.
+
+Thông tư 06/2021/TT-BTC. Điều 18. Hướng dẫn khoản 5 Điều 124 Luật Quản lý thuế quy định về nộp dần tiền thuế nợ Số lần nộp dần tiền thuế nợ, hồ sơ, thủ tục nộp dần tiền thuế nợ được thực hiện theo quy định tại khoản 67 Điều 1 Thông tư số 39/2018/TT-BTC.
+
+Thông tư 06/2021/TT-BTC. Điều 19. Hướng dẫn khoản 1 Điều 39 Nghị định số 126/2020/NĐ-CP quy định về ủy nhiệm thu phí hải quan, lệ phí hàng hóa phương tiện quá cảnh Ủy nhiệm thu phí hải quan, lệ phí hàng hóa phương tiện quá cảnh thực hiện theo quy định tại Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan, lệ phí hàng hóa phương tiện quá cảnh.
+
+Thông tư 06/2021/TT-BTC. Chương III ĐIỀU KHOẢN THI HÀNH
+Điều 20. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 08 tháng 03 năm 2021.
+2. Kể từ ngày Thông tư này có hiệu lực, các quy định dưới đây hết hiệu lực thi hành:
+a) Khoản 2, khoản 3, khoản 4, khoản 7, khoản 9 Điều 129 được quy định tại khoản 63 Điều 1 Thông tư 39/2018/TT-BTC;
+b) Khoản 1 Điều 131 được quy định tại khoản 64 Điều 1 Thông tư 39/2018/TT-BTC;
+c) Điều 133 được quy định tại khoản 66 Điều 1 Thông tư 39/2018/TT-BTC;
+d) Khoản 2 Điều 135 được quy định tại khoản 68 Điều 1 Thông tư 39/2018/TT-BTC;
+đ) Khoản 3 Điều 136 được quy định tại khoản 69 Điều 1 Thông tư 39/2018/TT-BTC;
+e) Các mẫu số 05/CVĐNKTT/TXNK, mẫu số 10/QĐKTT/TXNK,  [mẫu số 11/TBBSHS/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2011-TBBSHS-TXNK%20PL3.doc),  [mẫu số 12/TBKTT/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2012-TBKTT-TXNK%20Pl3.doc),  [mẫu số 18/BBLV/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2018-BBLV-TXNK%20PL3.doc), mẫu số 22/QĐKT/TXNK,  [mẫu số 23/BBCB/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2023-BBCB-TXNK%20PL3.doc),  [mẫu số 24/BBKT/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2024-BBKT-TXNK%20PL3.doc), mẫu số 25/QĐGH/TXNK,  [mẫu số 26/KLKT/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2026-KLKT-TXNK%20PL3.doc),  [mẫu số 29/TBTCNCT/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2029-TBTCNCT-TXNK%20PL3.doc),  [mẫu số 32/CVGHNT/TXNK](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2032-CVGHNT-TXNK%20PL3.doc),  [mẫu số 33/CVXN/TXNK Phụ lục III](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2033-CVXN-TXNK%20PL3.doc);  [mẫu số 1](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2001%20PL4.doc),  [mẫu số 2 Phụ lục IV](https://files.thuvienphapluat.vn/uploads/DocForms/4/6/4/1/464109//M%E1%BA%ABu%20s%E1%BB%91%2002%20PL4.doc) ban hành kèm theo Thông tư số 39/2018/TT-BTC.
+3. Trường hợp các văn bản quy phạm pháp luật mới ban hành sửa đổi, bổ sung, thay thế các văn bản được dẫn chiếu tại Thông tư này thì thực hiện theo văn bản mới được được ban hành.
+
+Thông tư 06/2021/TT-BTC. Điều 21. Trách nhiệm thi hành
+1. Cơ quan hải quan có trách nhiệm phổ biến, hướng dẫn các tổ chức, cá nhân, người nộp thuế thực hiện theo nội dung Thông tư này.
+2. Tổ chức, cá nhân, người nộp thuế thuộc đối tượng điều chỉnh của Thông tư này thực hiện đầy đủ các hướng dẫn tại Thông tư này.
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để được giải quyết kịp thời./.
+Nơi nhận:
+- Thủ tướng Chính phủ, các Phó TTCP;
+- Văn phòng TW Đảng và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Viện Kiểm sát nhân dân tối cao;
+- Tòa án nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND tỉnh, thành phố trực thuộc TW;
+- Phòng Thương mại và Công nghiệp Việt Nam;
+- Cục Kiểm tra văn bản (Bộ Tư pháp);
+- Các Cục Hải quan tỉnh, thành phố;
+- Công báo;
+- Website Chính phủ;
+- Website Bộ Tài chính;
+- Website Tổng cục Hải quan;
+- Lưu: VT, TCHQ (70).
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+Thông tư 06/2021/TT-BTC. PHỤ LỤC I [Mẫu số 03/NVTHQ và mẫu số 14/NVTHQ tại Phụ lục này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026] BIỂU MẪU VỀ QUẢN LÝ THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU [Mẫu số 03/NVTHQ và mẫu số 14/NVTHQ tại Phụ lục này bị bãi bỏ bởi Điểm b Khoản 2 Điều 2 Thông tư 121/2025/TT-BTC có hiệu lực từ ngày 01/02/2026] (Ban hành kèm theo Thông tư số 06/2021/TT-BTC ngày 22 tháng 01 năm 2021 của Bộ trưởng Bộ Tài chính) 
+| STT | Tên Biểu mẫu | Số hiệu |
+| --- | --- | --- |
+| 1 | Thông báo tiền thuế, tiền chậm nộp, tiền phạt còn thiếu | 01/TXNK |
+| 2 | Công văn đề nghị gia hạn nộp tiền thuế, tiền chậm nộp, tiền phạt | 02/TXNK |
+| 3 | Công văn đề nghị hoàn thuế | 03/TXNK |
+| 4 | Thông báo tiếp nhận/không tiếp nhận hồ sơ/thu hồi số tiền thuế đã hoàn | 04/TXNK |
+| 5 | Thông báo bổ sung/chuyển loại hồ sơ | 05/TXNK |
+| 6 | Thông báo về việc không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa/... | 06/TXNK |
+| 7 | Quyết định kiểm tra tại trụ sở người nộp thuế | 07/TXNK |
+| 8 | Biên bản công bố Quyết định kiểm tra | 08/TXNK |
+| 9 | Quyết định gia hạn thời hạn kiểm tra tại trụ sở người nộp thuế | 09/TXNK |
+| 10 | Biên bản kiểm tra tại trụ sở người nộp thuế | 10/TXNK |
+| 11 | Kết luận kiểm tra tại trụ sở người nộp thuế | 11/TXNK |
+| 12 | Biên bản làm việc về việc giải trình, bổ sung thông tin, tài liệu | 12/TXNK |
+| 13 | Quyết định hoàn thuế/không thu thuế đối với hàng hóa xuất khẩu, nhập khẩu | 13/TXNK |
+| 14 | Công văn đề nghị không thu thuế | 14/TXNK |
+| 15 | Công văn đề nghị giảm thuế xuất khẩu, nhập khẩu | 15/TXNK |
+| 16 | Công văn đề nghị xóa nợ tiền thuế, tiền chậm nộp, tiền phạt | 16/TXNK | 
+
+Thông tư 06/2021/TT-BTC. PHỤ LỤC II CHỈ TIÊU THÔNG TIN VỀ QUẢN LÝ THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU (Ban hành kèm theo Thông tư số 06/2021/TT-BTC ngày 22 tháng 01 năm 2021 của Bộ trưởng Bộ Tài chính)
+I. Danh sách các mẫu biểu khai báo 
+| Mẫu số | Tên biểu mẫu |
+| --- | --- |
+| 1 | Thông báo tiền thuế, tiền chậm nộp, tiền phạt còn thiếu |
+| 2 | Công văn đề nghị hoàn thuế |
+| 3 | Thông báo tiếp nhận/không tiếp nhận hồ sơ/thu hồi số tiền thuế đã hoàn |
+| 4 | Thông báo bổ sung/chuyển loại hồ sơ |
+| 5 | Thông báo về việc không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa/... |
+| 6 | Công văn đề nghị không thu thuế |
+| 7 | Công văn đề nghị giảm thuế xuất khẩu, nhập khẩu |
+II. Chỉ tiêu thông tin khai báo 
+| STT | Chỉ tiêu thông tin | Mô tả | Bảng mã |
+| --- | --- | --- | --- |
+| 1 [ID: dieu_1_1] | Mẫu số 1 [ID: dieu_1_1_name] | Thông báo tiền thuế, tiền chậm nộp, tiền phạt còn thiếu [ID: dieu_1_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 1.1 | Số thông báo | Hệ thống tự động cấp số thông báo |  |
+| 1.2 | Ngày thông báo | Hệ thống tự động cập nhật ngày phát hành thông báo |  |
+| B | Thông tin về tổ chức/cá nhân nhận thông báo |  |  |
+|  | Thông tin về người nộp thuế |  |  |
+| 1.3 | Tên người nộp thuế | Nhập tên người nộp thuế |  |
+| 1.4 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 1.5 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 1.6 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 1.7 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 1.8 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 1.9 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 1.10 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 1.11 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 1.12 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin về cơ quan được ủy nhiệm thu, tổ chức tín dụng |  |  |
+| 1.13 | Tên cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập tên cơ quan được ủy nhiệm thu, tổ chức tín dụng trong trường hợp được bảo lãnh |  |
+| 1.14 | Mã số thuế của cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập mã số thuế của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh |  |
+| 1.15 | Địa chỉ của cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập địa chỉ của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh |  |
+| 1.16 | Điện thoại của cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập số điện thoại của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh |  |
+| 1.17 | Fax của cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập số fax của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh (nếu có) |  |
+| 1.18 | Email của cơ quan được ủy nhiệm thu, tổ chức tín dụng | Nhập địa chỉ thư điện tử của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh (nếu có) |  |
+| 1.19 | Số thư bảo lãnh của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh | Nhập số thư bảo lãnh của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh |  |
+| 1.20 | Ngày của thư bảo lãnh của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh | Nhập ngày của thư bảo lãnh của cơ quan được ủy nhiệm thu, tổ chức tín dụng nhận bảo lãnh |  |
+| C | Nội dung thông báo |  |  |
+| 1.21 | Số tờ khai hải quan | Nhập số tờ khai nộp thiếu tiền thuế, tiền chậm nộp, tiền phạt |  |
+| 1.22 | Ngày tờ khai | Nhập ngày tờ khai |  |
+| 1.23 | Nơi đăng ký tờ khai | Nhập tên, mã số Chi cục Hải quan nơi đăng ký tờ khai |  |
+| 1.24 | Số Quyết định | Nhập số Quyết định |  |
+| 1.25 | Ngày Quyết định | Nhập ngày Quyết định |  |
+| 1.26 | Cơ quan ban hành Quyết định | Nhập tên cơ quan hải quan đã ban hành Quyết định |  |
+|  | Nội dung thông báo về số tiền thuế còn thiếu |  |  |
+| 1.27 | Số tiền thuế phải nộp/bảo lãnh | Nhập số tiền thuế phải nộp/bảo lãnh |  |
+| 1.28 | Số tiền thuế đã nộp | Nhập số tiền thuế đã nộp |  |
+| 1.29 | Số tiền thuế còn thiếu | Nhập số tiền thuế còn thiếu chi tiết theo từng loại thuế: Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng |  |
+|  | Nội dung thông báo về số tiền chậm nộp, tiền phạt còn thiếu |  |  |
+| 1.30 | Tổng số tiền thuế chậm nộp/bị phạt | Nhập tổng số tiền thuế chậm nộp/bị phạt |  |
+| 1.31 | Số ngày chậm nộp/bị phạt | Nhập số ngày chậm nộp/bị phạt |  |
+| 1.32 | Mức tính tiền chậm nộp/bị phạt | Nhập mức tính tiền chậm nộp/bị phạt |  |
+| 1.33 | Tổng số tiền chậm nộp/tiền phạt phải nộp | Nhập tổng số tiền chậm nộp/tiền phạt phải nộp |  |
+| 1.34 | Số tiền chậm nộp/tiền phạt đã nộp | Nhập số tiền chậm nộp/tiền phạt đã nộp |  |
+| 1.35 | Số tiền chậm nộp/tiền phạt còn thiếu | Nhập số tiền chậm nộp/tiền phạt còn thiếu |  |
+| 2 [ID: dieu_2_1] | Mẫu số 2 [ID: dieu_2_1_name] | Công văn đề nghị hoàn thuế [ID: dieu_2_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 2.1 | Số công văn | Hệ thống tự động cấp số công văn |  |
+| 2.2 | Ngày | Hệ thống tự động cập nhật ngày phát hành công văn |  |
+| 2.3 | Nơi nhận | Nhập tên, mã cơ quan hải quan có thẩm quyền hoàn thuế |  |
+| B | Thông tin về tổ chức/cá nhân đề nghị hoàn thuế |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 2.4 | Tên người nộp thuế | Nhập tên người nộp thuế |  |
+| 2.5 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 2.6 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 2.7 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 2.8 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 2.9 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 2.10 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 2.11 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 2.12 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 2.13 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 2.14 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 2.15 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 2.16 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 2.17 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 2.18 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 2.19 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 2.20 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 2.21 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 2.22 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 2.23 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 2.24 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 2.25 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 2.26 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 2.27 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 2.28 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 2.29 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 2.30 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 2.31 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Thông tin số tiền thuế đề nghị hoàn |  |  |
+| 2.32 | Loại thuế | Lựa chọn loại thuế đề nghị hoàn (có thể lựa chọn nhiều lần): Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng |  |
+| 2.33 | Số tờ khai hải quan | Nhập số tờ khai hải quan |  |
+| 2.34 | Ngày tờ khai hải quan | Nhập ngày tờ khai hải quan |  |
+| 2.35 | Nơi đăng ký tờ khai | Nhập tên, mã số Chi cục Hải quan nơi đăng ký tờ khai |  |
+| 2.36 | Số tờ khai hải quan bổ sung | Nhập số tờ khai hải quan bổ sung |  |
+| 2.37 | Ngày tờ khai hải quan bổ sung | Nhập ngày tờ khai hải quan bổ sung |  |
+| 2.38 | Số Quyết định ấn định thuế | Nhập số Quyết định ấn định thuế |  |
+| 2.39 | Ngày Quyết định ấn định thuế | Nhập ngày ban hành Quyết định ấn định thuế |  |
+| 2.40 | Cơ quan ban hành Quyết định ấn định thuế | Nhập tên cơ quan hải quan đã ban hành Quyết định ấn định thuế |  |
+| 2.41 | Số tiền thuế đã nộp vào tài khoản | - Trường hợp số tiền thuế đã nộp vào tài khoản thu Ngân sách Nhà nước, đánh dấu “X” tại cột “Thu ngân sách nhà nước” - Trường hợp số tiền thuế đã nộp vào tài khoản tiền gửi, đánh dấu “X” tại cột “Tài khoản tiền gửi” |  |
+| 2.42 | Số tiền thuế đề nghị hoàn: | Nhập chi tiết số tiền thuế đề nghị hoàn theo từng hình thức hoàn trả |  |
+| 2.42.1. | Bù trừ số tiền thuế, thu khác còn nợ | Nhập số tiền đề nghị bù trừ số tiền thuế, thu khác còn nợ, sau đó nhập: - Số tờ khai có số tiền thuế, thu khác còn nợ đề nghị bù trừ - Ngày tờ khai số tiền thuế, thu khác còn nợ đề nghị bù trừ |  |
+| 2.42.2. | Bù trừ vào số tiền thuế phải nộp | Nhập số tiền đề nghị bù trừ vào số tiền thuế phải nộp, sau đó nhập: - Số tờ khai có số tiền thuế phải nộp đề nghị bù trừ - Ngày tờ khai có số tiền thuế phải nộp đề nghị bù trừ |  |
+| 2.42.3. | Hoàn trả trực tiếp | Nhập số tiền đề nghị hoàn trả trực tiếp, sau đó nhập: a) Trường hợp lựa chọn hoàn trả qua chuyển khoản, nhập số tài khoản thụ hưởng, tên ngân hàng thụ hưởng b) Trường hợp lựa chọn hoàn trả trực tiếp bằng tiền mặt, nhập tên Kho bạc Nhà nước nơi nhận tiền hoàn thuế |  |
+| 2.43 | Lý do đề nghị hoàn thuế | Nhập lý do đề nghị hoàn thuế và Điều, khoản văn bản quy phạm pháp luật áp dụng. |  |
+| D | Thông tin về hàng hóa đề nghị hoàn thuế |  |  |
+| 2.44 | Thực hiện thanh toán qua ngân hàng | - Trường hợp thực hiện thanh toán qua ngân hàng, đánh dấu “X” tại ô “Có” và nhập số chứng từ thanh toán - Trường hợp không thực hiện thanh toán qua ngân hàng, đánh dấu “X” tại ô “Không” |  |
+| 2.45 | Hàng hóa chưa qua sử dụng, gia công, chế biến | - Trường hợp hàng hóa chưa qua sử dụng, gia công, chế biến, đánh dấu “X” tại ô “Có” - Trường hợp hàng hóa đã qua sử dụng, gia công, chế biến, đánh dấu “X” tại ô “Không” |  |
+| 2.46 | Đối với máy móc, thiết bị, dụng cụ, phương tiện vận chuyển của các tổ chức, cá nhân được phép tạm nhập, tái xuất |  |  |
+| 2.46.1. | Thời gian sử dụng hoặc lưu tại Việt Nam | Nhập thời gian sử dụng hoặc lưu tại Việt Nam |  |
+| 2.46.2. | Tỷ lệ mức khấu hao, phân bổ trị giá hàng hóa | Nhập tỷ lệ mức khấu hao, phân bổ trị giá hàng hóa |  |
+| 2.46.3. | Thực hiện theo hình thức thuê | - Trường hợp thực hiện theo hình thức thuê, đánh dấu “X” tại ô “Có” - Trường hợp không thực hiện theo hình thức thuê, đánh dấu “X” tại ô “Không” |  |
+| 2.46.4. | Giá tính thuế nhập khẩu tính trên giá đi thuê, đi mượn | - Trường hợp giá tính thuế nhập khẩu tính trên giá đi thuê, đi mượn, đánh dấu “X” tại ô “Có” - Trường hợp giá tính thuế nhập khẩu không tính trên giá đi thuê, đi mượn, đánh dấu “X” tại 0 “Không” |  |
+| 3 [ID: dieu_3_1] | Mẫu số 3 [ID: dieu_3_1_name] | Thông báo tiếp nhận/không tiếp nhận hồ sơ/thu hồi số tiền thuế đã hoàn [ID: dieu_3_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 3.1 | Số thông báo | Hệ thống tự động cấp số thông báo |  |
+| 3.2 | Ngày thông báo | Hệ thống tự động cập nhật ngày phát hành thông báo |  |
+| B | Thông tin về tổ chức/cá nhân nhận thông báo |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 3.3 | Tên người nộp thuế | Nhập tên người nộp thuế nhận thông báo |  |
+| 3.4 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 3.5 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu |  |
+| 3.6 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 3.7 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 3.8 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 3.9 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 3.10 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 3.11 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 3.12 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 3.13 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 3.14 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 3.15 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 3.16 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 3.17 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 3.18 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 3.19 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 3.20 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 3.21 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 3.22 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 3.23 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 3.24 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 3.25 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 3.26 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 3.27 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 3.28 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 3.29 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 3.30 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Nội dung thông báo |  |  |
+|  | Thông báo tiếp nhận/không tiếp nhận hồ sơ |  |  |
+| 3.31 | Số của hồ sơ được tiếp nhận | Nhập số của hồ sơ được tiếp nhận |  |
+| 3.32 | Ngày của hồ sơ được tiếp nhận | Nhập ngày của hồ sơ |  |
+| 3.33 | Trích yếu của hồ sơ được tiếp nhận | Nhập trích yếu của hồ sơ |  |
+| 3.34 | Thành phần của hồ sơ được tiếp nhận | Liệt kê thành phần của hồ sơ được tiếp nhận |  |
+| 3.35 | Thời gian tiếp nhận | Hệ thống tự động cập nhật ngày, tháng, năm tiếp nhận hồ sơ |  |
+| 3.36 | Kết quả phân loại hồ sơ | Nhập kết quả phân loại hồ sơ đối với trường hợp tiếp nhận hồ sơ đề nghị hoàn thuế/không thu thuế |  |
+| 3.37 | Thời hạn giải quyết hồ sơ | Nhập thời hạn giải quyết hồ sơ đối với trường hợp tiếp nhận hồ sơ đề nghị hoàn thuế/không thu thuế |  |
+| 3.38 | Lý do không tiếp nhận hồ sơ | Nhập lý do không tiếp nhận trong trường hợp không tiếp nhận hồ sơ |  |
+|  | Thông báo thu hồi số tiền thuế đã hoàn |  |  |
+| 3.39 | Số Quyết định hoàn thuế | Nhập số Quyết định hoàn thuế |  |
+| 3.40 | Ngày Quyết định hoàn thuế | Nhập ngày ký ban hành Quyết định hoàn thuế |  |
+| 3.41 | Cơ quan ban hành Quyết định hoàn thuế | Nhập tên cơ quan hải quan đã ban hành Quyết định hoàn thuế |  |
+| 3.42 | Lý do thu hồi số tiền thuế đã hoàn | Nhập lý do thu hồi số tiền thuế đã hoàn |  |
+| 3.43 | Số tiền thuế phải thu hồi | Nhập số tiền thuế phải thu hồi |  |
+| 3.44 | Số tờ khai hải quan | Nhập số tờ khai hải quan có số tiền thuế phải thu hồi |  |
+| 3.45 | Ngày tờ khai hải quan | Nhập ngày tờ khai hải quan có số tiền thuế phải thu hồi |  |
+| 3.46 | Loại thuế | Nhập loại thuế phải thu hồi |  |
+|  | Thông báo số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền, bản án, quyết định của Tòa án |  |  |
+| 3.47 | Số quyết định/bản án | Nhập số quyết định giải quyết khiếu nại của cơ quan có thẩm quyền, bản án, quyết định của Tòa án |  |
+| 3.48 | Ngày quyết định/bản án | Nhập ngày ký ban hành quyết định giải quyết khiếu nại của cơ quan có thẩm quyền, bản án, quyết định của Tòa án |  |
+| 3.49 | Lý do nộp thừa | Nhập lý do số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền, bản án, quyết định của Tòa án |  |
+| 3.50 | Số tiền thuế, tiền chậm nộp, tiến phạt nộp thừa | Nhập số tiền thuế, tiền chậm nộp, tiền phạt được xác định là nộp thừa |  |
+| 3.51 | Số tờ khai hải quan | Nhập số tờ khai hải quan có số tiền thuế, tiền chậm nộp, tiền phạt được xác định là nộp thừa |  |
+| 3.52 | Ngày tờ khai hải quan | Nhập ngày tờ khai hải quan có số tiền thuế, tiền chậm nộp, tiền phạt được xác định là nộp thừa |  |
+| 3.53 | Loại thuế | Nhập loại thuế được xác định là nộp thừa |  |
+| 4 [ID: dieu_4_1] | Mẫu số 4 [ID: dieu_4_1_name] | Thông báo bổ sung/chuyển loại hồ sơ [ID: dieu_4_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 4.1 | Số thông báo | Hệ thống tự động cấp số thông báo |  |
+| 4.2 | Ngày thông báo | Hệ thống tự động cập nhật ngày phát hành thông báo |  |
+| B | Thông tin về tổ chức/cá nhân nhận thông báo |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 4.3 | Tên người nộp thuế | Nhập tên người nộp thuế nhận thông báo |  |
+| 4.4 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 4.5 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu |  |
+| 4.6 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 4.7 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 4.8 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 4.9 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 4.10 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 4.11 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 4.12 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 4.13 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 4.14 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 4.15 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 4.16 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 4.17 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 4.18 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 4.19 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 4.20 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 4.21 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 4.22 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 4.23 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 4.24 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 4.25 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 4.26 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 4.27 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 4.28 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 4.29 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 4.30 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Nội dung thông báo |  |  |
+|  | Thông báo về việc bổ sung, giải trình |  |  |
+| 4.31 | Hồ sơ, tài liệu cần bổ sung | Nhập chi tiết hồ sơ, tài liệu cần bổ sung |  |
+| 4.32 | Thời hạn bổ sung | Nhập thời hạn bổ sung hồ sơ, tài liệu |  |
+| 4.33 | Nội dung càn giải trình | Nhập nội dung cần giải trình |  |
+| 4.34 | Hình thức giải trình | - Trường hợp giải trình bằng văn bản, đánh dấu “X” tại ô tương ứng - Trường hợp giải trình trực tiếp tại cơ quan hải quan, đánh dấu “X” tại ô tương ứng |  |
+| 4.35 | Thời hạn giải trình | Nhập thời hạn giải trình |  |
+|  | Thông báo về việc chuyển loại hồ sơ | Áp dụng đối với trường hợp thông báo chuyển loại hồ sơ thuộc diện hoàn thuế trước sang hồ sơ thuộc diện kiểm tra trước tại trụ sở người nộp thuế |  |
+| 4.36 | Số của hồ sơ bị chuyển loại | Nhập số của hồ sơ bị chuyển loại |  |
+| 4.37 | Ngày của hồ sơ bị chuyển loại | Nhập ngày của hồ sơ bị chuyển loại |  |
+| 4.38 | Trích yếu của hồ sơ bị chuyển loại | Nhập trích yếu của hồ sơ bị chuyển loại |  |
+| 4.39 | Lý do chuyển loại hồ sơ | Nhập lý do chuyển loại hồ sơ; Điều, khoản văn bản quy phạm pháp luật áp dụng |  |
+| 4.40 | Thời gian dự kiến kiểm tra | Nhập thời gian dự kiến kiểm tra |  |
+| 4.41 | Nội dung kiểm tra | Nhập nội dung kiểm tra |  |
+| 5 [ID: dieu_5_1] | Mẫu số 5 [ID: dieu_5_1_name] | Thông báo về việc không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa... [ID: dieu_5_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 5.1 | Số thông báo | Hệ thống tự động cấp số thông báo |  |
+| 5.2 | Ngày thông báo | Hệ thống tự động cập nhật ngày phát hành thông báo |  |
+| B | Thông tin về tổ chức/cá nhân nhận thông báo |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 5.3 | Tên người nộp thuế | Nhập tên người nộp thuế nhận thông báo |  |
+| 5.4 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 5.5 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu |  |
+| 5.6 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 5.7 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 5.8 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 5.9 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 5.10 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 5.11 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 5.12 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 5.13 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 5.14 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 5.15 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 5.16 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 5.17 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 5.18 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 5.19 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 5.20 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 5.21 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 5.22 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 5.23 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 5.24 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 5.25 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 5.26 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 5.27 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 5.28 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 5.29 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 5.30 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Nội dung thông báo |  |  |
+| 5.31 | Số của hồ sơ | Nhập số của hồ sơ không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa... |  |
+| 5.32 | Ngày của hồ sơ | Nhập ngày của hồ sơ không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa... |  |
+| 5.33 | Trích yếu của hồ sơ | Nhập trích yếu của hồ sơ không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa... |  |
+| 5.34 | Lý do | Nhập rõ lý do hồ sơ không được miễn thuế/giảm thuế/hoàn thuế/không thu thuế/xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa... |  |
+| 6 [ID: dieu_6_1] | Mẫu số 6 [ID: dieu_6_1_name] | Công văn đề nghị không thu thuế [ID: dieu_6_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 6.1 | Số công văn | Hệ thống tự động cấp số công văn |  |
+| 6.2 | Ngày | Hệ thống tự động cập nhật ngày phát hành công văn |  |
+| 6.3 | Nơi nhận | Nhập tên, mã cơ quan hải quan có thẩm quyền xử lý không thu thuế |  |
+| B | Thông tin về tổ chức/cá nhân đề nghị không thu thuế |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 6.4 | Tên người nộp thuế | Nhập tên người nộp thuế |  |
+| 6.5 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 6.6 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 6.7 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 6.8 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 6.9 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 6.10 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 6.11 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 6.12 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 6.13 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 6.14 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 6.15 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 6.16 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 6.17 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 6.18 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 6.19 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 6.20 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 6.21 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 6.22 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 6.23 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 6.24 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 6.25 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 6.26 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 6.27 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 6.28 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 6.29 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 6.30 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 6.31 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Thông tin về hàng hóa đề nghị không thu thuế |  |  |
+| 6.32 | Số tờ khai hải quan | Nhập số tờ khai hải quan |  |
+| 6.33 | Ngày tờ khai hải quan | Nhập ngày tờ khai hải quan |  |
+| 6.34 | Nơi đăng ký tờ khai | Nhập tên, mã số Chi cục Hải quan nơi đăng ký tờ khai |  |
+| 6.35 | Tên hàng, mô tả hàng hóa | Nhập tên hàng, mô tả hàng hóa |  |
+| 6.36 | Số lượng | Nhập số lượng hàng hóa |  |
+| 6.37 | Trị giá | Nhập trị giá hàng hóa |  |
+| 6.38 | Thực hiện thanh toán qua Ngân hàng | - Trường hợp thực hiện thanh toán qua ngân hàng, đánh dấu “X” tại ô “Có” và nhập số chứng từ thanh toán - Trường hợp không thực hiện thanh toán qua ngân hàng, đánh dấu “X” tại ô Không” |  |
+| 6.39 | Hàng hóa chưa qua sử dụng, gia công, chế biến | - Trường hợp hàng hóa chưa qua sử dụng, gia công, chế biến, đánh dấu “X” tại ô “Có” - Trường hợp hàng hóa đã qua sử dụng, gia công, chế biến, đánh dấu “X” tại ô “Không” |  |
+| D | Thông tin về số tiền thuế đề nghị không thu |  |  |
+| 6.40 | Loại thuế | Lựa chọn loại thuế đề nghị không thu (có thể lựa chọn nhiều lần): Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng |  |
+| 6.41 | Số tiền đề nghị không thu | Nhập số tiền đề nghị không thu chi tiết theo từng loại thuế |  |
+| 6.42 | Lý do đề nghị không thu thuế | Nhập lý do đề nghị không thu thuế và Điều, khoản văn bản quy phạm pháp luật áp dụng. |  |
+| 7 [ID: dieu_7_1] | Mẫu số 7 [ID: dieu_7_1_name] | Công văn đề nghị giảm thuế xuất khẩu, nhập khẩu [ID: dieu_7_1_name_name] |  |
+| A | Thông tin chung |  |  |
+| 7.1 | Số công văn | Hệ thống tự động cấp số công văn |  |
+| 7.2 | Ngày | Hệ thống tự động cập nhật ngày phát hành công văn |  |
+| 7.3 | Nơi nhận | Nhập tên, mã cơ quan hải quan tiếp nhận hồ sơ giảm thuế |  |
+| B | Thông tin về tổ chức/cá nhân đề nghị không thu thuế |  |  |
+|  | Thông tin của người nộp thuế |  |  |
+| 7.4 | Tên người nộp thuế | Nhập tên người nộp thuế |  |
+| 7.5 | Mã số thuế | Nhập mã số thuế của người nộp thuế |  |
+| 7.6 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 7.7 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 7.8 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người nộp thuế |  |
+| 7.9 | Quốc tịch | Nhập quốc tịch của người nộp thuế |  |
+| 7.10 | Địa chỉ | Nhập địa chỉ của người nộp thuế |  |
+| 7.11 | Điện thoại | Nhập điện thoại của người nộp thuế |  |
+| 7.12 | Fax | Nhập số fax của người nộp thuế (nếu có) |  |
+| 7.13 | Email | Nhập địa chỉ thư điện tử của người nộp thuế (nếu có) |  |
+|  | Thông tin của người được ủy quyền |  |  |
+| 7.14 | Tên người được ủy quyền | Nhập tên người được ủy quyền |  |
+| 7.15 | Mã số thuế | Nhập mã số thuế của người được ủy quyền |  |
+| 7.16 | Số CMND/Căn cước công dân/Hộ chiếu | Nhập số CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 7.17 | Ngày cấp | Nhập ngày cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 7.18 | Nơi cấp | Nhập nơi cấp CMND/Căn cước công dân/Hộ chiếu của người được ủy quyền |  |
+| 7.19 | Quốc tịch | Nhập quốc tịch của người được ủy quyền |  |
+| 7.20 | Địa chỉ | Nhập địa chỉ của người được ủy quyền |  |
+| 7.21 | Điện thoại | Nhập điện thoại của người được ủy quyền |  |
+| 7.22 | Fax | Nhập số fax của người được ủy quyền (nếu có) |  |
+| 7.23 | Email | Nhập địa chỉ thư điện tử của người được ủy quyền (nếu có) |  |
+|  | Thông tin của tổ chức nhận ủy thác |  |  |
+| 7.24 | Tên tổ chức nhận ủy thác | Nhập tên tổ chức nhận ủy thác |  |
+| 7.25 | Mã số thuế | Nhập mã số thuế của tổ chức nhận ủy thác |  |
+| 7.26 | Địa chỉ | Nhập địa chỉ của tổ chức nhận ủy thác |  |
+| 7.27 | Điện thoại | Nhập điện thoại của tổ chức nhận ủy thác |  |
+| 7.28 | Fax | Nhập số fax của tổ chức nhận ủy thác (nếu có) |  |
+| 7.29 | Email | Nhập địa chỉ thư điện tử của tổ chức nhận ủy thác (nếu có) |  |
+| 7.30 | Số hợp đồng đại lý hải quan | Nhập số hợp đồng đại lý hải quan |  |
+| 7.31 | Ngày hợp đồng đại lý hải quan | Nhập ngày hợp đồng đại lý hải quan |  |
+| C | Thông tin về số tiền thuế đề nghị giảm |  |  |
+| 7.32 | Số tờ khai hải quan | Nhập số tờ khai hải quan |  |
+| 7.33 | Ngày tờ khai hải quan | Nhập ngày tờ khai hải quan |  |
+| 7.34 | Nơi đăng ký tờ khai | Nhập tên, mã số Chi cục Hải quan nơi đăng ký tờ khai |  |
+| 7.35 | Tên hàng, quy cách, phẩm chất | Nhập tên hàng, quy cách, phẩm chất |  |
+| 7.36 | Đơn vị tính | Nhập đơn vị tính |  |
+| 7.37 | Số lượng hàng hóa | Nhập số lượng hàng hóa theo tờ khai hải quan |  |
+| 7.38 | Trị giá tính thuế | Nhập trị giá tính thuế |  |
+| 7.39 | Tỷ lệ tổn thất | Nhập tỷ lệ tổn thất |  |
+| 7.40 | Loại thuế | Lựa chọn loại thuế đề nghị giảm (có thể lựa chọn nhiều lần): Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng |  |
+| 7.41 | Số tiền thuế phải nộp | Nhập số tiền phải nộp chi tiết theo từng loại thuế |  |
+| 7.42 | Số tiền thuế đề nghị giảm | Nhập số tiền đề nghị giảm chi tiết theo từng loại thuế |  |
+| 7.43 | Lý do đề nghị giảm thuế | Nhập lý do đề nghị không thu thuế và Điều, khoản văn bản quy phạm pháp luật áp dụng. |  |
+

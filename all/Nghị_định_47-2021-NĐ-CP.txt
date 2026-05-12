@@ -154,8 +154,8 @@ Nghị định 47/2021/NĐ-CP. Chương II Thông tư 06/2024/TT-BQP có hiệu 
 2. Trước ngày 31 tháng 8 hàng năm, Bộ Quốc phòng, Bộ Công an báo cáo Thủ tướng Chính phủ đồng thời gửi Bộ Kế hoạch và Đầu tư, Bộ Tài chính về tổng hợp tình hình hoạt động của doanh nghiệp do mình quản lý trong năm trước liền kề gồm: kết quả hoạt động sản xuất kinh doanh; tình hình thực hiện sản xuất, cung ứng sản phẩm, dịch vụ quốc phòng, an ninh và nhiệm vụ quốc phòng, an ninh; kết quả triển khai chính sách đối với doanh nghiệp và người lao động tại doanh nghiệp quốc phòng, an ninh quy định tại Nghị định này.
 
 Nghị định 47/2021/NĐ-CP. Chương V CÔNG BỐ THÔNG TIN CỦA DOANH NGHIỆP NHÀ NƯỚC VÀ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DOANH NGHIỆP NHÀ NƯỚC
-Nghị định 47/2021/NĐ-CP. Mục 1. CÔNG BỐ THÔNG TIN CỦA DOANH NGHIỆP NHÀ NƯỚC
-Nghị định 47/2021/NĐ-CP. Điều 20. Nguyên tắc thực hiện công bố thông tin. [Nguyên tắc thực hiện công bố thông tin đối với doanh nghiệp trực tiếp phục vụ quốc phòng, an ninh và doanh nghiệp kết hợp kinh tế với quốc phòng, an ninh thuộc Bộ Quốc phòng được hướng dẫn bởi Điều 7 Thông tư 06/2024/TT-BQP có hiệu lực từ ngày 10/03/2024]
+Mục 1. CÔNG BỐ THÔNG TIN CỦA DOANH NGHIỆP NHÀ NƯỚC
+Điều 20. Nguyên tắc thực hiện công bố thông tin. [Nguyên tắc thực hiện công bố thông tin đối với doanh nghiệp trực tiếp phục vụ quốc phòng, an ninh và doanh nghiệp kết hợp kinh tế với quốc phòng, an ninh thuộc Bộ Quốc phòng được hướng dẫn bởi Điều 7 Thông tư 06/2024/TT-BQP có hiệu lực từ ngày 10/03/2024]
 1. Việc công bố thông tin của doanh nghiệp nhà nước phải đầy đủ, chính xác và kịp thời theo quy định của pháp luật nhằm bảo đảm yêu cầu công khai, minh bạch về hoạt động của doanh nghiệp; bảo đảm tính hiệu quả, hiệu lực trong hoạt động quản lý và giám sát của cơ quan nhà nước và xã hội.
 2. Việc công bố thông tin do người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền công bố thông tin thực hiện.
 Trường hợp thực hiện công bố thông tin thông qua người được ủy quyền, doanh nghiệp phải gửi Giấy ủy quyền theo mẫu quy định tại Biểu số 1 Phụ lục II kèm theo Nghị định này đến cơ quan đại diện chủ sở hữu và Bộ Kế hoạch và Đầu tư; đồng thời công khai nội dung này trên trang thông tin điện tử của doanh nghiệp.
@@ -206,7 +206,7 @@ Nghị định 47/2021/NĐ-CP. Điều 26. Tạm hoãn công bố thông tin. [T
 3. Doanh nghiệp phải công bố trên trang thông tin điện tử của doanh nghiệp việc tạm hoãn công bố thông tin, đồng thời phải thực hiện công bố thông tin ngay sau khi sự kiện bất khả kháng được khắc phục hoặc sau khi có ý kiến của cơ quan đại diện chủ sở hữu đối với các nội dung cần hạn chế công bố thông tin.
 
 Nghị định 47/2021/NĐ-CP. Mục 2. CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DOANH NGHIỆP NHÀ NƯỚC
-Nghị định 47/2021/NĐ-CP. Điều 27. Nguyên tắc xây dựng, cập nhật, quản lý và khai thác Cơ sở dữ liệu quốc gia về doanh nghiệp nhà nước.
+Điều 27. Nguyên tắc xây dựng, cập nhật, quản lý và khai thác Cơ sở dữ liệu quốc gia về doanh nghiệp nhà nước.
 1. Việc xây dựng, cập nhật, quản lý và khai thác Cơ sở dữ liệu quốc gia về doanh nghiệp nhà nước phải đảm bảo theo các yêu cầu sau đây:
 a) Nội dung phù hợp, chính xác, kịp thời, hiệu quả;
 b) Tận dụng nguồn dữ liệu sẵn có; hạn chế tối đa việc thu thập lại cùng một nguồn dữ liệu;
@@ -227,7 +227,7 @@ b) Nguồn vốn viện trợ, tài trợ và các nguồn vốn hợp pháp kh�
 2. Việc quản lý, sử dụng kinh phí để xây dựng, cập nhật, quản lý và khai thác Cơ sở dữ liệu quốc gia về doanh nghiệp nhà nước thực hiện theo quy định tại Luật Ngân sách nhà nước, pháp luật về đấu thầu, quy định của nhà tài trợ và các quy định pháp luật có liên quan.
 
 Nghị định 47/2021/NĐ-CP. Mục 3. TRÁCH NHIỆM CÁC TỔ CHỨC LIÊN QUAN VÀ XỬ LÝ VI PHẠM
-Nghị định 47/2021/NĐ-CP. Điều 30. Trách nhiệm của doanh nghiệp.
+Điều 30. Trách nhiệm của doanh nghiệp.
 1. Xây dựng Quy chế công bố thông tin của doanh nghiệp theo quy định tại Nghị định này bao gồm các nội dung về thẩm quyền, trách nhiệm, phân công nhiệm vụ của các cá nhân, bộ phận liên quan.
 2. Lập trang thông tin điện tử trong vòng 03 tháng kể từ ngày Nghị định này có hiệu lực. Trang thông tin điện tử của doanh nghiệp phải hiển thị thời gian đăng tải thông tin và các thông tin cơ bản về doanh nghiệp; các báo cáo, thông tin công bố định kỳ, bất thường theo quy định tại Nghị định này.
 3. Hoàn thành kê khai và chịu trách nhiệm về tính chính xác của các thông tin cập nhật tại các mẫu biểu điện tử trên Cổng thông tin doanh nghiệp khi đăng tải báo cáo công bố thông tin. [Quy định về doanh nghiệp quốc phòng an ninh tại Khoản này bị bãi bỏ bởi Khoản 2 Điều 15 Nghị định 16/2023/NĐ-CP có hiệu lực kể từ ngày 25/04/2023] Doanh nghiệp quốc phòng, an ninh có trách nhiệm cập nhật các mẫu biểu điện tử trên Cổng thông tin doanh nghiệp các thông tin về tình hình tài chính và kết quả sản xuất, kinh doanh của năm trước liền kề trước ngày 30 tháng 6 hằng năm gồm: Vốn điều lệ, vốn chủ sở hữu, tổng tài sản, tổng doanh thu, lợi nhuận trước thuế, lợi nhuận sau thuế, thuế và các khoản đã nộp Nhà nước, tổng vốn đầu tư ra nước ngoài, đầu tư tài chính, tổng nợ phải trả, tổng số lao động, tổng quỹ lương, mức lương trung bình.
@@ -256,7 +256,7 @@ a) Không thực hiện hoặc thực hiện không đầy đủ trách nhiệm 
 b) Không đăng tải công khai, kịp thời trên cổng hoặc trang thông tin điện tử của cơ quan về các thông tin công bố định kỳ của doanh nghiệp thuộc phạm vi quản lý.
 
 Nghị định 47/2021/NĐ-CP. Chương V ĐIỀU KHOẢN THI HÀNH
-Nghị định 47/2021/NĐ-CP. Điều 34. Hiệu lực thi hành và quy định chuyển tiếp.
+Điều 34. Hiệu lực thi hành và quy định chuyển tiếp.
 1. Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
 2. Nghị định này thay thế và bãi bỏ các văn bản sau:
 a) Nghị định số 81/2015/NĐ-CP  ngày 18 tháng 9 năm 2015 của Chính phủ về công bố thông tin doanh nghiệp nhà nước.
@@ -311,9 +311,8 @@ các tài liệu theo Danh mục bí mật nhà nước trong lĩnh vực quốc
 
 Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 1: GIẤY ỦY QUYỀN THỰC HIỆN CÔNG BỐ THÔNG TIN (Kèm theo Nghị định số 47/2021/NĐ-CP ngày 01 tháng 4 năm 2021 của Chính phủ)
 TÊN DOANH NGHIỆP                              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-MSDN -------
-Số:
-……, ngày …..tháng….. năm…..
+MSDN
+Số:                                                                  ……, ngày …..tháng….. năm…..
 Kính gửi:
 - Cơ quan đại diện chủ sở hữu;
 - Bộ Kế hoạch và Đầu tư.
@@ -334,144 +333,263 @@ Giấy ủy quyền này có hiệu lực kể từ ngày ..../.../.... đến k
 BÊN A NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký, ghi rõ họ tên, đóng dấu)                  BÊN B (Ký, ghi rõ họ tên)
 
 Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 2: BÁO CÁO MỤC TIÊU TỔNG QUÁT, KẾ HOẠCH KINH DOANH NĂM ....
-TÊN DOANH NGHIỆP MSDN -------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-Số:
-……, ngày …..
-tháng….. năm…..
-I. MỤC TIÊU TỔNG QUÁT VÀ NHIỆM VỤ KẾ HOẠCH
-Nghị định 47/2021/NĐ-CP. II. KẾ HOẠCH KINH DOANH VÀ ĐẦU TƯ PHÁT TRIỂN NĂM...
-1. Kế hoạch sản xuất kinh doanh
+**TÊN DOANH NGHIỆP**
+MSDN: ………
+---
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+……, ngày ….. tháng ….. năm …..
+---
+## I. MỤC TIÊU TỔNG QUÁT VÀ NHIỆM VỤ KẾ HOẠCH
+---
+## II. KẾ HOẠCH KINH DOANH VÀ ĐẦU TƯ PHÁT TRIỂN NĂM …
+### 1. Kế hoạch sản xuất kinh doanh
 - Kế hoạch chỉ tiêu sản lượng chính
 - Kế hoạch sản xuất kinh doanh cả năm
-BẢNG CÁC CHỈ TIÊU SẢN XUẤT KINH DOANH NĂM ………
-TT Các chỉ tiêu Đơn vị tính Chỉ tiêu kế hoạch 1 Các chỉ tiêu sản lượng chính a) Sản phẩm 1 b) Sản phẩm 2 ..............
-2 Chỉ tiêu sản phẩm, dịch vụ công ích (nếu có) 3 Tổng doanh thu Tỷ đồng 4 Lợi nhuận trước thuế Tỷ đồng 5 Lợi nhuận sau thuế Tỷ đồng 6 Thuế và các khoản phải nộp Nhà nước Tỷ đồng 7 Tổng vốn đầu tư Tỷ đồng 8 Kim ngạch xuất khẩu (nếu có) Tỷ đồng 9 Các chỉ tiêu khác
-2. Kế hoạch đầu tư của doanh nghiệp trong năm (tên dự án nhóm B trở lên, nguồn vốn, tổng mức đầu tư...)
-Biểu số 3: BÁO CÁO ĐÁNH GIÁ VỀ KẾT QUẢ THỰC HIỆN KẾ HOẠCH SẢN XUẤT KINH DOANH NĂM............
-TÊN DOANH NGHIỆP MSDN -------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-Số:
-……, ngày …..
-tháng….. năm…..
+### BẢNG CÁC CHỈ TIÊU SẢN XUẤT KINH DOANH NĂM ………
+| TT | Các chỉ tiêu | Đơn vị tính | Chỉ tiêu kế hoạch |
+|----|--------------|-------------|-------------------|
+| 1 | Các chỉ tiêu sản lượng chính |  |  |
+| a) | Sản phẩm 1 |  |  |
+| b) | Sản phẩm 2 |  |  |
+|  | …………… |  |  |
+| 2 | Chỉ tiêu sản phẩm, dịch vụ công ích *(nếu có)* |  |  |
+| 3 | Tổng doanh thu | Tỷ đồng |  |
+| 4 | Lợi nhuận trước thuế | Tỷ đồng |  |
+| 5 | Lợi nhuận sau thuế | Tỷ đồng |  |
+| 6 | Thuế và các khoản phải nộp Nhà nước | Tỷ đồng |  |
+| 7 | Tổng vốn đầu tư | Tỷ đồng |  |
+| 8 | Kim ngạch xuất khẩu *(nếu có)* | Tỷ đồng |  |
+| 9 | Các chỉ tiêu khác |  |  |
+---
+### 2. Kế hoạch đầu tư của doanh nghiệp trong năm
+*(Tên dự án nhóm B trở lên, nguồn vốn, tổng mức đầu tư…)*
 
-Nghị định 47/2021/NĐ-CP. I. TÌNH HÌNH HOẠT ĐỘNG SẢN XUẤT KINH DOANH NĂM....
+Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 3: BÁO CÁO ĐÁNH GIÁ VỀ KẾT QUẢ THỰC HIỆN KẾ HOẠCH SẢN XUẤT KINH DOANH NĂM............
+**TÊN DOANH NGHIỆP**
+MSDN: ………
+---
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+Số: ………
+……, ngày ….. tháng ….. năm …..
+---
+## I. TÌNH HÌNH HOẠT ĐỘNG SẢN XUẤT KINH DOANH NĂM …
 - Đánh giá kết quả hoạt động sản xuất kinh doanh trong năm so với kế hoạch đối với các chỉ tiêu theo Bảng số 1;
 - Thuận lợi, khó khăn chủ yếu, các yếu tố ảnh hưởng tới tình hình sản xuất kinh doanh của doanh nghiệp.
-BẢNG SỐ 1: MỘT SỐ CHỈ TIÊU VỀ HOẠT ĐỘNG SẢN XUẤT KINH DOANH CỦA DOANH NGHIỆP
-TT Chỉ tiêu ĐVT Kế hoạch Giá trị thực hiện Giá trị thực hiện của cả tổ hợp công ty mẹ - công ty con (nếu có) (*) 1 Sản phẩm chủ yếu sản xuất a) Sản phẩm 1 b) Sản phẩm 2 2 Tổng doanh thu Tỷ đồng 3 Lợi nhuận trước thuế Tỷ đồng 4 Lợi nhuận sau thuế Tỷ đồng 5 Thuế và các khoản đã nộp Nhà nước Tỷ đồng 6 Kim ngạch xuất nhập khẩu (nếu có) Tỷ đồng 7 Sản phẩm dịch vụ công ích (nếu có) 8 Tổng số lao động Người 9 Tổng quỹ lương Tỷ đồng a) Quỹ lương quản lý Tỷ đồng b) Quỹ lương lao động Tỷ đồng Lưu ý:
-(*) Công ty mẹ là doanh nghiệp nhà nước cung cấp thông tin các chỉ tiêu hợp nhất của mô hình công ty mẹ - công ty con.
+### BẢNG SỐ 1: MỘT SỐ CHỈ TIÊU VỀ HOẠT ĐỘNG SẢN XUẤT KINH DOANH CỦA DOANH NGHIỆP
+| TT | Chỉ tiêu | ĐVT | Kế hoạch | Giá trị thực hiện | Giá trị thực hiện của tổ hợp công ty mẹ – công ty con (nếu có) (*) |
+|----|----------|-----|----------|-------------------|--------------------------------------------------------------------|
+| 1 | Sản phẩm chủ yếu sản xuất |  |  |  |  |
+| a) | Sản phẩm 1 |  |  |  |  |
+| b) | Sản phẩm 2 |  |  |  |  |
+| 2 | Tổng doanh thu | Tỷ đồng |  |  |  |
+| 3 | Lợi nhuận trước thuế | Tỷ đồng |  |  |  |
+| 4 | Lợi nhuận sau thuế | Tỷ đồng |  |  |  |
+| 5 | Thuế và các khoản đã nộp Nhà nước | Tỷ đồng |  |  |  |
+| 6 | Kim ngạch xuất nhập khẩu *(nếu có)* | Tỷ đồng |  |  |  |
+| 7 | Sản phẩm dịch vụ công ích *(nếu có)* |  |  |  |  |
+| 8 | Tổng số lao động | Người |  |  |  |
+| 9 | Tổng quỹ lương | Tỷ đồng |  |  |  |
+| a) | Quỹ lương quản lý | Tỷ đồng |  |  |  |
+| b) | Quỹ lương lao động | Tỷ đồng |  |  |  |
+---
+**Lưu ý:**
+(*) Công ty mẹ là doanh nghiệp nhà nước cung cấp thông tin các chỉ tiêu hợp nhất của mô hình công ty mẹ – công ty con.
+## II. TÌNH HÌNH ĐẦU TƯ, TÌNH HÌNH THỰC HIỆN CÁC DỰ ÁN
+### 1. Đánh giá tình hình thực hiện các dự án
+Đánh giá tình hình thực hiện các dự án có tổng mức vốn từ nhóm B trở lên (theo phân loại quy định tại Luật Đầu tư công); tiến độ thực hiện, những khó khăn, vướng mắc trong trường hợp dự án không đảm bảo tiến độ đã được phê duyệt.
+### BẢNG SỐ 2: TÌNH HÌNH THỰC HIỆN ĐẦU TƯ CỦA DOANH NGHIỆP
+| TT | Tên dự án | Tổng vốn đầu tư (tỷ đồng) | Vốn chủ sở hữu (tỷ đồng) | Vốn vay (tỷ đồng) | Vốn khác (tỷ đồng) | Tổng giá trị thực hiện đến thời điểm báo cáo (tỷ đồng) | Thời gian thực hiện dự án (từ năm … đến năm …) |
+|----|-----------|---------------------------|---------------------------|-------------------|--------------------|----------------------------------------------------------|--------------------------------------------------|
+|  | Dự án quan trọng quốc gia |  |  |  |  |  |  |
+|  | Dự án nhóm A |  |  |  |  |  |  |
+|  | Dự án nhóm B |  |  |  |  |  |  |
+---
+### 2. Các khoản đầu tư tài chính
+---
+## III. TÌNH HÌNH ĐẦU TƯ TẠI CÁC CÔNG TY CON
+Đánh giá tình hình hoạt động của các công ty mà doanh nghiệp nắm trên 50% vốn điều lệ; tình hình đầu tư của doanh nghiệp vào các công ty này, tóm tắt về hoạt động và tình hình tài chính của các công ty này theo Bảng số 3.
+### BẢNG SỐ 3: TÌNH HÌNH ĐẦU TƯ VÀ SẢN XUẤT KINH DOANH TẠI CÁC CÔNG TY CON DO CÔNG TY MẸ NẮM CỔ PHẦN CHI PHỐI
+| TT | Tên doanh nghiệp | Vốn điều lệ (tỷ đồng) | Tổng vốn đầu tư của công ty mẹ (tỷ đồng) | Tổng tài sản (tỷ đồng) | Doanh thu (tỷ đồng) | Lợi nhuận trước thuế (tỷ đồng) | Lợi nhuận sau thuế (tỷ đồng) | Lợi nhuận nộp về công ty mẹ | Thuế và các khoản đã nộp Nhà nước (tỷ đồng) | Tổng nợ phải trả (tỷ đồng) |
+|----|------------------|------------------------|------------------------------------------|------------------------|---------------------|---------------------------------|-------------------------------|------------------------------|----------------------------------------------|----------------------------|
+| 1 | **Các công ty con do công ty mẹ nắm giữ 100% vốn điều lệ** |  |  |  |  |  |  |  |  |  |
+| 1.1 | Công ty A |  |  |  |  |  |  |  |  |  |
+| 1.2 | Công ty B |  |  |  |  |  |  |  |  |  |
+| 2 | **Các công ty con do công ty mẹ nắm giữ trên 50% vốn điều lệ** |  |  |  |  |  |  |  |  |  |
+| 2.1 | Công ty C |  |  |  |  |  |  |  |  |  |
+| 2.2 | Công ty D |  |  |  |  |  |  |  |  |  |
 
-Nghị định 47/2021/NĐ-CP. II. TÌNH HÌNH ĐẦU TƯ, TÌNH HÌNH THỰC HIỆN CÁC DỰ ÁN.
-1. Đánh giá tình hình thực hiện các Dự án có tổng mức vốn từ nhóm B trở lên (theo phân loại quy định tại Luật Đầu tư công); tiến độ thực hiện; những khó khăn, vướng mắc trong trường hợp dự án không đảm bảo tiến độ đã được phê duyệt.
-BẢNG SỐ 2: TÌNH HÌNH THỰC HIỆN ĐẦU TƯ CỦA DOANH NGHIỆP
-TT Tên dự án Tổng vốn đầu tư (tỷ đồng) Vốn chủ sở hữu (tỷ đồng) Vốn vay (tỷ đồng) Vốn khác (tỷ đồng) Tổng giá trị thực hiện tính đến thời điểm báo cáo (tỷ đồng) Thời gian thực hiện dự án (từ năm ... đến năm...) Dự án quan trọng quốc gia Dự án nhóm A Dự án nhóm B
-2. Các khoản đầu tư tài chính.
-
-Nghị định 47/2021/NĐ-CP. III. TÌNH HÌNH ĐẦU TƯ TẠI CÁC CÔNG TY CON.
-Đánh giá tình hình hoạt động của các công ty mà doanh nghiệp nắm trên 50% vốn điều lệ, tình hình đầu tư của doanh nghiệp vào các công ty này, tóm tắt về hoạt động và tình hình tài chính của các công ty này theo Bảng số 3.
-BẢNG SỐ 3: TÌNH HÌNH ĐẦU TƯ VÀ SẢN XUẤT KINH DOANH TẠI CÁC CÔNG TY CON DO CÔNG TY MẸ NẮM CỔ PHẦN CHI PHỐI
-TT Tên doanh nghiệp Vốn điều lệ (tỷ đồng) Tổng vốn đầu tư của công ty mẹ (tỷ đồng) Tổng tài sản (tỷ đồng) Doanh thu (tỷ đồng) Lợi nhuận trước thuế (tỷ đồng) Lợi nhuận sau thuế (tỷ đồng) Lợi nhuận nộp về công ty mẹ Thuế và các khoản đã nộp Nhà nước (tỷ đồng) Tổng nợ phải trả (tỷ đồng) 1 Các công ty con do công ty mẹ nắm giữ 100% vốn điều lệ 1.1 Công ty A 1.2 Công ty B 2 Các công ty con do công ty mẹ nắm giữ trên 50% vốn điều lệ 2.1 Công ty C 2.2 Công ty D
-Biểu số 4: BÁO CÁO KẾT QUẢ THỰC HIỆN CÁC NHIỆM VỤ CÔNG ÍCH VÀ TRÁCH NHIỆM XÃ HỘI (NẾU CÓ) NĂM ....
-TÊN DOANH NGHIỆP MSDN -------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-Số:
-……, ngày …..
-tháng….. năm…..
-
-Nghị định 47/2021/NĐ-CP. I. MỘT SỐ CHỈ TIÊU VỀ NHIỆM VỤ CÔNG ÍCH
-TT Chỉ tiêu Đơn vị tính Kế hoạch Thực hiện Tỷ lệ thực hiện so với kế hoạch (%) 1 Khối lượng, sản lượng sản phẩm dịch vụ công ích thực hiện trong năm 1.1 Sản phẩm 1 1.2 Sản phẩm 2 .....
-2 Chi phí phát sinh liên quan đến các sản phẩm, dịch vụ công ích thực hiện trong năm 3 Doanh thu thực hiện các sản phẩm, dịch vụ công ích trong năm
-
-Nghị định 47/2021/NĐ-CP. II. TRÁCH NHIỆM XÃ HỘI CỦA DOANH NGHIỆP
+Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 4: BÁO CÁO KẾT QUẢ THỰC HIỆN CÁC NHIỆM VỤ CÔNG ÍCH VÀ TRÁCH NHIỆM XÃ HỘI (NẾU CÓ) NĂM ....
+**TÊN DOANH NGHIỆP**
+MSDN: ………
+---
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+Số: ………
+……, ngày ….. tháng ….. năm …..
+---
+## I. MỘT SỐ CHỈ TIÊU VỀ NHIỆM VỤ CÔNG ÍCH
+| TT | Chỉ tiêu | Đơn vị tính | Kế hoạch | Thực hiện | Tỷ lệ thực hiện so với kế hoạch (%) |
+|----|----------|-------------|----------|-----------|-------------------------------------|
+| 1 | Khối lượng, sản lượng sản phẩm dịch vụ công ích thực hiện trong năm |  |  |  |  |
+| 1.1 | Sản phẩm 1 |  |  |  |  |
+| 1.2 | Sản phẩm 2 |  |  |  |  |
+|  | ……… |  |  |  |  |
+| 2 | Chi phí phát sinh liên quan đến các sản phẩm, dịch vụ công ích thực hiện trong năm |  |  |  |  |
+| 3 | Doanh thu thực hiện các sản phẩm, dịch vụ công ích trong năm |  |  |  |  |
+---
+## II. TRÁCH NHIỆM XÃ HỘI CỦA DOANH NGHIỆP
 1. Trách nhiệm bảo vệ môi trường.
 2. Trách nhiệm đóng góp cho cộng đồng xã hội.
 3. Trách nhiệm với nhà cung cấp.
 4. Trách nhiệm bảo đảm lợi ích và an toàn cho người tiêu dùng.
 5. Trách nhiệm đảm bảo lợi ích cho cổ đông và người lao động trong doanh nghiệp.
-Biểu số 5: BÁO CÁO THỰC TRẠNG QUẢN TRỊ VÀ CƠ CẤU TỔ CHỨC CỦA DOANH NGHIỆP 6 THÁNG/NĂM TÊN DOANH NGHIỆP MSDN -------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-Số:
-……, ngày …..
-tháng….. năm…..
 
-Nghị định 47/2021/NĐ-CP. I. HOẠT ĐỘNG CỦA HỘI ĐỒNG THÀNH VIÊN/HỘI ĐỒNG QUẢN TRỊ/CHỦ TỊCH CÔNG TY:
-Thông tin về các nghị quyết, quyết định của Hội đồng thành viên, Chủ tịch công ty, Hội đồng quản trị liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu, mua sắm tài sản,...
-BẢNG SỐ 1: CÁC NGHỊ QUYẾT/QUYẾT ĐỊNH QUAN TRỌNG CỦA HỘI ĐỒNG THÀNH VIÊN/ HỘI ĐỒNG QUẢN TRỊ HOẶC CHỦ TỊCH CÔNG TY
-TT Số văn bản Ngày Người ký, ban hành Nội dung (nêu tóm tắt nội dung chính của văn bản) 1 2 3 ....
+Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 5: BÁO CÁO THỰC TRẠNG QUẢN TRỊ VÀ CƠ CẤU TỔ CHỨC CỦA DOANH NGHIỆP 6 THÁNG/NĂM
+**TÊN DOANH NGHIỆP**
+MSDN: ………
+---
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+Số: ………
+……, ngày ….. tháng ….. năm …..
+---
+## I. HOẠT ĐỘNG CỦA HỘI ĐỒNG THÀNH VIÊN / HỘI ĐỒNG QUẢN TRỊ / CHỦ TỊCH CÔNG TY
+Thông tin về các nghị quyết, quyết định của Hội đồng thành viên, Chủ tịch công ty, Hội đồng quản trị liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu, mua sắm tài sản,…
+### BẢNG SỐ 1: CÁC NGHỊ QUYẾT / QUYẾT ĐỊNH QUAN TRỌNG CỦA HỘI ĐỒNG THÀNH VIÊN / HỘI ĐỒNG QUẢN TRỊ HOẶC CHỦ TỊCH CÔNG TY
+| TT | Số văn bản | Ngày | Người ký, ban hành | Nội dung (nêu tóm tắt nội dung chính của văn bản) |
+|----|------------|------|--------------------|--------------------------------------------------|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| … |  |  |  |
+---
+## II. THÔNG TIN VỀ GIAO DỊCH VỚI CÁC BÊN CÓ LIÊN QUAN
+### BẢNG SỐ 2: THỐNG KÊ VỀ CÁC GIAO DỊCH VỚI NGƯỜI CÓ LIÊN QUAN
+| TT | Tên tổ chức, cá nhân | Thời điểm giao dịch | Nội dung giao dịch | Giá trị giao dịch | Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua |
+|----|----------------------|---------------------|--------------------|-------------------|-------------------------------------------------------|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| … |  |  |  |  |  |
+---
+### Giải thích
+- (2) Ghi rõ tên của bên thực hiện giao dịch.
+- (3) Thời gian bắt đầu thực hiện giao dịch.
+- (4) Ghi rõ nội dung giao dịch (ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay…).
+- (5) Ghi rõ giá trị giao dịch (ví dụ: Tỷ đồng, nghìn USD…).
+- (6) Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
+## III. THÔNG TIN VỀ GIAO DỊCH GIỮA DOANH NGHIỆP VỚI CÁC ĐỐI TƯỢNG KHÁC
+Thông tin về các giao dịch có giá trị từ 10% vốn chủ sở hữu trở lên của doanh nghiệp liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu… theo Bảng số 3.
+### BẢNG SỐ 3: THỐNG KÊ VỀ CÁC GIAO DỊCH CỦA DOANH NGHIỆP
+| TT | Nội dung giao dịch | Đối tác giao dịch | Thời điểm giao dịch | Giá trị giao dịch | Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua |
+|----|--------------------|-------------------|---------------------|-------------------|-------------------------------------------------------|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| … |  |  |  |  |  |
+---
+### Giải thích
+- (2) Ghi rõ nội dung giao dịch (ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay, Hợp đồng mua sắm…).
+- (3) Ghi rõ tên của bên thực hiện giao dịch.
+- (4) Thời gian bắt đầu thực hiện giao dịch.
+- (5) Ghi rõ giá trị giao dịch (ví dụ: Tỷ đồng, nghìn USD…).
+- (6) Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
 
-Nghị định 47/2021/NĐ-CP. II. THÔNG TIN VỀ GIAO DỊCH VỚI CÁC BÊN CÓ LIÊN QUAN:
-BẢNG SỐ 2: THỐNG KÊ VỀ CÁC GIAO DỊCH VỚI NGƯỜI CÓ LIÊN QUAN
-TT Tên tổ chức, cá nhân Thời điểm giao dịch Nội dung giao dịch Giá trị giao dịch Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua (1) (2) (3) (4) (5) (6) 1 2 3 ....
-Giải thích:
-(2): Ghi rõ tên của bên thực hiện giao dịch;
-(3): Thời gian bắt đầu thực hiện giao dịch;
-(4): Ghi rõ nội dung giao dịch (Ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay...);
-(5): Ghi rõ giá trị giao dịch (Ví dụ: Tỷ đồng, nghìn USD..);
-(6): Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
-
-Nghị định 47/2021/NĐ-CP. III. THÔNG TIN VỀ GIAO DỊCH GIỮA DOANH NGHIỆP VỚI CÁC ĐỐI TƯỢNG KHÁC:
-Thông tin về các giao dịch có giá trị từ 10% vốn chủ sở hữu trở lên của doanh nghiệp liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu... theo Bảng số 3.
-BẢNG SỐ 3: THỐNG KÊ VỀ CÁC GIAO DỊCH CỦA DOANH NGHIỆP
-TT Nội dung giao dịch Đối tác giao dịch Thời điểm giao dịch Giá trị giao dịch Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua (1) (2) (3) (4) (5) (6) 1 2 3 ...
-Giải thích:
-(2): Ghi rõ nội dung giao dịch (Ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay, Hợp đồng mua sắm...);
-(3): Ghi rõ tên của bên thực hiện giao dịch;
-(4): Thời gian bắt đầu thực hiện giao dịch;
-(5): Ghi rõ giá trị giao dịch (Ví dụ: Tỷ đồng, nghìn USD..);
-(6): Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
-Biểu số 6: BÁO CÁO THỰC TRẠNG QUẢN TRỊ VÀ CƠ CẤU TỔ CHỨC CỦA DOANH NGHIỆP NĂM.........
-TÊN DOANH NGHIỆP MSDN -------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-Số:
-……, ngày …..
-tháng….. năm…..
-
-Nghị định 47/2021/NĐ-CP. I. THÔNG TIN VỀ CƠ QUAN ĐẠI DIỆN CHỦ SỞ HỮU
-1. Thông tin chung.
+Nghị định 47/2021/NĐ-CP. PHỤ LỤC II. Biểu số 6: BÁO CÁO THỰC TRẠNG QUẢN TRỊ VÀ CƠ CẤU TỔ CHỨC CỦA DOANH NGHIỆP NĂM.........
+# Biểu số 6: BÁO CÁO THỰC TRẠNG QUẢN TRỊ VÀ CƠ CẤU TỔ CHỨC CỦA DOANH NGHIỆP NĂM …
+**TÊN DOANH NGHIỆP**
+MSDN: ………
+---
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập – Tự do – Hạnh phúc**
+Số: ………
+……, ngày ….. tháng ….. năm …..
+---
+## I. THÔNG TIN VỀ CƠ QUAN ĐẠI DIỆN CHỦ SỞ HỮU
+### 1. Thông tin chung
 - Cơ quan đại diện chủ sở hữu.
-- Người đứng đầu và cấp phó của người đứng đầu Cơ quan đại diện chủ sở hữu;
-2. Các quyết định có liên quan của Cơ quan đại diện chủ sở hữu.
-Thống kê các quyết định có liên quan của cơ quan đại diện chủ sở hữu theo Bảng số 1.
-BẢNG SỐ 1: CÁC QUYẾT ĐỊNH CÓ LIÊN QUAN CỦA CƠ QUAN ĐẠI DIỆN CHỦ SỞ HỮU
-TT Số văn bản Ngày Nội dung (nêu tóm tắt nội dung chính của văn bản) 1 2 3 ...
-
-Nghị định 47/2021/NĐ-CP. II. THÔNG TIN VỀ NGƯỜI QUẢN LÝ DOANH NGHIỆP
-1. Danh sách người quản lý doanh nghiệp: liệt kê thông tin cụ thể theo Bảng số 2.
-BẢNG SỐ 2: DANH SÁCH NGƯỜI QUẢN LÝ DOANH NGHIỆP
-TT Họ và tên Năm sinh Trình độ chuyên môn Kinh nghiệm nghề nghiệp Các vị trí quản lý đã nắm giữ 1 2 3 ...
-2. Tiền lương, thù lao và lợi ích khác của người quản lý doanh nghiệp.
+- Người đứng đầu và cấp phó của người đứng đầu Cơ quan đại diện chủ sở hữu.
+### 2. Các quyết định có liên quan của Cơ quan đại diện chủ sở hữu
+Thông tin các quyết định có liên quan của Cơ quan đại diện chủ sở hữu theo Bảng số 1.
+### BẢNG SỐ 1: CÁC QUYẾT ĐỊNH CÓ LIÊN QUAN CỦA CƠ QUAN ĐẠI DIỆN CHỦ SỞ HỮU
+| TT | Số văn bản | Ngày | Nội dung (nêu tóm tắt nội dung chính của văn bản) |
+|----|------------|------|--------------------------------------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| … |  |  |  |
+---
+## II. THÔNG TIN VỀ NGƯỜI QUẢN LÝ DOANH NGHIỆP
+### 1. Danh sách người quản lý doanh nghiệp
+Liệt kê thông tin cụ thể theo Bảng số 2.
+### BẢNG SỐ 2: DANH SÁCH NGƯỜI QUẢN LÝ DOANH NGHIỆP
+| TT | Họ và tên | Năm sinh | Trình độ chuyên môn | Kinh nghiệm nghề nghiệp | Các vị trí quản lý đã nắm giữ |
+|----|-----------|----------|---------------------|--------------------------|-------------------------------|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| … |  |  |  |  |  |
+### 2. Tiền lương, thù lao và lợi ích khác của người quản lý doanh nghiệp
 Lương, thưởng, thù lao, các khoản lợi ích khác của từng người quản lý doanh nghiệp theo Bảng số 3.
-BẢNG SỐ 3: TIỀN LƯƠNG, THƯỞNG CỦA NGƯỜI QUẢN LÝ DOANH NGHIỆP
-TT Họ và tên Chức vụ Mức lương Hệ số Tiền lương/năm Tiền thưởng, thu nhập khác 1 2 3 ....
-3. Hoạt động của Hội đồng thành viên, Hội đồng quản trị hoặc Chủ tịch công ty.
-Thông tin về các nghị quyết, quyết định của Hội đồng thành viên, Chủ tịch công ty, Hội đồng quản trị liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu, mua sắm tài sản... theo Bảng số 4.
-BẢNG SỐ 4: CÁC NGHỊ QUYẾT/QUYẾT ĐỊNH CỦA HỘI ĐỒNG THÀNH VIÊN/ HỘI ĐỒNG QUẢN TRỊ HOẶC CHỦ TỊCH CÔNG TY
-TT Số văn bản Ngày Người ký, ban hành Nội dung (nêu tóm tắt nội dung chính của văn bản) 1 2 3 ...
-
-Nghị định 47/2021/NĐ-CP. III. BAN KIỂM SOÁT VÀ KIỂM SOÁT VIÊN
-1. Thông tin về Ban kiểm soát và Kiểm soát viên.
-BẢNG SỐ 5: DANH SÁCH BAN KIỂM SOÁT VÀ KIỂM SOÁT VIÊN
-TT Họ và tên Năm sinh Trình độ chuyên môn Chức vụ Ngày bắt đầu là thành viên BKS Tỷ lệ tham dự họp 1 2 3 ...
-2. Các báo cáo của Ban kiểm soát và Kiểm soát viên.
-
-Nghị định 47/2021/NĐ-CP. IV. BÁO CÁO KẾT LUẬN CỦA CƠ QUAN THANH TRA (nếu có)
-
-Nghị định 47/2021/NĐ-CP. V. THÔNG TIN VỀ NGƯỜI CÓ LIÊN QUAN
-1. Danh sách Người có liên quan của doanh nghiệp.
-BẢNG SỐ 6: DANH SÁCH VỀ NGƯỜI CÓ LIÊN QUAN CỦA DOANH NGHIỆP
-TT Tên tổ chức, cá nhân Chức vụ (nếu có) Địa chỉ trụ sở chính/ địa chỉ liên hệ Thời điểm bắt đầu là người có liên quan Thời điểm không còn là người có liên quan Lý do không còn là người liên quan 1 2 3 ....
-2. Thông tin về giao dịch với các bên có liên quan.
-BẢNG SỐ 7: THỐNG KÊ VỀ CÁC GIAO DỊCH VỚI NGƯỜI CÓ LIÊN QUAN
-TT Tên tổ chức, cá nhân Thời điểm giao dịch Nội dung giao dịch Giá trị giao dịch Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua (1) (2) (3) (4) (5) (6) 1 2 3 ....
-Giải thích:
-(2): Ghi rõ tên của bên thực hiện giao dịch;
-(3): Thời gian bắt đầu thực hiện giao dịch;
-(4): Ghi rõ nội dung giao dịch (Ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay...);
-(5): Ghi rõ giá trị giao dịch (Ví dụ: Tỷ đồng, nghìn USD..);
-(6): Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
-
-Nghị định 47/2021/NĐ-CP. VI. TÌNH HÌNH SỬ DỤNG LAO ĐỘNG
-- Tổng số lao động của doanh nghiệp (người):
-- Mức lương trung bình người lao động/năm (triệu đồng):
-- Tiền thưởng, thu nhập khác của người lao động/người/năm (triệu đồng):
+### BẢNG SỐ 3: TIỀN LƯƠNG, THƯỞNG CỦA NGƯỜI QUẢN LÝ DOANH NGHIỆP
+| TT | Họ và tên | Chức vụ | Mức lương | Hệ số | Tiền lương/năm | Tiền thưởng, thu nhập khác |
+|----|-----------|----------|-----------|-------|----------------|----------------------------|
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+| … |  |  |  |  |  |  |
+---
+### 3. Hoạt động của Hội đồng thành viên / Hội đồng quản trị / Chủ tịch công ty
+Thông tin về các nghị quyết, quyết định của Hội đồng thành viên, Chủ tịch công ty, Hội đồng quản trị liên quan đến hoạt động sản xuất kinh doanh, đầu tư, đấu thầu, mua sắm tài sản… theo Bảng số 4.
+### BẢNG SỐ 4: CÁC NGHỊ QUYẾT / QUYẾT ĐỊNH CỦA HỘI ĐỒNG THÀNH VIÊN / HỘI ĐỒNG QUẢN TRỊ HOẶC CHỦ TỊCH CÔNG TY
+| TT | Số văn bản | Ngày | Người ký, ban hành | Nội dung (nêu tóm tắt nội dung chính của văn bản) |
+|----|------------|------|--------------------|--------------------------------------------------|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| … |  |  |  |  |
+---
+## III. BAN KIỂM SOÁT VÀ KIỂM SOÁT VIÊN
+### 1. Thông tin về Ban kiểm soát và Kiểm soát viên
+### BẢNG SỐ 5: DANH SÁCH BAN KIỂM SOÁT VÀ KIỂM SOÁT VIÊN
+| TT | Họ và tên | Năm sinh | Trình độ chuyên môn | Chức vụ | Ngày bắt đầu là thành viên BKS | Tỷ lệ tham dự họp |
+|----|-----------|----------|---------------------|---------|-------------------------------|-------------------|
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+| … |  |  |  |  |  |  |
+### 2. Các báo cáo của Ban kiểm soát và Kiểm soát viên
+## IV. BÁO CÁO KẾT LUẬN CỦA CƠ QUAN THANH TRA *(nếu có)*
+---
+## V. THÔNG TIN VỀ NGƯỜI CÓ LIÊN QUAN
+### 1. Danh sách người có liên quan của doanh nghiệp
+### BẢNG SỐ 6: DANH SÁCH VỀ NGƯỜI CÓ LIÊN QUAN CỦA DOANH NGHIỆP
+| TT | Tên tổ chức, cá nhân | Chức vụ *(nếu có)* | Địa chỉ trụ sở chính / địa chỉ liên hệ | Thời điểm bắt đầu là người có liên quan | Thời điểm không còn là người có liên quan | Lý do không còn là người có liên quan |
+|----|---------------------|--------------------|----------------------------------------|-----------------------------------------|-------------------------------------------|----------------------------------------|
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+| … |  |  |  |  |  |  |
+---
+### 2. Thông tin về giao dịch với các bên có liên quan
+### BẢNG SỐ 7: THỐNG KÊ VỀ CÁC GIAO DỊCH VỚI NGƯỜI CÓ LIÊN QUAN
+| TT | Tên tổ chức, cá nhân | Thời điểm giao dịch | Nội dung giao dịch | Giá trị giao dịch | Số Nghị quyết/Quyết định của HĐTV/HĐQT/ĐHĐCĐ thông qua |
+|----|---------------------|---------------------|--------------------|-------------------|-------------------------------------------------------|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| … |  |  |  |  |  |
+---
+### Giải thích
+- (2) Ghi rõ tên của bên thực hiện giao dịch.
+- (3) Thời gian bắt đầu thực hiện giao dịch.
+- (4) Ghi rõ nội dung giao dịch (ví dụ: Hợp đồng kinh tế, Hợp đồng cho vay, Hợp đồng đi vay…).
+- (5) Ghi rõ giá trị giao dịch (ví dụ: Tỷ đồng, nghìn USD…).
+- (6) Ghi rõ số, ngày tháng văn bản của cấp có thẩm quyền ban hành về việc thực hiện giao dịch.
+---
+## VI. TÌNH HÌNH SỬ DỤNG LAO ĐỘNG
+- Tổng số lao động của doanh nghiệp (người): ………
+- Mức lương trung bình người lao động/năm (triệu đồng): ………
+- Tiền thưởng, thu nhập khác của người lao động/người/năm (triệu đồng): ………

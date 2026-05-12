@@ -1,3 +1,73 @@
+# Byte-compiled / build / env
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Common document and binary data formats to ignore
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.rtf
+*.csv
+
+# Images and large media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.bmp
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Project-specific data/output directories (adjust as needed)
+raw/
+crawl/
+crawl_fix/
+crawled_docs/
+crawled_new/
+download_forms/
+downloaded_forms/
+excel/
+excel_output/
+format/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 # Python-generated files
 __pycache__/
 *.py[oc]

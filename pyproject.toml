@@ -8,4 +8,5 @@ dependencies = [
     "requests>=2.31.0",
     "beautifulsoup4>=4.12.0",
     "playwright>=1.40.0",
+    "markdownify>=1.2.2",
 ]

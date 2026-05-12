@@ -1,0 +1,332 @@
+Thông tư 51/2025/TT-BTC. BỘ TÀI CHÍNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 51/2025/TT-BTC
+Hà Nội, ngày 24 tháng 6 năm 2025 THÔNG TƯ QUY ĐỊNH THỦ TỤC VỀ GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU, QUÁ CẢNH VÀ PHƯƠNG TIỆN VẬN TẢI XUẤT CẢNH, NHẬP CẢNH, QUÁ CẢNH
+Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019;
+Căn cứ Luật Các tổ chức tín dụng ngày 18 tháng 01 năm 2024;
+Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023;
+Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu ngày 06 tháng 4 năm 2016;
+Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015;
+Căn cứ Luật Hải quan ngày 23 tháng 6 năm 2014;
+Căn cứ Luật Kế toán ngày 20 tháng 11 năm 2015;
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Xử lý vi phạm hành chính năm ngày 20 tháng 6 năm 2012; Luật sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính ngày 13 tháng 11 năm 2020;
+Căn cứ Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế; Nghị định số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP;
+Căn cứ Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước;
+Căn cứ Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ; Nghị định số 70/NĐ-CP ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP;
+Căn cứ Nghị định số 23/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định về chữ ký điện tử và dịch vụ tin cậy;
+Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử;
+Căn cứ Nghị định số 52/2024/NĐ-CP ngày 15 tháng 5 năm 2024 của Chính phủ quy định về thanh toán không dùng tiền mặt;
+Căn cứ Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Theo đề nghị của Cục trưởng Cục Hải quan;
+Bộ trưởng Bộ Tài chính ban hành Thông tư quy định thủ tục về giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh.
+
+Thông tư 51/2025/TT-BTC. 
+Chương I QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Thông tư này quy định thủ tục về giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh bao gồm:
+a) Thủ tục thu, nộp ngân sách nhà nước bằng phương thức điện tử đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh do cơ quan hải quan quản lý theo quy định của pháp luật;
+b) Thủ tục bảo lãnh khoản nộp ngân sách nhà nước theo quy định đối với hàng hóa xuất khẩu, nhập khẩu bằng phương thức điện tử.
+2. Các thủ tục giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh không thuộc quy định tại khoản 1 Điều này, được thực hiện theo quy định tại các văn bản quy phạm pháp luật về quản lý thuế, pháp luật về thuế xuất khẩu, thuế nhập khẩu và pháp luật khác có liên quan.
+
+Thông tư 51/2025/TT-BTC. Điều 2. Đối tượng áp dụng
+1. Người nộp thuế theo quy định tại điểm a, điểm b khoản 1 Điều 2 Luật Quản lý thuế.
+2. Cơ quan hải quan theo quy định tại điểm b khoản 2 Điều 2 Luật Quản lý thuế.
+3. Kho bạc Nhà nước các cấp.
+4. Ngân hàng thương mại, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài, chi nhánh ngân hàng nước ngoài hoạt động tại Việt Nam, các tổ chức tín dụng khác thành lập và hoạt động theo quy định của Luật Các tổ chức tín dụng (sau đây gọi là ngân hàng), tổ chức cung ứng dịch vụ trung gian thanh toán.
+5. Cơ quan, tổ chức, cá nhân khác có liên quan giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh quy định tại Thông tư này.
+
+Thông tư 51/2025/TT-BTC. Điều 3. Giải thích từ ngữ
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1. “Bảo lãnh khoản nộp ngân sách nhà nước bằng phương thức điện tử”: là hình thức phát hành thư bảo lãnh về tiền thuế, tiền chậm nộp, tiền phạt các khoản thu khác thuộc ngân sách nhà nước của ngân hàng bằng phương thức truyền nhận thông điệp dữ liệu bảo lãnh tiền thuế thông qua Cổng thanh toán điện tử hải quan (sau đây gọi là bảo lãnh thuế điện tử).
+2. “Nộp thuế bằng phương thức điện tử” (sau đây gọi là nộp thuế điện tử): gồm nộp tiền thuế, tiền chậm nộp, tiền phạt và các khoản thu khác thuộc ngân sách nhà nước bằng phương thức điện tử.
+3. “Cổng thanh toán điện tử hải quan”: là hệ thống kết nối, trao đổi, đối chiếu và cung cấp thông tin điện tử để phục vụ công tác thu, nộp thuế điện tử, bảo lãnh thuế điện tử giữa người nộp thuế, cơ quan hải quan, cơ quan Kho bạc Nhà nước, ngân hàng và tổ chức cung ứng dịch vụ trung gian thanh toán.
+4. “Cổng Thông tin điện tử hải quan”: là cổng Thông tin tích hợp giữa các hệ thống thông tin, ứng dụng và các dịch vụ liên quan đến hoạt động nghiệp vụ hải quan.
+5. “Hệ thống kế toán thuế tập trung”: là chương trình ứng dụng quản lý kế toán nghiệp vụ thuế và thu khác đối với hàng hóa xuất khẩu, nhập khẩu của cơ quan hải quan.
+6. “Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán”: là ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán nơi người nộp thuế thực hiện nộp tiền vào ngân sách nhà nước theo quy định của Luật Quản lý thuế.
+7. “Cổng trao đổi thông tin của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán”: là hệ thống kết nối, trao đổi thông tin, dữ liệu điện tử giữa ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán với Cục Hải quan để thực hiện thu, nộp thuế điện tử, bảo lãnh thuế điện tử, trao đổi các thông tin điện tử về người nộp thuế theo quy định của Luật Quản lý thuế.
+8. “Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu với cơ quan hải quan”: là ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán đã tham gia kết nối với Cổng thanh toán điện tử hải quan về thu, nộp thuế điện tử, bảo lãnh thuế điện tử, sau đây gọi là “ngân hàng/tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu”.
+9. “Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu với cơ quan hải quan”: là ngân hàng chưa tham gia kết nối với Cổng thanh toán điện tử hải quan về thu, nộp thuế điện tử bảo lãnh thuế điện tử, sau đây gọi là “ngân hàng/tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu”.
+10. “Mã ngân hàng sử dụng trong các hoạt động nghiệp vụ về giao dịch điện tử trong lĩnh vực thuế”: là một dãy ký tự do Ngân hàng Nhà nước cấp theo quy định tại Thông tư số 17/2015/TT-NHNN ngày 21 tháng 10 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng và Thông tư số 18/2023/TT-NHNN ngày 28 tháng 12 năm 2023 sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN.
+11. Thời điểm “cut off time”: là thời điểm tạm ngừng truyền, nhận thông tin chứng từ thu, nộp ngân sách nhà nước để đối chiếu số thu ngân sách nhà nước trong ngày giữa cơ quan hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán.
+
+Thông tư 51/2025/TT-BTC. Điều 4. Nguyên tắc giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh
+1. Người nộp thuế thực hiện giao dịch điện tử trong lĩnh vực thuế quy định tại Thông tư này phải có khả năng truy cập và sử dụng mạng Internet, có địa chỉ thư điện tử và có chữ ký số theo quy định tại Điều 6 Thông tư này.
+2. Người nộp thuế lựa chọn một trong các phương thức sau để thực hiện nộp thuế điện tử:
+a) Cổng thanh toán điện tử hải quan/phần mềm, công cụ hỗ trợ do cơ quan hải quan cung cấp thông qua Cổng thanh toán điện tử hải quan;
+b) Dịch vụ thanh toán điện tử của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán.
+3. Người nộp thuế lựa chọn bảo lãnh thuế điện tử của ngân hàng thì thực hiện theo hướng dẫn của ngân hàng.
+4. Người nộp thuế lựa chọn một trong các phương thức sau để lập chứng từ nộp ngân sách nhà nước
+a) Người nộp thuế truy cập Cổng thanh toán điện tử hải quan hoặc phần mềm, công cụ hỗ trợ do cơ quan hải quan cung cấp;
+b) Người nộp thuế truy cập vào ứng dụng thanh toán điện tử của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán.
+5. Cơ quan hải quan xây dựng, quản lý, vận hành hệ thống tiếp nhận và xử lý dữ liệu thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh bảo đảm an ninh, an toàn, bảo mật và liên tục.
+Tổ chức, cá nhân khi tham gia trao đổi thông tin về giao dịch điện tử trong lĩnh vực thuế phải giữ bí mật thông tin người nộp thuế theo quy định tại Điều 99 Luật Quản lý thuế.
+
+Thông tư 51/2025/TT-BTC. Điều 5. Chứng từ giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh
+1. Chứng từ điện tử gồm:
+a) Chứng từ nộp ngân sách nhà nước theo quy định tại Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước dưới dạng điện tử;
+b) Bảo lãnh điện tử các khoản phải nộp ngân sách nhà nước do ngân hàng bảo lãnh phát hành gửi đến Cổng thanh toán điện tử hải quan;
+c) Các chứng từ điện tử theo quy định tại khoản này phải được ký số theo quy định tại Điều 6 Thông tư này. Trường hợp các tài liệu kèm theo ở dạng chứng từ giấy phải được chuyển đổi sang dạng điện tử theo quy định của pháp luật về giao dịch điện tử.
+2. Chứng từ điện tử theo quy định tại Thông tư này có giá trị như chứng từ bằng giấy.
+3. Lưu trữ chứng từ điện tử thực hiện theo quy định tại Điều 21 Luật Giao dịch điện tử.
+
+Thông tư 51/2025/TT-BTC. Điều 6. Chữ ký số giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh
+1. Trong thực hiện giao dịch điện tử trong lĩnh vực thuế, người nộp thuế phải sử dụng chữ ký số đang còn hiệu lực theo quy định của pháp luật về giao dịch điện tử để ký các chứng từ điện tử, trừ các trường hợp sau:
+a) Người nộp thuế là cá nhân đã có mã số thuế chưa được cấp chữ ký số;
+b) Người nộp thuế lựa chọn phương thức nộp thuế điện tử quy định tại điểm b khoản 2 Điều 4 Thông tư này thực hiện theo quy định của pháp luật về thanh toán không dùng tiền mặt.
+2. Người nộp thuế đăng ký chữ ký số với cơ quan hải quan theo quy định pháp luật về giao dịch điện tử, pháp luật về quản lý thuế để thực hiện nộp thuế điện tử trên Cổng thanh toán điện tử hải quan.
+3. Khi có thay đổi thông tin đã đăng ký với cơ quan hải quan, người nộp thuế thực hiện khai thay đổi thông tin trên Cổng thanh toán điện tử hải quan hoặc gửi thông tin thay đổi đến cơ quan hải quan để cập nhật thông tin trên hệ thống.
+
+Thông tư 51/2025/TT-BTC. 
+Chương II GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU, QUÁ CẢNH VÀ PHƯƠNG TIỆN VẬN TẢI XUẤT CẢNH, NHẬP CẢNH, QUÁ CẢNH DO CƠ QUAN HẢI QUAN QUẢN LÝ
+Mục 1. THỦ TỤC THU, NỘP NGÂN SÁCH NHÀ NƯỚC, BẢO LÃNH THUẾ BẰNG PHƯƠNG THỨC ĐIỆN TỬ
+Điều 7. Nộp thuế điện tử qua Cổng thanh toán điện tử hải quan
+1. Người nộp thuế thực hiện lập chứng từ nộp ngân sách nhà nước
+a) Người nộp thuế truy cập vào Cổng thanh toán điện tử hải quan tra cứu thông tin khoản phải nộp và lựa chọn khoản nộp ngân sách nhà nước, hệ thống hỗ trợ lập giấy nộp tiền vào ngân sách nhà nước theo mẫu ban hành kèm theo Nghị định số 11/2020/NĐ-CP.
+Người nộp thuế kiểm tra thông tin trên chứng từ nộp ngân sách nhà nước, lựa chọn ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước và ký số để yêu cầu trích tiền nộp ngân sách nhà nước.
+Trường hợp tiền thuế phải nộp vào tài khoản thu khác nhau, thì lập riêng giấy nộp tiền vào ngân sách nhà nước tương ứng với từng tài khoản thu;
+b) Đối với khoản nộp chưa có trên Cổng thanh toán điện tử hải quan mà người nộp thuế lựa chọn lập chứng từ nộp ngân sách nhà nước, người nộp thuế lập đầy đủ thông tin trên chứng từ nộp ngân sách nhà nước, lựa chọn ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước và ký số để yêu cầu trích tiền nộp ngân sách nhà nước;
+c) Trường hợp người nộp thuế nộp tiền phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, người nộp thuế cập nhật thông tin số tờ khai đại diện 9999999999 (10 số 9), tổng số tiền phí, lệ phí phải nộp trên giấy nộp tiền vào ngân sách nhà nước và ký số để yêu cầu ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước trích tiền nộp ngân sách nhà nước.
+2. Xử lý chứng từ nộp ngân sách nhà nước lập trên Cổng thanh toán điện tử hải quan
+a) Cổng thanh toán điện tử hải quan tự động tạo số hoặc mã vạch trên chứng từ nộp ngân sách nhà nước và truyền thông tin nộp ngân sách nhà nước đến ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước nơi người nộp thuế lựa chọn trích tiền;
+b) Khi nhận thông tin chứng từ nộp ngân sách nhà nước, ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện trích chuyển tiền vào tài khoản của Kho bạc Nhà nước mở tại ngân hàng ủy nhiệm thu theo quy định tại Điều 56 Luật Quản lý thuế và truyền ngay dữ liệu thông tin thu đến Cổng thanh toán điện tử hải quan; cấp chứng từ nộp ngân sách nhà nước cho người nộp thuế ngay sau khi thực hiện thành công việc trích tiền nộp ngân sách nhà nước.
+Trường hợp không thể hoàn tất thủ tục trong ngày giao dịch, ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện chuyển trước 10 giờ ngày giao dịch tiếp theo. Đối với ngày làm việc cuối cùng của năm phải phối hợp với ngân hàng ủy nhiệm thu để hạch toán và truyền chứng từ ngay trong ngày làm việc cuối cùng của năm;
+c) Khi nhận thông tin chứng từ nộp ngân sách nhà nước, Kho bạc Nhà nước thực hiện trích chuyển tiền vào tài khoản thu ngân sách nhà nước và truyền ngay dữ liệu thông tin thu đến Cổng thanh toán điện tử hải quan;
+d) Trường hợp tài khoản mà người nộp thuế lựa chọn để trích tiền không đủ để trích nợ hoặc chưa phù hợp các thông tin liên quan, ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước phản hồi thông tin đến người nộp thuế để chỉnh sửa, bổ sung và gửi phản hồi thông tin đến Cổng thanh toán điện tử hải quan về yêu cầu trích tiền không thành công.
+3. Kiểm tra thông tin nộp ngân sách nhà nước do ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước gửi qua Cổng thanh toán điện tử hải quan
+a) Cổng thanh toán điện tử hải quan tự động đối soát thông tin nộp ngân sách nhà nước do ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước gửi đến với thông tin người nộp thuế đã lập theo quy định tại Khoản 1 Điều này; trường hợp đúng với thông tin đã lập thì hệ thống kế toán thuế tập trung của cơ quan hải quan tự động hạch toán thanh khoản nợ, xác nhận hoàn thành nghĩa vụ thuế, tính tiền chậm nộp (nếu có) theo quy định.
+Trường hợp người nộp thuế nộp phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, hệ thống kế toán thuế tập trung sẽ tự động trừ lùi số tiền phí, lệ phí phải thu theo nguyên tắc tờ khai có thời gian nợ phí, lệ phí xa nhất sẽ được trừ nợ trước;
+b) Trường hợp thông tin nộp ngân sách nhà nước do ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước gửi qua Cổng thanh toán điện tử hải quan có sai, sót, Cổng thanh toán điện tử hải quan thông báo mã lỗi cho ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước và từ chối cập nhật thông tin nộp tiền vào hệ thống xử lý dữ liệu điện tử hải quan. Sau khi ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán hoặc Kho bạc Nhà nước đã chỉnh, sửa thông tin phù hợp, hệ thống kế toán thuế tập trung của cơ quan hải quan tự động hạch toán thanh khoản nợ, xác nhận hoàn thành nghĩa vụ thuế, tính tiền chậm nộp (nếu có) theo quy định.
+4. Đối với thông tin chuyển tiền do ngân hàng ủy nhiệm thu chuyển đến, Kho bạc Nhà nước thực hiện hạch toán kế toán số tiền phát sinh vào tài khoản thu ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước, đồng then truyền bảng kê chứng từ nộp ngân sách nhà nước cho cơ quan hải quan theo quy định.
+5. Sau khi nhận được thông tin hạch toán thu nộp tiền thuế do Kho bạc Nhà nước gửi đến qua trung tâm dữ liệu của Bộ Tài chính, hệ thống kế toán thuế tập trung của cơ quan hải quan cập nhật thông tin và hạch toán kế toán thanh toán với ngân sách nhà nước theo quy định.
+6. Trường hợp hệ thống đường truyền có sự cố, các đơn vị xử lý theo quy định tại Điều 15 Thông tư này.
+
+Thông tư 51/2025/TT-BTC. Điều 8. Nộp thuế điện tử qua ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu
+1. Người nộp thuế truy cập vào Cổng trao đổi thông tin của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán lựa chọn nộp ngân sách nhà nước và thực hiện lập chứng từ nộp ngân sách nhà nước theo mẫu ban hành kèm theo Nghị định số 11/2020/NĐ-CP.
+Trường hợp người nộp thuế nộp tiền phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, người nộp thuế thực hiện theo điểm c khoản 1 Điều 7 Thông tư này.
+2. Hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán đối chiếu thông tin chứng từ nộp ngân sách nhà nước của người nộp thuế lập với thông tin truy vấn trên Cổng thanh toán điện tử hải quan
+a) Trường hợp thông tin được lập phù hợp với thông tin truy vấn trên Cổng thanh toán điện tử hải quan, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán trích tiền của người nộp thuế theo quy định tại điểm c khoản 2 Điều 7 Thông tư này;
+b) Trường hợp thông tin được lập chưa phù hợp với thông tin truy vấn trên Cổng thanh toán điện tử hải quan (trừ thông tin về số tiền), hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phản hồi thông tin để người nộp thuế sửa đổi, bổ sung trước khi trích chuyển tiền theo quy định tại điểm c khoản 2 Điều 7 Thông tư này.
+Trường hợp thông tin được lập chưa phù hợp về số tiền trên Cổng thanh toán điện tử hải quan, hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phản hồi thông tin để người nộp thuế và trích chuyển tiền theo quy định tại điểm c khoản 2 Điều 7 Thông tư này;
+c) Trường hợp thông tin người nộp thuế được lập không có trên Cổng thanh toán điện từ hải quan, hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phản hồi thông tin cho người nộp thuế.
+Người nộp thuế thực hiện kiểm tra, sửa đổi, bổ sung thông tin hoặc phản hồi trên Cổng Thông tin điện tử hải quan để được hỗ trợ. Ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán trích chuyển tiền theo quy định tại điểm c khoản 2 Điều 7 Thông tư này;
+d) Trường hợp hệ thống không truyền nhận được thông tin nộp ngân sách nhà nước giữa Cổng thanh toán điện tử hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, người nộp thuế cung cấp chứng từ nộp ngân sách nhà nước được lập trên Cổng Thông tin điện tử hải quan, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán sử dụng máy quét thông tin mã vạch để lấy toàn bộ thông tin chứng từ nộp ngân sách nhà nước và thực hiện các bước tiếp theo như quy định tại điểm a khoản 2 Điều này.
+3. Hệ thống xử lý dữ liệu điện tử hải quan kiểm tra thông tin do ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán gửi đến và thực hiện theo quy định tại khoản 3, khoản 4, khoản 5 và khoản 6 Điều 7 Thông tư này.
+
+Thông tư 51/2025/TT-BTC. Điều 9. Nộp thuế điện tử qua ngân hàng phối hợp thu đồng thời có ủy nhiệm thu với Kho bạc Nhà nước
+1. Người nộp thuế truy cập vào Cổng trao đổi thông tin của ngân hàng và thực hiện lập chứng từ nộp ngân sách nhà nước theo mẫu ban hành kèm theo Nghị định số 11/2020/NĐ-CP.
+Trường hợp người nộp thuế nộp tiền phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, người nộp thuế thực hiện theo điểm c khoản 1 Điều 7 Thông tư này.
+a) Trường hợp thông tin được lập phù hợp với thông tin truy vấn trên Cổng thanh toán điện tử hải quan, ngân hàng thực hiện trích tiền của người nộp thuế và truyền ngay thông tin thu đến Cổng thanh toán điện tử hải quan;
+b) Trường hợp thông tin được lập chưa phù hợp với thông tin truy vấn trên Cổng thanh toán điện tử hải quan (trừ thông tin về số tiền), hệ thống của ngân hàng phản hồi thông tin cho người nộp thuế sửa đổi, bổ sung thông tin trước khi trích tiền của người nộp thuế và truyền ngay thông tin thu đến Cổng thanh toán điện tử hải quan;
+Trường hợp thông tin được lập chưa phù hợp về số tiền trên Cổng thanh toán điện tử hải quan, hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phản hồi thông tin để người nộp thuế và trích chuyển tiền theo quy định tại điểm c khoản 2 Điều 7 Thông tư này;
+c) Trường hợp thông tin người nộp thuế lập không có trên Cổng thanh toán điện tử hải quan, hệ thống của ngân hàng phản hồi thông tin cho người nộp thuế. Người nộp thuế thực hiện kiểm tra, sửa đổi, bổ sung thông tin hoặc phản hồi trên Cổng Thông tin điện tử hải quan trước khi trích chuyển tiền và truyền ngay thông tin thu đến Cổng thanh toán điện tử hải quan;
+d) Trường hợp hệ thống không truyền nhận được thông tin nộp ngân sách nhà nước giữa Cổng thanh toán điện tử hải quan và ngân hàng, người nộp thuế cung cấp chứng từ nộp ngân sách nhà nước được lập trên Cổng Thông tin điện tử hải quan, ngân hàng sử dụng máy quét thông tin mã vạch để lấy toàn bộ thông tin chứng từ nộp ngân sách nhà nước và thực hiện các bước tiếp theo như quy định tại điểm a, điểm b khoản 1 Điều này;
+đ) Sau khi nhận chứng từ nộp tiền liên ngân hàng, ngân hàng kiểm tra thông tin trên lệnh chuyển tiền, đối chiếu với thông tin truy vấn trên Cổng thanh toán điện tử hải quan, trình tự xử lý theo quy định tại điểm a, điểm b, điểm c khoản 1 Điều này. Trường hợp có sai, sót thì xử lý theo quy định tại Điều 16, Điều 17, Điều 19 Thông tư này;
+e) Trường hợp người nộp thuế nộp tiền phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, người nộp thuế thực hiện theo điểm c khoản 1 Điều 7 Thông tư này.
+2. Hệ thống kế toán thuế tập trung tự động kiểm tra thông tin do ngân hàng gửi qua Cổng thanh toán điện tử hải quan và thực hiện theo quy định tại khoản 3 Điều 7 Thông tư này.
+3. Sau khi nhận được thông tin do ngân hàng chuyển đến, Kho bạc Nhà nước thực hiện hạch toán kế toán số tiền phát sinh vào tài khoản thu ngân sách nhà nước hoặc tài khoản tiền gửi của cơ quan hải quan theo quy định, đồng thời truyền bảng kê chứng từ nộp ngân sách nhà nước cho cơ quan hải quan theo quy định.
+4. Sau khi nhận được thông tin hạch toán thu nộp tiền thuế do Kho bạc Nhà nước gửi đến, cơ quan hải quan cập nhật thông tin và hạch toán kế toán thanh toán với ngân sách nhà nước theo quy định.
+5. Trường hợp hệ thống đường truyền dữ liệu giữa ngân hàng và Cổng thanh toán điện tử hải quan có sự cố, các đơn vị thực hiện theo quy định tại Điều 15 Thông tư này.
+
+Thông tư 51/2025/TT-BTC. Điều 10. Nộp thuế điện tử qua ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu với cơ quan hải quan
+1. Người nộp thuế lập chứng từ nộp ngân sách nhà nước theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số 11/2020/NĐ-CP trên hệ thống ứng dụng của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu với cơ quan hải quan.
+Trường hợp người nộp thuế nộp tiền phí hải quan, lệ phí hàng hóa, phương tiện vận tải quá cảnh cho nhiều tờ khai, người nộp thuế thực hiện theo điểm c khoản 1 Điều 7 Thông tư này.
+2. Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu với cơ quan hải quan chuyển tiền và truyền đầy đủ thông tin trên chứng từ giao dịch nộp ngân sách nhà nước đến ngân hàng nơi Kho bạc Nhà nước mở tài khoản.
+3. Ngân hàng nơi Kho bạc Nhà nước mở tài khoản truyền đầy đủ thông tin chứng từ nộp ngân sách nhà nước đến Cổng thanh toán điện tử hải quan và thực hiện theo quy định tại khoản 2, khoản 3, khoản 4, khoản 5 Điều 9 Thông tư này.
+
+Thông tư 51/2025/TT-BTC. Điều 11. Cấp chứng từ nộp ngân sách nhà nước
+1. Kho bạc Nhà nước, ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện cấp chứng từ nộp ngân sách nhà nước cho người nộp thuế theo quy định tại Điều 4 Nghị định số 11/2020/NĐ-CP;
+Điều 31 Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, được sửa đổi bổ sung tại khoản 17 Điều 1 Nghị định số 70/NĐ-CP ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP.
+2. Trường hợp người nộp thuế có đề nghị Kho bạc Nhà nước nơi người nộp thuế trích tài khoản cấp chứng từ nộp ngân sách nhà nước phục hồi, Kho bạc Nhà nước thực hiện cấp bản sao chứng từ nộp ngân sách nhà nước hoặc chứng từ nộp ngân sách nhà nước phục hồi theo quy định tại Nghị định số 11/2020/NĐ-CP.
+
+Thông tư 51/2025/TT-BTC. Điều 12. Bảo lãnh thuế điện tử
+1. Bảo lãnh khoản nộp ngân sách nhà nước đối với hàng hóa xuất khẩu, nhập khẩu được thực hiện theo quy định của Luật Quản lý thuế, Luật Thuế xuất khẩu, thuế nhập khẩu.
+Khi phát hành bảo lãnh thuế điện tử, ngân hàng phối hợp thu thực hiện:
+a) Chuyển thông tin thư bảo lãnh thuế điện tử qua Cổng thanh toán điện tử hải quan. Trường hợp thông tin thư bảo lãnh thuế điện tử truyền không phù hợp (về mã số thuế, số tờ khai hoặc số hóa đơn và/hoặc số vận đơn, số hiệu và ký hiệu bảo lãnh thuế, mã ngân hàng phối hợp thu cấp thư bảo lãnh thuế), hệ thống xử lý dữ liệu điện tử hải quan từ chối cập nhật thông tin bảo lãnh thuế;
+b) Cấp cho người nộp thuế thư bảo lãnh thuế điện tử đảm bảo đầy đủ thông tin để người nộp thuế khai tờ khai hải quan.
+2. Hệ thống xử lý dữ liệu điện tử hải quan kiểm tra thông tin bảo lãnh điện tử do ngân hàng phối hợp thu chuyển qua Cổng thanh toán điện tử hải quan với thông tin thư bảo lãnh do người nộp thuế khai báo trên tờ khai hải quan.
+a) Trường hợp thông tin phù hợp (về mã số thuế, số tờ khai hoặc số hóa đơn và/hoặc số vận đơn, số hiệu và ký hiệu bảo lãnh thuế, mã ngân hàng phối hợp thu cấp thư bảo lãnh thuế), hệ thống xử lý dữ liệu điện tử hải quan tự động xác nhận thực hiện nghĩa vụ thuế bằng sử dụng bảo lãnh;
+b) Trường hợp thông tin không phù hợp, hệ thống không xác nhận thực hiện nghĩa vụ thuế bằng sử dụng bảo lãnh và phản hồi lý do cho người nộp thuế.
+3. Ngân hàng phối hợp thu theo dõi tình hình sử dụng bảo lãnh thuế điện tử trên Cổng thanh toán điện tử hải quan.
+4. Trường hợp ngân hàng phát hành bảo lãnh đề nghị dừng sử dụng bảo lãnh chung (hủy ngang), cơ quan hải quan thực hiện dừng ngay việc sử dụng bảo lãnh chung đó trên hệ thống khi nhận được văn bản đề nghị và thông báo cho ngân hàng về việc tiếp nhận văn bản đề nghị và thời gian cơ quan hải quan dừng sử dụng bảo lãnh.
+Cơ quan hải quan thông báo với ngân hàng chính thức chấp thuận dừng bảo lãnh chung sau khi tiền thuế, tiền chậm nộp, tiền phạt (nếu có) của các tờ khai đã sử dụng bảo lãnh chung đó được nộp đủ vào ngân sách nhà nước.
+5. Ngân hàng chưa phối hợp thu nơi thực hiện bảo lãnh khoản nộp ngân sách nhà nước đối với hàng hóa xuất khẩu, nhập khẩu được thực hiện theo quy định của pháp luật về quản lý thuế và pháp luật về thuế xuất khẩu, thuế nhập khẩu.
+Mục II. TRAO ĐỔI, XỬ LÝ THÔNG TIN GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC THUẾ ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU
+
+Thông tư 51/2025/TT-BTC. Điều 13. Thông tin trao đổi, cung cấp giữa cơ quan hải quan, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán
+1. Cơ quan hải quan cung cấp thông tin phục vụ bảo lãnh, thu, nộp ngân sách nhà nước qua Cổng thanh toán điện tử hải quan.
+a) Cơ quan hải quan có trách nhiệm cập nhật, bổ sung đầy đủ, chính xác, kịp thời thông tin chung, Danh mục Kho bạc Nhà nước, Danh mục cơ quan hải quan, Danh mục ngân hàng ủy nhiệm thu, Danh mục ngân hàng phối hợp thu, Danh mục tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu ngân sách nhà nước với cơ quan hải quan, Danh mục tài khoản thu ngân sách nhà nước, Danh mục mã tiểu mục (mã nội dung kinh tế) của mục lục ngân sách nhà nước;
+b) Cung cấp đầy đủ, kịp thời, chính xác thông tin dữ liệu về khoản nộp ngân sách nhà nước trên Cổng thanh toán điện tử hải quan bao gồm các thông tin sau: Mã số thuế của người nộp thuế, tên người nộp thuế, nội dung khoản phải nộp, số tiền phải nộp, loại tiền, số tờ khai, số quyết định/thông báo của cơ quan có thẩm quyền đối với khoản phải nộp (nếu có), tên tài khoản nộp ngân sách nhà nước, mã và tên chương, mã và tên tiểu mục, mã và tên cơ quan thu, mã và tên Kho bạc Nhà nước hạch toán thu;
+c) Cung cấp, đăng tải và cập nhật kịp thời các thông tin liên quan đến danh mục ngân hàng phối hợp thu, chuẩn kết nối, mã định danh và mã tham chiếu trên Cổng Thông tin điện tử hải quan;
+d) Cung cấp một số thông tin tờ khai hải quan phục vụ thanh toán quốc tế qua Cổng thanh toán điện tử hải quan cho các ngân hàng phối hợp thu;
+đ) Hạch toán trừ nợ, xác nhận hoàn thành nghĩa vụ thuế và tính tiền chậm nộp (nếu phát sinh) ngay sau khi nhận thông tin nộp tiền điện tử do ngân hàng phối hợp thu, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu, Kho bạc Nhà nước truyền qua Cổng thanh toán điện tử hải quan.
+2. Hình thức trao đổi, cung cấp thông tin
+a) Việc trao đổi, cung cấp thông tin giữa cơ quan hải quan với Kho bạc Nhà nước, cơ quan nhà nước có thẩm quyền khác, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán được thực hiện theo hình thức truyền nhận dữ liệu điện tử giữa Cổng thanh toán điện tử hải quan và Cổng Thông tin điện tử hoặc hệ thống trao đổi, cung cấp thông tin của Kho bạc Nhà nước, các cơ quan nhà nước có thẩm quyền, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;
+b) Xây dựng hệ thống kết nối thông tin, cung cấp thông tin điện tử bảo đảm an ninh, an toàn, bảo mật và liên tục theo quy định tại khoản 7 Điều 8 Luật Quản lý thuế.
+3. Ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán sau khi trích tiền của người nộp thuế, truyền ngay dữ liệu thông tin thu theo đúng định dạng thống nhất (một thông điệp truyền sang Cổng thanh toán điện tử hải quan theo từng tờ khai hoặc nhiều tờ khai, từng hồ sơ hoặc nhiều hồ sơ tương ứng với một giấy nộp tiền) đến Cổng thanh toán điện tử hải quan.
+
+Thông tư 51/2025/TT-BTC. Điều 14. Kết nối kỹ thuật giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán
+1. Cục Hải quan thực hiện công khai tiêu chuẩn kỹ thuật trên Trang thông tin điện tử (www.customs.gov.vn), khung thỏa thuận phối hợp thu ngân sách nhà nước; Cổng thanh toán điện tử hải quan và có trách nhiệm cập nhật nếu có thay đổi.
+2. Ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan gửi đề nghị kết nối đến Cục Hải quan.
+3. Đề nghị kết nối với Cổng thanh toán điện tử hải quan bao gồm:
+a) Văn bản đề nghị kết nối với Cổng thanh toán điện tử hải quan (theo mẫu số 01/KNNT-TTĐT ban hành kèm theo Thông tư này);
+b) Tài liệu chứng minh về việc đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan.
+4. Tiếp nhận, xử lý văn bản đề nghị kết nối với Cổng thanh toán điện tử hải quan
+a) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị kết nối của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, Cục Hải quan thực hiện kiểm tra các tài liệu và có thông báo gửi cho ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán về việc đảm bảo, hoặc chưa đảm bảo các điều kiện về kết nối với Cổng thanh toán điện tử hải quan, hoặc yêu cầu bổ sung thông tin theo mẫu số 02/TBKN-TTĐT ban hành kèm theo Thông tư này;
+b) Trường hợp đáp ứng các điều kiện về kết nối, kể từ ngày Cục Hải quan thông báo về việc đảm bảo kết nối, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện các thủ tục kết nối kỹ thuật với Cổng thanh toán điện tử hải quan;
+c) Sau khi đã kết nối kỹ thuật thành công, Cục Hải quan thực hiện kiểm tra thực tế việc đáp ứng tiêu chuẩn kỹ thuật kết nối tại ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán và ký Biên bản kiểm tra. Nếu Biên bản kiểm tra có kết quả là đáp ứng tiêu chuẩn kết nối thì Cục Hải quan ký văn bản thỏa thuận với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán. Nếu Biên bản kiểm tra có kết quả là không đáp ứng các tiêu chuẩn kết nối thì Cục Hải quan có văn bản thông báo từ chối ký thỏa thuận và nêu rõ lý do.
+Trong thời hạn 05 ngày làm việc kể từ ngày ký Biên bản kiểm tra với kết quả là đạt, Cục Hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thống nhất nội dung, thời gian ký thỏa thuận;
+d) Chậm nhất 10 ngày làm việc sau khi ký thỏa thuận, Cục Hải quan có Thông báo công khai bổ sung danh sách ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán tham gia kết nối với Cổng thanh toán điện tử hải quan (sau đây gọi chung là tổ chức đã tham gia kết nối) trên Trang thông tin điện tử (www.customs.gov.vn); Cổng thanh toán điện tử hải quan.
+5. Thay đổi, bổ sung thông tin đã ký thỏa thuận
+a) Trong quá trình trao đổi, cung cấp thông tin, tổ chức đã tham gia kết nối với Cổng thanh toán điện tử hải quan có thay đổi, bổ sung thông tin đã ký thỏa thuận thì trong thời hạn 10 ngày làm việc kể từ ngày phát sinh thay đổi tổ chức đã tham gia kết nối phải gửi văn bản theo mẫu số 01/KNNT-TTĐT ban hành kèm theo Thông tư này kèm theo các tài liệu liên quan đến nội dung thay đổi đến Cục Hải quan;
+b) Trường hợp các thay đổi liên quan đến văn bản thỏa thuận đã ký thì hai bên phải ký phụ lục văn bản thỏa thuận bổ sung;
+c) Trường hợp các thay đổi liên quan đến tiêu chuẩn kỹ thuật ảnh hưởng đến việc kết nối thì Cục Hải quan có thể kiểm tra lại thực tế tại ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán về các tiêu chuẩn kết nối trước khi ký phụ lục văn bản thỏa thuận bổ sung;
+d) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đầy đủ thông tin bổ sung và kèm theo (nếu có) hoặc ký biên bản kiểm tra với kết quả đạt, Cục Hải quan và tổ chức đã tham gia kết nối thống nhất nội dung, thời gian ký thỏa thuận bổ sung.
+6. Ngừng kết nối với Cổng thanh toán điện tử hải quan
+a) Trường hợp tổ chức đã tham gia kết nối với Cổng thanh toán điện tử hải quan tạm ngừng/ngừng cung cấp dịch vụ liên quan đến thu, nộp thuế thì:
+Tổ chức đã tham gia kết nối phải gửi thông báo cho người nộp thuế có liên quan và Cục Hải quan bằng văn bản trước thời hạn tạm ngừng/ngừng cung cấp dịch vụ 30 ngày (trường hợp tạm ngừng phải ghi rõ thời điểm tạm ngừng và thời điểm dự kiến bắt đầu trở lại hoạt động). Trường hợp ngừng cung cấp dịch vụ thì hai bên ký biên bản chấm dứt thỏa thuận trong vòng 10 ngày làm việc kể từ ngày Cục Hải quan nhận được thông báo ngừng cung cấp dịch vụ của tổ chức đã tham gia kết nối.
+Ngay sau khi nhận được thông báo tạm ngừng/ngừng cung cấp dịch vụ của tổ chức đã tham gia kết nối, Cục Hải quan thực hiện tạm ngừng/ngừng kết nối và thông báo công khai trên Trang thông tin điện tử (www.customs.gov.vn); Cổng thanh toán điện tử hải quan;
+b) Cục Hải quan chủ động tạm ngừng/chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối trong các trường hợp sau:
+b.1) Trường hợp tổ chức đã tham gia kết nối bị giải thể; bị thu hồi giấy chứng nhận đăng ký doanh nghiệp hoặc giấy phép thành lập hoặc giấy phép khác liên quan đến hoạt động của tổ chức; bị tuyên bố phá sản theo quy định của pháp luật thì kể từ thời điểm ban hành thông báo của cơ quan có thẩm quyền, Cục Hải quan chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối;
+b.2) Trường hợp qua kiểm tra Cục Hải quan phát hiện tổ chức đã tham gia kết nối không đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan; hoặc vi phạm các quy định về kết nối; hoặc vi phạm các quy định tại Quy chế trao đổi, cung cấp thông tin phục vụ thu ngân sách nhà nước của Cục Hải quan; hoặc vi phạm các quy định của pháp luật về giao dịch điện tử.
+Căn cứ vào mức độ vi phạm qua kiểm tra, Cục Hải quan có quyền tạm ngừng có thời hạn/chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối;
+b.3) Khi chủ động tạm ngừng/chấm dứt kết nối, Cục Hải quan có văn bản gửi cho tổ chức đã tham gia kết nối được biết và thực hiện ngừng kết nối với hệ thống trao đổi thông tin của tả chức, đồng thời công bố công khai trên Trang thông tin điện tử (www.customs.gov.vn) và Cổng thanh toán điện tử hải quan.
+
+Thông tư 51/2025/TT-BTC. Điều 15. Xử lý thông tin khi hệ thống của cơ quan hải quan, Kho bạc Nhà nước, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu gặp sự cố
+1. Cơ quan hải quan, Kho bạc Nhà nước, ngân hàng phối hợp thu, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu phải đăng ký Email nội bộ để thông báo các thông tin liên quan đến thu nộp ngân sách nhà nước.
+2. Khi hệ thống gặp sự cố, các bên liên quan có trách nhiệm tìm nguyên nhân xảy ra sự cố, trong vòng 01 (một) giờ làm việc các bên liên quan thông báo nội bộ và cho người nộp thuế để xử lý.
+3. Căn cứ chứng từ nộp ngân sách nhà nước do người nộp thuế cung cấp và thông tin do ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, Kho bạc Nhà nước cung cấp, cơ quan hải quan nơi quản lý khoản thu quyết định xác nhận hoàn thành nghĩa vụ thuế.
+4. Sau khi khắc phục sự cố đường truyền, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, Kho bạc Nhà nước truyền lại toàn bộ thông tin thu đã cấp giấy nộp tiền vào ngân sách nhà nước cho người nộp thuế sang Cổng thanh toán điện tử hải quan theo quy định.
+5. Khi nhận lại thông tin nộp tiền qua Cổng thanh toán điện tử hải quan, cơ quan hải quan thực hiện hạch toán trừ nợ cho người nộp thuế.
+
+Thông tư 51/2025/TT-BTC. Điều 16. Đối chiếu số liệu và xử lý sai, sót trong đối chiếu giữa cơ quan hải quan với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán
+1. Nội dung đối chiếu
+a) Đối chiếu chi tiết thông tin chứng từ nộp ngân sách nhà nước, chứng từ nộp vào tài khoản thu phí, lệ phí với đầy đủ các chỉ tiêu thông tin trên thông điệp nộp tiền;
+b) Đối chiếu tổng số chứng từ nộp ngân sách nhà nước, chứng từ nộp phí hải quan, lệ phí hàng hóa, phương tiện quá cảnh, tổng số tiền theo mục lục ngân sách nhà nước hoặc loại phí, lệ phí, chi tiết theo cơ quan hải quan, Kho bạc Nhà nước địa phương, hoặc chi tiết theo cơ quan quản lý; bảng kê đối chiếu;
+c) Đối chiếu chi tiết thông tin bảo lãnh thuế (bao gồm các thông tin của thông điệp bảo lãnh riêng và bảo lãnh chung) với đầy đủ các chỉ tiêu ghi trên thư bảo lãnh thuế theo quy định của Luật Quản lý thuế, Luật Thuế xuất khẩu, thuế nhập khẩu;
+d) Đối chiếu tổng số các loại bảo lãnh thuế, tổng số tiền, chi tiết theo cơ quan hải quan;
+đ) Bảng kê thông tin đối chiếu thực hiện theo mẫu số 03/BKĐCNS-NH (đối với tiền thuế) hoặc mẫu số 04/BKĐCPHI (đối với tiền phí) ban hành kèm theo Thông tư này.
+2. Phạm vi đối chiếu: Cục Hải quan và Hội sở ngân hàng phối hợp thu, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu thực hiện đối chiếu toàn bộ thông tin, trao đổi thông tin qua Cổng thanh toán điện tử hải quan với hệ thống của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán.
+Toàn bộ thông tin giấy nộp tiền vào ngân sách nhà nước, giấy nộp tiền vào tài khoản tiền gửi chuyên dùng thu phí, lệ phí và các khoản thu khác, thông tin bảo lãnh thuế phát sinh từ 16:00:00 giờ ngày làm việc liền trước đến 16:00:00 giờ của ngày làm việc tính theo giờ của Cổng thanh toán điện tử hải quan.
+3. Phương thức đối chiếu: cơ quan hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu thực hiện đối chiếu, trao đổi thông tin bằng phương thức điện tử qua Cổng thanh toán điện tử hải quan. Trường hợp có phát sinh chênh lệch, hai bên phối hợp để xử lý.
+4. Thời điểm thực hiện đối chiếu:
+Đối chiếu hàng ngày: được thực hiện sau 16:00:00 giờ của ngày đối chiếu. Nội dung đối chiếu theo quy định tại khoản 1 Điều này.
+Trường hợp ngày đối chiếu vào ngày nghỉ, ngày lễ, hệ thống các bên tự động xử lý, nếu có chênh lệch thì phải xử lý vào ngày làm việc tiếp theo.
+Riêng ngày cuối năm phải đối chiếu toàn bộ thông tin giấy nộp tiền vào ngân sách nhà nước phát sinh đến 23:59:59 giờ của ngày làm việc tính theo giờ của Cổng thanh toán điện tử hải quan.
+5. Xử lý kết quả thông tin đối chiếu:
+a) Trường hợp thông tin đối chiếu khớp đúng: cơ quan hải quan xác nhận với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán qua Cổng thanh toán điện tử hải quan;
+b) Trường hợp thông tin đối chiếu chưa khớp đúng:
+các bên phải rà soát, phối hợp xác định nguyên nhân và xử lý đến khi khớp đúng;
+c) Trường hợp không nhận được thông tin giấy nộp tiền vào ngân sách nhà nước do Kho bạc Nhà nước chuyển đến, trong thời hạn 03 (ba) ngày làm việc, cơ quan hải quan nơi quản lý thu:
+c1) Thông báo cho ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu về việc không nhận được thông tin giấy nộp tiền từ Kho bạc Nhà nước;
+c2) Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu có trách nhiệm làm rõ nguyên nhân chưa chuyển thông tin thu sang Kho bạc Nhà nước, giải trình với cơ quan hải quan về việc chưa chuyển thông tin thu sang Kho bạc Nhà nước, thực hiện nộp tiền thuế và tiền chậm nộp (nếu phát sinh lỗi do nguyên nhân chủ quan của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán) trên số tiền chậm chuyển theo quy định của pháp luật về quản lý thuế, khắc phục hậu quả vi phạm do mình gây ra.
+6. Xử lý đối chiếu thông tin nộp tiền giữa ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán đã chuyển qua Cổng thanh toán điện tử hải quan với bảng kê chứng từ nộp ngân sách nhà nước của Kho bạc Nhà nước:
+a) Hàng ngày cơ quan hải quan phân công công chức kiểm tra các chức năng tra cứu của cổng thanh toán trên hệ thống kế toán thuế tập trung, rà soát các khoản thu của ngân hàng phối hợp thu đã truyền qua Cổng thanh toán điện tử hải quan, được hạch toán thanh khoản nợ đối chiếu với bảng kê thông tin giấy nộp tiền do Kho bạc Nhà nước chuyển để xác định các khoản tiền do ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu chậm chuyển; thông báo cho ngân hàng các chứng từ không nhận được thông tin thu ngân sách nhà nước từ Kho bạc Nhà nước.
+Phối hợp với các đầu mối của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu kiểm tra chứng từ nộp ngân sách nhà nước do người nộp thuế lập khi hệ thống các bên gặp sự cố;
+b) Các chi nhánh của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu nơi chuyển tiền có trách nhiệm phối hợp với cơ quan hải quan để xử lý chậm chuyển tiền vào ngân sách nhà nước;
+c) Các ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán vi phạm thời gian chuyển tiền theo quy định, cơ quan hải quan đã có thông báo nhắc nhở nhưng không khắc phục thì Cục Hải quan chính thức thông báo dừng việc phối hợp thu và xử lý theo quy định của pháp luật.
+7. Các chi nhánh của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu nơi thực hiện yêu cầu của người nộp thuế có trách nhiệm phối hợp với ngân hàng ủy nhiệm thu hoặc Kho bạc Nhà nước để thực hiện tra soát và điều chỉnh sai, sót các thông tin trên chứng từ nộp ngân sách nhà nước.
+
+Thông tư 51/2025/TT-BTC. Điều 17. Thực hiện tra soát, điều chỉnh thông tin hạch toán thu nộp tiền thuế và xử lý sai, sót trong đối chiếu giữa các bên liên quan
+1. Nguyên tắc xử lý sai, sót
+a) Sai, sót phát sinh tại đơn vị nào, đơn vị đó phải chịu trách nhiệm và chủ động xác định nguyên nhân sai, sót, khắc phục hậu quả, đồng thời gửi tra soát điện tử đến các đơn vị liên quan để phối hợp, xử lý theo quy định;
+b) Các khoản chuyển tiền thừa, tiền thiếu so với chứng từ nộp ngân sách nhà nước của người nộp thuế được xử lý theo quy định về sai, sót phát sinh trong quá trình hạch toán.
+Các trường hợp chuyển thừa tiền và đề nghị hoàn trả phải đảm bảo không ảnh hưởng đến tờ khai được cơ quan hải quan đã hạch toán trừ nợ, xác nhận hoàn thành nghĩa vụ về thuế và thông quan hoặc giải phóng hàng hóa;
+c) Trong mọi trường hợp điều chỉnh, khi chứng từ thu, nộp ngân sách nhà nước đã được Kho bạc Nhà nước truyền sang cơ quan hải quan, thì các chứng từ điều chỉnh hoặc trả lại chứng từ có liên quan phải truyền cho cơ quan thu để theo dõi, tránh việc lợi dụng, thất thoát nguồn thu ngân sách;
+d) Trường hợp ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán sai, sót chuyển thừa tiền so với yêu cầu của người nộp thuế và cơ quan hải quan đã sử dụng thông tin nộp tiền để hạch toán, trừ nợ, xác nhận hoàn thành nghĩa vụ thuế và thông quan hàng hóa. Ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán có trách nhiệm gửi tra soát điện tử tới cơ quan hải quan về việc chuyển thừa tiền. Cơ quan hải quan kiểm tra thông tin tra soát do ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán và gửi thông tin tra soát tới Kho bạc Nhà nước để phối hợp xử lý theo quy định;
+đ) Các ngân hàng/tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu nơi chuyển tiền phát sinh sai, sót, chậm chuyển tiền vào ngân sách nhà nước phải chịu trách nhiệm và chủ động xác định nguyên nhân sai, sót, khắc phục hậu quả với ngân sách nhà nước, đồng thời gửi thư tra soát hoặc thông báo đến cơ quan hải quan, ngân hàng ủy nhiệm thu để phối hợp, xử lý;
+e) Trường hợp thông tin bảo lãnh điện tử có sai, sót phải điều chỉnh, ngân hàng phải gửi thông tin hủy bảo lãnh và phát hành thư bảo lãnh điện tử mới thay thế thư bảo lãnh đã hủy.
+Thư bảo lãnh mới phải đảm bảo đầy đủ nội dung theo quy định, đồng thời hiệu lực thực hiện phải bao trùm hiệu lực của thư bảo lãnh đề nghị hủy, số tiền phải bằng hoặc lớn hơn số tiền thuế đã thực hiện bảo lãnh.
+2. Trách nhiệm của người nộp thuế
+a) Khi người nộp thuế phát hiện thông tin kê khai trên chứng từ nộp ngân sách nhà nước có sai, sót, người nộp thuế lập đề nghị điều chỉnh thu ngân sách nhà nước gửi cơ quan hải quan kiểm tra, điều chỉnh theo quy định tại Điều 19 Thông tư này;
+b) Trường hợp ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán chuyển thừa tiền so với yêu cầu của người nộp thuế; người nộp thuế phối hợp với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán gửi thông tin tra soát đến cơ quan hải quan nơi mở tờ khai để kiểm tra, xử lý theo hướng dẫn điểm d khoản 1 Điều này.
+3. Trách nhiệm của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chưa phối hợp thu đã chuyển tiền và thông tin nộp ngân sách nhà nước sang ngân hàng ủy nhiệm thu hoặc Kho bạc Nhà nước, nếu phát hiện ra sai, sót thì phối hợp với đơn vị nhận tiền để thực hiện tra soát và điều chỉnh sai, sót.
+4. Trách nhiệm của ngân hàng và tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu
+a) Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu đã chuyển tiền và thông tin nộp ngân sách nhà nước sang ngân hàng ủy nhiệm thu, nếu phát hiện sai, sót thì lập thư tra soát gửi ngân hàng ủy nhiệm thu để thực hiện tra soát và điều chỉnh sai, sót;
+b) Trường hợp ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán đã chuyển tiền và chuyển thông tin nộp ngân sách nhà nước sang ngân hàng ủy nhiệm thu, đồng thời chuyển thông tin nộp tiền sang Cổng thanh toán điện tử hải quan và được hạch toán, trừ nợ, xác nhận hoàn thành nghĩa vụ thuế, nếu phát hiện ra sai, sót thì ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán gửi tra soát điện tử đến cơ quan hải quan nơi mở tờ khai xác nhận thông tin thu ngân sách nhà nước, đồng thời gửi ngân hàng ủy nhiệm thu để thực hiện tra soát và điều chỉnh sai, sót đảm bảo không ảnh hưởng đến xử lý nợ của lô hàng đã được thông quan;
+c) Trường hợp ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán chuyển thừa tiền so với yêu cầu của người nộp thuế, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán có gửi tra soát điện tử xác nhận khoản tiền chuyển thừa gửi cơ quan hải quan nơi mở tờ khai để kiểm tra, xử lý theo hướng dẫn tại điểm b, điểm d khoản 1 Điều này.
+5. Trách nhiệm của ngân hàng ủy nhiệm thu
+a) Trường hợp đã chuyển tiền và thông tin nộp ngân sách nhà nước sang Kho bạc Nhà nước, nếu ngân hàng phát hiện ra sai, sót thì lập thư tra soát gửi Kho bạc Nhà nước để thực hiện tra soát và điều chỉnh sai, sót;
+b) Khi nhận được thư tra soát của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, ngân hàng ủy nhiệm thu thực hiện tra soát; đồng thời gửi thông tin đã điều chỉnh cho Kho bạc Nhà nước để điều chỉnh sai, sót;
+c) Trường hợp ngân hàng ủy nhiệm thu chuyển tiền, đồng thời chuyển thông tin nộp ngân sách nhà nước sang Cổng thanh toán điện tử hải quan và được hạch toán, trừ nợ, xác nhận hoàn thành nghĩa vụ thuế, nếu phát hiện ra sai, sót thì lập thư tra soát gửi cơ quan hải quan nơi có khoản thu xác nhận thông tin thu ngân sách nhà nước. Kho bạc Nhà nước căn cứ tra soát của cơ quan hải quan để thực hiện điều chỉnh sai, sót;
+d) Trường hợp ngân hàng sai, sót chuyển thừa tiền so với yêu cầu của người nộp thuế hoặc tổ chức cung ứng dịch vụ trung gian thanh toán, ngân hàng gửi thông tin tra soát đến cơ quan hải quan nơi có khoản nộp thừa và Kho bạc Nhà nước đề nghị xác nhận khoản tiền đã chuyển thừa; cơ quan hải quan nơi có khoản nộp thừa kiểm tra, xử lý theo hướng dẫn tại điểm d khoản 1 Điều này.
+6. Trách nhiệm của cơ quan hải quan
+a) Khi cơ quan hải quan phát hiện sai, sót từ thông tin của Kho bạc Nhà nước chuyển đến, nếu thông tin được Kho bạc Nhà nước hạch toán, cơ quan hải quan nơi mở tờ khai đã hạch toán, trừ nợ, xác nhận hoàn thành nghĩa vụ thuế, thông quan hàng hóa hoặc đã hạch toán thu nộp tiền thuế thì cơ quan hải quan lập giấy đề nghị điều chỉnh gửi Kho bạc Nhà nước và cơ quan hải quan nơi người nộp thuế nộp nhầm để điều chỉnh các thông tin hạch toán thu nộp tiền thuế.
+Trường hợp nhận bảng kê chứng từ nộp ngân sách nhà nước từ Kho bạc Nhà nước nhưng sai cơ quan thu, sai Kho bạc Nhà nước nơi giữ tài khoản, cơ quan hải quan nơi nhận bảng kê chứng từ nộp ngân sách nhà nước thực hiện tra soát, có văn bản gửi Kho bạc Nhà nước đề nghị điều chỉnh chứng từ thu, nộp ngân sách nhà nước về đúng cơ quan thu, đúng Kho bạc Nhà nước nơi giữ tài khoản;
+b) Căn cứ thư tra soát đối với tài khoản chờ xử lý của cơ quan hải quan tại Kho bạc Nhà nước, cơ quan hải quan xác định, bổ sung thông tin hạch toán thu nộp tiền thuế vào thư tra soát và gửi Kho bạc Nhà nước để điều chỉnh các thông tin hạch toán thu nộp tiền thuế;
+c) Trường hợp ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán sai, sót chuyển thừa tiền so với yêu cầu của người nộp thuế, trên cơ sở xác nhận của cơ quan hải quan nơi nhận khoản thu ngân sách nhà nước, ngân hàng gửi Kho bạc Nhà nước để thực hiện tra soát, hoàn trả.
+7. Trách nhiệm của Kho bạc Nhà nước
+a) Khi đã hạch toán thu nộp ngân sách nhà nước và chuyển thông tin thu nộp sang cơ quan hải quan, nếu phát hiện sai, sót thì Kho bạc Nhà nước có trách nhiệm điều chỉnh thông tin và gửi chứng từ điều chỉnh sang cơ quan hải quan để cơ quan thu điều chỉnh thông tin quản lý đảm bảo không ảnh hưởng đến xử lý nợ của lô hàng đã được thông quan;
+b) Khi nhận được đề nghị tra soát từ các cơ quan liên quan (cơ quan hải quan, ngân hàng ủy nhiệm thu, ngân hàng phối hợp thu, ngân hàng chưa phối hợp thu), Kho bạc Nhà nước rà soát phản hồi thông tin với cơ quan đề nghị tra soát. Trường hợp có liên quan đến khoản thu do cơ quan hải quan quản lý, Kho bạc Nhà nước gửi thông tin đến cơ quan hải quan để điều chỉnh thông tin thu nộp ngân sách nhà nước;
+c) Kho bạc Nhà nước có trách nhiệm lập thư tra soát các khoản thu đã hạch toán vào tài khoản chờ xử lý của cơ quan hải quan để cơ quan hải quan bổ sung thông tin hạch toán thu nộp ngân sách nhà nước;
+d) Trường hợp, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán chuyển thừa tiền so với yêu cầu của người nộp thuế, căn cứ thông tin tra soát do cơ quan hải quan gửi, Kho bạc Nhà nước thực hiện hoàn trả theo quy định.
+8. Trường hợp hệ thống của các bên đáp ứng tra soát bằng phương thức điện tử, ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp thu chuyển thừa tiền so với yêu cầu của người nộp thuế, các đơn vị liên quan thực hiện:
+a) Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán gửi đề nghị tra soát qua Cổng thanh toán điện tử hải quan;
+b) Cơ quan hải quan gửi tra soát đến Kho bạc Nhà nước để phối hợp tra soát, xử lý điều chỉnh khoản thu ngân sách nhà nước;
+c) Kho bạc Nhà nước căn cứ đề nghị của ngân hàng và kết quả tra soát do cơ quan hải quan gửi qua Cổng thanh toán điện tử hải quan thực hiện điều chỉnh theo quy định.
+
+Thông tư 51/2025/TT-BTC. Điều 18. Trao đổi, xử lý thông tin giữa người nộp thuế với cơ quan hải quan
+1. Lập, gửi và trả kết quả xử lý hồ sơ đề nghị tra soát thông tin nộp thuế điện tử của người nộp thuế với cơ quan hải quan Người nộp thuế truy cập Cổng thanh toán điện tử hải quan/Cổng Thông tin điện tử thực hiện lập hồ sơ điều chỉnh chứng từ nộp ngân sách nhà nước điện tử trực tuyến tại Cổng Thông tin điện tử mà người nộp thuế đã lựa chọn, ký điện tử và gửi cho cơ quan hải quan.
+2. Xử lý và thông báo kết quả giải quyết hồ sơ đề nghị tra soát:
+a) Xử lý hồ sơ đề nghị tra soát a.1) Trong thời hạn 01 (một) ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị tra soát điện tử, cơ quan hải quan gửi Thông báo giải quyết hồ sơ đề nghị tra soát điện tử của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành Luật Quản lý thuế;
+a.2) Trong quá trình giải quyết hồ sơ đề nghị tra soát điện tử còn thiếu thông tin cần giải trình, bổ sung tài liệu thì cơ quan hải quan gửi Thông báo giải trình, bổ sung thông tin, tài liệu (theo mẫu số 01/TB-BSTT-NNT ban hành kèm theo Nghị định số 126/2020/NĐ-CP) cho người nộp thuế.
+Cổng thanh toán điện tử hải quan tiếp nhận văn bản giải trình, bổ sung thông tin, tài liệu của người nộp thuế đối với hồ sơ đề nghị tra soát đã tiếp nhận bằng phương thức điện tử;
+b) Trả kết quả giải quyết hồ sơ đề nghị tra soát Cơ quan hải quan kiểm tra, lập giấy đề nghị điều chỉnh thu ngân sách nhà nước gửi Kho bạc Nhà nước làm căn cứ hạch toán điều chỉnh và gửi kết quả giải quyết hồ sơ đề nghị tra soát. Trường hợp thông báo không điều chỉnh thông tin thì nêu rõ nội dung không điều chỉnh thông tin thu ngân sách nhà nước.
+Số tra soát đã xử lý được cơ quan hải quan cập nhật trên hệ thống kế toán thuế tập trung.
+3. Các thủ tục giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh không thuộc quy định tại khoản 1 và khoản 2 Điều này (như khai thuế, miễn thuế, giảm thuế, hoàn thuế, gia hạn nộp thuế,...) được thực hiện theo quy định tại các văn bản quy phạm pháp luật về quản lý thuế, pháp luật về thuế xuất khẩu, thuế nhập khẩu hiện hành.
+
+Thông tư 51/2025/TT-BTC. Điều 19. Thực hiện tra soát, điều chỉnh thông tin và xử lý sai, sót bảo lãnh tiền thuế điện tử trong đối chiếu giữa các bên liên quan
+1. Nguyên tắc xử lý sai, sót: Nguyên tắc xử lý thực hiện theo quy định tại khoản 1 Điều 17 Thông tư này.
+2. Trách nhiệm của người nộp thuế Khi phát hiện thông tin bảo lãnh sai, sót do ngân hàng phối hợp thu cấp, thì:
+a) Đề nghị với cơ quan hải quan kiểm tra lại thông tin bảo lãnh do ngân hàng đã chuyển cho cơ quan hải quan;
+b) Thông báo với ngân hàng nơi phát hành bảo lãnh về sai lệch thông tin bảo lãnh, đề nghị ngân hàng sửa đổi, bổ sung hoặc thay thế bảng kê thông tin bảo lãnh.
+3. Trách nhiệm của ngân hàng phối hợp thu Ngân hàng có trách nhiệm kiểm tra lại thông tin bảo lãnh đã phát hành hoặc do cơ quan hải quan hoặc người nộp thuế thông báo phát hiện có sai, sót và thực hiện:
+a) Trường hợp sai, sót giữa thông tin thư bảo lãnh đã cung cấp cho người nộp thuế với thông tin bảo lãnh gửi sang hải quan, thì cung cấp lại chính xác thông tin thư bảo lãnh gửi người nộp thuế để khai báo;
+b) Trường hợp sai, sót về nội dung thư bảo lãnh đã phát hành thì đề nghị gửi thông điệp hủy thư bảo lãnh và phát hành thay thế một thư bảo lãnh mới đảm bảo theo đúng quy định tại khoản 1 Điều 17 Thông tư này.
+4. Trách nhiệm của cơ quan hải quan:
+a) Trường hợp người nộp thuế phát hiện sai, sót thông tin bảo lãnh do ngân hàng phối hợp thu cấp, công chức hải quan nơi mở tờ khai hỗ trợ người nộp thuế kiểm tra, xác định các thông tin bảo lãnh sai lệch;
+b) Kiểm tra thông điệp đề nghị hủy bảo lãnh, trường hợp chấp nhận hủy bảo lãnh điện tử thì thực hiện hủy bảo lãnh và tiếp nhận bảo lãnh mới đảm bảo theo đúng quy định tại khoản 1 Điều 17 Thông tư này.
+
+Thông tư 51/2025/TT-BTC. 
+Chương III ĐIỀU KHOẢN THI HÀNH
+Điều 20. Bãi bỏ một số Điều, khoản, mẫu biểu tại Thông tư số 184/2015/TT-BTC ngày 17 tháng 11 năm 2015 của Bộ trưởng Bộ Tài chính quy định thủ tục về kê khai, bảo lãnh tiền thuế, thu nộp tiền thuế, tiền chậm nộp, tiền phạt, tiền phí, lệ phí các khoản thu khác, đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh
+1. Bãi bỏ khoản 3, khoản 4, khoản 5
+Điều 2; Điều 6; Điều 7; khoản 3, khoản 4, khoản 5 Điều 17;
+khoản 3, khoản 4, khoản 5 Điều 18; khoản 4, khoản 5, khoản 6 Điều 19; Điều 22; Điều 25; Điều 26 và Điều 27.
+2. Bãi bỏ các mẫu bảng kê nộp thuế (Mẫu số: 01/BKNT), mẫu giấy nộp tiền vào ngân sách nhà nước (Mẫu số:
+C1-02/NS).
+
+Thông tư 51/2025/TT-BTC. Điều 21. Hiệu lực thi hành
+1. Thông tư này có hiệu lực kể từ ngày 7 tháng 8 năm 2025.
+2. Tổ chức đã tham gia phối hợp thu với cơ quan hải quan trước thời điểm Thông tư này có hiệu lực thi hành thi tiếp tục thực hiện phối hợp thu với cơ quan hải quan.
+3. Trong quá trình thực hiện, trường hợp các văn bản quy phạm pháp luật được viện dẫn tại Thông tư này được sửa đổi, bổ sung, thay thế thì áp dụng theo văn bản sửa đổi, bổ sung, thay thế đó./.
+Nơi nhận:
+- Thủ tướng Chính phủ, các Phó TTCP;
+- Văn phòng TW Đảng và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Quốc Hội;
+- Văn phòng Chủ tịch nước;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Hội đồng Dân tộc;
+- Ủy ban Pháp luật và Tư pháp, Ủy ban Kinh tế và Tài chính (Quốc hội);
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND tỉnh, thành phố trực thuộc TW;
+- Liên đoàn Thương mại và Công nghiệp Việt Nam;
+- Cục Kiểm tra văn bản và Quản lý xử lý vi phạm hành chính pháp luật (Bộ Tư pháp);
+- Chi cục Hải quan các khu vực;
+- Kho bạc Nhà nước các khu vực;
+- Công báo;
+- Website của Chính phủ;
+- Website của Bộ Tài chính;
+- Website của Cục Hải quan;
+- Lưu: VT, CHQ (100b).
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi 
+[Mẫu số: 01/KNNT-TĐT](http://cdn.thuvienphapluat.vn/uploads/khoinghiep/2025/07/08/Mau%20ket%20noi%20cong%20thanh%20toan%20dt.doc)
+[Mẫu số: 02/TBKN-TĐT](https://cdn.thuvienphapluat.vn/phap-luat/2022-2/PH/190725/mau-so-02.docx)
+(Kèm theo Thông tư số 51/TT-BTC ngày 24 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính)
+[Mẫu số: 03/BKĐC-NS](https://cdn.thuvienphapluat.vn/phap-luat/2022-2/PH/190725/mau-so-03.docx)
+(Kèm theo Thông tư số 51/TT-BTC ngày 24 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính)
+[Mẫu số: 04/BKĐC-PHI](https://cdn.thuvienphapluat.vn/phap-luat/2022-2/TTKP/mau-04-tt-51.docx)
+(Kèm theo Thông tư số 51/TT-BTC ngày 24 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính)

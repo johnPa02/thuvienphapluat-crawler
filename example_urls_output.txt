@@ -1,0 +1,21 @@
+## Example URLs for batch crawler
+## Each line should contain one URL
+## Lines starting with # are comments
+#
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-248-2025-ND-CP-che-do-tien-luong-Kiem-soat-vien-trong-doanh-nghiep-nha-nuoc-673078.aspx Nghị định 248/2025/NĐ-CP
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-16-2023-ND-CP-to-chuc-quan-ly-doanh-nghiep-truc-tiep-phuc-vu-quoc-phong-an-ninh-564517.aspx Nghị định 16/2023/NĐ-CP
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-65-2022-ND-CP-sua-doi-Nghi-dinh-153-2020-ND-CP-chao-ban-giao-dich-trai-phieu-doanh-nghiep-529835.aspx Nghị định 65/2022/NĐ-CP
+#https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-122-2021-ND-CP-xu-phat-vi-pham-hanh-chinh-linh-vuc-ke-hoach-285024.aspx Nghị định 122/2021/NĐ-CP
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Dau-tu-so-61-2020-QH14-321051.aspx Luật Đầu tư 2020
+#https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-435-QD-UBND-2020-thuc-hien-Chi-thi-37-CT-TW-xay-dung-quan-he-lao-dong-hai-hoa-Kon-Tum-621324.aspx Quyết định 435/QĐ-UBND năm 2020
+#https://thuvienphapluat.vn/van-ban/Chung-khoan/Luat-Chung-khoan-nam-2019-399763.aspx Luật Chứng khoán 2019
+#https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-sua-doi-2019-411944.aspx Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ sửa đổi 2019
+#https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx Bộ luật Lao động 2019
+#https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-quan-ly-thue-2019-387595.aspx Luật Quản lý thuế 2019
+#https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-sua-doi-cac-Luat-co-lien-quan-den-quy-hoach-2018-390511.aspx Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-canh-tranh-345182.aspx Luật Cạnh tranh 2018
+#https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx Bộ luật dân sự 2015
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Quan-ly-su-dung-von-Nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep-2014-259731.aspx Luật Quản lý, sử dụng vốn Nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp 2014
+#https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Pha-san-2014-238641.aspx Luật Phá sản 2014
+#https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-vien-chuc-2010-115271.aspx Luật viên chức 2010
+#https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-can-bo-cong-chuc-2008-22-2008-QH12-82202.aspx Luật cán bộ, công chức 2008

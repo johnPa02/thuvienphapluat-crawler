@@ -1,34 +1,30 @@
 #!/usr/bin/env python3
 """
 Pipeline hoàn chỉnh để crawl và xử lý văn bản pháp luật từ thuvienphapluat.vn
-
 Sử dụng:
-    python pipeline.py <url> [--output FILE] [--cookies FILE] [--doc-name NAME]
-
+python pipeline.py <url> [--output FILE] [--cookies FILE] [--doc-name NAME]
 Ví dụ:
-    python pipeline.py "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-47-2021-ND-CP-huong-dan-Luat-Doanh-nghiep-470561.aspx"
-    python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --output "luat_abc.txt" --doc-name "Luật ABC 2024"
+python pipeline.py "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-47-2021-ND-CP-huong-dan-Luat-Doanh-nghiep-470561.aspx"
+python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --output "luat_abc.txt" --doc-name "Luật ABC 2024"
 """
+import sys
+import io
 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 import argparse
+import json
 import os
 import re
 import sys
-
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from table_converter import is_data_table, process_tables_in_content
-
+from urllib.parse import quote, urljoin
 
 def load_cookies_from_file(cookie_file: str) -> list:
     """
     Load cookies từ file Netscape format (cookies.txt).
-    
-    Args:
-        cookie_file: Đường dẫn đến file cookies.txt
-        
-    Returns:
-        List các cookie dict cho Playwright
     """
     cookies = []
     with open(cookie_file, 'r', encoding='utf-8') as f:
@@ -58,18 +54,10 @@ def load_cookies_from_file(cookie_file: str) -> list:
                 cookies.append(cookie)
     return cookies
 
-
 def extract_doc_name_from_url(url: str) -> str:
     """
     Tự động trích xuất tên văn bản từ URL.
-    
-    Args:
-        url: URL của văn bản
-        
-    Returns:
-        Tên văn bản (ví dụ: "Nghị định 47/2021/NĐ-CP")
     """
-    # Pattern để tìm số hiệu văn bản trong URL
     patterns = [
         r'Nghi-dinh-(\d+)-(\d+)-ND-CP',
         r'Luat-(\d+)-(\d+)-QH(\d+)',
@@ -77,7 +65,6 @@ def extract_doc_name_from_url(url: str) -> str:
         r'Quyet-dinh-(\d+)-(\d+)-QD-([A-Z]+)',
         r'Nghi-quyet-(\d+)-(\d+)-NQ-([A-Z]+)',
     ]
-    
     for pattern in patterns:
         match = re.search(pattern, url, re.IGNORECASE)
         if match:
@@ -91,48 +78,184 @@ def extract_doc_name_from_url(url: str) -> str:
                 return f"Quyết định {match.group(1)}/{match.group(2)}/QĐ-{match.group(3)}"
             elif 'Nghi-quyet' in url:
                 return f"Nghị quyết {match.group(1)}/{match.group(2)}/NQ-{match.group(3)}"
-    
     return "Văn bản"
-
 
 def crawl_html(url: str, cookie_file: str = None) -> str:
     """
     Crawl HTML từ URL với JavaScript rendering.
-    
-    Args:
-        url: URL của trang web
-        cookie_file: Đường dẫn đến file cookies.txt (optional)
-        
-    Returns:
-        HTML content
     """
     print(f"🌐 Đang crawl: {url}")
-    
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
-        
         if cookie_file and os.path.exists(cookie_file):
             cookies = load_cookies_from_file(cookie_file)
             context.add_cookies(cookies)
             print(f"🍪 Đã load {len(cookies)} cookies từ {cookie_file}")
-        
         page = context.new_page()
         page.goto(url, wait_until="networkidle", timeout=60000)
         page.wait_for_timeout(3000)
-        
         html = page.content()
         browser.close()
-    
-    return html
+        return html
 
+def extract_form_template_ids(content_div) -> list:
+    """
+    Extract tất cả form template IDs từ các element có class='clsBookmark_bm'
+    Returns: List of tuples [(template_text, law_id, bookmark_id, element), ...]
+    """
+    form_templates = []
+    
+    # Tìm tất cả các element có class='clsBookmark_bm' và onclick chứa LS_Tip_Type_Bookmark_bm
+    bookmark_elements = content_div.find_all(
+        'a', 
+        class_='clsBookmark_bm',
+        onclick=re.compile(r'LS_Tip_Type_Bookmark_bm')
+    )
+    
+    for element in bookmark_elements:
+        onclick_attr = element.get('onclick', '')
+        
+        # Extract LawID và Bookmark_ID từ onclick
+        # Pattern: LS_Tip_Type_Bookmark_bm('516302','4444790')
+        id_match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"],\s*['\"](\d+)['\"]\)", onclick_attr)
+        
+        if id_match:
+            law_id = id_match.group(1)
+            bookmark_id = id_match.group(2)
+            template_text = element.get_text(strip=True)
+            
+            form_templates.append((template_text, law_id, bookmark_id, element))
+    
+    return form_templates
+
+# Thêm import random ở đầu file nếu chưa có
+import random
+
+def fetch_form_template_url(page, law_id: str, bookmark_id: str, retry_count: int = 0, max_retries: int = 3) -> str:
+    """
+    Gọi AJAX endpoint để lấy URL download của biểu mẫu.
+    Returns: Full URL đã được encode, hoặc empty string nếu fail.
+    """
+    from urllib.parse import quote, urlparse, urlunparse
+    
+    try:
+        # Call AJAX endpoint
+        response = page.evaluate(f"""
+            fetch('/page/ajaxcontroler.aspx', {{
+                method: 'POST',
+                headers: {{
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                }},
+                body: 'action=LoadBieuMau&LawID={law_id}&Bookmark_ID={bookmark_id}'
+            }}).then(r => r.text())
+        """)
+        
+        if not response:
+            return ""
+        
+        # Clean response - remove newlines, whitespace
+        file_path = response.strip().split('\n')[0].strip()
+        
+        # 🚨 QUAN TRỌNG: Kiểm tra nếu response là HTML (Cloudflare challenge/error)
+        if (file_path.startswith('<!DOCTYPE') or 
+            file_path.startswith('<html') or 
+            '<title>Just a moment' in file_path or 
+            'Cloudflare' in file_path):
+            
+            print(f"      ⚠️  AJAX trả về Cloudflare challenge, retry sau 1-2s... (lần {retry_count + 1}/{max_retries})")
+            if retry_count < max_retries:
+                import time
+                time.sleep(random.uniform(1.0, 2.0))  # Wait 1-2 seconds before retry
+                return fetch_form_template_url(page, law_id, bookmark_id, retry_count + 1, max_retries)
+            return ""
+        
+        # Kiểm tra nếu response là URL hợp lệ (chứa .doc, .pdf, .xls...)
+        if not re.search(r'\.(doc|docx|pdf|xls|xlsx|ppt|pptx|zip|rar)($|\?)', file_path, re.I):
+            print(f"      ⚠️  AJAX trả về path không phải file: {file_path[:100]}")
+            return ""
+        
+        # ✅ FIX QUAN TRỌNG: Construct full URL
+        if file_path.startswith('http'):
+            # 🎯 Đã là full URL, CHỈ encode filename part, KHÔNG prepend base URL nữa
+            parsed = urlparse(file_path)
+            path_parts = parsed.path.rsplit('/', 1)
+            if len(path_parts) == 2:
+                base_path = path_parts[0]  # e.g., /uploads/DocForms/4/6/4/1/464109/
+                filename = path_parts[1]    # e.g., Mẫu số 11/TXNK Phụ lục 1.doc
+                encoded_filename = quote(filename, safe='')
+                # Reconstruct URL with encoded filename only
+                new_path = base_path + '/' + encoded_filename
+                return urlunparse(parsed._replace(path=new_path))
+            return file_path  # Return as-is if can't parse
+        else:
+            # Relative path, construct full URL
+            if file_path.startswith('/'):
+                file_path = file_path[1:]
+            
+            parts = file_path.rsplit('/', 1)
+            if len(parts) == 2:
+                base_path = parts[0]
+                filename = parts[1]
+                encoded_filename = quote(filename, safe='')
+                full_url = f"https://files.thuvienphapluat.vn/{base_path}/{encoded_filename}"
+            else:
+                # Fallback: encode entire path
+                full_url = "https://" + quote(file_path, safe=':/')
+            
+            return full_url
+        
+    except Exception as e:
+        print(f"      ⚠️  Lỗi fetch form template URL: {e}")
+        if retry_count < max_retries:
+            import time
+            time.sleep(random.uniform(1.0, 2.0))
+            return fetch_form_template_url(page, law_id, bookmark_id, retry_count + 1, max_retries)
+        return ""
+def process_form_templates(page, content_div, base_url: str) -> dict:
+    """
+    Process all form templates và replace với markdown links.
+    Returns: Dict mapping template text to download URL
+    """
+    print("📋 Đang xử lý biểu mẫu...")
+    
+    form_templates = extract_form_template_ids(content_div)
+    template_urls = {}
+    
+    for template_text, law_id, bookmark_id, element in form_templates:
+        print(f"   🔄 Fetching: {template_text}")
+        
+        # Try AJAX with retry logic (no fallback)
+        download_url = fetch_form_template_url(page, law_id, bookmark_id, retry_count=0, max_retries=3)
+        
+        if download_url:
+            template_urls[template_text] = download_url
+            
+            # Create markdown link
+            markdown_link = f" [{template_text}]({download_url})"
+            
+            # Replace element with markdown link
+            element.replace_with(markdown_link)
+            print(f"   ✅ {template_text} -> {download_url[:80]}...")
+        else:
+            # Keep original text if fetch fails completely (no fallback)
+            print(f"   ❌ Failed to fetch: {template_text}")
+    
+    return template_urls
+def save_form_template_urls(template_urls: dict, output_file: str):
+    """
+    Save form template URLs to JSON file.
+    """
+    if template_urls:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(template_urls, f, ensure_ascii=False, indent=2)
+        print(f"💾 Đã lưu {len(template_urls)} form template URLs vào: {output_file}")
 
 def extract_hover_content(soup: BeautifulSoup, element) -> str:
     """
     Trích xuất nội dung hover tooltip từ element.
     """
     tooltip_class = None
-    
     if element.get('atmm'):
         tooltip_class = element.get('atmm').strip('.')
     elif element.get('onmouseover'):
@@ -148,48 +271,36 @@ def extract_hover_content(soup: BeautifulSoup, element) -> str:
         tooltip_text = tooltip_div.get_text(separator=' ', strip=True)
         if tooltip_text and tooltip_text != "Click vào để xem nội dung":
             return f" [{tooltip_text}]"
-    
     return ""
-
 
 def extract_note_content(soup: BeautifulSoup, element) -> str:
     """
     Trích xuất nội dung từ dvNoteDieuKhoan dựa vào id của element.
-    Ví dụ: id="span-note_khoan_34_4" -> tìm div id="note_khoan_34_4"
     """
     element_id = element.get('id', '')
-    
-    # Lấy note_id từ span-note_xxx -> note_xxx
     if element_id.startswith('span-'):
         note_id = element_id[5:]  # Bỏ "span-"
     else:
         return ""
     
-    # Tìm div với id tương ứng trong dvNoteDieuKhoan
     note_div = soup.find('div', id=note_id)
     if note_div:
         note_text = note_div.get_text(separator=' ', strip=True)
         if note_text:
-            # Tách lấy phần giải thích (sau |~|)
             parts = note_text.split('|~|')
             if len(parts) >= 2:
-                # Phần đầu là nội dung bổ sung (không có [])
-                # Phần sau là ghi chú nguồn (có [])
                 main_content = parts[0].strip()
                 source_note = parts[1].strip() if len(parts) > 1 else ""
                 if source_note:
                     return f"\n{main_content} [{source_note}]"
                 return f"\n{main_content}"
-            return f"\n{note_text}"
-    
+        return f"\n{note_text}"
     return ""
-
 
 def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
     """
     Xử lý các element có hover và chèn nội dung tooltip vào sau text.
     """
-    # Xử lý các element có atmm hoặc onmouseover với lqhlTootip
     hover_elements = content_div.find_all(attrs={'atmm': True})
     hover_elements += content_div.find_all(attrs={'onmouseover': re.compile(r'lqhlTootip', re.I)})
     
@@ -210,82 +321,57 @@ def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
     for element in huongdan_elements:
         note_content = extract_note_content(soup, element)
         if note_content:
-            # Thay thế text "Bổ sung" bằng nội dung đầy đủ
             element.string = note_content
 
-
-def extract_content(html: str, url: str = None) -> str:
+def extract_content(html: str, url: str = None, page=None) -> tuple:
     """
     Trích xuất nội dung text từ HTML.
-
-    Args:
-        html: HTML content
-        url: URL of the page (for resolving relative links)
-
-    Returns:
-        Text content đã được chuẩn hóa
+    Returns: (text_content, form_template_urls_dict)
     """
     print("📄 Đang trích xuất nội dung...")
-
-    # Debug: Print raw HTML after Playwright crawl but before BeautifulSoup processing
-    print("\n" + "="*80)
-    print("🔍 DEBUG: Raw HTML data after Playwright crawl:")
-    print("="*80)
-    print(html[:10000])  # Print first 2000 characters to avoid too much output
-    if len(html) > 2000:
-        print("... (truncated, showing first 2000 characters)")
-    print("="*80 + "\n")
-
+    
     soup = BeautifulSoup(html, "html.parser")
     content_div = soup.find("div", class_="content1")
-
     if content_div is None:
         raise ValueError("Không tìm thấy thẻ <div class='content1'> trên trang")
-
+    
     # Xử lý hover tooltips
     process_element_with_hover(soup, content_div)
-
+    
+    # Xử lý form templates (BIỂU MẪU) - CẦN PAGE ĐỂ GỌI AJAX
+    form_template_urls = {}
+    if page:
+        form_template_urls = process_form_templates(page, content_div, url)
+    
     # Xử lý các thẻ <b> chứa "Điều X." để tách tên điều và nội dung
-    # 1. Normalize tên điều (bỏ newline trong thẻ <b>)
-    # 2. Thêm marker sau thẻ <b> để xuống dòng
     DIEU_MARKER = "<<<DIEU_NEWLINE>>>"
     for b_tag in content_div.find_all('b'):
         text_content = b_tag.get_text()
         if re.match(r'^Điều\s+\d+\.', text_content):
-            # Normalize: thay newline bằng space trong tên điều
             normalized_text = ' '.join(text_content.split())
             b_tag.string = normalized_text
-            # Thêm marker sau thẻ <b> này
             from bs4 import NavigableString
             b_tag.insert_after(NavigableString(DIEU_MARKER))
-
-    # Xử lý các bảng - chuyển đổi thành Markdown và lưu lại
+    
+    # Xử lý các bảng
     print("🔄 Đang chuyển đổi bảng thành Markdown...")
     markdown_tables = []
     table_placeholders = []
-
-    # Find all tables and convert them
+    
     tables = content_div.find_all('table')
     for idx, table in enumerate(tables):
         if is_data_table(table):
-            # Convert table to markdown
             from table_converter import convert_table_to_markdown
             markdown = convert_table_to_markdown(table, base_url=url)
             markdown_tables.append(markdown)
-
-            # Create placeholder
             placeholder = f"<<<TABLE_{idx}>>>"
             table_placeholders.append(placeholder)
-
-            # Replace table with placeholder
             placeholder_div = BeautifulSoup('<div></div>', 'html.parser').div
             placeholder_div.string = placeholder
             table.replace_with(placeholder_div)
-
+    
     # Lấy text
     text = content_div.get_text()
-    
-    # Thay marker bằng newline
     text = text.replace(DIEU_MARKER, '\n')
     
     # Chuẩn hóa dòng
@@ -294,7 +380,6 @@ def extract_content(html: str, url: str = None) -> str:
     buffer = ""
     
     new_paragraph_patterns = [
-        r'^Chương\s+[IVXLCDM]+',
         r'^Mục\s+\d+',
         r'^Điều\s+\d+',
         r'^\d+\.\s',
@@ -319,10 +404,10 @@ def extract_content(html: str, url: str = None) -> str:
         r'^IV\.\s',
         r'^V\.\s',
         r'^VI\.\s',
+        r'^\s*\[\d+\]\s*'
     ]
     
-    # Pattern để detect buffer kết thúc bằng tên Điều (cần xuống dòng sau đó)
-    dieu_title_end_pattern = r'Điều\s+\d+\.\s+[^\n]+$'
+    dieu_title_end_pattern = r'Điều\s+\d+\.\s+[^ ]+$'
     
     for line in lines:
         line = line.strip()
@@ -334,11 +419,11 @@ def extract_content(html: str, url: str = None) -> str:
         if is_new_paragraph:
             if buffer:
                 result.append(buffer)
-            buffer = line
+                buffer = line
+            else:
+                buffer = line
         else:
             if buffer:
-                # Kiểm tra nếu buffer là tên Điều (kết thúc bằng Điều X. Tên điều)
-                # thì xuống dòng thay vì nối
                 if re.search(dieu_title_end_pattern, buffer):
                     result.append(buffer)
                     buffer = line
@@ -352,97 +437,58 @@ def extract_content(html: str, url: str = None) -> str:
     
     if buffer:
         result.append(buffer)
-
-    # Join result
+    
     final_text = '\n'.join(result)
-
-    # Replace table placeholders with actual markdown
+    
     for placeholder, markdown in zip(table_placeholders, markdown_tables):
-        # Add proper spacing around tables
-        markdown_with_spacing = f"\n{markdown.strip()}\n"
+        markdown_with_spacing = f"\n{markdown.strip()}"
         final_text = final_text.replace(placeholder, markdown_with_spacing)
-
-    return final_text
-
+    
+    return final_text, form_template_urls
 
 def postprocess(content: str, doc_name: str) -> str:
     """
     Postprocess văn bản pháp luật.
-    
-    Args:
-        content: Nội dung text thô
-        doc_name: Tên văn bản pháp luật
-        
-    Returns:
-        Nội dung đã được format
     """
     print("✨ Đang postprocess...")
     
-    # Bỏ dấu chấm đứng một mình
     content = re.sub(r'\n\.\n', '\n', content)
-    
-    # Bỏ "[Click vào để xem nội dung]"
     content = content.replace(' [Click vào để xem nội dung]', '')
     content = content.replace('[Click vào để xem nội dung]', '')
     
-    # Tách số khoản ra dòng mới khi bị dính vào ]
-    content = re.sub(r'\]\s+(\d+\.)\s*\n', r']\n\1\n', content)
-    content = re.sub(r'\]\s+(\d+\.)\s+', r']\n\1 ', content)
-    
-    # Thêm dòng trống và tên văn bản trước Chương
-    content = re.sub(r'(Chương\s+[IVXLCDM]+)', rf'\n{doc_name}. \1', content)
-    
-    # Thêm dòng trống và tên văn bản trước Mục
     content = re.sub(r'(Mục\s+\d+\.)', rf'\n{doc_name}. \1', content)
     
-    # Thêm dòng trống và tên văn bản trước I. II. III. ...
-    content = re.sub(r'\n((?:I|II|III|IV|V|VI|VII|VIII|IX|X)\.\s+[A-Z])', rf'\n\n{doc_name}. \1', content)
-    
-    # Nối dấu ngoặc kép đứng một mình vào dòng sau (trường hợp bị xuống dòng trong HTML)
-    # Hỗ trợ cả " thường và "" Unicode (U+201C và U+201D)
     content = re.sub(r'[""\u201c\u201d]\s*\n+\s*(Điều)', r'"\1', content)
     
-    # Thêm xuống dòng và tên văn bản trước mỗi Điều
-    # Chỉ xử lý "Điều X." khi nó là tiêu đề (theo sau là tên điều - ít nhất 2 từ)
-    # Không xử lý khi:
-    # - "Điều X." ở cuối câu hoặc đứng một mình
-    # - "Điều X." nằm trong ngoặc kép (trích dẫn)
-    # - "Điều X." đã có doc_name phía trước
-    # Pattern: ký tự không phải newline và không phải dấu ngoặc kép (cả ASCII " và Unicode "" ) + "Điều X." + space + chữ cái + tên điều
-    pattern = r'([^\n""\u201c\u201d])(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)'
-    replacement = rf'\1\n\n{doc_name}. \2'
+    pattern = r'([^"\n""\u201c\u201d])(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)'
+    replacement = rf'\1\n{doc_name}. \2'
     content = re.sub(pattern, replacement, content)
-    # Thêm doc_name cho Điều đã ở đầu dòng (chưa có doc_name) và theo sau là tên điều, không bắt đầu bằng ngoặc kép
-    # Chỉ thêm khi chưa có doc_name phía trước
-    content = re.sub(r'^(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)', rf'{doc_name}. \1', content, flags=re.MULTILINE)
-    # REMOVED: Thêm doc_name cho Điều X. nằm riêng một dòng - This pattern was causing title truncation
-    # The extract_content function already handles proper formatting of Điều titles
-    # Loại bỏ doc_name nếu dòng bắt đầu bằng ngoặc kép + Điều (trích dẫn) - hỗ trợ cả ASCII " và Unicode ""
+    
+    content = re.sub(r'^(?!(?:' + re.escape(doc_name) + r'\.\s*)?)(Điều\s+\d+\.[ \t]+[A-ZĐÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸ][a-zđàáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]+)', rf'{doc_name}. \1', content, flags=re.MULTILINE)
+    
     content = re.sub(r'["\u201c\u201d]' + re.escape(doc_name) + r'\. (Điều)', r'"\1', content)
-    # Thêm dòng trống trước các dòng bắt đầu bằng doc_name. Điều (đảm bảo có 1 dòng trống)
-    content = re.sub(r'\n(' + re.escape(doc_name) + r'\. Điều)', r'\n\n\1', content)
     
-    # Loại bỏ dòng trống thừa (nhiều hơn 2 newline liên tiếp)
-    content = re.sub(r'\n{3,}', r'\n\n', content)
+    content = re.sub(r'\n(' + re.escape(doc_name) + r'\. Điều)', r'\n\1', content)
     
-    # Loại bỏ dòng trống thừa ở đầu file
+    content = re.sub(r'\n{3,}', r'\n', content)
     content = content.lstrip('\n')
     
     return content
 
+def sanitize_filename(filename: str) -> str:
+    """
+    Sanitize filename to be safe for filesystem.
+    """
+    # Replace unsafe characters
+    filename = filename.replace('/', '_').replace('\\', '_')
+    filename = filename.replace(':', '_').replace('*', '_')
+    filename = filename.replace('?', '_').replace('"', '_')
+    filename = filename.replace('<', '_').replace('>', '_').replace('|', '_')
+    return filename
 
-def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = None) -> str:
+def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = None, output_dir: str = ".") -> str:
     """
     Chạy pipeline hoàn chỉnh.
-    
-    Args:
-        url: URL của văn bản pháp luật
-        output_file: File output (optional)
-        cookie_file: File cookies (default: cookies.txt)
-        doc_name: Tên văn bản (auto-detect nếu không cung cấp)
-        
-    Returns:
-        Nội dung văn bản đã xử lý
     """
     print("=" * 60)
     print("🚀 THUVIENPHAPLUAT CRAWLER PIPELINE")
@@ -453,26 +499,53 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
         doc_name = extract_doc_name_from_url(url)
     print(f"📋 Văn bản: {doc_name}")
     
-    # Step 1: Crawl HTML
-    html = crawl_html(url, cookie_file if os.path.exists(cookie_file) else None)
-    print(f"   ✓ Đã tải {len(html):,} bytes HTML")
+    # Create output directory if needed
+    if output_dir and output_dir != ".":
+        os.makedirs(output_dir, exist_ok=True)
     
-    # Step 2: Extract content
-    content = extract_content(html, url=url)
-    print(f"   ✓ Đã trích xuất {len(content):,} ký tự")
+    print("🌐 Đang crawl...")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        
+        if cookie_file and os.path.exists(cookie_file):
+            cookies = load_cookies_from_file(cookie_file)
+            context.add_cookies(cookies)
+            print(f"🍪 Đã load {len(cookies)} cookies từ {cookie_file}")
+        
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle", timeout=60000)
+        page.wait_for_timeout(3000)
+        
+        html = page.content()
+        print(f"   ✓ Đã tải {len(html):,} bytes HTML")
+        
+        # Extract content với form templates (cần page object)
+        content, form_template_urls = extract_content(html, url=url, page=page)
+        print(f"   ✓ Đã trích xuất {len(content):,} ký tự")
+        
+        browser.close()
     
-    # Step 3: Postprocess
+    # Postprocess
     processed = postprocess(content, doc_name)
     print(f"   ✓ Đã postprocess xong")
     
-    # Step 4: Thêm doc_name vào đầu file
+    # Thêm doc_name vào đầu file
     processed = f"{doc_name}\n{processed}"
     
-    # Step 5: Save output
-    output_file = f"{doc_name.replace(' ', '_').replace('/', '_')}.txt"
+    # Generate output filename
+    safe_doc_name = sanitize_filename(doc_name)
+    output_file = os.path.join(output_dir, f"{safe_doc_name}.txt") if output_dir else f"{safe_doc_name}.txt"
+    
+    # Save main content
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(processed)
     print(f"   ✓ Đã lưu vào: {output_file}")
+    
+    # Save form template URLs to JSON
+    if form_template_urls:
+        data_url_file = os.path.join(output_dir, f"{safe_doc_name}_data_url.json") if output_dir else f"{safe_doc_name}_data_url.json"
+        save_form_template_urls(form_template_urls, data_url_file)
     
     print("=" * 60)
     print("✅ HOÀN THÀNH!")
@@ -480,37 +553,35 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
     
     return processed
 
-
 def main():
     parser = argparse.ArgumentParser(
         description="Crawl và xử lý văn bản pháp luật từ thuvienphapluat.vn",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Ví dụ:
-  python pipeline.py "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-47-2021-ND-CP-huong-dan-Luat-Doanh-nghiep-470561.aspx"
-  
-  python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --output "output.txt"
-  
-  python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --doc-name "Luật ABC 2024"
-        """
+python pipeline.py "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-47-2021-ND-CP-huong-dan-Luat-Doanh-nghiep-470561.aspx"
+python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --output "output.txt"
+python pipeline.py "https://thuvienphapluat.vn/van-ban/..." --doc-name "Luật ABC 2024"
+"""
     )
-    
     parser.add_argument("url", help="URL của văn bản pháp luật trên thuvienphapluat.vn")
     parser.add_argument("-c", "--cookies", default="cookies.txt", help="File cookies (default: cookies.txt)")
     parser.add_argument("-n", "--doc-name", help="Tên văn bản (auto-detect nếu không cung cấp)")
-    
+    parser.add_argument("-o", "--output-dir", default=".", help="Output directory (default: current directory)")
     args = parser.parse_args()
     
     try:
         run_pipeline(
             url=args.url,
             cookie_file=args.cookies,
-            doc_name=args.doc_name
+            doc_name=args.doc_name,
+            output_dir=args.output_dir
         )
     except Exception as e:
-        print(f"❌ Lỗi: {e}")
+        import traceback
+        traceback.print_exc()
+        print(f"❌ Lỗi: {e}", file=sys.stderr)
         sys.exit(1)
-
 
 if __name__ == "__main__":
     main()
