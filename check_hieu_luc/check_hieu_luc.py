@@ -7,8 +7,17 @@ import sys
 from datetime import datetime
 from collections import Counter
 from pathlib import Path
-from urllib.parse import urljoin
+
+if __package__ in {None, ""}:
+    # Support running as a script: `python check_hieu_luc/check_hieu_luc.py ...`
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+
+try:
+    from .related_documents import RELATED_DOCUMENT_SECTIONS, collect_related_documents
+except ImportError:
+    from check_hieu_luc.related_documents import RELATED_DOCUMENT_SECTIONS, collect_related_documents
 
 # ======================
 # CONFIG
@@ -27,17 +36,39 @@ RECHECK_STATUSES = {"LOAD_ERROR", "NO_LUOCDO", "PARSE_ERROR", "OTHER", "FAILED_P
 # và nếu crawl mới thành công thì ghi đè cache cũ.
 RETRY_CACHE_STATUSES = RECHECK_STATUSES
 
-PER_URL_SLEEP_RANGE = (1, 3)
-RETRY_SLEEP_RANGE = (2, 6)
+PER_URL_SLEEP_RANGE = (3, 7)
+RELATED_URL_SLEEP_RANGE = (5, 12)
+RELATED_RETRY_SLEEP_RANGE = (30, 60)
+RETRY_SLEEP_RANGE = (5, 12)
 MAX_RETRIES_PER_URL = 2
-BATCH_SIZE = 10
-BATCH_COOLDOWN_RANGE = (20, 45)
+MAX_RETRIES_PER_RELATED_URL = 2
+LUOCDO_WAIT_TIMEOUT_MS = 30000
+LUOCDO_RETRY_ATTEMPTS = 3
+LUOCDO_RELOAD_ATTEMPTS = 1
+BATCH_SIZE = 5
+BATCH_COOLDOWN_RANGE = (60, 120)
+XAC_MINH_COOLDOWN_RANGE = (90, 150)
 MAX_CONSECUTIVE_FAIL = 2
 GLOBAL_COOLDOWN_RANGE = (180, 360)
 MAX_CIRCUIT_BREAKER_TRIPS = 2
 MAX_URL_PER_RUN = 200
-MAX_URL_PER_DAY = 200
+MAX_URL_PER_DAY = 1000
 MAX_BYTES_PER_DAY = 300 * 1024 * 1024
+MAX_DEEP = 1
+ENABLE_RELATED_DOCUMENTS = True
+DEDUP_RELATED_URLS = True
+PRESERVE_SOURCE_SECTION = True
+LOG_RELATED_DOCUMENT_MAPPING = True
+MAX_RELATED_URLS_PER_DOCUMENT = 50
+ALLOWED_DOMAINS = ("thuvienphapluat.vn",)
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/136.0.0.0 Safari/537.36"
+)
+BROWSER_VIEWPORT = {"width": 1366, "height": 900}
+BROWSER_LOCALE = "vi-VN"
+BROWSER_TIMEZONE = "Asia/Ho_Chi_Minh"
 
 BLOCKED_HTTP_STATUSES = {403, 429}
 BLOCKED_KEYWORDS = (
@@ -50,6 +81,18 @@ BLOCKED_KEYWORDS = (
     "xac minh",
     "không phải robot",
     "khong phai robot",
+)
+VERIFICATION_KEYWORDS = (
+    "xác minh",
+    "xac minh",
+    "không phải robot",
+    "khong phai robot",
+)
+
+INVALID_ACCOUNT_ERROR_CODE = "INVALID_COOKIE_OR_NON_PRO_ACCOUNT"
+INVALID_ACCOUNT_ERROR_MESSAGE = (
+    "Cookie/tài khoản không hợp lệ hoặc tài khoản chưa lên Pro. "
+    "Vui lòng kiểm tra lại cookie đăng nhập."
 )
 
 # ======================
@@ -75,6 +118,14 @@ def error(msg):
 def success(msg):
     # Log a success message.
     log("SUCCESS", msg)
+
+
+class InvalidAccountStateError(RuntimeError):
+    # Raised when the site signals the logged-in account cannot access Pro data.
+    def __init__(self, message=INVALID_ACCOUNT_ERROR_MESSAGE):
+        super().__init__(message)
+        self.error_code = INVALID_ACCOUNT_ERROR_CODE
+        self.message = message
 
 # ======================
 # UTILS
@@ -108,6 +159,13 @@ def load_json_safe(path):
         warn(f"Failed to parse JSON file {path}: {e}")
         return {}
 
+def atomic_write_json(path, value):
+    # Avoid partially-written state files if the crawler is interrupted.
+    tmp_path = path.with_suffix(path.suffix + ".tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(value, f, ensure_ascii=False, indent=2)
+    tmp_path.replace(path)
+
 # ======================
 # RATE LIMIT STATE
 # ======================
@@ -132,8 +190,7 @@ def load_rate_limit_state():
 
 def save_rate_limit_state(state):
     # Persist the daily quota state.
-    with open(RATE_LIMIT_STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
+    atomic_write_json(RATE_LIMIT_STATE_FILE, state)
 
 def check_rate_limits(state, urls_processed_this_run):
     # Stop the run when daily or per-run quotas are exhausted.
@@ -156,16 +213,96 @@ async def sleep_random(label, min_seconds, max_seconds):
 # BLOCK DETECTION
 # ======================
 async def is_blocked_page(page):
-    # Detect simple anti-bot pages from visible body text.
+    # Detect anti-bot pages, but prefer real document metadata when it is present.
+    try:
+        container = await page.query_selector("#viewingDocument")
+        if container:
+            keys = []
+            for att in await container.query_selector_all(".att"):
+                key_el = await att.query_selector(".hd")
+                val_el = await att.query_selector(".ds")
+                if not key_el or not val_el:
+                    continue
+                key = normalize((await key_el.inner_text()).rstrip(":"))
+                value = normalize(await val_el.inner_text())
+                if key:
+                    keys.append(key)
+                if key in {"Tình trạng", "Ngày hiệu lực", "Số hiệu"} and value:
+                    return None, None
+            if any(key in {"Tình trạng", "Ngày hiệu lực", "Số hiệu"} for key in keys):
+                return None, None
+    except:
+        pass
+
     try:
         text = (await page.locator("body").inner_text(timeout=3000)).lower()
     except:
-        return False, None
+        return None, None
 
     for keyword in BLOCKED_KEYWORDS:
         if keyword in text:
-            return True, f"blocked keyword detected: {keyword}"
-    return False, None
+            if keyword in VERIFICATION_KEYWORDS:
+                return "XAC_MINH", f"xác minh required: {keyword}"
+            return "BLOCKED", f"blocked keyword detected: {keyword}"
+    return None, None
+
+async def has_viewing_document_metadata(page):
+    # Treat the page as usable if core metadata fields are already rendered.
+    try:
+        container = await page.query_selector("#viewingDocument")
+        if not container:
+            return False
+        for att in await container.query_selector_all(".att"):
+            key_el = await att.query_selector(".hd")
+            val_el = await att.query_selector(".ds")
+            if not key_el or not val_el:
+                continue
+            key = normalize((await key_el.inner_text()).rstrip(":"))
+            value = normalize(await val_el.inner_text())
+            if key in {"Tình trạng", "Ngày hiệu lực", "Số hiệu"} and value:
+                return True
+        return False
+    except:
+        return False
+
+async def wait_for_luoc_do_ready(page):
+    # The Luoc Do tab is sometimes slow; retry before declaring NO_LUOCDO.
+    last_error = None
+    for reload_attempt in range(0, LUOCDO_RELOAD_ATTEMPTS + 1):
+        if reload_attempt:
+            warn(f"Reload trang để chờ lại tab Lược đồ ({reload_attempt}/{LUOCDO_RELOAD_ATTEMPTS})")
+            await page.reload(timeout=200000)
+            await page.wait_for_load_state("domcontentloaded")
+
+        for attempt in range(1, LUOCDO_RETRY_ATTEMPTS + 1):
+            try:
+                await page.wait_for_selector("#aLuocDo", timeout=LUOCDO_WAIT_TIMEOUT_MS)
+                await page.wait_for_timeout(random.randint(500, 1200))
+                await page.mouse.wheel(0, random.randint(150, 500))
+                await page.wait_for_timeout(random.randint(300, 900))
+                await page.click("#aLuocDo")
+                await page.wait_for_timeout(500)
+                await page.wait_for_selector("#cmDiagram", timeout=LUOCDO_WAIT_TIMEOUT_MS)
+                return True
+            except PlaywrightTimeoutError as exc:
+                last_error = exc
+                if await has_viewing_document_metadata(page):
+                    warn("Tab Lược đồ load chậm nhưng metadata đã sẵn sàng; tiếp tục dùng metadata hiện có")
+                    return False
+                warn(f"Lược đồ chưa sẵn sàng, retry {attempt}/{LUOCDO_RETRY_ATTEMPTS}")
+                await page.wait_for_timeout(1000)
+            except Exception as exc:
+                last_error = exc
+                if await has_viewing_document_metadata(page):
+                    warn("Không click được tab Lược đồ nhưng metadata đã sẵn sàng; tiếp tục dùng metadata hiện có")
+                    return False
+                warn(f"Lỗi mở tab Lược đồ, retry {attempt}/{LUOCDO_RETRY_ATTEMPTS}: {exc}")
+                await page.wait_for_timeout(1000)
+
+        if await has_viewing_document_metadata(page):
+            warn("Không load được tab Lược đồ sau retry nhưng metadata văn bản vẫn đọc được")
+            return False
+    raise last_error or PlaywrightTimeoutError("NO_LUOCDO")
 
 # ======================
 # COOKIE LOADING
@@ -212,8 +349,7 @@ def load_cookies(path: Path):
 # ======================
 def save_cache(cache):
     # Persist the crawl cache to disk.
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
+    atomic_write_json(CACHE_FILE, cache)
 
 def make_replacement_record(
     *,
@@ -240,6 +376,45 @@ def make_replacement_record(
         "error": error,
     }
 
+def make_related_document_record(
+    *,
+    normalized_status="",
+    raw_status="",
+    so_hieu="",
+    expired_date=None,
+    last_checked="",
+    title="",
+    url="",
+    effective_date="",
+    error="",
+    source_section="",
+    source_sections=None,
+    source_toggle="",
+    source_toggles=None,
+    relation_type="",
+    relation_types=None,
+    depth=1,
+):
+    # Build the canonical related-document object.
+    return {
+        "normalized_status": normalized_status,
+        "raw_status": raw_status,
+        "so_hieu": so_hieu,
+        "expired_date": expired_date,
+        "effective_date": effective_date,
+        "last_checked": last_checked,
+        "title": title,
+        "url": url,
+        "error": error,
+        "source_section": source_section,
+        "source_sections": source_sections or ([source_section] if source_section else []),
+        "source_toggle": source_toggle,
+        "source_toggles": source_toggles or ([source_toggle] if source_toggle else []),
+        "relation_type": relation_type,
+        "relation_types": relation_types or ([relation_type] if relation_type else []),
+        "depth": depth,
+    }
+
 def normalize_cache_entry(entry):
     # Migrate older cache shapes into the current public response format.
     if not isinstance(entry, dict):
@@ -248,6 +423,9 @@ def normalize_cache_entry(entry):
     replacements = entry.get("replacements")
     if not isinstance(replacements, list):
         replacements = []
+    related_documents = entry.get("related_documents")
+    if not isinstance(related_documents, (list, dict)):
+        related_documents = []
 
     normalized_status = entry.get("normalized_status", "UNKNOWN")
     raw_status = entry.get("raw_status", "")
@@ -300,17 +478,46 @@ def normalize_cache_entry(entry):
                 )
             )
 
+    normalized_related_documents = []
+    for item in flatten_related_documents(related_documents):
+        if not isinstance(item, dict):
+            continue
+        normalized_related_documents.append(
+            make_related_document_record(
+                normalized_status=item.get("normalized_status", ""),
+                raw_status=item.get("raw_status", ""),
+                so_hieu=item.get("so_hieu", ""),
+                expired_date=item.get("expired_date"),
+                last_checked=item.get("last_checked", ""),
+                title=item.get("title", ""),
+                url=item.get("url", ""),
+                effective_date=item.get("effective_date", ""),
+                error=item.get("error", ""),
+                source_section=item.get("source_section", ""),
+                source_sections=item.get("source_sections"),
+                source_toggle=item.get("source_toggle", ""),
+                source_toggles=item.get("source_toggles"),
+                relation_type=item.get("relation_type", ""),
+                relation_types=item.get("relation_types"),
+                depth=item.get("depth", 1),
+            )
+        )
+
     normalized = {
         "normalized_status": normalized_status,
         "raw_status": raw_status,
         "so_hieu": so_hieu,
         "expired_date": expired_date,
         "replacements": normalized_replacements,
+        "related_documents": group_related_documents_by_section(normalized_related_documents),
+        "related_documents_collected": bool(entry.get("related_documents_collected")),
         "last_checked": last_checked,
     }
 
     if "error_type" in entry:
         normalized["error_type"] = entry.get("error_type")
+    if "error_message" in entry:
+        normalized["error_message"] = entry.get("error_message")
     if "attempts" in entry:
         normalized["attempts"] = entry.get("attempts")
 
@@ -319,6 +526,38 @@ def normalize_cache_entry(entry):
 def compact_json(value):
     # Render JSON on one line for txt output.
     return json.dumps(value, ensure_ascii=False, separators=(",", ":"))
+
+def build_empty_related_documents():
+    # Keep response shape stable even when a document has no related links.
+    grouped = {}
+    for section in RELATED_DOCUMENT_SECTIONS:
+        grouped.setdefault(section["section"], [])
+    return grouped
+
+def group_related_documents_by_section(items):
+    # Expose related documents grouped by section in cache and API output.
+    grouped = build_empty_related_documents()
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        section = item.get("source_section") or "Khác"
+        grouped.setdefault(section, []).append(item)
+    return grouped
+
+def flatten_related_documents(grouped):
+    # Internal iterator helper so the crawl flow can keep a simple sequential loop.
+    if isinstance(grouped, list):
+        return [item for item in grouped if isinstance(item, dict)]
+    if not isinstance(grouped, dict):
+        return []
+    items = []
+    for values in grouped.values():
+        if isinstance(values, list):
+            items.extend(item for item in values if isinstance(item, dict))
+    return items
+
+def count_related_documents(grouped):
+    return len(flatten_related_documents(grouped))
 
 def should_retry_cached_status(status: str) -> bool:
     # Retry cached documents only for unstable statuses.
@@ -329,6 +568,12 @@ def has_replacement_data(data: dict) -> bool:
     if data.get("normalized_status") != "EXPIRED":
         return True
     return bool(data.get("replacements"))
+
+def has_related_document_data(data: dict) -> bool:
+    # Empty related sections are valid once collection has completed.
+    if not ENABLE_RELATED_DOCUMENTS:
+        return True
+    return bool(data.get("related_documents_collected"))
 
 # ======================
 # PHÂN LOẠI TÌNH TRẠNG
@@ -380,31 +625,54 @@ async def open_luoc_do(page, url):
             "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
 
-    blocked, blocked_reason = await is_blocked_page(page)
-    if blocked:
-        error(f"BLOCKED detected: {blocked_reason}")
+    blocked_status, blocked_reason = await is_blocked_page(page)
+    if blocked_status:
+        level = "ERROR" if blocked_status == "BLOCKED" else "WARN"
+        log(level, f"{blocked_status} detected: {blocked_reason}")
         return response, {
-            "normalized_status": "BLOCKED",
+            "normalized_status": blocked_status,
             "raw_status": None,
             "error_type": blocked_reason,
             "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
 
     try:
-        await page.wait_for_selector("#aLuocDo", timeout=20000)
-        await page.click("#aLuocDo")
-        await page.wait_for_selector("#cmDiagram", timeout=20000)
+        await wait_for_luoc_do_ready(page)
     except PlaywrightTimeoutError:
-        blocked, blocked_reason = await is_blocked_page(page)
-        if blocked:
-            error(f"BLOCKED detected: {blocked_reason}")
+        blocked_status, blocked_reason = await is_blocked_page(page)
+        if blocked_status:
+            level = "ERROR" if blocked_status == "BLOCKED" else "WARN"
+            log(level, f"{blocked_status} detected: {blocked_reason}")
             return response, {
-                "normalized_status": "BLOCKED",
+                "normalized_status": blocked_status,
                 "raw_status": None,
                 "error_type": blocked_reason,
                 "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             }
+        if await has_viewing_document_metadata(page):
+            warn("Không load được tab Lược đồ nhưng metadata văn bản vẫn đọc được")
+            return response, None
         warn("Không load được tab Lược đồ")
+        return response, {
+            "normalized_status": "NO_LUOCDO",
+            "raw_status": None,
+            "error_type": "NO_LUOCDO",
+        }
+    except Exception as exc:
+        blocked_status, blocked_reason = await is_blocked_page(page)
+        if blocked_status:
+            level = "ERROR" if blocked_status == "BLOCKED" else "WARN"
+            log(level, f"{blocked_status} detected: {blocked_reason}")
+            return response, {
+                "normalized_status": blocked_status,
+                "raw_status": None,
+                "error_type": blocked_reason,
+                "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            }
+        if await has_viewing_document_metadata(page):
+            warn(f"Không load được tab Lược đồ ({exc}) nhưng metadata văn bản vẫn đọc được")
+            return response, None
+        warn(f"Không load được tab Lược đồ: {exc}")
         return response, {
             "normalized_status": "NO_LUOCDO",
             "raw_status": None,
@@ -429,6 +697,30 @@ async def extract_viewing_document_metadata(page):
             ] = normalize(await v.inner_text())
 
     return raw_data
+
+async def detect_invalid_account_state(page, metadata):
+    # Fail fast when the page exposes the known non-Pro / bad-cookie pattern.
+    effective_date = normalize(metadata.get("Ngày hiệu lực", ""))
+    if effective_date != "Đã biết":
+        return None
+
+    replacement_header = await page.query_selector("#cmDiagram .ghd[onclick*='replaceDocument']")
+    if replacement_header:
+        header_text = normalize(await replacement_header.inner_text())
+        if "Xem chi tiết" in header_text:
+            return INVALID_ACCOUNT_ERROR_MESSAGE
+
+    replacement_container = await page.query_selector("#replaceDocument")
+    if replacement_container:
+        container_text = normalize(await replacement_container.inner_text())
+        if "Xem chi tiết" in container_text:
+            return INVALID_ACCOUNT_ERROR_MESSAGE
+
+    body_text = normalize(await page.locator("body").inner_text())
+    if "Văn bản thay thế" in body_text and "Xem chi tiết" in body_text:
+        return INVALID_ACCOUNT_ERROR_MESSAGE
+
+    return None
 
 def build_snapshot_from_metadata(metadata, *, last_checked):
     # Convert raw metadata into the canonical per-URL snapshot.
@@ -461,6 +753,17 @@ async def fetch_document_snapshot(page, url):
             "error_type": "PARSE_ERROR",
         }
 
+    invalid_account_message = await detect_invalid_account_state(page, metadata)
+    if invalid_account_message:
+        return None, {
+            "normalized_status": "INVALID_ACCOUNT",
+            "raw_status": metadata.get("Tình trạng", ""),
+            "so_hieu": metadata.get("Số hiệu", ""),
+            "error_type": INVALID_ACCOUNT_ERROR_CODE,
+            "error_message": invalid_account_message,
+            "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        }
+
     snapshot = build_snapshot_from_metadata(
         metadata,
         last_checked=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -468,57 +771,18 @@ async def fetch_document_snapshot(page, url):
     return snapshot, None
 
 async def extract_replacement_documents(page, current_url):
-    # Find the replacement-document box and return all valid links.
-    header = await page.query_selector(
-        "#cmDiagram .ghd.ghda[onclick*='replaceDocument']"
+    # Legacy wrapper: keep the old public behavior backed by the generic collector.
+    replacement_sections = tuple(
+        section for section in RELATED_DOCUMENT_SECTIONS if section["toggle_id"] == "replaceDocument"
     )
-
-    if not header:
-        for candidate in await page.query_selector_all("#cmDiagram .ghd.ghda"):
-            text = normalize(await candidate.inner_text())
-            if "Văn bản thay thế" in text:
-                header = candidate
-                break
-
-    if not header:
-        return None, "NO_REPLACEMENT_BOX"
-
-    try:
-        await header.click()
-        await page.wait_for_timeout(300)
-    except Exception as e:
-        warn(f"Không mở được box Văn bản thay thế: {e}")
-
-    container = await page.query_selector("#replaceDocument")
-    if not container:
-        return None, "NO_REPLACEMENT_LINK"
-
-    links = await container.query_selector_all("a[href]")
-    current_normalized = current_url.rstrip("/")
-    replacements = []
-    seen_urls = set()
-
-    for link in links:
-        href = normalize(await link.get_attribute("href") or "")
-        title = normalize(await link.inner_text())
-        if not href:
-            continue
-
-        absolute_url = urljoin(page.url, href)
-        if absolute_url.rstrip("/") == current_normalized:
-            continue
-
-        normalized_url = absolute_url.rstrip("/")
-        if normalized_url in seen_urls:
-            continue
-
-        seen_urls.add(normalized_url)
-        replacements.append(
-            {
-                "title": title,
-                "url": absolute_url,
-            }
-        )
+    replacements = await collect_related_documents(
+        page,
+        current_url,
+        sections=replacement_sections,
+        allowed_domains=ALLOWED_DOMAINS,
+        deduplicate=DEDUP_RELATED_URLS,
+        preserve_source_section=PRESERVE_SOURCE_SECTION,
+    )
 
     if not replacements:
         return None, "NO_REPLACEMENT_LINK"
@@ -533,15 +797,40 @@ async def fetch_replacement_snapshot(page, replacement_url):
 
     return snapshot, None
 
+def should_queue_related_retry(error_result):
+    return error_result and error_result.get("normalized_status") in {"BLOCKED", "XAC_MINH"}
+
+def apply_related_snapshot(document, related_snapshot):
+    document["normalized_status"] = related_snapshot["normalized_status"]
+    document["raw_status"] = related_snapshot["raw_status"]
+    document["so_hieu"] = related_snapshot["so_hieu"]
+    document["expired_date"] = related_snapshot["expired_date"]
+    document["effective_date"] = related_snapshot["effective_date"]
+    document["last_checked"] = related_snapshot["last_checked"]
+    document["error"] = ""
+
+def apply_related_error(document, snapshot_error):
+    error_type = snapshot_error.get("error_type") or "RELATED_DOCUMENT_SNAPSHOT_NOT_FOUND"
+    document["normalized_status"] = snapshot_error.get("normalized_status", "")
+    document["raw_status"] = snapshot_error.get("raw_status") or ""
+    document["so_hieu"] = snapshot_error.get("so_hieu", "")
+    document["expired_date"] = snapshot_error.get("expired_date")
+    document["effective_date"] = ""
+    document["error"] = error_type
+    document["last_checked"] = snapshot_error.get("last_checked", document["last_checked"])
+    return error_type
+
 # ======================
 # CHECK DOCUMENT
 # ======================
-async def check_document(page, title, url):
-    # Crawl one document, then enrich expired ones with replacement data.
+async def check_document(page, title, url, *, max_related_urls=None, on_checkpoint=None):
+    # Crawl one document, then enrich it with first-level related documents.
     info(f"Checking → {title}")
 
     result, open_error = await fetch_document_snapshot(page, url)
     if open_error:
+        if open_error.get("error_type") == INVALID_ACCOUNT_ERROR_CODE:
+            raise InvalidAccountStateError(open_error.get("error_message") or INVALID_ACCOUNT_ERROR_MESSAGE)
         return open_error
 
     result.pop("effective_date", None)
@@ -549,71 +838,174 @@ async def check_document(page, title, url):
     info(f"Normalized: {result['normalized_status']}")
 
     result["replacements"] = []
+    result["related_documents"] = build_empty_related_documents()
+    result["related_documents_collected"] = False
 
-    if result["normalized_status"] != "EXPIRED":
+    if not ENABLE_RELATED_DOCUMENTS or MAX_DEEP < 1:
         return result
 
-    replacement_docs, replacement_error = await extract_replacement_documents(page, url)
-    if replacement_error:
-        result["replacements"] = []
-        warn(f"Không lấy được văn bản thay thế: {replacement_error}")
-        return result
+    related_docs = await collect_related_documents(
+        page,
+        url,
+        sections=RELATED_DOCUMENT_SECTIONS,
+        allowed_domains=ALLOWED_DOMAINS,
+        deduplicate=DEDUP_RELATED_URLS,
+        preserve_source_section=PRESERVE_SOURCE_SECTION,
+        log_func=info if LOG_RELATED_DOCUMENT_MAPPING else None,
+    )
+    if max_related_urls is None:
+        max_related_urls = MAX_RELATED_URLS_PER_DOCUMENT
+    if max_related_urls is not None and max_related_urls >= 0:
+        if len(related_docs) > max_related_urls:
+            warn(f"Limit related URLs: {len(related_docs)} -> {max_related_urls}")
+        related_docs = related_docs[:max_related_urls]
 
-    replacements = []
-    fatal_error = None
-
-    for replacement in replacement_docs:
-        info(f"Replacement → {replacement['title']} | {replacement['url']}")
-        replacement_snapshot, snapshot_error = await fetch_replacement_snapshot(
-            page,
-            replacement["url"],
-        )
-
-        replacement_item = make_replacement_record(
-            title=replacement["title"],
-            url=replacement["url"],
+    related_documents = []
+    for document in related_docs:
+        record = make_related_document_record(
+            title=document["title"],
+            url=document["url"],
+            source_section=document.get("source_section", ""),
+            source_sections=document.get("source_sections", []),
+            source_toggle=document.get("source_toggle", ""),
+            source_toggles=document.get("source_toggles", []),
+            relation_type=document.get("relation_type", ""),
+            relation_types=document.get("relation_types", []),
+            depth=document.get("depth", 1),
             last_checked=result["last_checked"],
         )
+        # Giữ tooltip data để dùng thay thế navigation
+        record["_tooltip_raw_status"] = document.get("tooltip_raw_status", "")
+        record["_tooltip_so_hieu"] = document.get("tooltip_so_hieu", "")
+        record["_tooltip_effective_date"] = document.get("tooltip_effective_date", "")
+        related_documents.append(record)
+    result["related_documents"] = group_related_documents_by_section(related_documents)
+    result["related_documents_collected"] = True
+    if on_checkpoint:
+        on_checkpoint(result)
 
-        if snapshot_error:
-            error_type = snapshot_error.get("error_type") or "REPLACEMENT_EFFECTIVE_DATE_NOT_FOUND"
-            replacement_item["normalized_status"] = snapshot_error.get("normalized_status", "")
-            replacement_item["raw_status"] = snapshot_error.get("raw_status") or ""
-            replacement_item["so_hieu"] = snapshot_error.get("so_hieu", "")
-            replacement_item["expired_date"] = snapshot_error.get("expired_date")
-            replacement_item["effective_date"] = ""
-            replacement_item["error"] = error_type
+    replacements = [
+        make_replacement_record(
+            title=document["title"],
+            url=document["url"],
+            last_checked=document["last_checked"],
+        )
+        for document in related_documents
+        if "replaceDocument" in document.get("source_toggles", [])
+    ]
 
-            if snapshot_error.get("normalized_status") == "BLOCKED":
-                fatal_error = error_type
-                replacements.append(replacement_item)
-                break
+    related_retry_queue = []
 
-            warn(f"Không lấy được Ngày hiệu lực văn bản thay thế: {error_type}")
-            replacements.append(replacement_item)
+    for document in related_documents:
+        tooltip_raw = document.pop("_tooltip_raw_status", "")
+        tooltip_so_hieu = document.pop("_tooltip_so_hieu", "")
+        tooltip_effective_date = document.pop("_tooltip_effective_date", "")
+
+        # Dùng tooltip status trực tiếp — không cần navigate sang related URL
+        if tooltip_raw:
+            normalized = classify_status(tooltip_raw)
+            expired_date = extract_expired_date(tooltip_raw) if normalized == "EXPIRED" else None
+            apply_related_snapshot(document, {
+                "normalized_status": normalized,
+                "raw_status": tooltip_raw,
+                "so_hieu": tooltip_so_hieu,
+                "expired_date": expired_date,
+                "effective_date": tooltip_effective_date,
+                "last_checked": result["last_checked"],
+            })
+            success(
+                f"Related (tooltip) → {document['source_section']} | "
+                f"{document['title']} | {normalized}"
+            )
+            document["attempts"] = 0
+            if on_checkpoint:
+                on_checkpoint(result)
             continue
 
-        replacement_item["normalized_status"] = replacement_snapshot["normalized_status"]
-        replacement_item["raw_status"] = replacement_snapshot["raw_status"]
-        replacement_item["so_hieu"] = replacement_snapshot["so_hieu"]
-        replacement_item["expired_date"] = replacement_snapshot["expired_date"]
-        replacement_item["effective_date"] = replacement_snapshot["effective_date"]
-        replacement_item["last_checked"] = replacement_snapshot["last_checked"]
-        replacement_item["error"] = ""
-        success(
-            f"Replacement snapshot: {replacement_snapshot['normalized_status']} | "
-            f"{replacement_snapshot['effective_date'] or replacement_snapshot['expired_date'] or ''}"
+        # Fallback: navigate nếu tooltip không có status
+        info(
+            f"Related → {document['source_section']} | "
+            f"{document['title']} | {document['url']}"
         )
-        replacements.append(replacement_item)
+        related_snapshot, snapshot_error = await fetch_replacement_snapshot(
+            page,
+            document["url"],
+        )
+        document["attempts"] = 1
 
+        if snapshot_error:
+            error_type = apply_related_error(document, snapshot_error)
+            warn(f"Không lấy được snapshot văn bản liên quan: {error_type}")
+            if should_queue_related_retry(snapshot_error):
+                related_retry_queue.append(document)
+            if on_checkpoint:
+                on_checkpoint(result)
+            await sleep_random("Related-url delay", *RELATED_URL_SLEEP_RANGE)
+            continue
+
+        apply_related_snapshot(document, related_snapshot)
+        success(
+            f"Related snapshot: {related_snapshot['normalized_status']} | "
+            f"{related_snapshot['effective_date'] or related_snapshot['expired_date'] or ''}"
+        )
+        if on_checkpoint:
+            on_checkpoint(result)
+        await sleep_random("Related-url delay", *RELATED_URL_SLEEP_RANGE)
+
+    for retry_attempt in range(2, MAX_RETRIES_PER_RELATED_URL + 2):
+        if not related_retry_queue:
+            break
+
+        retry_batch = related_retry_queue
+        related_retry_queue = []
+        warn(f"Retry queue văn bản liên quan: attempt {retry_attempt}/{MAX_RETRIES_PER_RELATED_URL + 1}, total={len(retry_batch)}")
+
+        for document in retry_batch:
+            await sleep_random("Related-retry queue delay", *RELATED_RETRY_SLEEP_RANGE)
+            info(
+                f"Related retry → {document['source_section']} | "
+                f"{document['title']} | {document['url']}"
+            )
+            related_snapshot, snapshot_error = await fetch_replacement_snapshot(page, document["url"])
+            document["attempts"] = retry_attempt
+
+            if snapshot_error:
+                error_type = apply_related_error(document, snapshot_error)
+                warn(f"Retry vẫn chưa lấy được snapshot văn bản liên quan: {error_type}")
+                if should_queue_related_retry(snapshot_error) and retry_attempt <= MAX_RETRIES_PER_RELATED_URL:
+                    related_retry_queue.append(document)
+                if on_checkpoint:
+                    on_checkpoint(result)
+                continue
+
+            apply_related_snapshot(document, related_snapshot)
+            success(
+                f"Related retry snapshot: {related_snapshot['normalized_status']} | "
+                f"{related_snapshot['effective_date'] or related_snapshot['expired_date'] or ''}"
+            )
+            if on_checkpoint:
+                on_checkpoint(result)
+
+    replacements_by_url = {item["url"].rstrip("/"): item for item in replacements}
+    for document in related_documents:
+        if "replaceDocument" not in document.get("source_toggles", []):
+            continue
+        replacement_item = replacements_by_url.get(document["url"].rstrip("/"))
+        if not replacement_item:
+            continue
+        for field in (
+            "normalized_status",
+            "raw_status",
+            "so_hieu",
+            "expired_date",
+            "effective_date",
+            "last_checked",
+            "error",
+        ):
+            replacement_item[field] = document.get(field, replacement_item.get(field, ""))
     result["replacements"] = replacements
-
-    if fatal_error:
-        return {
-            **result,
-            "normalized_status": "BLOCKED",
-            "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        }
+    if on_checkpoint:
+        on_checkpoint(result)
 
     return result
 
@@ -621,7 +1013,7 @@ async def check_document(page, title, url):
 # ======================
 # RETRY WRAPPER
 # ======================
-async def check_document_with_retries(page, title, url):
+async def check_document_with_retries(page, title, url, *, max_related_urls=None, on_checkpoint=None):
     # Retry unstable document checks before giving up.
     attempts = 0
     last_result = None
@@ -629,7 +1021,13 @@ async def check_document_with_retries(page, title, url):
     while attempts <= MAX_RETRIES_PER_URL:
         attempts += 1
         info(f"Attempt {attempts}/{MAX_RETRIES_PER_URL + 1} → {title}")
-        result = await check_document(page, title, url)
+        result = await check_document(
+            page,
+            title,
+            url,
+            max_related_urls=max_related_urls,
+            on_checkpoint=on_checkpoint,
+        )
         result["attempts"] = attempts
         last_result = result
 
@@ -657,19 +1055,31 @@ async def check_document_with_retries(page, title, url):
 # ======================
 # MAIN
 # ======================
-async def main():
+def normalize_document_mapping(documents):
+    # Normalize a title -> url mapping so CLI and API share the same rules.
+    if not isinstance(documents, dict):
+        raise ValueError("Documents input must be a mapping of title -> url")
+
+    normalized = {}
+    for raw_title, raw_url in documents.items():
+        if raw_title is None or raw_url is None:
+            raise ValueError("Document entries must not contain null title/url")
+
+        title = str(raw_title).strip()
+        url = str(raw_url).strip()
+        if not title or not url:
+            raise ValueError("Document entries must include non-empty title/url")
+        if title in normalized:
+            raise ValueError(f"Duplicate title after normalization: {title}")
+        normalized[title] = url
+
+    return normalized
+
+
+async def run_check_hieu_luc(documents, input_date):
     # Run the full crawl, then write summary files and cache.
 
-    if len(sys.argv) != 2:
-        print("Usage: python check_hieu_luc.py dd/mm/YYYY")
-        sys.exit(1)
-
-    input_date = parse_date(sys.argv[1])
-    if not input_date:
-        print("Sai định dạng ngày")
-        sys.exit(1)
-
-    documents = load_json_safe(DATA_FILE)
+    documents = normalize_document_mapping(documents)
     cache = load_json_safe(CACHE_FILE)
     cache = {title: normalize_cache_entry(entry) for title, entry in cache.items()}
     rate_state = load_rate_limit_state()
@@ -704,8 +1114,26 @@ async def main():
     failed_titles = []
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
+        browser = await p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-dev-shm-usage",
+                "--no-sandbox",
+                "--disable-infobars",
+                "--disable-extensions",
+                "--disable-plugins-discovery",
+                "--no-first-run",
+                "--no-default-browser-check",
+                "--window-size=1366,900",
+            ],
+        )
+        context = await browser.new_context(
+            user_agent=USER_AGENT,
+            viewport=BROWSER_VIEWPORT,
+            locale=BROWSER_LOCALE,
+            timezone_id=BROWSER_TIMEZONE,
+        )
 
         cookies = load_cookies(COOKIES_FILE)
         info(f"Loaded cookies: {len(cookies)}")
@@ -713,6 +1141,12 @@ async def main():
             await context.add_cookies(cookies)
 
         page = await context.new_page()
+        await page.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi', 'en-US'] });
+            window.chrome = { runtime: {} };
+        """)
         traffic = {"bytes_downloaded": 0}
 
         # Approximate daily traffic using response headers so the byte quota
@@ -736,12 +1170,15 @@ async def main():
             if title in cache:
                 old_status = cache[title].get("normalized_status")
 
-                if not should_retry_cached_status(old_status) and has_replacement_data(cache[title]):
+                cache_ready = has_replacement_data(cache[title]) and has_related_document_data(cache[title])
+                if not should_retry_cached_status(old_status) and cache_ready:
                     info(f"Skip (đã có trạng thái hợp lệ) → {title}")
                     skipped_cached.append((title, url, old_status))
                     continue
                 elif old_status == "EXPIRED" and not has_replacement_data(cache[title]):
                     info(f"Rechecking expired document to fetch replacement → {title}")
+                elif not has_related_document_data(cache[title]):
+                    info(f"Rechecking document to fetch related URLs → {title}")
                 else:
                     info(f"Rechecking cached failed status → {title} [{old_status}]")
 
@@ -752,7 +1189,22 @@ async def main():
                 break
 
             bytes_before = traffic["bytes_downloaded"]
-            result = await check_document_with_retries(page, title, url)
+
+            def checkpoint_result(partial_result):
+                cache[title] = partial_result
+                save_cache(cache)
+
+            try:
+                result = await check_document_with_retries(
+                    page,
+                    title,
+                    url,
+                    max_related_urls=MAX_RELATED_URLS_PER_DOCUMENT,
+                    on_checkpoint=checkpoint_result,
+                )
+            except InvalidAccountStateError:
+                error(INVALID_ACCOUNT_ERROR_MESSAGE)
+                raise
             bytes_used = max(0, traffic["bytes_downloaded"] - bytes_before)
 
             cache[title] = result
@@ -760,16 +1212,16 @@ async def main():
 
             urls_processed_this_run += 1
             rate_state["urls_processed_today"] += 1
-            replacement_urls_processed = len(result.get("replacements", []))
-            urls_processed_this_run += replacement_urls_processed
-            rate_state["urls_processed_today"] += replacement_urls_processed
+            related_urls_processed = count_related_documents(result.get("related_documents", {}))
+            urls_processed_this_run += related_urls_processed
+            rate_state["urls_processed_today"] += related_urls_processed
             rate_state["bytes_downloaded_today"] += bytes_used
             save_rate_limit_state(rate_state)
 
             status = result.get("normalized_status")
             if status in {"VALID", "EXPIRED", "NOT_APPLICABLE"}:
                 success_titles.append((title, url, status))
-            elif status in {"FAILED_PERMANENT", "LOAD_ERROR", "NO_LUOCDO", "PARSE_ERROR", "OTHER"}:
+            elif status in {"FAILED_PERMANENT", "LOAD_ERROR", "NO_LUOCDO", "PARSE_ERROR", "OTHER", "XAC_MINH"}:
                 failed_titles.append((title, url, status, result.get("error_type")))
 
             info(
@@ -777,6 +1229,17 @@ async def main():
                 f"today={rate_state['urls_processed_today']}/{MAX_URL_PER_DAY}, "
                 f"bytes+={bytes_used}"
             )
+
+            if urls_processed_this_run > MAX_URL_PER_RUN:
+                warn(
+                    f"Run quota exceeded while finishing current root: "
+                    f"{urls_processed_this_run}/{MAX_URL_PER_RUN}"
+                )
+            if rate_state["urls_processed_today"] > MAX_URL_PER_DAY:
+                warn(
+                    f"Daily quota exceeded while finishing current root: "
+                    f"{rate_state['urls_processed_today']}/{MAX_URL_PER_DAY}"
+                )
 
             if status == "BLOCKED":
                 blocked_reason = result.get("error_type") or "BLOCKED"
@@ -831,6 +1294,7 @@ async def main():
                 "expired_date": expired_date,
                 "replacements": data.get("replacements", []),
                 "replacements_text": compact_json(data.get("replacements", [])),
+                "related_documents": data.get("related_documents", {}),
                 "last_checked": data.get("last_checked", ""),
             }
         )
@@ -849,7 +1313,8 @@ async def main():
             f.write(
                 f"[{row['status']}] {row['title']} | {row.get('so_hieu','')} | "
                 f"{row.get('raw_status','')} | {row.get('expired_date') or ''} | "
-                f"replacements={row.get('replacements_text','')}\n"
+                f"replacements={row.get('replacements_text','')} | "
+                f"related_documents={compact_json(row.get('related_documents', {}))}\n"
             )
 
     with open(expired_file, "w", encoding="utf-8") as f:
@@ -857,7 +1322,8 @@ async def main():
             f.write(
                 f"{title} | {data.get('so_hieu','')} | "
                 f"{data.get('raw_status','')} | "
-                f"replacements={compact_json(data.get('replacements', []))} \n"
+                f"replacements={compact_json(data.get('replacements', []))} | "
+                f"related_documents={compact_json(data.get('related_documents', {}))} \n"
             )
 
     stats = Counter(cache.get(t, {}).get("normalized_status") for t in documents.keys())
@@ -890,6 +1356,47 @@ async def main():
 
     success(f"Expired list saved ({len(expired_before)} record(s)) → {expired_file}")
     success(f"Cache saved → {CACHE_FILE}")
+
+    return {
+        "input_date": input_date.strftime("%d/%m/%Y"),
+        "total_documents": len(documents),
+        "urls_processed_this_run": urls_processed_this_run,
+        "success_count": len(success_titles),
+        "failed_count": len(failed_titles),
+        "skipped_cache_count": len(skipped_cached),
+        "blocked_reason": blocked_reason,
+        "stop_reason": stop_reason,
+        "all_results_file": str(all_results_file),
+        "expired_file": str(expired_file),
+        "stats": dict(stats),
+        "all_results": all_results,
+        "expired_before": [{"title": title, **data} for title, data in expired_before],
+    }
+
+
+async def main():
+    # CLI wrapper: keep backward compatibility with the original invocation.
+
+    if len(sys.argv) != 2:
+        print("Usage: python check_hieu_luc.py dd/mm/YYYY")
+        sys.exit(1)
+
+    input_date = parse_date(sys.argv[1])
+    if not input_date:
+        print("Sai định dạng ngày")
+        sys.exit(1)
+
+    try:
+        documents = normalize_document_mapping(load_json_safe(DATA_FILE))
+    except ValueError as exc:
+        print(str(exc))
+        sys.exit(1)
+
+    try:
+        await run_check_hieu_luc(documents, input_date)
+    except InvalidAccountStateError as exc:
+        print(exc.message)
+        sys.exit(1)
 
 if __name__ == "__main__":
     asyncio.run(main())
