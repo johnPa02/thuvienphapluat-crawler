@@ -10,6 +10,7 @@ module.exports = {
     },
     autorestart: true,
     watch: false,
-    max_restarts: 5
+    max_restarts: 5,
+    max_memory_restart: "2G"
   }]
 }
