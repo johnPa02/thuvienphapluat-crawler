@@ -57,8 +57,8 @@ BATCH_COOLDOWN_RANGE = (60, 120)
 MAX_CONSECUTIVE_FAIL = 2
 GLOBAL_COOLDOWN_RANGE = (180, 360)
 MAX_CIRCUIT_BREAKER_TRIPS = 2
-MAX_URL_PER_RUN = 200
-MAX_URL_PER_DAY = 1000
+MAX_URL_PER_RUN = 10000
+MAX_URL_PER_DAY = 10000
 MAX_BYTES_PER_DAY = 300 * 1024 * 1024
 MAX_DEEP = 1
 ENABLE_RELATED_DOCUMENTS = True
@@ -320,7 +320,29 @@ async def wait_for_luoc_do_ready(page):
 # ======================
 # COOKIE LOADING
 # ======================
-def load_cookies(path: Path):
+def parse_cookies_from_text(content: str) -> list[dict]:
+    # Parse Netscape TXT cookie content from a string.
+    cookies = []
+    for line in content.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) < 7:
+            continue
+        cookies.append(
+            {
+                "domain": parts[0].lstrip("."),
+                "path": parts[2],
+                "secure": parts[3].upper() == "TRUE",
+                "name": parts[5],
+                "value": parts[6],
+            }
+        )
+    return cookies
+
+
+def load_cookies(path: Path) -> list[dict]:
     # Load cookies from Netscape or Playwright JSON format.
     if not path.exists():
         warn(f"Cookie file not found: {path}")
@@ -332,30 +354,12 @@ def load_cookies(path: Path):
         return data if isinstance(data, list) else []
 
     # Netscape cookie file format
-    cookies = []
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line or line.startswith("#"):
-                    continue
-                parts = line.split("\t")
-                if len(parts) < 7:
-                    continue
-                cookies.append(
-                    {
-                        "domain": parts[0].lstrip("."),
-                        "path": parts[2],
-                        "secure": parts[3].upper() == "TRUE",
-                        "name": parts[5],
-                        "value": parts[6],
-                    }
-                )
+        content = path.read_text(encoding="utf-8")
+        return parse_cookies_from_text(content)
     except Exception as e:
         warn(f"Load cookies failed: {e}")
         return []
-
-    return cookies
 
 # ======================
 # CACHE (per-document files + index)
@@ -585,6 +589,7 @@ def normalize_cache_entry(entry):
         "raw_status": raw_status,
         "so_hieu": so_hieu,
         "expired_date": expired_date,
+        "effective_date": entry.get("effective_date", ""),
         "replacements": normalized_replacements,
         "related_documents": group_related_documents_by_section(normalized_related_documents),
         "related_documents_collected": bool(entry.get("related_documents_collected")),
@@ -655,6 +660,15 @@ def has_related_document_data(data: dict) -> bool:
 # ======================
 # PHÂN LOẠI TÌNH TRẠNG
 # ======================
+def classify_document_age(effective_date_str: str, input_date) -> str | None:
+    # Compare effective_date against input_date to label a document as new or old.
+    if not effective_date_str:
+        return None
+    d = parse_date(effective_date_str)
+    if d is None:
+        return None
+    return "văn bản mới" if d >= input_date else "văn bản cũ"
+
 def classify_status(raw_status: str):
     # Normalize the raw status text into a smaller status set.
     if not raw_status:
@@ -889,7 +903,6 @@ async def check_document(page, title, url, *, on_checkpoint=None):
             raise InvalidAccountStateError(open_error.get("error_message") or INVALID_ACCOUNT_ERROR_MESSAGE)
         return open_error
 
-    result.pop("effective_date", None)
     info(f"Raw status: {result['raw_status']}")
     info(f"Normalized: {result['normalized_status']}")
 
@@ -1183,7 +1196,7 @@ async def open_verification_browser(url: str, context) -> bool:
     return solved
 
 
-async def run_check_hieu_luc(documents, input_date):
+async def run_check_hieu_luc(documents, input_date, *, cookies: list[dict]):
     # Run the full crawl, then write summary files and cache.
 
     documents = normalize_document_mapping(documents)
@@ -1240,7 +1253,6 @@ async def run_check_hieu_luc(documents, input_date):
             timezone_id=BROWSER_TIMEZONE,
         )
 
-        cookies = load_cookies(COOKIES_FILE)
         info(f"Loaded cookies: {len(cookies)}")
         if cookies:
             await context.add_cookies(cookies)
@@ -1383,6 +1395,9 @@ async def run_check_hieu_luc(documents, input_date):
         so_hieu = data.get("so_hieu", "")
         expired_date = data.get("expired_date")
 
+        effective_date = data.get("effective_date", "")
+        document_age = classify_document_age(effective_date, input_date)
+
         all_results.append(
             {
                 "title": title,
@@ -1390,6 +1405,8 @@ async def run_check_hieu_luc(documents, input_date):
                 "status": status,
                 "raw_status": raw_status,
                 "expired_date": expired_date,
+                "effective_date": effective_date,
+                "document_age": document_age,
                 "replacements": data.get("replacements", []),
                 "replacements_text": compact_json(data.get("replacements", [])),
                 "related_documents": data.get("related_documents", {}),
@@ -1490,8 +1507,9 @@ async def main():
         print(str(exc))
         sys.exit(1)
 
+    cli_cookies = load_cookies(COOKIES_FILE)
     try:
-        await run_check_hieu_luc(documents, input_date)
+        await run_check_hieu_luc(documents, input_date, cookies=cli_cookies)
     except InvalidAccountStateError as exc:
         print(exc.message)
         sys.exit(1)

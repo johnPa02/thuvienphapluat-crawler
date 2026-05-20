@@ -6,19 +6,22 @@ if __package__ in {None, ""}:
     # Allow running as `python check_hieu_luc/api.py` from the repo root.
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from urllib.parse import urlparse
 
 try:
     from .check_hieu_luc import (
         InvalidAccountStateError,
+        classify_document_age,
+        parse_cookies_from_text,
         parse_date,
         run_check_hieu_luc,
     )
 except ImportError:
     from check_hieu_luc.check_hieu_luc import (
         InvalidAccountStateError,
+        classify_document_age,
+        parse_cookies_from_text,
         parse_date,
         run_check_hieu_luc,
     )
@@ -52,36 +55,38 @@ def _normalize_url(url: str) -> str:
     return url.rstrip("/")
 
 
-def _filter_related_documents(related_documents: dict) -> dict:
-    """Keep original related_documents structure but only include entries whose url is in S3 mapping."""
+def _filter_and_enrich_related_documents(related_documents: dict, input_date) -> dict:
+    """Filter related docs to origin-mapped only, then add document_age to each item."""
     filtered = {}
     for section_name, docs in related_documents.items():
-        filtered[section_name] = [
-            doc for doc in docs
-            if _normalize_url(doc.get("url", "")) in _S3_MAP
-        ]
+        enriched = []
+        for doc in docs:
+            if _normalize_url(doc.get("url", "")) not in _S3_MAP:
+                continue
+            item = dict(doc)
+            item["document_age"] = classify_document_age(item.get("effective_date", ""), input_date)
+            enriched.append(item)
+        filtered[section_name] = enriched
     return filtered
 
 
-def _build_response_data(all_results: list) -> list[dict]:
-    """Keep original result structure, only filter related_documents items to mapped-only."""
+def _build_response_data(all_results: list, input_date) -> list[dict]:
+    """Filter related_documents by S3 origin map and enrich with document_age."""
     output = []
     for result in all_results:
         item = dict(result)
-        if "related_documents" in item and item["related_documents"]:
-            item["related_documents"] = _filter_related_documents(item["related_documents"])
+        if item.get("related_documents"):
+            item["related_documents"] = _filter_and_enrich_related_documents(
+                item["related_documents"], input_date
+            )
+        # Enrich replacements with document_age too
+        if item.get("replacements"):
+            item["replacements"] = [
+                {**r, "document_age": classify_document_age(r.get("effective_date", ""), input_date)}
+                for r in item["replacements"]
+            ]
         output.append(item)
     return output
-
-
-class DocumentItem(BaseModel):
-    title: str
-    url: str
-
-
-class CheckHieuLucRequest(BaseModel):
-    input_date: str
-    documents: list[DocumentItem]
 
 
 app = FastAPI(title="check_hieu_luc API", version="1.0.0")
@@ -98,28 +103,50 @@ async def health():
 
 
 @app.post("/check-hieu-luc")
-async def check_hieu_luc(payload: CheckHieuLucRequest):
-    input_date = parse_date(payload.input_date)
-    if not input_date:
+async def check_hieu_luc(
+    input_date: str = Form(...),
+    documents: str = Form(...),
+    cookie_file: UploadFile = File(...),
+):
+    # Validate and parse cookie file
+    cookie_bytes = await cookie_file.read()
+    if not cookie_bytes:
+        raise HTTPException(status_code=400, detail="Cookie file is empty or invalid")
+    parsed_cookies = parse_cookies_from_text(cookie_bytes.decode("utf-8", errors="replace"))
+    if not parsed_cookies:
+        raise HTTPException(status_code=400, detail="Cookie file is empty or invalid")
+
+    # Validate date
+    parsed_date = parse_date(input_date)
+    if not parsed_date:
         raise HTTPException(status_code=400, detail="Sai định dạng ngày, dùng dd/mm/YYYY")
 
-    if not payload.documents:
+    # Normalize documents string: strip outer quotes and collapse newlines injected by Postman
+    documents = documents.strip()
+    if documents.startswith('"') and documents.endswith('"'):
+        documents = documents[1:-1]
+    documents = " ".join(documents.split())
+    try:
+        doc_list = json.loads(documents)
+    except (json.JSONDecodeError, ValueError):
+        raise HTTPException(status_code=400, detail="documents must be valid JSON")
+    if not isinstance(doc_list, list) or not doc_list:
         raise HTTPException(status_code=400, detail="documents must be a non-empty list")
 
-    documents = {}
-    for item in payload.documents:
-        title = str(item.title).strip()
-        url = str(item.url).strip()
+    docs = {}
+    for item in doc_list:
+        title = str(item.get("title", "")).strip()
+        url = str(item.get("url", "")).strip()
         if not title or not url:
             raise HTTPException(status_code=400, detail="Each document must include non-empty title and url")
         if not is_valid_http_url(url):
             raise HTTPException(status_code=400, detail=f"Invalid URL: {url}")
-        if title in documents:
+        if title in docs:
             raise HTTPException(status_code=400, detail=f"Duplicate title after normalization: {title}")
-        documents[title] = url
+        docs[title] = url
 
     try:
-        raw = await run_check_hieu_luc(documents, input_date)
+        raw = await run_check_hieu_luc(docs, parsed_date, cookies=parsed_cookies)
         return {
             "status": "success",
             "message": f"Đã kiểm tra {raw['total_documents']} văn bản",
@@ -131,7 +158,7 @@ async def check_hieu_luc(payload: CheckHieuLucRequest):
             "skipped_cache_count": raw["skipped_cache_count"],
             "blocked_reason": raw["blocked_reason"],
             "stop_reason": raw["stop_reason"],
-            "data": _build_response_data(raw["all_results"]),
+            "data": _build_response_data(raw["all_results"], parsed_date),
         }
     except InvalidAccountStateError as exc:
         raise HTTPException(
