@@ -1,0 +1,1294 @@
+{
+  "normalized_status": "VALID",
+  "raw_status": "Còn hiệu lực đến: 30/06/2026",
+  "so_hieu": "38/2019/QH14",
+  "expired_date": null,
+  "last_checked": "2026-05-20 11:49:38",
+  "replacements": [
+    {
+      "normalized_status": "NOT_EFFECTIVE_YET",
+      "raw_status": "Chưa có hiệu lực",
+      "so_hieu": "108/2025/QH15",
+      "expired_date": null,
+      "effective_date": "01/07/2026",
+      "last_checked": "2026-05-20 11:49:38",
+      "title": "Luật Quản lý thuế 2025",
+      "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-Quan-ly-thue-2025-so-108-2025-QH15-675268.aspx",
+      "error": ""
+    }
+  ],
+  "related_documents": {
+    "Văn bản thay thế": [
+      {
+        "normalized_status": "NOT_EFFECTIVE_YET",
+        "raw_status": "Chưa có hiệu lực",
+        "so_hieu": "108/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Quản lý thuế 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-Quan-ly-thue-2025-so-108-2025-QH15-675268.aspx",
+        "error": "",
+        "source_section": "Văn bản thay thế",
+        "source_sections": [
+          "Văn bản thay thế"
+        ],
+        "source_toggle": "replaceDocument",
+        "source_toggles": [
+          "replaceDocument"
+        ],
+        "relation_type": "replacement",
+        "relation_types": [
+          "replacement"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được hướng dẫn": [],
+    "Văn bản được hợp nhất": [],
+    "Văn bản bị sửa đổi bổ sung": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "106/2016/QH13",
+        "expired_date": null,
+        "effective_date": "01/07/2016",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật thuế giá trị gia tăng, Luật thuế tiêu thụ đặc biệt và Luật quản lý thuế sửa đổi 2016",
+        "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-thue-gia-tri-gia-tang-Luat-thue-tieu-thu-dac-biet-Luat-quan-ly-thue-sua-doi-2016-309816.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "88/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2017",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật kế toán 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Luat-ke-toan-2015-298369.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "71/2014/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật sửa đổi các Luật về thuế 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-sua-doi-cac-Luat-ve-thue-2014-259208.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản bị thay thế": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2020",
+        "so_hieu": "78/2006/QH11",
+        "expired_date": "01/07/2020",
+        "effective_date": "01/07/2007",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật quản lý thuế 2006",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-quan-ly-thue-2006-78-2006-QH11-15871.aspx",
+        "error": "",
+        "source_section": "Văn bản bị thay thế",
+        "source_sections": [
+          "Văn bản bị thay thế"
+        ],
+        "source_toggle": "replacedDocument",
+        "source_toggles": [
+          "replacedDocument"
+        ],
+        "relation_type": "replaced_by",
+        "relation_types": [
+          "replaced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2020",
+        "so_hieu": "21/2012/QH13",
+        "expired_date": "01/07/2020",
+        "effective_date": "01/07/2013",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật quản lý thuế sửa đổi 2012",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-quan-ly-thue-sua-doi-2012-21-2012-QH13-152714.aspx",
+        "error": "",
+        "source_section": "Văn bản bị thay thế",
+        "source_sections": [
+          "Văn bản bị thay thế"
+        ],
+        "source_toggle": "replacedDocument",
+        "source_toggles": [
+          "replacedDocument"
+        ],
+        "relation_type": "replaced_by",
+        "relation_types": [
+          "replaced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được dẫn chiếu": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "15/2017/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2018",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Quản lý, sử dụng tài sản công 2017",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-Quan-ly-su-dung-tai-san-cong-2017-322220.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "107/2016/QH13",
+        "expired_date": null,
+        "effective_date": "01/09/2016",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật thuế xuất khẩu, thuế nhập khẩu 2016",
+        "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Luat-thue-xuat-khau-thue-nhap-khau-2016-280693.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "97/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2017",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật phí và lệ phí 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-phi-va-le-phi-2015-298376.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "81/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2016",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Kiểm toán nhà nước 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Luat-kiem-toan-nha-nuoc-2015-282381.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2021",
+        "so_hieu": "67/2014/QH13",
+        "expired_date": "01/01/2021",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Đầu tư 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-tu-2014-259729.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2021",
+        "so_hieu": "68/2014/QH13",
+        "expired_date": "01/01/2021",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Doanh nghiệp 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-2014-259730.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "54/2014/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Hải quan 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Hai-quan-2014-238637.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/03/2026",
+        "so_hieu": "51/2014/QH13",
+        "expired_date": "01/03/2026",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Phá sản 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Pha-san-2014-238641.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2023",
+        "so_hieu": "56/2010/QH12",
+        "expired_date": "01/07/2023",
+        "effective_date": "01/07/2011",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật thanh tra 2010",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-thanh-tra-2010-115311.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được căn cứ": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "Khongso",
+        "expired_date": null,
+        "effective_date": "01/01/2014",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Hiến pháp 2013",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx",
+        "error": "",
+        "source_section": "Văn bản được căn cứ",
+        "source_sections": [
+          "Văn bản được căn cứ"
+        ],
+        "source_toggle": "basisDocument",
+        "source_toggles": [
+          "basisDocument"
+        ],
+        "relation_type": "based_by",
+        "relation_types": [
+          "based_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hợp nhất": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "41/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "16/03/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Văn bản hợp nhất 41/VBHN-VPQH năm 2026 hợp nhất Luật Kế toán do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Van-ban-hop-nhat-41-VBHN-VPQH-2026-Luat-Ke-toan-699509.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "25/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "26/02/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Văn bản hợp nhất 25/VBHN-VPQH năm 2025 hợp nhất Luật Kế toán do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Van-ban-hop-nhat-25-VBHN-VPQH-2025-Luat-Ke-toan-651529.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực đến: 30/06/2026",
+        "so_hieu": "29/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "26/02/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Văn bản hợp nhất 29/VBHN-VPQH năm 2025 hợp nhất Luật Quản lý thuế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Van-ban-hop-nhat-29-VBHN-VPQH-2025-Luat-Quan-ly-thue-651534.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "14/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "04/07/2019",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Văn bản hợp nhất 14/VBHN-VPQH năm 2019 hợp nhất Luật Kế toán do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Van-ban-hop-nhat-14-VBHN-VPQH-2019-Luat-Ke-toan-nam-2015-424235.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản sửa đổi bổ sung": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "142/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/03/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật Phục hồi, phá sản 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Phuc-hoi-pha-san-2025-so-142-2025-QH15-675210.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực đến: 28/02/2027",
+        "so_hieu": "122/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 122/2025/NĐ-CP quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-122-2025-ND-CP-phan-quyen-phan-cap-trong-linh-vuc-quan-ly-thue-660465.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực đến: 28/02/2027",
+        "so_hieu": "125/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 125/2025/NĐ-CP quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-125-2025-ND-CP-tham-quyen-chinh-quyen-dia-phuong-02-cap-trong-quan-ly-Nha-nuoc-cua-Bo-Tai-chinh-660468.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "56/2024/QH15",
+        "expired_date": null,
+        "effective_date": "01/01/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Luật sửa đổi Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách Nhà nước, Luật Quản lý,...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-sua-doi-Luat-Chung-khoan-Ke-toan-Ngan-sach-Nha-nuoc-Thue-thu-nhap-ca-nhan-2024-622318.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hướng dẫn": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "21/2026/TT-BTC",
+        "expired_date": null,
+        "effective_date": "17/03/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 21/2026/TT-BTС sửa đổi Thông tư 80/2021/TT-BTC hướng dẫn Luật Quản lý thuế và Nghị định ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-21-2026-TT-BT%d0%a1-sua-doi-Thong-tu-80-2021-TT-BTC-huong-dan-Luat-Quan-ly-thue-697953.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "373/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "14/02/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 373/2025/NĐ-CP sửa đổi Nghị định 126/2020/NĐ-CP hướng dẫn Luật Quản lý thuế",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-373-2025-ND-CP-sua-doi-126-2020-ND-CP-huong-dan-Luat-Quan-ly-thue-542362.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "121/2025/TT-BTC",
+        "expired_date": null,
+        "effective_date": "01/02/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 121/2025/TT-BTC sửa đổi các Thông tư quy định về thủ tục hải quan; kiểm tra, giám sát hải quan, ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-tu-121-2025-TT-BTC-sua-doi-cac-Thong-tu-ve-thu-tuc-hai-quan-giam-sat-hai-quan-633118.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "310/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "16/01/2026",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 310/2025/NĐ-CP sửa đổi Nghị định 125/2020/NĐ-CP quy định xử phạt vi phạm hành chính về thuế, hóa đơn",
+        "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-310-2025-ND-CP-sua-doi-Nghi-dinh-125-2020-ND-CP-xu-phat-hanh-chinh-linh-vuc-thue-478004.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "94/2025/TT-BTC",
+        "expired_date": null,
+        "effective_date": "14/10/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 94/2025/TT-BTC sửa đổi Thông tư 80/2021/TT-BTC hướng dẫn Luật Quản lý thuế và Nghị định ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-94-2025-TT-BTC-sua-doi-Thong-tu-80-2021-TT-BTC-huong-dan-Luat-Quan-ly-thue-677169.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "51/2025/TT-BTC",
+        "expired_date": null,
+        "effective_date": "07/08/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 51/2025/TT-BTC quy định thủ tục về giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-51-2025-TT-BTC-thu-tuc-giao-dich-dien-tu-linh-vuc-thue-hang-hoa-xuat-khau-663315.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "40/2025/TT-BTC",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 40/2025/TT-BTC sửa đổi Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-40-2025-TT-BTC-sua-doi-Thong-tu-linh-vuc-quan-ly-thue-phan-dinh-tham-quyen-661397.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "117/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 117/2025/NĐ-CP quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-117-2025-ND-CP-quan-ly-thue-hoat-dong-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu-641913.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "32/2025/TT-BTC",
+        "expired_date": null,
+        "effective_date": "01/06/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 32/2025/TT-BTC hướng dẫn thực hiện Luật Quản lý thuế, Nghị định 123/2020/NĐ-CP quy định về hóa ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-32-2025-TT-BTC-huong-dan-thuc-hien-Luat-Quan-ly-thue-ve-hoa-don-chung-tu-659105.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2026",
+        "so_hieu": "81/2025/NĐ-CP",
+        "expired_date": "01/01/2026",
+        "effective_date": "02/04/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 81/2025/NĐ-CP gia hạn thời hạn nộp thuế tiêu thụ đặc biệt đối với ô tô sản xuất hoặc lắp ráp ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-81-2025-ND-CP-gia-han-thoi-han-nop-thue-tieu-thu-dac-biet-o-to-san-xuat-trong-nuoc-650254.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2026",
+        "so_hieu": "82/2025/NĐ-CP",
+        "expired_date": "01/01/2026",
+        "effective_date": "02/04/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 82/2025/NĐ-CP gia hạn thời hạn nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-82-2025-ND-CP-gia-han-thoi-han-nop-thue-gia-tri-gia-tang-thue-thu-nhap-doanh-nghiep-643688.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "49/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "28/02/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 49/2025/NĐ-CP quy định về ngưỡng áp dụng tạm hoãn xuất cảnh",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-49-2025-ND-CP-nguong-ap-dung-tam-hoan-xuat-canh-645059.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "86/2024/TT-BTC",
+        "expired_date": null,
+        "effective_date": "06/02/2025",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 86/2024/TT-BTC quy định về đăng ký thuế do Bộ trưởng Bộ Tài chính ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-86-2024-TT-BTC-dang-ky-thue-565309.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "46/2024/TT-BTC",
+        "expired_date": null,
+        "effective_date": "28/08/2024",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 46/2024/TT-BTC sửa đổi Thông tư 19/2021/TT-BTC hướng dẫn giao dịch điện tử trong lĩnh vực thuế do ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-46-2024-TT-BTC-sua-doi-Thong-tu-19-2021-TT-BTC-giao-dich-dien-tu-linh-vuc-thue-616709.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "65/2024/NĐ-CP",
+        "expired_date": "01/01/2025",
+        "effective_date": "17/06/2024",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 65/2024/NĐ-CP về gia hạn thời hạn nộp thuế tiêu thụ đặc biệt đối với ô tô sản xuất hoặc lắp ráp ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-65-2024-ND-CP-gia-han-thoi-han-nop-thue-tieu-thu-dac-biet-o-to-san-xuat-lap-rap-trong-nuoc-566848.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "64/2024/NĐ-CP",
+        "expired_date": "01/01/2025",
+        "effective_date": "17/06/2024",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 64/2024/NĐ-CP về gia hạn thời hạn nộp thuế giá trị gia tăng, thu nhập doanh nghiệp, thuế thu nhập...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-64-2024-ND-CP-gia-han-thoi-han-nop-thue-gia-tri-gia-tang-thu-nhap-doanh-nghiep-609734.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "43/2023/TT-BTC",
+        "expired_date": null,
+        "effective_date": "27/06/2023",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 43/2023/TT-BTC sửa đổi Thông tư có quy định liên quan đến nộp, xuất trình và khai thông tin về ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Thong-tu-43-2023-TT-BTC-sua-doi-Thong-tu-nop-xuat-trinh-va-khai-thong-tin-ve-dang-ky-so-ho-khau-571083.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2024",
+        "so_hieu": "12/2023/NĐ-CP",
+        "expired_date": "01/01/2024",
+        "effective_date": "14/04/2023",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 12/2023/NĐ-CP về gia hạn thời hạn nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-12-2023-ND-CP-gia-han-thoi-han-nop-thue-thu-nhap-doanh-nghiep-ca-nhan-tien-thue-dat-563407.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2025",
+        "so_hieu": "13/2023/TT-BTC",
+        "expired_date": "01/07/2025",
+        "effective_date": "14/04/2023",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 13/2023/TT-BTC hướng dẫn Nghị định 49/2022/NĐ-CP sửa đổi Nghị định 209/2013/NĐ-CP hướng dẫn Luật ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-13-2023-TT-BTC-huong-dan-Nghi-dinh-49-2022-ND-CP-sua-doi-Nghi-dinh-209-2013-ND-CP-557018.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "91/2022/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "30/10/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 91/2022/NĐ-CP sửa đổi Nghị định 126/2020/NĐ-CP hướng dẫn Luật Quản lý thuế",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-91-2022-ND-CP-sua-doi-Nghi-dinh-126-2020-ND-CP-huong-dan-Luat-Quan-ly-thue-516302.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2023",
+        "so_hieu": "34/2022/NĐ-CP",
+        "expired_date": "01/01/2023",
+        "effective_date": "28/05/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 34/2022/NĐ-CP về gia hạn thời hạn nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-34-2022-ND-CP-gia-han-nop-thue-gia-tri-gia-tang-thu-nhap-doanh-nghiep-ca-nhan-tien-thue-dat-2022-510087.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "102/2021/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/01/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Nghị định 102/2021/NĐ-CP sửa đổi các Nghị định về xử phạt vi phạm hành chính trong lĩnh vực thuế, hóa đơn; ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-dinh-102-2021-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-thue-494746.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 05/03/2026",
+        "so_hieu": "100/2021/TT-BTC",
+        "expired_date": "05/03/2026",
+        "effective_date": "01/01/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 100/2021/TT-BTC sửa đổi Thông tư 40/2021/TT-BTC hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-100-2021-TT-BTC-sua-doi-Thong-tu-40-2021-TT-BTC-quan-ly-thue-doi-voi-ho-kinh-doanh-496395.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 21/03/2024",
+        "so_hieu": "91/2021/TT-BTC",
+        "expired_date": "21/03/2024",
+        "effective_date": "15/12/2021",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 91/2021/TT-BTC sửa đổi Thông tư 191/2016/TT-BTC quy định về mức thu, chế độ thu, nộp, quản lý và ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-91-2021-TT-BTC-sua-doi-Thong-tu-191-2016-TT-BTC-phi-tham-dinh-tru-luong-khoang-san-492399.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "80/2021/TT-BTC",
+        "expired_date": null,
+        "effective_date": "01/01/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 80/2021/TT-BTC hướng dẫn Luật Quản lý thuế và Nghị định 126/2020/NĐ-CP hướng dẫn Luật Quản lý thuế...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-80-2021-TT-BTC-huong-dan-Luat-Quan-ly-thue-Nghi-dinh-126-2020-ND-CP-466716.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/06/2025",
+        "so_hieu": "78/2021/TT-BTC",
+        "expired_date": "01/06/2025",
+        "effective_date": "01/07/2022",
+        "last_checked": "2026-05-20 11:49:38",
+        "title": "Thông tư 78/2021/TT-BTC hướng dẫn thực hiện Luật Quản lý thuế, Nghị định 123/2020/NĐ-CP quy định về hóa ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-78-2021-TT-BTC-huong-dan-Luat-Quan-ly-thue-Nghi-dinh-123-2020-ND-CP-hoa-don-chung-tu-477966.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản đính chính": [],
+    "Văn bản được đính chính": []
+  },
+  "related_documents_collected": true,
+  "attempts": 1
+}

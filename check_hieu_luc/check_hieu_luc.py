@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import asyncio
+import hashlib
 import json
 import random
 import re
@@ -7,12 +8,13 @@ import sys
 from datetime import datetime
 from collections import Counter
 from pathlib import Path
+from urllib.parse import urlparse
 
 if __package__ in {None, ""}:
     # Support running as a script: `python check_hieu_luc/check_hieu_luc.py ...`
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+from patchright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 
 try:
     from .related_documents import RELATED_DOCUMENT_SECTIONS, collect_related_documents
@@ -22,11 +24,16 @@ except ImportError:
 # ======================
 # CONFIG
 # ======================
-BASE_DIR = Path(__file__).resolve().parent
-CACHE_FILE = BASE_DIR / "status_cache.json"
-COOKIES_FILE = BASE_DIR / "cookies.txt"
+BASE_DIR          = Path(__file__).resolve().parent
+CACHE_DIR         = BASE_DIR / "cache"
+CACHE_INDEX       = CACHE_DIR / "index.json"
+LEGACY_CACHE_FILE = BASE_DIR / "status_cache.json"
+COOKIES_FILE      = BASE_DIR / "cookies.txt"
 DATA_FILE = BASE_DIR / "data.json"
 RATE_LIMIT_STATE_FILE = BASE_DIR / "rate_limit_state.json"
+
+# Khi DEV_MODE=True: mở browser có giao diện để giải captcha thủ công thay vì chỉ cooldown
+DEV_MODE = False
 
 # "OTHER" thường là trạng thái chưa phân loại rõ (vd: thiếu cookie / trang trả dữ liệu chung),
 # nên luôn recheck để có cơ hội chuyển sang status hợp lệ.
@@ -47,7 +54,6 @@ LUOCDO_RETRY_ATTEMPTS = 3
 LUOCDO_RELOAD_ATTEMPTS = 1
 BATCH_SIZE = 5
 BATCH_COOLDOWN_RANGE = (60, 120)
-XAC_MINH_COOLDOWN_RANGE = (90, 150)
 MAX_CONSECUTIVE_FAIL = 2
 GLOBAL_COOLDOWN_RANGE = (180, 360)
 MAX_CIRCUIT_BREAKER_TRIPS = 2
@@ -217,6 +223,9 @@ async def is_blocked_page(page):
     try:
         container = await page.query_selector("#viewingDocument")
         if container:
+            # Trang có #viewingDocument → đây là trang văn bản, không phải captcha.
+            # Kiểm tra metadata nếu có để confirm, nhưng không dùng body text để detect block
+            # vì từ "xác minh" xuất hiện rất nhiều trong nội dung pháp luật.
             keys = []
             for att in await container.query_selector_all(".att"):
                 key_el = await att.query_selector(".hd")
@@ -231,9 +240,14 @@ async def is_blocked_page(page):
                     return None, None
             if any(key in {"Tình trạng", "Ngày hiệu lực", "Số hiệu"} for key in keys):
                 return None, None
+            # #viewingDocument tồn tại nhưng không có metadata → trang đã load,
+            # chỉ là thiếu thông tin (cần Pro). Không phải captcha page.
+            return None, None
     except:
         pass
 
+    # #viewingDocument không tồn tại → có thể là captcha/block page.
+    # Chỉ dùng các keyword đặc thù của captcha, không dùng "xác minh" chung.
     try:
         text = (await page.locator("body").inner_text(timeout=3000)).lower()
     except:
@@ -345,11 +359,75 @@ def load_cookies(path: Path):
     return cookies
 
 # ======================
-# CACHE SAVE
+# CACHE (per-document files + index)
 # ======================
-def save_cache(cache):
-    # Persist the crawl cache to disk.
-    atomic_write_json(CACHE_FILE, cache)
+def url_to_slug(url: str) -> str:
+    path = urlparse(url).path
+    name = path.rstrip("/").rsplit("/", 1)[-1]
+    slug = name.rsplit(".", 1)[0] if "." in name else name
+    return slug or hashlib.md5(url.encode()).hexdigest()[:16]
+
+def _slug_path(slug: str) -> Path:
+    return CACHE_DIR / f"{slug}.json"
+
+def load_cache_index() -> dict:
+    return load_json_safe(CACHE_INDEX)
+
+def save_cache_index(index: dict):
+    CACHE_DIR.mkdir(exist_ok=True)
+    atomic_write_json(CACHE_INDEX, index)
+
+def load_per_document_cache(index: dict, documents: dict) -> dict:
+    cache = {}
+    for title in documents:
+        slug = index.get(title)
+        if not slug:
+            continue
+        entry = load_json_safe(_slug_path(slug))
+        if entry:
+            cache[title] = normalize_cache_entry(entry)
+    return cache
+
+def save_document_cache(index: dict, title: str, url: str, entry: dict):
+    CACHE_DIR.mkdir(exist_ok=True)
+    slug = index.get(title)
+    if not slug:
+        slug = url_to_slug(url)
+        index[title] = slug
+        save_cache_index(index)
+    atomic_write_json(_slug_path(slug), entry)
+
+def delete_document_cache(index: dict, title: str):
+    slug = index.pop(title, None)
+    if slug:
+        p = _slug_path(slug)
+        if p.exists():
+            p.unlink()
+    save_cache_index(index)
+
+def migrate_legacy_cache_if_needed(index: dict, documents: dict) -> dict:
+    if not LEGACY_CACHE_FILE.exists():
+        return index
+    legacy = load_json_safe(LEGACY_CACHE_FILE)
+    if not isinstance(legacy, dict) or not legacy:
+        return index
+    CACHE_DIR.mkdir(exist_ok=True)
+    migrated = 0
+    for title, entry in legacy.items():
+        url = documents.get(title) or entry.get("url", "")
+        if not url:
+            continue
+        slug = index.get(title) or url_to_slug(url)
+        index[title] = slug
+        dest = _slug_path(slug)
+        if not dest.exists():
+            atomic_write_json(dest, entry)
+            migrated += 1
+    if migrated:
+        save_cache_index(index)
+        info(f"Migrated {migrated} entries from legacy status_cache.json")
+    LEGACY_CACHE_FILE.rename(LEGACY_CACHE_FILE.with_suffix(".json.migrated"))
+    return index
 
 def make_replacement_record(
     *,
@@ -625,30 +703,9 @@ async def open_luoc_do(page, url):
             "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
 
-    blocked_status, blocked_reason = await is_blocked_page(page)
-    if blocked_status:
-        level = "ERROR" if blocked_status == "BLOCKED" else "WARN"
-        log(level, f"{blocked_status} detected: {blocked_reason}")
-        return response, {
-            "normalized_status": blocked_status,
-            "raw_status": None,
-            "error_type": blocked_reason,
-            "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        }
-
     try:
         await wait_for_luoc_do_ready(page)
     except PlaywrightTimeoutError:
-        blocked_status, blocked_reason = await is_blocked_page(page)
-        if blocked_status:
-            level = "ERROR" if blocked_status == "BLOCKED" else "WARN"
-            log(level, f"{blocked_status} detected: {blocked_reason}")
-            return response, {
-                "normalized_status": blocked_status,
-                "raw_status": None,
-                "error_type": blocked_reason,
-                "last_checked": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            }
         if await has_viewing_document_metadata(page):
             warn("Không load được tab Lược đồ nhưng metadata văn bản vẫn đọc được")
             return response, None
@@ -798,7 +855,7 @@ async def fetch_replacement_snapshot(page, replacement_url):
     return snapshot, None
 
 def should_queue_related_retry(error_result):
-    return error_result and error_result.get("normalized_status") in {"BLOCKED", "XAC_MINH"}
+    return error_result and error_result.get("normalized_status") == "BLOCKED"
 
 def apply_related_snapshot(document, related_snapshot):
     document["normalized_status"] = related_snapshot["normalized_status"]
@@ -1076,25 +1133,82 @@ def normalize_document_mapping(documents):
     return normalized
 
 
+async def open_verification_browser(url: str, context) -> bool:
+    """Mở browser có giao diện để user giải captcha. Trả về True nếu giải thành công."""
+    warn(f"[DEV] Mở browser để giải captcha thủ công: {url}")
+    async with async_playwright() as p:
+        headed = await p.chromium.launch(
+            headless=False,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--window-size=1366,900",
+            ],
+        )
+        headed_ctx = await headed.new_context(
+            user_agent=USER_AGENT,
+            viewport=BROWSER_VIEWPORT,
+            locale=BROWSER_LOCALE,
+            timezone_id=BROWSER_TIMEZONE,
+        )
+
+        # Copy cookies hiện tại sang browser mới
+        existing_cookies = await context.cookies()
+        if existing_cookies:
+            await headed_ctx.add_cookies(existing_cookies)
+
+        headed_page = await headed_ctx.new_page()
+        try:
+            await headed_page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        except Exception:
+            pass
+
+        warn("[DEV] Browser đã mở. Giải captcha rồi trang sẽ tự động tiếp tục (timeout 5 phút).")
+
+        # Tự động phát hiện khi captcha được giải (poll mỗi 3 giây, tối đa 5 phút)
+        solved = False
+        for _ in range(100):
+            await asyncio.sleep(3)
+            try:
+                blocked_status, _ = await is_blocked_page(headed_page)
+                if not blocked_status:
+                    solved = True
+                    break
+            except Exception:
+                break
+
+        if solved:
+            info("[DEV] Captcha đã được giải thành công.")
+        else:
+            warn("[DEV] Hết thời gian chờ captcha (5 phút).")
+
+        # Cập nhật cookies từ headed browser vào headless context
+        new_cookies = await headed_ctx.cookies()
+        if new_cookies:
+            await context.add_cookies(new_cookies)
+            info(f"[DEV] Đã cập nhật {len(new_cookies)} cookies vào session.")
+
+        await headed.close()
+
+    return solved
+
+
 async def run_check_hieu_luc(documents, input_date):
     # Run the full crawl, then write summary files and cache.
 
     documents = normalize_document_mapping(documents)
-    cache = load_json_safe(CACHE_FILE)
-    cache = {title: normalize_cache_entry(entry) for title, entry in cache.items()}
+    index = load_cache_index()
+    index = migrate_legacy_cache_if_needed(index, documents)
+    cache = load_per_document_cache(index, documents)
     rate_state = load_rate_limit_state()
     save_rate_limit_state(rate_state)
 
     # Chỉ giữ cache thuộc tập văn bản hiện tại để tránh số liệu bị nhiễu.
-    stale_titles = [t for t in list(cache.keys()) if t not in documents]
+    stale_titles = [t for t in list(index.keys()) if t not in documents]
     if stale_titles:
         for t in stale_titles:
+            delete_document_cache(index, t)
             cache.pop(t, None)
         info(f"Removed stale cache entries: {len(stale_titles)}")
-        save_cache(cache)
-
-    if cache:
-        save_cache(cache)
 
     info(f"Tổng văn bản: {len(documents)}")
     info(f"Đã có cache: {len(cache)}")
@@ -1115,7 +1229,7 @@ async def run_check_hieu_luc(documents, input_date):
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless=True,
+            headless=not DEV_MODE,
             args=[
                 "--disable-blink-features=AutomationControlled",
                 "--disable-dev-shm-usage",
@@ -1141,12 +1255,6 @@ async def run_check_hieu_luc(documents, input_date):
             await context.add_cookies(cookies)
 
         page = await context.new_page()
-        await page.add_init_script("""
-            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
-            Object.defineProperty(navigator, 'languages', { get: () => ['vi-VN', 'vi', 'en-US'] });
-            window.chrome = { runtime: {} };
-        """)
         traffic = {"bytes_downloaded": 0}
 
         # Approximate daily traffic using response headers so the byte quota
@@ -1192,7 +1300,7 @@ async def run_check_hieu_luc(documents, input_date):
 
             def checkpoint_result(partial_result):
                 cache[title] = partial_result
-                save_cache(cache)
+                save_document_cache(index, title, url, partial_result)
 
             try:
                 result = await check_document_with_retries(
@@ -1208,7 +1316,7 @@ async def run_check_hieu_luc(documents, input_date):
             bytes_used = max(0, traffic["bytes_downloaded"] - bytes_before)
 
             cache[title] = result
-            save_cache(cache)
+            save_document_cache(index, title, url, result)
 
             urls_processed_this_run += 1
             rate_state["urls_processed_today"] += 1
@@ -1221,7 +1329,7 @@ async def run_check_hieu_luc(documents, input_date):
             status = result.get("normalized_status")
             if status in {"VALID", "EXPIRED", "NOT_APPLICABLE"}:
                 success_titles.append((title, url, status))
-            elif status in {"FAILED_PERMANENT", "LOAD_ERROR", "NO_LUOCDO", "PARSE_ERROR", "OTHER", "XAC_MINH"}:
+            elif status in {"FAILED_PERMANENT", "LOAD_ERROR", "NO_LUOCDO", "PARSE_ERROR", "OTHER"}:
                 failed_titles.append((title, url, status, result.get("error_type")))
 
             info(
@@ -1355,7 +1463,7 @@ async def run_check_hieu_luc(documents, input_date):
         warn(f"Run stopped early: {stop_reason}")
 
     success(f"Expired list saved ({len(expired_before)} record(s)) → {expired_file}")
-    success(f"Cache saved → {CACHE_FILE}")
+    success(f"Cache saved → {CACHE_DIR}")
 
     return {
         "input_date": input_date.strftime("%d/%m/%Y"),
