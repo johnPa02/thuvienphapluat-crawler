@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 import sys
 
 if __package__ in {None, ""}:
@@ -21,6 +22,56 @@ except ImportError:
         parse_date,
         run_check_hieu_luc,
     )
+
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+_S3_MAPPING_FILE = _REPO_ROOT / "law_list_with_s3.json"
+
+
+def _load_s3_mapping() -> dict[str, str | None]:
+    """Build origin_url -> s3_url lookup from law_list_with_s3.json.
+
+    Includes all entries with a thuvienphapluat.vn origin URL regardless of
+    whether an S3 link has been uploaded yet (s3 may be null).
+    """
+    try:
+        entries = json.loads(_S3_MAPPING_FILE.read_text(encoding="utf-8"))
+        result = {}
+        for e in entries:
+            origin = (e.get("origin") or "").rstrip("/")
+            if origin and "thuvienphapluat.vn" in origin:
+                result[origin] = e.get("s3") or None
+        return result
+    except Exception:
+        return {}
+
+
+_S3_MAP: dict[str, str] = _load_s3_mapping()
+
+
+def _normalize_url(url: str) -> str:
+    return url.rstrip("/")
+
+
+def _filter_related_documents(related_documents: dict) -> dict:
+    """Keep original related_documents structure but only include entries whose url is in S3 mapping."""
+    filtered = {}
+    for section_name, docs in related_documents.items():
+        filtered[section_name] = [
+            doc for doc in docs
+            if _normalize_url(doc.get("url", "")) in _S3_MAP
+        ]
+    return filtered
+
+
+def _build_response_data(all_results: list) -> list[dict]:
+    """Keep original result structure, only filter related_documents items to mapped-only."""
+    output = []
+    for result in all_results:
+        item = dict(result)
+        if "related_documents" in item and item["related_documents"]:
+            item["related_documents"] = _filter_related_documents(item["related_documents"])
+        output.append(item)
+    return output
 
 
 class DocumentItem(BaseModel):
@@ -72,7 +123,6 @@ async def check_hieu_luc(payload: CheckHieuLucRequest):
         return {
             "status": "success",
             "message": f"Đã kiểm tra {raw['total_documents']} văn bản",
-            "data": raw["all_results"],
             "input_date": raw["input_date"],
             "total_documents": raw["total_documents"],
             "urls_processed_this_run": raw["urls_processed_this_run"],
@@ -81,6 +131,7 @@ async def check_hieu_luc(payload: CheckHieuLucRequest):
             "skipped_cache_count": raw["skipped_cache_count"],
             "blocked_reason": raw["blocked_reason"],
             "stop_reason": raw["stop_reason"],
+            "data": _build_response_data(raw["all_results"]),
         }
     except InvalidAccountStateError as exc:
         raise HTTPException(

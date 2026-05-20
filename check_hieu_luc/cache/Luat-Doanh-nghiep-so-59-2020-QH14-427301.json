@@ -1,0 +1,1606 @@
+{
+  "normalized_status": "VALID",
+  "raw_status": "Còn hiệu lực",
+  "so_hieu": "59/2020/QH14",
+  "expired_date": null,
+  "last_checked": "2026-05-20 14:55:08",
+  "replacements": [],
+  "related_documents": {
+    "Văn bản thay thế": [],
+    "Văn bản được hướng dẫn": [],
+    "Văn bản được hợp nhất": [],
+    "Văn bản bị sửa đổi bổ sung": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "36/2018/QH14",
+        "expired_date": null,
+        "effective_date": "01/07/2019",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Phòng, chống tham nhũng 2018",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Phong-chong-tham-nhung-322049.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "25/2018/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2019",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Tố cáo 2018",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-To-cao-336713.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "14/2017/QH14",
+        "expired_date": "01/01/2025",
+        "effective_date": "01/07/2018",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 2017",
+        "url": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-2017-320097.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "08/2017/QH14",
+        "expired_date": null,
+        "effective_date": "01/07/2018",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Thủy lợi 2017",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Luat-08-2017-QH14-Thuy-loi-2017-322933.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "92/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/07/2016",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Bộ luật tố tụng dân sự 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Bo-luat-to-tung-dan-su-2015-296861.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2026",
+        "so_hieu": "83/2015/QH13",
+        "expired_date": "01/01/2026",
+        "effective_date": "01/01/2017",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật ngân sách nhà nước 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-nam-2015-281762.aspx",
+        "error": "",
+        "source_section": "Văn bản bị sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản bị sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendedDocument",
+        "source_toggles": [
+          "amendedDocument"
+        ],
+        "relation_type": "amended_by",
+        "relation_types": [
+          "amended_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản bị thay thế": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2021",
+        "so_hieu": "68/2014/QH13",
+        "expired_date": "01/01/2021",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Doanh nghiệp 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-2014-259730.aspx",
+        "error": "",
+        "source_section": "Văn bản bị thay thế",
+        "source_sections": [
+          "Văn bản bị thay thế"
+        ],
+        "source_toggle": "replacedDocument",
+        "source_toggles": [
+          "replacedDocument"
+        ],
+        "relation_type": "replaced_by",
+        "relation_types": [
+          "replaced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được dẫn chiếu": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/03/2026",
+        "so_hieu": "61/2020/QH14",
+        "expired_date": "01/03/2026",
+        "effective_date": "01/01/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Đầu tư 2020",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Dau-tu-so-61-2020-QH14-321051.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "435/QĐ-UBND",
+        "expired_date": null,
+        "effective_date": "04/05/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Quyết định 435/QĐ-UBND năm 2020 về Chương trình hành động triển khai Kế hoạch 119-KH/TU thực hiện Chỉ thị ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Quyet-dinh-435-QD-UBND-2020-thuc-hien-Chi-thi-37-CT-TW-xay-dung-quan-he-lao-dong-hai-hoa-Kon-Tum-621324.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "54/2019/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Chứng khoán 2019",
+        "url": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Luat-Chung-khoan-nam-2019-399763.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "50/2019/QH14",
+        "expired_date": "01/01/2025",
+        "effective_date": "10/01/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ sửa đổi 2019",
+        "url": "https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-sua-doi-2019-411944.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "45/2019/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Bộ luật Lao động 2019",
+        "url": "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực đến: 30/06/2026",
+        "so_hieu": "38/2019/QH14",
+        "expired_date": null,
+        "effective_date": "01/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Quản lý thuế 2019",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-quan-ly-thue-2019-387595.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "35/2018/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2019",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018",
+        "url": "https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-sua-doi-cac-Luat-co-lien-quan-den-quy-hoach-2018-390511.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "23/2018/QH14",
+        "expired_date": null,
+        "effective_date": "01/07/2019",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Cạnh tranh 2018",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-canh-tranh-345182.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "100/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2018",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Bộ luật hình sự 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Trach-nhiem-hinh-su/Bo-luat-hinh-su-2015-296661.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "91/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2017",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Bộ luật dân sự 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/08/2025",
+        "so_hieu": "69/2014/QH13",
+        "expired_date": "01/08/2025",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Quản lý, sử dụng vốn Nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Quan-ly-su-dung-von-Nha-nuoc-dau-tu-vao-san-xuat-kinh-doanh-tai-doanh-nghiep-2014-259731.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/03/2026",
+        "so_hieu": "51/2014/QH13",
+        "expired_date": "01/03/2026",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Phá sản 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Pha-san-2014-238641.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực đến: 30/06/2026",
+        "so_hieu": "58/2010/QH12",
+        "expired_date": null,
+        "effective_date": "01/01/2012",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật viên chức 2010",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-vien-chuc-2010-115271.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2025",
+        "so_hieu": "22/2008/QH12",
+        "expired_date": "01/07/2025",
+        "effective_date": "01/01/2010",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật cán bộ, công chức 2008",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-can-bo-cong-chuc-2008-22-2008-QH12-82202.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được căn cứ": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "Khongso",
+        "expired_date": null,
+        "effective_date": "01/01/2014",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Hiến pháp 2013",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx",
+        "error": "",
+        "source_section": "Văn bản được căn cứ",
+        "source_sections": [
+          "Văn bản được căn cứ"
+        ],
+        "source_toggle": "basisDocument",
+        "source_toggles": [
+          "basisDocument"
+        ],
+        "relation_type": "based_by",
+        "relation_types": [
+          "based_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hợp nhất": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "94/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "31/03/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 94/VBHN-VPQH năm 2026 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-94-VBHN-VPQH-2026-Luat-Thuy-loi-699545.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "65/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "23/03/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 65/VBHN-VPQH năm 2026 hợp nhất Luật Phòng, chống tham nhũng do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-65-VBHN-VPQH-2026-Luat-Phong-chong-tham-nhung-698693.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "29/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "13/03/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 29/VBHN-VPQH năm 2026 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-29-VBHN-VPQH-2026-Luat-To-cao-697699.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "21/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "12/02/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 21/VBHN-VPQH năm 2026 hợp nhất Bộ luật Tố dụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-21-VBHN-VPQH-2026-Bo-luat-To-dung-dan-su-696578.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "112/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "27/08/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 112/VBHN-VPQH năm 2025 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-112-VBHN-VPQH-2025-Luat-To-cao-672487.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "118/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "27/08/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 118/VBHN-VPQH năm 2025 hợp nhất Luật Phòng, chống tham nhũng do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-118-VBHN-VPQH-2025-Luat-Phong-chong-tham-nhung-672496.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "99/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "26/08/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 99/VBHN-VPQH năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-99-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-672478.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "67/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "15/08/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 67/VBHN-VPQH năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-67-VBHN-VPQH-2025-Luat-Doanh-nghiep-671127.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2026",
+        "so_hieu": "26/VBHN-VPQH",
+        "expired_date": "01/01/2026",
+        "effective_date": "26/02/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 26/VBHN-VPQH năm 2025 hợp nhất Luật Ngân sách nhà nước do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-26-VBHN-VPQH-2025-Luat-Ngan-sach-nha-nuoc-651531.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "16/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "26/02/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 16/VBHN-VPQH năm 2025 Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-16-VBHN-VPQH-2025-Luat-Thuy-loi-650941.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "12/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "24/02/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 12/VBHN-VPQH năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-12-VBHN-VPQH-2025-Bo-luat-To-tung-dan-su-651007.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "11/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "16/09/2024",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 11/VBHN-VPQH năm 2024 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2024-Bo-luat-To-tung-dan-su-629877.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "43/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "27/12/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 43/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-43-VBHN-VPQH-2023-Luat-Thuy-loi-602390.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "48/VBHN-VPQH",
+        "expired_date": "01/01/2025",
+        "effective_date": "27/12/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 48/VBHN-VPQH năm 2023 hợp nhất Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-48-VBHN-VPQH-2023-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-cong-cu-ho-tro-603862.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "07/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "02/08/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 07/VBHN-VPQH năm 2023 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Van-ban-hop-nhat-07-VBHN-VPQH-2023-Luat-Thuy-loi-2017-589373.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "24/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "02/08/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 24/VBHN-VPQH năm 2023 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2023-Bo-luat-To-tung-dan-su-589914.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "24/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "29/12/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 24/VBHN-VPQH năm 2022 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-24-VBHN-VPQH-2022-Bo-luat-To-tung-dan-su-559869.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "07/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "25/01/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 07/VBHN-VPQH năm 2022 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Van-ban-hop-nhat-07-VBHN-VPQH-2022-Luat-Doanh-nghiep-547841.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "35/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "07/12/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 35/VBHN-VPQH năm 2020 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-35-VBHN-VPQH-2020-Luat-Thuy-loi-469845.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2026",
+        "so_hieu": "06/VBHN-VPQH",
+        "expired_date": "01/01/2026",
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 06/VBHN-VPQH năm 2020 hợp nhất Luật Ngân sách nhà nước do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Van-ban-hop-nhat-06-VBHN-VPQH-2020-Luat-Ngan-sach-nha-nuoc-457491.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "11/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 11/VBHN-VPQH năm 2020 hợp nhất Luật Phòng, chống tham nhũng do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-11-VBHN-VPQH-2020-Luat-Phong-chong-tham-nhung-457498.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "10/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 10/VBHN-VPQH năm 2020 hợp nhất Luật Tố cáo do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-10-VBHN-VPQH-2020-Luat-To-cao-457497.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "09/VBHN-VPQH",
+        "expired_date": "01/01/2025",
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 09/VBHN-VPQH năm 2020 hợp nhất Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Van-ban-hop-nhat-09-VBHN-VPQH-2020-hop-nhat-Luat-Quan-ly-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-457496.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "08/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 08/VBHN-VPQH năm 2020 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Van-ban-hop-nhat-08-VBHN-VPQH-2020-Bo-luat-To-tung-dan-su-457495.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "07/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "15/07/2020",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Văn bản hợp nhất 07/VBHN-VPQH năm 2020 hợp nhất Luật Thủy lợi do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Van-ban-hop-nhat-07-VBHN-VPQH-2020-Luat-Thuy-loi-457494.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản sửa đổi bổ sung": [
+      {
+        "normalized_status": "NOT_EFFECTIVE_YET",
+        "raw_status": "Chưa có hiệu lực",
+        "so_hieu": "132/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Phòng, chống tham nhũng sửa đổi 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Phong-chong-tham-nhung-sua-doi-2025-so-132-2025-QH15-685733.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "89/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/01/2026",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật ngân sách nhà nước 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-2025-so-89-2025-QH15-650061.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "76/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật Doanh nghiệp sửa đổi 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-sua-doi-2025-so-76-2025-QH15-659899.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "03/2022/QH15",
+        "expired_date": null,
+        "effective_date": "01/03/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Luật sửa đổi Luật Đầu tư công, Luật Đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Dau-tu-cong-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-486653.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hướng dẫn": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "248/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/09/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 248/2025/NĐ-CP quy định chế độ tiền lương, thù lao, tiền thưởng của người đại diện chủ sở hữu ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-248-2025-ND-CP-che-do-tien-luong-Kiem-soat-vien-trong-doanh-nghiep-nha-nuoc-673078.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "168/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-168-2025-ND-CP-dang-ky-doanh-nghiep-623074.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/09/2025",
+        "so_hieu": "44/2025/NĐ-CP",
+        "expired_date": "15/09/2025",
+        "effective_date": "15/04/2025",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 44/2025/NĐ-CP quản lý lao động, tiền lương, thù lao, tiền thưởng trong doanh nghiệp nhà nước",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-44-2025-ND-CP-quan-ly-lao-dong-tien-luong-tien-thuong-trong-doanh-nghiep-nha-nuoc-624938.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "89/2024/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/09/2024",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 89/2024/NĐ-CP về chuyển đổi công ty nhà nước được thành lập và hoạt động theo Luật Doanh nghiệp ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-89-2024-ND-CP-chuyen-doi-cong-ty-nha-nuoc-thanh-cong-ty-trach-nhiem-huu-han-549549.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "16/2023/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "25/04/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 16/2023/NĐ-CP về tổ chức quản lý và hoạt động của doanh nghiệp trực tiếp phục vụ quốc phòng, an ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-16-2023-ND-CP-to-chuc-quan-ly-doanh-nghiep-truc-tiep-phuc-vu-quoc-phong-an-ninh-564517.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "08/2023/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "05/03/2023",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 08/2023/NĐ-CP sửa đổi và ngưng hiệu lực thi hành một số điều tại các Nghị định quy định về chào ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Nghi-dinh-08-2023-ND-CP-sua-doi-Nghi-dinh-chao-ban-giao-dich-trai-phieu-doanh-nghiep-rieng-le-557520.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "65/2022/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "16/09/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 65/2022/NĐ-CP sửa đổi Nghị định 153/2020/NĐ-CP quy định về chào bán, giao dịch trái phiếu doanh ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-65-2022-ND-CP-sua-doi-Nghi-dinh-153-2020-ND-CP-chao-ban-giao-dich-trai-phieu-doanh-nghiep-529835.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "23/2022/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/06/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 23/2022/NĐ-CP về thành lập, sắp xếp lại, chuyển đổi sở hữu, chuyển giao quyền đại diện chủ sở hữu...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-23-2022-ND-CP-thanh-lap-doanh-nghiep-do-Nha-nuoc-nam-giu-100-von-dieu-le-509241.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "122/2021/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/01/2022",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 122/2021/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực kế hoạch và đầu tư",
+        "url": "https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-122-2021-ND-CP-xu-phat-vi-pham-hanh-chinh-linh-vuc-ke-hoach-285024.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "47/2021/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/04/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 47/2021/NĐ-CP hướng dẫn Luật Doanh nghiệp",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-47-2021-ND-CP-huong-dan-Luat-Doanh-nghiep-470561.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2025",
+        "so_hieu": "01/2021/NĐ-CP",
+        "expired_date": "01/07/2025",
+        "effective_date": "04/01/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 01/2021/NĐ-CP về đăng ký doanh nghiệp",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-01-2021-ND-CP-dang-ky-doanh-nghiep-283247.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "153/2020/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/01/2021",
+        "last_checked": "2026-05-20 14:55:08",
+        "title": "Nghị định 153/2020/NĐ-CP quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Nghi-dinh-153-2020-ND-CP-chao-ban-giao-dich-trai-phieu-doanh-nghiep-tai-thi-truong-trong-nuoc-461187.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản đính chính": [],
+    "Văn bản được đính chính": []
+  },
+  "related_documents_collected": true,
+  "attempts": 1
+}

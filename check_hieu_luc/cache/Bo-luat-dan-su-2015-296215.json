@@ -1,0 +1,604 @@
+{
+  "normalized_status": "VALID",
+  "raw_status": "Còn hiệu lực",
+  "so_hieu": "91/2015/QH13",
+  "expired_date": null,
+  "last_checked": "2026-05-20 14:55:20",
+  "replacements": [],
+  "related_documents": {
+    "Văn bản thay thế": [],
+    "Văn bản được hướng dẫn": [],
+    "Văn bản được hợp nhất": [],
+    "Văn bản bị sửa đổi bổ sung": [],
+    "Văn bản bị thay thế": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2017",
+        "so_hieu": "33/2005/QH11",
+        "expired_date": "01/01/2017",
+        "effective_date": "01/01/2006",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Bộ luật Dân sự 2005",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-Dan-su-2005-33-2005-QH11-2463.aspx",
+        "error": "",
+        "source_section": "Văn bản bị thay thế",
+        "source_sections": [
+          "Văn bản bị thay thế"
+        ],
+        "source_toggle": "replacedDocument",
+        "source_toggles": [
+          "replacedDocument"
+        ],
+        "relation_type": "replaced_by",
+        "relation_types": [
+          "replaced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được dẫn chiếu": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2021",
+        "so_hieu": "68/2014/QH13",
+        "expired_date": "01/01/2021",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Doanh nghiệp 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-2014-259730.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/08/2024",
+        "so_hieu": "65/2014/QH13",
+        "expired_date": "01/08/2024",
+        "effective_date": "01/07/2015",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Nhà ở 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2014-259721.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "52/2014/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Hôn nhân và gia đình 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-Hon-nhan-va-gia-dinh-2014-238640.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/03/2026",
+        "so_hieu": "51/2014/QH13",
+        "expired_date": "01/03/2026",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Phá sản 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Pha-san-2014-238641.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/08/2024",
+        "so_hieu": "45/2013/QH13",
+        "expired_date": "01/08/2024",
+        "effective_date": "01/07/2014",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật đất đai 2013",
+        "url": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-dat-dai-2013-215836.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2024",
+        "so_hieu": "59/2010/QH12",
+        "expired_date": "01/07/2024",
+        "effective_date": "01/07/2011",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật bảo vệ quyền lợi người tiêu dùng 2010",
+        "url": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-bao-ve-quyen-loi-nguoi-tieu-dung-2010-115251.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2018",
+        "so_hieu": "35/2009/QH12",
+        "expired_date": "01/07/2018",
+        "effective_date": "01/01/2010",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật trách nhiệm bồi thường của Nhà nước 2009",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-trach-nhiem-boi-thuong-cua-Nha-nuoc-2009-35-2009-QH12-90633.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "24/2008/QH12",
+        "expired_date": null,
+        "effective_date": "01/07/2009",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Quốc tịch Việt Nam 2008",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-quoc-tich-Viet-Nam-2008-24-2008-QH12-82204.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "75/2006/QH11",
+        "expired_date": null,
+        "effective_date": "01/07/2007",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật hiến, lấy, ghép mô, bộ phận cơ thể người và hiến lấy xác 2006",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Luat-viec-hien-lay-ghep-mo-bo-phan-co-the-nguoi-va-hien-lay-xac-2006-75-2006-QH11-15868.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "50/2005/QH11",
+        "expired_date": null,
+        "effective_date": "01/07/2006",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Sở hữu trí tuệ 2005",
+        "url": "https://thuvienphapluat.vn/van-ban/So-huu-tri-tue/Luat-So-huu-tri-tue-2005-50-2005-QH11-7022.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/07/2025",
+        "so_hieu": "28/2001/QH10",
+        "expired_date": "01/07/2025",
+        "effective_date": "01/01/2002",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật di sản văn hóa 2001",
+        "url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Luat-di-san-van-hoa-2001-28-2001-QH10-47926.aspx",
+        "error": "",
+        "source_section": "Văn bản được dẫn chiếu",
+        "source_sections": [
+          "Văn bản được dẫn chiếu"
+        ],
+        "source_toggle": "referentialDocument",
+        "source_toggles": [
+          "referentialDocument"
+        ],
+        "relation_type": "referenced_by",
+        "relation_types": [
+          "referenced_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản được căn cứ": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "Khongso",
+        "expired_date": null,
+        "effective_date": "01/01/2014",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Hiến pháp 2013",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx",
+        "error": "",
+        "source_section": "Văn bản được căn cứ",
+        "source_sections": [
+          "Văn bản được căn cứ"
+        ],
+        "source_toggle": "basisDocument",
+        "source_toggles": [
+          "basisDocument"
+        ],
+        "relation_type": "based_by",
+        "relation_types": [
+          "based_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hợp nhất": [],
+    "Văn bản sửa đổi bổ sung": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "142/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/03/2026",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Luật Phục hồi, phá sản 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Phuc-hoi-pha-san-2025-so-142-2025-QH15-675210.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hướng dẫn": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "109/2026/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "18/05/2026",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 109/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp; hành chính tư ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-109-2026-ND-CP-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-bo-tro-tu-phap-700787.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "99/2022/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/01/2023",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 99/2022/NĐ-CP về đăng ký biện pháp bảo đảm",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-99-2022-ND-CP-dang-ky-bien-phap-bao-dam-542323.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "02/2022/NQ-HĐTP",
+        "expired_date": null,
+        "effective_date": "01/01/2023",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị quyết 02/2022/NQ-HĐTP hướng dẫn áp dụng quy định của Bộ luật Dân sự về trách nhiệm bồi thường thiệt ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Nghi-quyet-02-2022-NQ-HDTP-huong-dan-Bo-luat-Dan-su-boi-thuong-thiet-hai-ngoai-hop-dong-483799.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "21/2021/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/05/2021",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 21/2021/NĐ-CP hướng dẫn Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-21-2021-ND-CP-huong-dan-Bo-luat-Dan-su-bao-dam-thuc-hien-nghia-vu-468069.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 18/05/2026",
+        "so_hieu": "82/2020/NĐ-CP",
+        "expired_date": "18/05/2026",
+        "effective_date": "01/09/2020",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 82/2020/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp; hành chính tư...",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Nghi-dinh-82-2020-ND-CP-xu-phat-hanh-chinh-linh-vuc-hon-nhan-thi-hanh-an-pha-san-doanh-nghiep-392611.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "01/2020/NQ-HĐTP",
+        "expired_date": null,
+        "effective_date": "10/04/2020",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị quyết 01/2020/NQ-HĐTP hướng dẫn áp dụng quy định của pháp luật trong việc giải quyết tranh chấp về tài...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thu-tuc-To-tung/Nghi-quyet-01-2020-NQ-HDTP-giai-quyet-tranh-chap-tai-san-chung-dong-ho-400779.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "19/2019/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "05/04/2019",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 19/2019/NĐ-CP về họ, hụi, biêu, phường",
+        "url": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Nghi-dinh-19-2019-ND-CP-quy-dinh-ve-ho-hui-bieu-phuong-386324.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "01/2019/NQ-HĐTP",
+        "expired_date": null,
+        "effective_date": "15/03/2019",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị quyết 01/2019/NQ-HĐTP hướng dẫn áp dụng một số quy định của pháp luật về lãi, lãi suất, phạt vi phạm ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Nghi-quyet-01-2019-NQ-HDTP-huong-dan-quy-dinh-cua-phap-luat-ve-lai-lai-suat-phat-vi-pham-367130.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/01/2023",
+        "so_hieu": "102/2017/NĐ-CP",
+        "expired_date": "15/01/2023",
+        "effective_date": "15/10/2017",
+        "last_checked": "2026-05-20 14:55:20",
+        "title": "Nghị định 102/2017/NÐ-CP về đăng ký biện pháp bảo đảm",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-102-2017-N%c3%90-CP-dang-ky-bien-phap-bao-dam-332648.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản đính chính": [],
+    "Văn bản được đính chính": []
+  },
+  "related_documents_collected": true,
+  "attempts": 1
+}

@@ -65,7 +65,6 @@ ENABLE_RELATED_DOCUMENTS = True
 DEDUP_RELATED_URLS = True
 PRESERVE_SOURCE_SECTION = True
 LOG_RELATED_DOCUMENT_MAPPING = True
-MAX_RELATED_URLS_PER_DOCUMENT = 50
 ALLOWED_DOMAINS = ("thuvienphapluat.vn",)
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -880,7 +879,7 @@ def apply_related_error(document, snapshot_error):
 # ======================
 # CHECK DOCUMENT
 # ======================
-async def check_document(page, title, url, *, max_related_urls=None, on_checkpoint=None):
+async def check_document(page, title, url, *, on_checkpoint=None):
     # Crawl one document, then enrich it with first-level related documents.
     info(f"Checking → {title}")
 
@@ -910,13 +909,6 @@ async def check_document(page, title, url, *, max_related_urls=None, on_checkpoi
         preserve_source_section=PRESERVE_SOURCE_SECTION,
         log_func=info if LOG_RELATED_DOCUMENT_MAPPING else None,
     )
-    if max_related_urls is None:
-        max_related_urls = MAX_RELATED_URLS_PER_DOCUMENT
-    if max_related_urls is not None and max_related_urls >= 0:
-        if len(related_docs) > max_related_urls:
-            warn(f"Limit related URLs: {len(related_docs)} -> {max_related_urls}")
-        related_docs = related_docs[:max_related_urls]
-
     related_documents = []
     for document in related_docs:
         record = make_related_document_record(
@@ -1070,7 +1062,7 @@ async def check_document(page, title, url, *, max_related_urls=None, on_checkpoi
 # ======================
 # RETRY WRAPPER
 # ======================
-async def check_document_with_retries(page, title, url, *, max_related_urls=None, on_checkpoint=None):
+async def check_document_with_retries(page, title, url, *, on_checkpoint=None):
     # Retry unstable document checks before giving up.
     attempts = 0
     last_result = None
@@ -1082,7 +1074,6 @@ async def check_document_with_retries(page, title, url, *, max_related_urls=None
             page,
             title,
             url,
-            max_related_urls=max_related_urls,
             on_checkpoint=on_checkpoint,
         )
         result["attempts"] = attempts
@@ -1307,7 +1298,6 @@ async def run_check_hieu_luc(documents, input_date):
                     page,
                     title,
                     url,
-                    max_related_urls=MAX_RELATED_URLS_PER_DOCUMENT,
                     on_checkpoint=checkpoint_result,
                 )
             except InvalidAccountStateError:
