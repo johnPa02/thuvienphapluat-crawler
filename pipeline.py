@@ -20,7 +20,7 @@ import sys
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from table_converter import is_data_table, process_tables_in_content
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, unquote, urljoin
 
 def load_cookies_from_file(cookie_file: str) -> list:
     """
@@ -105,6 +105,7 @@ def extract_form_template_ids(content_div) -> list:
     Returns: List of tuples [(template_text, law_id, bookmark_id, element), ...]
     """
     form_templates = []
+    seen_elements = set()
     
     # Tìm tất cả các element có class='clsBookmark_bm' và onclick chứa LS_Tip_Type_Bookmark_bm
     bookmark_elements = content_div.find_all(
@@ -126,8 +127,174 @@ def extract_form_template_ids(content_div) -> list:
             template_text = element.get_text(strip=True)
             
             form_templates.append((template_text, law_id, bookmark_id, element))
+            seen_elements.add(id(element))
+
+    direct_links = content_div.find_all('a', href=re.compile(r'files\.thuvienphapluat\.vn/uploads/DocForms/', re.I))
+    for element in direct_links:
+        if id(element) in seen_elements:
+            continue
+        template_text = element.get_text(' ', strip=True) or 'Tải biểu mẫu'
+        form_templates.append((template_text, '', '', element))
+        seen_elements.add(id(element))
+
+    download_links = content_div.find_all('a', attrs={'data-action': 'download'})
+    for element in download_links:
+        if id(element) in seen_elements:
+            continue
+        template_text = element.get_text(' ', strip=True) or 'Tải biểu mẫu'
+        form_templates.append((template_text, '', '', element))
+        seen_elements.add(id(element))
     
     return form_templates
+
+def parse_form_id_from_onclick(onclick: str) -> str:
+    """Extract LawID from LS_Tip_Type_Bookmark_bm(...).
+
+    Example:
+      LS_Tip_Type_Bookmark_bm('625021','5956488') -> 625021
+    """
+    if not onclick:
+        return ""
+    match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"]", onclick)
+    return match.group(1) if match else ""
+
+def normalize_form_code(raw_code: str) -> str:
+    """Normalize the main form code to match TVPL filename style.
+
+    Examples:
+      01 -> 1
+      03d -> 3d
+      04dd -> 4đ
+    """
+    if not raw_code:
+        return ""
+
+    raw_code = raw_code.lower().strip()
+    match = re.match(r"^(\d+)([a-z]+)?$", raw_code)
+    if not match:
+        return raw_code
+
+    number = str(int(match.group(1)))
+    suffix = match.group(2) or ""
+
+    if suffix == "dd":
+        suffix = "đ"
+
+    return number + suffix
+
+def guess_form_filename_from_name(name: str) -> str:
+    """Guess file name from bookmark name attribute.
+
+    Examples:
+      bieumau_ms_01_pl5_1 -> Mẫu số 1-Pl5.doc
+      bieumau_ms_03d_pl5_1 -> Mẫu số 3d-Pl5.doc
+      bieumau_ms_01_pl5_06_2022_nd_cp_1 -> Mẫu số 1-Pl5-06-2022-nd-cp.doc
+      bieumau_ms_01_pl6_dm1_1 -> Danh mục số 1-Pl6.doc
+      bieumau_ms_01_pl6_dm1_06_2022_nd_cp -> Danh mục số 1-Pl6-06-2022-nd-cp.doc
+    """
+    if not name:
+        return ""
+
+    parts = [p for p in name.lower().split("_") if p]
+    if parts and parts[0] == "bieumau":
+        parts = parts[1:]
+
+    if len(parts) < 2 or parts[0] != "ms":
+        return ""
+
+    form_code = normalize_form_code(parts[1])
+    if not form_code:
+        return ""
+
+    prefix = "Mẫu số"
+    for part in parts[2:]:
+        if re.match(r"^dm\d+$", part):
+            prefix = "Danh mục số"
+            break
+
+    suffix_parts = parts[2:]
+    if suffix_parts and suffix_parts[-1].isdigit():
+        # Skip only the final variant marker like _1, _2, _3.
+        suffix_parts = suffix_parts[:-1]
+
+    tail = []
+    for part in suffix_parts:
+        if re.match(r"^dm\d+$", part):
+            continue
+        m_pl = re.match(r"^pl(\d+)$", part)
+        if m_pl:
+            tail.append(f"Pl{m_pl.group(1)}")
+        else:
+            tail.append(part)
+
+    filename = f"{prefix} {form_code}"
+    if tail:
+        filename += "-" + "-".join(tail)
+    return filename + ".doc"
+
+def build_form_download_href(name: str, onclick: str, encode: bool = False) -> str:
+    """Build a deterministic DocForms download URL from bookmark metadata.
+
+    This is the main heuristic used by the crawler now, so we can avoid
+    relying on AJAX for most form links.
+    """
+    form_id = parse_form_id_from_onclick(onclick)
+    filename = guess_form_filename_from_name(name)
+
+    if not form_id or not filename:
+        return ""
+
+    folder = "/".join(form_id[:4])
+    if encode:
+        filename = quote(filename, safe="")
+
+    return f"https://files.thuvienphapluat.vn/uploads/DocForms/{folder}/{form_id}//{filename}"
+
+def extract_direct_form_url(element) -> str:
+    """Extract direct URL if it already exists in HTML.
+
+    Supports:
+    - direct href to files.thuvienphapluat.vn
+    - download button inside the dialog
+    - iframe gview URL that wraps the real file URL
+    """
+    if not element:
+        return ""
+
+    href = element.get("href", "")
+    if href and "files.thuvienphapluat.vn" in href:
+        return href
+
+    download_link = element.find("a", attrs={"data-action": "download"})
+    if download_link and download_link.get("href"):
+        return download_link.get("href", "")
+
+    iframe = element.find("iframe")
+    if iframe and iframe.get("src"):
+        src = iframe.get("src", "")
+        match = re.search(r"[?&]url=(https?://[^&]+)", src)
+        if match:
+            return unquote(match.group(1))
+        return src
+
+    return ""
+
+def resolve_form_template_url(page, template_text: str, law_id: str, bookmark_id: str, element=None, retry_count: int = 0) -> str:
+    """Resolve form URL using direct HTML or heuristic only.
+
+    Resolution order:
+    1. direct URL already present in DOM
+    2. heuristic URL derived from name + onclick
+    """
+    direct_url = extract_direct_form_url(element)
+    if direct_url:
+        return direct_url
+
+    heuristic_url = build_form_download_href(element.get("name", "") if element else "", element.get("onclick", "") if element else "")
+    if heuristic_url:
+        return heuristic_url
+
+    return ""
 
 # Thêm import random ở đầu file nếu chưa có
 import random
@@ -224,9 +391,14 @@ def process_form_templates(page, content_div, base_url: str) -> dict:
     
     for template_text, law_id, bookmark_id, element in form_templates:
         print(f"   🔄 Fetching: {template_text}")
-        
-        # Try AJAX with retry logic (no fallback)
-        download_url = fetch_form_template_url(page, law_id, bookmark_id, retry_count=0, max_retries=3)
+        download_url = resolve_form_template_url(
+            page,
+            template_text,
+            law_id,
+            bookmark_id,
+            element=element,
+            retry_count=0,
+        )
         
         if download_url:
             template_urls[template_text] = download_url
@@ -238,8 +410,7 @@ def process_form_templates(page, content_div, base_url: str) -> dict:
             element.replace_with(markdown_link)
             print(f"   ✅ {template_text} -> {download_url[:80]}...")
         else:
-            # Keep original text if fetch fails completely (no fallback)
-            print(f"   ❌ Failed to fetch: {template_text}")
+            print(f"   ❌ Failed to resolve: {template_text}")
     
     return template_urls
 def save_form_template_urls(template_urls: dict, output_file: str):
