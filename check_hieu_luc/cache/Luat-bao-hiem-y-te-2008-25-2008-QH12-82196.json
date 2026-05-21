@@ -1,0 +1,1304 @@
+{
+  "normalized_status": "VALID",
+  "raw_status": "Còn hiệu lực",
+  "so_hieu": "25/2008/QH12",
+  "expired_date": null,
+  "effective_date": "01/07/2009",
+  "last_checked": "2026-05-20 16:48:26",
+  "replacements": [],
+  "related_documents": {
+    "Văn bản thay thế": [],
+    "Văn bản được hướng dẫn": [],
+    "Văn bản được hợp nhất": [],
+    "Văn bản bị sửa đổi bổ sung": [],
+    "Văn bản bị thay thế": [],
+    "Văn bản được dẫn chiếu": [],
+    "Văn bản được căn cứ": [
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2014",
+        "so_hieu": "51/2001/QH10",
+        "expired_date": "01/01/2014",
+        "effective_date": "07/01/2002",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị quyết số 51/2001/QH10 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước cộng hoà xã hội chủ ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-51-2001-NQ-QH10-bo-sung-dieu-cua-Hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-Viet-Nam-nam-1992-4342.aspx",
+        "error": "",
+        "source_section": "Văn bản được căn cứ",
+        "source_sections": [
+          "Văn bản được căn cứ"
+        ],
+        "source_toggle": "basisDocument",
+        "source_toggles": [
+          "basisDocument"
+        ],
+        "relation_type": "based_by",
+        "relation_types": [
+          "based_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2014",
+        "so_hieu": "68-LCT/HĐNN8",
+        "expired_date": "01/01/2014",
+        "effective_date": "18/04/1992",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Hiến pháp năm 1992",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-1992-cong-hoa-xa-hoi-chu-nghia-Viet-nam-38238.aspx",
+        "error": "",
+        "source_section": "Văn bản được căn cứ",
+        "source_sections": [
+          "Văn bản được căn cứ"
+        ],
+        "source_toggle": "basisDocument",
+        "source_toggles": [
+          "basisDocument"
+        ],
+        "relation_type": "based_by",
+        "relation_types": [
+          "based_by"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hợp nhất": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "40/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "16/03/2026",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 40/VBHN-VPQH năm 2026 hợp nhất Luật Bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-40-VBHN-VPQH-2026-Luat-Bao-hiem-y-te-699508.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "22/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "26/02/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 22/VBHN-VPQH năm 2025 hợp nhất Luật Bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-22-VBHN-VPQH-2025-Luat-Bao-hiem-y-te-651354.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "47/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "27/12/2023",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 47/VBHN-VPQH năm 2023 hợp nhất Luật Bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-47-VBHN-VPQH-2023-Luat-Bao-hiem-y-te-603826.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "28/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "07/12/2020",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 28/VBHN-VPQH năm 2020 hợp nhất Luật Bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-28-VBHN-VPQH-2020-Luat-Bao-hiem-y-te-468939.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "46/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "10/12/2018",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 46/VBHN-VPQH năm 2018 hợp nhất Luật Bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-46-VBHN-VPQH-2018-Luat-Bao-hiem-y-te-410353.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "10/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "31/12/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 10/VBHN-VPQH năm 2015 hợp nhất Luật bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-10-VBHN-VPQH-Luat-bao-hiem-y-te-2016-303124.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "NOT_APPLICABLE",
+        "raw_status": "Không còn phù hợp",
+        "so_hieu": "01/VBHN-VPQH",
+        "expired_date": null,
+        "effective_date": "10/07/2014",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Văn bản hợp nhất 01/VBHN-VPQH năm 2014 hợp nhất Luật bảo hiểm y tế do Văn phòng Quốc hội ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Van-ban-hop-nhat-01-VBHN-VPQH-2014-hop-nhat-Luat-bao-hiem-y-te-243389.aspx",
+        "error": "",
+        "source_section": "Văn bản hợp nhất",
+        "source_sections": [
+          "Văn bản hợp nhất"
+        ],
+        "source_toggle": "HopNhatDocument",
+        "source_toggles": [
+          "HopNhatDocument"
+        ],
+        "relation_type": "consolidating",
+        "relation_types": [
+          "consolidating"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản sửa đổi bổ sung": [
+      {
+        "normalized_status": "NOT_EFFECTIVE_YET",
+        "raw_status": "Chưa có hiệu lực",
+        "so_hieu": "114/2025/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2026",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật Phòng bệnh 2025",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Luat-Phong-benh-2025-so-114-2025-QH15-658530.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "51/2024/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật Bảo hiểm y tế sửa đổi 2024",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Luat-Bao-hiem-y-te-sua-doi-2024-505750.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "30/2023/QH15",
+        "expired_date": null,
+        "effective_date": "01/07/2024",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở 2023",
+        "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Luc-luong-tham-gia-bao-ve-an-ninh-trat-tu-o-co-so-30-2023-QH15-445699.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "68/2020/QH14",
+        "expired_date": null,
+        "effective_date": "01/07/2021",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật cư trú 2020",
+        "url": "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-68-2020-QH14-cu-tru-435315.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "35/2018/QH14",
+        "expired_date": null,
+        "effective_date": "01/01/2019",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật sửa đổi, bổ sung một số Điều của 37 Luật có liên quan đến quy hoạch 2018",
+        "url": "https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-sua-doi-cac-Luat-co-lien-quan-den-quy-hoach-2018-390511.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "97/2015/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2017",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật phí và lệ phí 2015",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-phi-va-le-phi-2015-298376.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "46/2014/QH13",
+        "expired_date": null,
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật Bảo hiểm y tế sửa đổi 2014",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Luat-Bao-hiem-y-te-sua-doi-2014-238506.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/10/2025",
+        "so_hieu": "32/2013/QH13",
+        "expired_date": "01/10/2025",
+        "effective_date": "01/01/2014",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Luật thuế thu nhập doanh nghiệp sửa đổi năm 2013",
+        "url": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-thue-thu-nhap-doanh-nghiep-sua-doi-2013-197250.aspx",
+        "error": "",
+        "source_section": "Văn bản sửa đổi bổ sung",
+        "source_sections": [
+          "Văn bản sửa đổi bổ sung"
+        ],
+        "source_toggle": "amendDocument",
+        "source_toggles": [
+          "amendDocument"
+        ],
+        "relation_type": "amending",
+        "relation_types": [
+          "amending"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản hướng dẫn": [
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "90/2026/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/05/2026",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 90/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Vi-pham-hanh-chinh/Nghi-dinh-90-2026-ND-CP-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-y-te-639959.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "233/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "26/08/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 233/2025/NĐ-CP quy định cơ chế tài chính về bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế;...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-233-2025-ND-CP-co-che-tai-chinh-ve-bao-hiem-xa-hoi-bao-hiem-that-nghiep-670873.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "212/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "25/07/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 212/2025/NĐ-CP hướng dẫn hoạt động đầu tư từ quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-212-2025-ND-CP-huong-dan-hoat-dong-dau-tu-tu-quy-bao-hiem-xa-hoi-bao-hiem-y-te-666742.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "188/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/08/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 188/2025/NĐ-CP hướng dẫn Luật Bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-188-2025-ND-CP-huong-dan-Luat-Bao-hiem-y-te-641049.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "24/2025/TT-BYT",
+        "expired_date": null,
+        "effective_date": "01/09/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 24/2025/TT-BYT sửa đổi Thông tư 04/2017/TT-BYT về Danh mục và tỷ lệ, điều kiện thanh toán đối với ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-24-2025-TT-BYT-sua-doi-Thong-tu-04-2017-TT-BYT-601187.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "74/2025/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "01/07/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 74/2025/NĐ-CP sửa đổi Nghị định 70/2015/NĐ-CP hướng dẫn Luật Bảo hiểm y tế đối với Quân đội nhân ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-74-2025-ND-CP-sua-doi-Nghi-dinh-70-2015-ND-CP-huong-dan-Luat-Bao-hiem-y-te-650729.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "01/2025/TT-BYT",
+        "expired_date": null,
+        "effective_date": "01/01/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 01/2025/TT-BYT hướng dẫn Luật Bảo hiểm y tế do Bộ trưởng Bộ Y tế ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-01-2025-TT-BYT-huong-dan-Luat-Bao-hiem-y-te-623659.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/08/2025",
+        "so_hieu": "02/2025/NĐ-CP",
+        "expired_date": "15/08/2025",
+        "effective_date": "01/01/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 02/2025/NĐ-CP sửa đổi Nghị định 146/2018/NĐ-CP hướng dẫn Luật Bảo hiểm y tế được sửa đổi tại Nghị...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-02-2025-ND-CP-sua-doi-Nghi-dinh-146-2018-ND-CP-huong-dan-Luat-Bao-hiem-y-te-624932.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/02/2026",
+        "so_hieu": "22/2024/TT-BYT",
+        "expired_date": "15/02/2026",
+        "effective_date": "01/01/2025",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 22/2024/TT-BYT quy định về thanh toán chi phí thuốc, thiết bị y tế trực tiếp cho người có thẻ bảo ...",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Thong-tu-22-2024-TT-BYT-thanh-toan-chi-phi-thuoc-cho-nguoi-co-the-bao-hiem-y-te-di-kham-chua-benh-628090.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/08/2025",
+        "so_hieu": "75/2023/NĐ-CP",
+        "expired_date": "15/08/2025",
+        "effective_date": "03/12/2023",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 75/2023/NĐ-CP sửa đổi Nghị định 146/2018/NĐ-CP hướng dẫn Luật Bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-75-2023-ND-CP-sua-doi-Nghi-dinh-146-2018-ND-CP-huong-dan-Luat-Bao-hiem-y-te-509618.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "20/2022/TT-BYT",
+        "expired_date": null,
+        "effective_date": "01/03/2023",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 20/2022/TT-BYT về Danh mục và tỷ lệ, điều kiện thanh toán đối với thuốc hóa dược, sinh phẩm, thuốc...",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Thong-tu-20-2022-TT-BYT-danh-muc-thanh-toan-thuoc-hoa-duoc-duoc-huong-bao-hiem-y-te-548898.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "296/BHXH-CSYT",
+        "expired_date": null,
+        "effective_date": "02/02/2021",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Công văn 296/BHXH-CSYT năm 2021 hướng dẫn quy định tại Điều 22 Luật Bảo hiểm y tế do Bảo hiểm xã hội Việt ...",
+        "url": "https://thuvienphapluat.vn/cong-van/Bao-hiem/Cong-van-296-BHXH-CSYT-2021-huong-dan-quy-dinh-tai-Dieu-22-Luat-Bao-hiem-y-te-465557.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "627/BYT-BH",
+        "expired_date": null,
+        "effective_date": "27/01/2021",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Công văn 627/BYT-BH năm 2021 về hướng dẫn thực hiện quy định tại Điều 22 Luật Bảo hiểm y tế do Bộ Y tế ban ...",
+        "url": "https://thuvienphapluat.vn/cong-van/Bao-hiem/Cong-van-627-BYT-BH-2021-huong-dan-thuc-hien-quy-dinh-tai-Dieu-22-Luat-Bao-hiem-y-te-464108.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "1666/QĐ-BHXH",
+        "expired_date": null,
+        "effective_date": "01/04/2021",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Quyết định 1666/QĐ-BHXH năm 2020 về mẫu thẻ bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-1666-QD-BHXH-2020-mau-the-bao-hiem-y-te-458650.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/05/2026",
+        "so_hieu": "117/2020/NĐ-CP",
+        "expired_date": "15/05/2026",
+        "effective_date": "15/11/2020",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 117/2020/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Vi-pham-hanh-chinh/Nghi-dinh-117-2020-ND-CP-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-y-te-398159.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/08/2025",
+        "so_hieu": "146/2018/NĐ-CP",
+        "expired_date": "15/08/2025",
+        "effective_date": "01/12/2018",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 146/2018/NĐ-CP hướng dẫn Luật bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Nghi-dinh-146-2018-ND-CP-huong-dan-Luat-bao-hiem-y-te-357505.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "04/2017/TT-BYT",
+        "expired_date": null,
+        "effective_date": "01/06/2017",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 04/2017/TT-BYT Danh mục và tỷ lệ, điều kiện thanh toán đối với vật tư y tế thuộc phạm vi được ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-04-2017-TT-BYT-Danh-muc-ty-le-dieu-kien-thanh-toan-vat-tu-y-te-nguoi-tham-gia-bao-hiem-y-te-290390.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 25/07/2025",
+        "so_hieu": "30/2016/NĐ-CP",
+        "expired_date": "25/07/2025",
+        "effective_date": "16/06/2016",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 30/2016/NĐ-CP quy định chi tiết hoạt động đầu tư từ quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-30-2016-ND-CP-dau-tu-tu-quy-bao-hiem-xa-hoi-bao-hiem-y-te-bao-hiem-that-nghiep-293312.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "1500/QĐ-BHXH",
+        "expired_date": null,
+        "effective_date": "14/12/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Quyết định 1500/QĐ-BHXH năm 2015 về thẻ bảo hiểm y tế cấp cho quân nhân, công an nhân dân, người làm công ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-1500-QD-BHXH-the-bao-hiem-y-te-cap-cho-quan-nhan-cong-an-nhan-dan-nguoi-lam-cong-tac-co-yeu-298271.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2025",
+        "so_hieu": "40/2015/TT-BYT",
+        "expired_date": "01/01/2025",
+        "effective_date": "01/01/2016",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 40/2015/TT-BYT quy định đăng ký khám, chữa bệnh bảo hiểm y tế ban đầu và chuyển tuyến khám, chữa ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-40-2015-TT-BYT-dang-ky-kham-chua-benh-bao-hiem-y-te-ban-dau-chuyen-tuyen-297251.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "VALID",
+        "raw_status": "Còn hiệu lực",
+        "so_hieu": "70/2015/NĐ-CP",
+        "expired_date": null,
+        "effective_date": "15/10/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 70/2015/NĐ-CP hướng dẫn Luật Bảo hiểm y tế đối với Quân đội nhân dân, Công an nhân dân và người ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-70-2015-ND-CP-huong-dan-Luat-Bao-hiem-y-te-Quan-doi-Cong-an-nhan-dan-nguoi-lam-co-yeu-288862.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/12/2018",
+        "so_hieu": "16/2015/TTLT-BYT-BTC",
+        "expired_date": "01/12/2018",
+        "effective_date": "01/09/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư liên tịch 16/2015/TTLT-BYT-BTC sửa đổi khoản 5 Điều 13 Thông tư liên tịch 41/2014/TTLT-BYT-BTC ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-lien-tich-16-2015-TTLT-BYT-BTC-sua-doi-Thong-tu-lien-tich-41-2014-TTLT-BYT-BTC-282788.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/04/2021",
+        "so_hieu": "1313/QĐ-BHXH",
+        "expired_date": "01/04/2021",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Quyết định 1313/QĐ-BHXH năm 2014 ban hành mẫu thẻ bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-1313-QD-BHXH-2014-ban-hanh-mau-the-bao-hiem-y-te-259145.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/12/2018",
+        "so_hieu": "41/2014/TTLT-BYT-BTC",
+        "expired_date": "01/12/2018",
+        "effective_date": "01/02/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư liên tịch 41/2014/TTLT-BYT-BTC hướng dẫn thực hiện bảo hiểm y tế do Bộ trưởng Bộ Y tế - Bộ Tài ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-lien-tich-41-2014-TTLT-BYT-BTC-huong-dan-thuc-hien-bao-hiem-y-te-261252.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2016",
+        "so_hieu": "37/2014/TT-BYT",
+        "expired_date": "01/01/2016",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 37/2014/TT-BYT hướng dẫn đăng ký khám, chữa bệnh ban đầu và chuyển tuyến khám, chữa bệnh bảo hiểm ...",
+        "url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Thong-tu-37-2014-TT-BYT-dang-ky-kham-chua-benh-ban-dau-chuyen-tuyen-kham-chua-benh-bao-hiem-y-te-259813.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/12/2018",
+        "so_hieu": "105/2014/NĐ-CP",
+        "expired_date": "01/12/2018",
+        "effective_date": "01/01/2015",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 105/2014/NĐ-CP hướng dẫn Luật Bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-105-2014-ND-CP-huong-dan-Luat-Bao-hiem-y-te-258232.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 15/11/2020",
+        "so_hieu": "176/2013/NĐ-CP",
+        "expired_date": "15/11/2020",
+        "effective_date": "31/12/2013",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 176/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Vi-pham-hanh-chinh/Nghi-dinh-176-2013-ND-CP-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-y-te-213917.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 31/12/2013",
+        "so_hieu": "92/2011/NĐ-CP",
+        "expired_date": "31/12/2013",
+        "effective_date": "01/12/2011",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 92/2011/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Vi-pham-hanh-chinh/Nghi-dinh-92-2011-ND-CP-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-bao-hiem-130662.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/06/2016",
+        "so_hieu": "25/2010/TTLT-BQP-BYT-BTC",
+        "expired_date": "01/06/2016",
+        "effective_date": "20/04/2010",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư liên tịch 25/2010/TTLT-BQP-BYT-BTC hướng dẫn quản lý, tổ chức thực hiện bảo hiểm y tế đối với ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-lien-tich-25-2010-TTLT-BQP-BYT-BTC-huong-dan-quan-ly-to-chuc-thuc-hien-107280.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2017",
+        "so_hieu": "19/2010/TT-BTC",
+        "expired_date": "01/01/2017",
+        "effective_date": "20/03/2010",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 19/2010/TT-BTC quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cấp lại và đổi thẻ bảo ...",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-19-2010-TT-BTC-muc-thu-che-do-thu-nop-quan-ly-su-dung-phi-cap-lai-doi-the-bao-hiem-y-te-101234.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2012",
+        "so_hieu": "3686/BHXH-BT",
+        "expired_date": "01/01/2012",
+        "effective_date": "14/10/2009",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Công văn 3686/BHXH-BT về việc hướng dẫn thu bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành",
+        "url": "https://thuvienphapluat.vn/cong-van/Bao-hiem/Cong-van-3686-BHXH-BT-huong-dan-thu-bao-hiem-y-te-96522.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/02/2015",
+        "so_hieu": "09/2009/TTLT-BYT-BTC",
+        "expired_date": "01/02/2015",
+        "effective_date": "01/10/2009",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư liên tịch 09/2009/TTLT-BYT-BTC hướng dẫn thực hiện bảo hiểm y tế do Bộ Y tế - Bộ Tài chính ban hành",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-lien-tich-09-2009-TTLT-BYT-BTC-huong-dan-bao-hiem-y-te-94225.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2015",
+        "so_hieu": "10/2009/TT-BYT",
+        "expired_date": "01/01/2015",
+        "effective_date": "01/10/2009",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Thông tư 10/2009/TT-BYT hướng dẫn đăng ký khám bệnh, chữa bệnh ban đầu và chuyển tuyến khám bệnh, chữa bệnh...",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Thong-tu-10-2009-TT-BYT-huong-dan-dang-ky-kham-chua-benh-ban-dau-chuyen-tuyen-khamchua-benh-bao-hiem-y-te-94227.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      },
+      {
+        "normalized_status": "EXPIRED",
+        "raw_status": "Hết hiệu lực: 01/01/2015",
+        "so_hieu": "62/2009/NĐ-CP",
+        "expired_date": "01/01/2015",
+        "effective_date": "01/10/2009",
+        "last_checked": "2026-05-20 16:48:26",
+        "title": "Nghị định 62/2009/NĐ-CP Hướng dẫn Luật Bảo hiểm y tế",
+        "url": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Nghi-dinh-62-2009-ND-CP-huong-dan-Luat-Bao-hiem-y-te-91896.aspx",
+        "error": "",
+        "source_section": "Văn bản hướng dẫn",
+        "source_sections": [
+          "Văn bản hướng dẫn"
+        ],
+        "source_toggle": "guideDocument",
+        "source_toggles": [
+          "guideDocument"
+        ],
+        "relation_type": "guiding",
+        "relation_types": [
+          "guiding"
+        ],
+        "depth": 1,
+        "attempts": 0
+      }
+    ],
+    "Văn bản đính chính": [],
+    "Văn bản được đính chính": []
+  },
+  "related_documents_collected": true,
+  "attempts": 1
+}
