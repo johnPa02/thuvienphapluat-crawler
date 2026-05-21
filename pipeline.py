@@ -17,7 +17,7 @@ import json
 import os
 import re
 import sys
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 from playwright.sync_api import sync_playwright
 from table_converter import is_data_table, process_tables_in_content
 from urllib.parse import quote, unquote, urljoin
@@ -99,7 +99,14 @@ def crawl_html(url: str, cookie_file: str = None) -> str:
         browser.close()
         return html
 
-def extract_form_template_ids(content_div) -> list:
+def extract_law_id_from_url(url: str = None) -> str:
+    """Extract law/document id from a TVPL URL ending with -<id>.aspx."""
+    if not url:
+        return ""
+    match = re.search(r'-(\d+)\.aspx(?:$|[?#])', url)
+    return match.group(1) if match else ""
+
+def extract_form_template_ids(content_div, base_url: str = None) -> list:
     """
     Extract tất cả form template IDs từ các element có class='clsBookmark_bm'
     Returns: List of tuples [(template_text, law_id, bookmark_id, element), ...]
@@ -107,11 +114,13 @@ def extract_form_template_ids(content_div) -> list:
     form_templates = []
     seen_elements = set()
     
-    # Tìm tất cả các element có class='clsBookmark_bm' và onclick chứa LS_Tip_Type_Bookmark_bm
+    fallback_law_id = extract_law_id_from_url(base_url)
+
+    # Tìm tất cả bookmark biểu mẫu. Một số bảng chỉ còn name="bieumau_..."
+    # mà không còn class/onclick, nên không giới hạn vào clsBookmark_bm.
     bookmark_elements = content_div.find_all(
-        'a', 
-        class_='clsBookmark_bm',
-        onclick=re.compile(r'LS_Tip_Type_Bookmark_bm')
+        'a',
+        attrs={'name': re.compile(r'^bieumau_', re.I)}
     )
     
     for element in bookmark_elements:
@@ -121,11 +130,11 @@ def extract_form_template_ids(content_div) -> list:
         # Pattern: LS_Tip_Type_Bookmark_bm('516302','4444790')
         id_match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"],\s*['\"](\d+)['\"]\)", onclick_attr)
         
-        if id_match:
-            law_id = id_match.group(1)
-            bookmark_id = id_match.group(2)
-            template_text = element.get_text(strip=True)
-            
+        law_id = id_match.group(1) if id_match else fallback_law_id
+        bookmark_id = id_match.group(2) if id_match else ''
+        template_text = element.get_text(' ', strip=True)
+
+        if law_id:
             form_templates.append((template_text, law_id, bookmark_id, element))
             seen_elements.add(id(element))
 
@@ -148,24 +157,14 @@ def extract_form_template_ids(content_div) -> list:
     return form_templates
 
 def parse_form_id_from_onclick(onclick: str) -> str:
-    """Extract LawID from LS_Tip_Type_Bookmark_bm(...).
-
-    Example:
-      LS_Tip_Type_Bookmark_bm('625021','5956488') -> 625021
-    """
+    """Extract LawID from LS_Tip_Type_Bookmark_bm(...)."""
     if not onclick:
         return ""
     match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"]", onclick)
     return match.group(1) if match else ""
 
 def normalize_form_code(raw_code: str) -> str:
-    """Normalize the main form code to match TVPL filename style.
-
-    Examples:
-      01 -> 1
-      03d -> 3d
-      04dd -> 4đ
-    """
+    """Normalize form code to match TVPL filename style."""
     if not raw_code:
         return ""
 
@@ -182,6 +181,18 @@ def normalize_form_code(raw_code: str) -> str:
 
     return number + suffix
 
+FORM_BOOKMARK_KIND_RULES = [
+    # dm1, dm2... means this is a Danh mục file. Add future kinds here.
+    (re.compile(r"^dm\d+$"), "Danh mục số", False),
+]
+
+def apply_form_bookmark_kind_rule(part: str) -> tuple:
+    """Return (matched, prefix, keep_part_in_filename)."""
+    for pattern, prefix, keep_part in FORM_BOOKMARK_KIND_RULES:
+        if pattern.match(part):
+            return True, prefix, keep_part
+    return False, "", True
+
 def guess_form_filename_from_name(name: str) -> str:
     """Guess file name from bookmark name attribute.
 
@@ -189,8 +200,6 @@ def guess_form_filename_from_name(name: str) -> str:
       bieumau_ms_01_pl5_1 -> Mẫu số 1-Pl5.doc
       bieumau_ms_03d_pl5_1 -> Mẫu số 3d-Pl5.doc
       bieumau_ms_01_pl5_06_2022_nd_cp_1 -> Mẫu số 1-Pl5-06-2022-nd-cp.doc
-      bieumau_ms_01_pl6_dm1_1 -> Danh mục số 1-Pl6.doc
-      bieumau_ms_01_pl6_dm1_06_2022_nd_cp -> Danh mục số 1-Pl6-06-2022-nd-cp.doc
     """
     if not name:
         return ""
@@ -207,38 +216,42 @@ def guess_form_filename_from_name(name: str) -> str:
         return ""
 
     prefix = "Mẫu số"
-    for part in parts[2:]:
-        if re.match(r"^dm\d+$", part):
-            prefix = "Danh mục số"
+    suffix_parts = parts[2:]
+
+    # Detect special bookmark kinds before dropping trailing variant markers.
+    for part in suffix_parts:
+        matched, rule_prefix, _ = apply_form_bookmark_kind_rule(part)
+        if matched:
+            prefix = rule_prefix
             break
 
-    suffix_parts = parts[2:]
     if suffix_parts and suffix_parts[-1].isdigit():
         # Skip only the final variant marker like _1, _2, _3.
         suffix_parts = suffix_parts[:-1]
 
     tail = []
     for part in suffix_parts:
-        if re.match(r"^dm\d+$", part):
-            continue
         m_pl = re.match(r"^pl(\d+)$", part)
         if m_pl:
             tail.append(f"Pl{m_pl.group(1)}")
-        else:
-            tail.append(part)
+            continue
+
+        matched, rule_prefix, keep_part = apply_form_bookmark_kind_rule(part)
+        if matched:
+            prefix = rule_prefix
+            if not keep_part:
+                continue
+
+        tail.append(part)
 
     filename = f"{prefix} {form_code}"
     if tail:
         filename += "-" + "-".join(tail)
     return filename + ".doc"
 
-def build_form_download_href(name: str, onclick: str, encode: bool = False) -> str:
-    """Build a deterministic DocForms download URL from bookmark metadata.
-
-    This is the main heuristic used by the crawler now, so we can avoid
-    relying on AJAX for most form links.
-    """
-    form_id = parse_form_id_from_onclick(onclick)
+def build_form_download_href(name: str, onclick: str, encode: bool = False, law_id: str = "") -> str:
+    """Build a deterministic DocForms download URL from bookmark metadata."""
+    form_id = parse_form_id_from_onclick(onclick) or law_id
     filename = guess_form_filename_from_name(name)
 
     if not form_id or not filename:
@@ -251,13 +264,7 @@ def build_form_download_href(name: str, onclick: str, encode: bool = False) -> s
     return f"https://files.thuvienphapluat.vn/uploads/DocForms/{folder}/{form_id}//{filename}"
 
 def extract_direct_form_url(element) -> str:
-    """Extract direct URL if it already exists in HTML.
-
-    Supports:
-    - direct href to files.thuvienphapluat.vn
-    - download button inside the dialog
-    - iframe gview URL that wraps the real file URL
-    """
+    """Extract direct URL if it already exists in HTML."""
     if not element:
         return ""
 
@@ -280,19 +287,22 @@ def extract_direct_form_url(element) -> str:
     return ""
 
 def resolve_form_template_url(page, template_text: str, law_id: str, bookmark_id: str, element=None, retry_count: int = 0) -> str:
-    """Resolve form URL using direct HTML or heuristic only.
+    """Resolve form URL with form heuristic first, then direct HTML fallback.
 
-    Resolution order:
-    1. direct URL already present in DOM
-    2. heuristic URL derived from name + onclick
+    For bookmark-based biểu mẫu, prefer the deterministic filename built from
+    `name + onclick` because the direct `href` can be stale or malformed.
     """
+    heuristic_url = build_form_download_href(
+        element.get("name", "") if element else "",
+        element.get("onclick", "") if element else "",
+        law_id=law_id,
+    )
+    if heuristic_url:
+        return heuristic_url
+
     direct_url = extract_direct_form_url(element)
     if direct_url:
         return direct_url
-
-    heuristic_url = build_form_download_href(element.get("name", "") if element else "", element.get("onclick", "") if element else "")
-    if heuristic_url:
-        return heuristic_url
 
     return ""
 
@@ -386,7 +396,7 @@ def process_form_templates(page, content_div, base_url: str) -> dict:
     """
     print("📋 Đang xử lý biểu mẫu...")
     
-    form_templates = extract_form_template_ids(content_div)
+    form_templates = extract_form_template_ids(content_div, base_url=base_url)
     template_urls = {}
     
     for template_text, law_id, bookmark_id, element in form_templates:
@@ -468,6 +478,67 @@ def extract_note_content(soup: BeautifulSoup, element) -> str:
         return f"\n{note_text}"
     return ""
 
+def normalize_image_url(src: str, base_url: str = None) -> str:
+    """Normalize image URLs before writing them as markdown images."""
+    if not src:
+        return ""
+
+    src = src.strip()
+    if src.startswith("//"):
+        return "https:" + src
+    if src.startswith("http://") or src.startswith("https://"):
+        return src
+    if base_url:
+        return urljoin(base_url, src)
+    return src
+
+def render_dom_children(node, base_url: str = None) -> str:
+    return "".join(render_dom_node(child, base_url) for child in getattr(node, "children", []))
+
+def render_math_node(node, base_url: str = None) -> str:
+    """Render sub/sup as LaTeX-like fragments."""
+    inner = render_dom_children(node, base_url)
+    if node.name == "sub":
+        return f"_{{{inner}}}" if inner else ""
+    if node.name == "sup":
+        return f"^{{{inner}}}" if inner else ""
+    return inner
+
+def render_dom_node(node, base_url: str = None) -> str:
+    """Render content DOM to text while preserving images and formula structure."""
+    if isinstance(node, NavigableString):
+        return str(node)
+    if not isinstance(node, Tag):
+        return ""
+
+    name = (node.name or "").lower()
+    if name in {"script", "style"}:
+        return ""
+    if name == "br":
+        return "\n"
+    if name == "img":
+        img_url = normalize_image_url(node.get("src", ""), base_url)
+        return f"![]({img_url})" if img_url else ""
+    if name in {"sub", "sup"}:
+        return render_math_node(node, base_url)
+
+    text = render_dom_children(node, base_url)
+    if name in {"p", "div", "section", "article", "blockquote", "center", "li", "tr", "td", "th", "h1", "h2", "h3", "h4", "h5", "h6"}:
+        return text + "\n"
+    return text
+
+def render_content_div(content_div, base_url: str = None) -> str:
+    rendered = render_dom_children(content_div, base_url)
+    rendered = re.sub(r"[ \t]+\n", "\n", rendered)
+    rendered = re.sub(r"\n{3,}", "\n\n", rendered)
+    return rendered.strip()
+
+def normalize_formula_text(line: str) -> str:
+    """Normalize multiplication only on formula-like lines."""
+    if '_{' not in line and '^{' not in line and '=' not in line:
+        return line
+    return re.sub(r'\s*\*\s*', r' \\times ', line)
+
 def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
     """
     Xử lý các element có hover và chèn nội dung tooltip vào sau text.
@@ -521,7 +592,6 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
         if re.match(r'^Điều\s+\d+\.', text_content):
             normalized_text = ' '.join(text_content.split())
             b_tag.string = normalized_text
-            from bs4 import NavigableString
             b_tag.insert_after(NavigableString(DIEU_MARKER))
     
     # Xử lý các bảng
@@ -541,8 +611,8 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
             placeholder_div.string = placeholder
             table.replace_with(placeholder_div)
     
-    # Lấy text
-    text = content_div.get_text()
+    # Render DOM thay vì get_text() để không làm mất <img>, <sub>, <sup>.
+    text = render_content_div(content_div, base_url=url)
     text = text.replace(DIEU_MARKER, '\n')
     
     # Chuẩn hóa dòng
@@ -584,6 +654,7 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
         line = line.strip()
         if not line:
             continue
+        line = normalize_formula_text(line)
         
         is_new_paragraph = any(re.match(p, line) for p in new_paragraph_patterns)
         
