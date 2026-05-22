@@ -16,11 +16,12 @@ import argparse
 import json
 import os
 import re
+from html import unescape
 import sys
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 from playwright.sync_api import sync_playwright
 from table_converter import is_data_table, process_tables_in_content
-from urllib.parse import quote, urljoin
+from urllib.parse import unquote, urljoin
 
 def load_cookies_from_file(cookie_file: str) -> list:
     """
@@ -93,154 +94,506 @@ def crawl_html(url: str, cookie_file: str = None) -> str:
             context.add_cookies(cookies)
             print(f"🍪 Đã load {len(cookies)} cookies từ {cookie_file}")
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60000)
-        page.wait_for_timeout(3000)
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(1000)
         html = page.content()
         browser.close()
         return html
 
-def extract_form_template_ids(content_div) -> list:
+def extract_law_id_from_url(url: str = None) -> str:
+    """Extract law/document id from a TVPL URL ending with -<id>.aspx."""
+    if not url:
+        return ""
+    match = re.search(r'-(\d+)\.aspx(?:$|[?#])', url)
+    return match.group(1) if match else ""
+
+def extract_form_template_ids(content_div, base_url: str = None) -> list:
     """
     Extract tất cả form template IDs từ các element có class='clsBookmark_bm'
     Returns: List of tuples [(template_text, law_id, bookmark_id, element), ...]
     """
     form_templates = []
+    seen_elements = set()
+    seen_templates = set()
     
-    # Tìm tất cả các element có class='clsBookmark_bm' và onclick chứa LS_Tip_Type_Bookmark_bm
-    bookmark_elements = content_div.find_all(
-        'a', 
-        class_='clsBookmark_bm',
-        onclick=re.compile(r'LS_Tip_Type_Bookmark_bm')
-    )
+    def should_skip_template_text(text: str) -> bool:
+        return bool(re.match(r'^\s*phụ\s+lục\b', text or '', re.I | re.U))
+
+    def normalize_template_text(text: str) -> str:
+        return re.sub(r'\s+', ' ', text or '').strip()
+
+    # Tìm tất cả bookmark biểu mẫu. Ưu tiên onclick vì LawID/Bookmark_ID phải
+    # lấy từ LS_Tip_Type_Bookmark_bm(...), không tự đoán từ name/title.
+    bookmark_elements = []
+    for element in content_div.find_all('a'):
+        classes = element.get('class') or []
+        name = element.get('name', '')
+        onclick_attr = element.get('onclick', '')
+        if (
+            'clsBookmark_bm' in classes
+            or re.search(r'^bieumau_', name or '', re.I)
+            or 'LS_Tip_Type_Bookmark_bm' in onclick_attr
+        ):
+            bookmark_elements.append(element)
     
     for element in bookmark_elements:
         onclick_attr = element.get('onclick', '')
         
         # Extract LawID và Bookmark_ID từ onclick
         # Pattern: LS_Tip_Type_Bookmark_bm('516302','4444790')
-        id_match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"],\s*['\"](\d+)['\"]\)", onclick_attr)
+        id_match = re.search(r"LS_Tip_Type_Bookmark_bm\(['\"](\d+)['\"]\s*,\s*['\"](\d+)['\"]\)", onclick_attr)
         
-        if id_match:
-            law_id = id_match.group(1)
-            bookmark_id = id_match.group(2)
-            template_text = element.get_text(strip=True)
-            
+        law_id = id_match.group(1) if id_match else ''
+        bookmark_id = id_match.group(2) if id_match else ''
+        template_text = normalize_template_text(element.get_text(' ', strip=True))
+
+        if should_skip_template_text(template_text):
+            continue
+
+        template_key = (template_text, law_id, bookmark_id)
+
+        if law_id and template_key not in seen_templates:
             form_templates.append((template_text, law_id, bookmark_id, element))
+            seen_elements.add(id(element))
+            seen_templates.add(template_key)
+
+    direct_links = content_div.find_all('a', href=re.compile(r'files\.thuvienphapluat\.vn/uploads/DocForms/', re.I))
+    for element in direct_links:
+        if id(element) in seen_elements:
+            continue
+        template_text = normalize_template_text(element.get_text(' ', strip=True)) or 'Tải biểu mẫu'
+        if should_skip_template_text(template_text):
+            continue
+        template_key = (template_text, '', '')
+        if template_key in seen_templates:
+            continue
+        form_templates.append((template_text, '', '', element))
+        seen_elements.add(id(element))
+        seen_templates.add(template_key)
+
+    download_links = content_div.find_all('a', attrs={'data-action': 'download'})
+    for element in download_links:
+        if id(element) in seen_elements:
+            continue
+        template_text = normalize_template_text(element.get_text(' ', strip=True)) or 'Tải biểu mẫu'
+        if should_skip_template_text(template_text):
+            continue
+        template_key = (template_text, '', '')
+        if template_key in seen_templates:
+            continue
+        form_templates.append((template_text, '', '', element))
+        seen_elements.add(id(element))
+        seen_templates.add(template_key)
     
     return form_templates
 
-# Thêm import random ở đầu file nếu chưa có
-import random
+def extract_direct_form_url(element) -> str:
+    """Extract direct URL if it already exists in HTML."""
+    if not element:
+        return ""
 
-def fetch_form_template_url(page, law_id: str, bookmark_id: str, retry_count: int = 0, max_retries: int = 3) -> str:
+    href = element.get("href", "")
+    if href and "files.thuvienphapluat.vn" in href:
+        return unescape(href)
+
+    download_link = element.find("a", attrs={"data-action": "download"})
+    if download_link and download_link.get("href"):
+        return unescape(download_link.get("href", ""))
+
+    iframe = element.find("iframe")
+    if iframe and iframe.get("src"):
+        src = iframe.get("src", "")
+        match = re.search(r"[?&]url=(https?://[^&]+)", src)
+        if match:
+            return unescape(unquote(match.group(1)))
+        return src
+
+    return ""
+
+FORM_REQUEST_CONCURRENCY = 4
+FORM_REQUEST_DELAY_RANGE = (0.0, 0.15)
+FORM_BATCH_PAUSE_RANGE = (0.15, 0.5)
+FORM_RATE_LIMIT_BACKOFF_BASE = 2.5
+FORM_RATE_LIMIT_COOLDOWN = 4.0
+FORM_SECOND_PASS_DELAY = 0.5
+
+FORM_AJAX_STATS = {
+    "count": 0,
+    "ok": 0,
+    "rate_limit": 0,
+    "no_url": 0,
+    "error": 0,
+    "elapsed_ms": 0.0,
+}
+
+FORM_AJAX_CACHE = {}
+
+def extract_download_url_from_ajax_response(response_text: str) -> str:
+    """Parse the real DocForms URL from LoadBieuMau response HTML/text."""
+    if not response_text:
+        return ""
+
+    full_match = re.search(
+        r"https?://files\.thuvienphapluat\.vn/uploads/DocForms/[^\"'<>\r\n]+?\.(?:doc|docx|xls|xlsx|pdf)",
+        response_text,
+        re.I,
+    )
+    if full_match:
+        return unescape(full_match.group(0))
+
+    relative_match = re.search(
+        r"/uploads/DocForms/[^\"'<>\r\n]+?\.(?:doc|docx|xls|xlsx|pdf)",
+        response_text,
+        re.I,
+    )
+    if relative_match:
+        return "https://files.thuvienphapluat.vn" + unescape(relative_match.group(0))
+
+    return ""
+
+def resolve_form_template_url(page, template_text: str, law_id: str, bookmark_id: str, element=None, retry_count: int = 0) -> str:
+    """Resolve form URL from LoadBieuMau response, then direct HTML fallback."""
+    if law_id and bookmark_id:
+        ajax_url = fetch_form_template_url(page, law_id, bookmark_id, template_text=template_text, retry_count=retry_count)
+        if ajax_url:
+            return ajax_url
+
+    direct_url = extract_direct_form_url(element)
+    if direct_url:
+        return direct_url
+
+    return ""
+
+import random
+import time
+
+def is_rate_limited_response(response_text: str) -> bool:
+    """Detect TVPL anti-flood responses from LoadBieuMau."""
+    if not response_text:
+        return False
+
+    normalized = re.sub(r'\s+', ' ', response_text).lower()
+    return any(
+        marker in normalized
+        for marker in (
+            'tần suất quá nhiều',
+            'tầng xuất quá nhiều',
+            'truy cập với tần suất quá nhiều',
+            'truy cập với tầng xuất quá nhiều',
+            'too many',
+            'rate limit',
+        )
+    )
+
+def wait_between_form_requests(min_delay: float = None, max_delay: float = None) -> None:
+    """Throttle form AJAX calls to avoid TVPL anti-flood limits."""
+    min_delay = FORM_REQUEST_DELAY_RANGE[0] if min_delay is None else min_delay
+    max_delay = FORM_REQUEST_DELAY_RANGE[1] if max_delay is None else max_delay
+    time.sleep(random.uniform(min_delay, max_delay))
+
+def wait_between_form_batches(min_delay: float = None, max_delay: float = None) -> None:
+    """Small jitter between AJAX batches to avoid bursty traffic."""
+    min_delay = FORM_BATCH_PAUSE_RANGE[0] if min_delay is None else min_delay
+    max_delay = FORM_BATCH_PAUSE_RANGE[1] if max_delay is None else max_delay
+    time.sleep(random.uniform(min_delay, max_delay))
+
+def log_form_ajax_timing(template_text: str, law_id: str, bookmark_id: str, status: str, started_at: float, detail: str = "") -> None:
+    """Print a compact timing line for each LoadBieuMau call."""
+    elapsed_ms = (time.perf_counter() - started_at) * 1000
+    FORM_AJAX_STATS["count"] += 1
+    FORM_AJAX_STATS["elapsed_ms"] += elapsed_ms
+    if status == "ok":
+        FORM_AJAX_STATS["ok"] += 1
+    elif status.startswith("rate-limit"):
+        FORM_AJAX_STATS["rate_limit"] += 1
+    elif status == "no-url":
+        FORM_AJAX_STATS["no_url"] += 1
+    elif status.startswith("error"):
+        FORM_AJAX_STATS["error"] += 1
+
+    suffix = f" | {detail}" if detail else ""
+    print(
+        f"      ⏱️  AJAX {status}: {template_text} "
+        f"[LawID={law_id}, Bookmark_ID={bookmark_id}] "
+        f"{elapsed_ms:.0f}ms{suffix}"
+    )
+
+def print_form_ajax_summary() -> None:
+    """Print aggregate timing for all form AJAX requests."""
+    count = FORM_AJAX_STATS["count"]
+    avg_ms = FORM_AJAX_STATS["elapsed_ms"] / count if count else 0.0
+    print(
+        "📊 AJAX SUMMARY: "
+        f"calls={count}, ok={FORM_AJAX_STATS['ok']}, rate_limit={FORM_AJAX_STATS['rate_limit']}, "
+        f"no_url={FORM_AJAX_STATS['no_url']}, error={FORM_AJAX_STATS['error']}, avg={avg_ms:.0f}ms"
+    )
+
+def parse_form_ajax_response(response_text: str) -> tuple:
+    """Return (download_url, status, preview) from a LoadBieuMau response."""
+    if not response_text:
+        return "", "no-url", "empty response"
+
+    response_preview = " ".join(response_text.strip().split())[:200]
+
+    if is_rate_limited_response(response_text):
+        return "", "rate-limit", response_preview
+
+    if ('<title>Just a moment' in response_text or 'Cloudflare' in response_text):
+        return "", "cloudflare", response_preview
+
+    download_url = extract_download_url_from_ajax_response(response_text)
+    if download_url:
+        return download_url, "ok", download_url[:120]
+
+    return "", "no-url", response_preview
+
+def fetch_form_template_urls_batch(page, requests: list, concurrency: int = FORM_REQUEST_CONCURRENCY) -> list:
+    """Fetch multiple LoadBieuMau URLs in parallel inside the page context."""
+    if not requests:
+        return []
+
+    concurrency = max(1, min(int(concurrency or 1), len(requests)))
+    return page.evaluate(
+        """async ({ requests, concurrency }) => {
+            const results = new Array(requests.length);
+            let index = 0;
+
+            async function worker() {
+                while (true) {
+                    const currentIndex = index++;
+                    if (currentIndex >= requests.length) return;
+
+                    const item = requests[currentIndex];
+                    try {
+                        const body = new URLSearchParams({
+                            action: 'LoadBieuMau',
+                            LawID: item.lawId,
+                            Bookmark_ID: item.bookmarkId,
+                        });
+
+                        const res = await fetch('/page/ajaxcontroler.aspx', {
+                            method: 'POST',
+                            headers: {
+                                'accept': '*/*',
+                                'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                                'x-requested-with': 'XMLHttpRequest',
+                            },
+                            body,
+                            credentials: 'include',
+                        });
+
+                        results[currentIndex] = {
+                            ok: true,
+                            text: await res.text(),
+                        };
+                    } catch (error) {
+                        results[currentIndex] = {
+                            ok: false,
+                            status: 'error',
+                            error: String(error),
+                        };
+                    }
+                }
+            }
+
+            await Promise.all(Array.from({ length: concurrency }, () => worker()));
+            return results;
+        }""",
+        {"requests": requests, "concurrency": concurrency},
+    )
+
+def fetch_form_template_url(page, law_id: str, bookmark_id: str, template_text: str = "", retry_count: int = 0, max_retries: int = 5) -> str:
     """
     Gọi AJAX endpoint để lấy URL download của biểu mẫu.
-    Returns: Full URL đã được encode, hoặc empty string nếu fail.
+    Returns: Full URL thật parse từ response, hoặc empty string nếu fail.
     """
-    from urllib.parse import quote, urlparse, urlunparse
-    
+    ajax_started_at = time.perf_counter()
+    label = template_text or f"LawID={law_id}, Bookmark_ID={bookmark_id}"
+    print(f"      ▶ AJAX start: {label}")
+
+    cache_key = (law_id, bookmark_id)
+    if cache_key in FORM_AJAX_CACHE:
+        cached_url = FORM_AJAX_CACHE[cache_key]
+        log_form_ajax_timing(label, law_id, bookmark_id, "cache", ajax_started_at, cached_url[:120])
+        return cached_url
+
     try:
-        # Call AJAX endpoint
-        response = page.evaluate(f"""
-            fetch('/page/ajaxcontroler.aspx', {{
-                method: 'POST',
-                headers: {{
-                    'Content-Type': 'application/x-www-form-urlencoded',
-                }},
-                body: 'action=LoadBieuMau&LawID={law_id}&Bookmark_ID={bookmark_id}'
-            }}).then(r => r.text())
-        """)
+        response = page.evaluate(
+            """async ({ lawId, bookmarkId }) => {
+                const body = new URLSearchParams({
+                    action: 'LoadBieuMau',
+                    LawID: lawId,
+                    Bookmark_ID: bookmarkId,
+                });
+
+                const res = await fetch('/page/ajaxcontroler.aspx', {
+                    method: 'POST',
+                    headers: {
+                        'accept': '*/*',
+                        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                        'x-requested-with': 'XMLHttpRequest',
+                    },
+                    body,
+                    credentials: 'include',
+                });
+
+                return await res.text();
+            }""",
+            {"lawId": law_id, "bookmarkId": bookmark_id},
+        )
         
         if not response:
             return ""
         
-        # Clean response - remove newlines, whitespace
-        file_path = response.strip().split('\n')[0].strip()
-        
-        # 🚨 QUAN TRỌNG: Kiểm tra nếu response là HTML (Cloudflare challenge/error)
-        if (file_path.startswith('<!DOCTYPE') or 
-            file_path.startswith('<html') or 
-            '<title>Just a moment' in file_path or 
-            'Cloudflare' in file_path):
-            
-            print(f"      ⚠️  AJAX trả về Cloudflare challenge, retry sau 1-2s... (lần {retry_count + 1}/{max_retries})")
+        download_url, status, detail = parse_form_ajax_response(response)
+
+        if status == "rate-limit":
             if retry_count < max_retries:
-                import time
-                time.sleep(random.uniform(1.0, 2.0))  # Wait 1-2 seconds before retry
-                return fetch_form_template_url(page, law_id, bookmark_id, retry_count + 1, max_retries)
+                wait_seconds = FORM_RATE_LIMIT_BACKOFF_BASE * (1.5 ** retry_count) + random.uniform(0.2, 1.0)
+                log_form_ajax_timing(label, law_id, bookmark_id, "rate-limit", ajax_started_at, f"sleep {wait_seconds:.1f}s then retry {retry_count + 1}/{max_retries}")
+                time.sleep(wait_seconds)
+                return fetch_form_template_url(page, law_id, bookmark_id, template_text=template_text, retry_count=retry_count + 1, max_retries=max_retries)
+
+            log_form_ajax_timing(label, law_id, bookmark_id, "rate-limit-fail", ajax_started_at, detail)
             return ""
-        
-        # Kiểm tra nếu response là URL hợp lệ (chứa .doc, .pdf, .xls...)
-        if not re.search(r'\.(doc|docx|pdf|xls|xlsx|ppt|pptx|zip|rar)($|\?)', file_path, re.I):
-            print(f"      ⚠️  AJAX trả về path không phải file: {file_path[:100]}")
+
+        if status == "cloudflare":
+            if retry_count < max_retries:
+                log_form_ajax_timing(label, law_id, bookmark_id, "cloudflare", ajax_started_at, f"retry {retry_count + 1}/{max_retries}")
+                time.sleep(random.uniform(0.8, 2.0))
+                return fetch_form_template_url(page, law_id, bookmark_id, template_text=template_text, retry_count=retry_count + 1, max_retries=max_retries)
+            log_form_ajax_timing(label, law_id, bookmark_id, "cloudflare-fail", ajax_started_at, detail)
             return ""
-        
-        # ✅ FIX QUAN TRỌNG: Construct full URL
-        if file_path.startswith('http'):
-            # 🎯 Đã là full URL, CHỈ encode filename part, KHÔNG prepend base URL nữa
-            parsed = urlparse(file_path)
-            path_parts = parsed.path.rsplit('/', 1)
-            if len(path_parts) == 2:
-                base_path = path_parts[0]  # e.g., /uploads/DocForms/4/6/4/1/464109/
-                filename = path_parts[1]    # e.g., Mẫu số 11/TXNK Phụ lục 1.doc
-                encoded_filename = quote(filename, safe='')
-                # Reconstruct URL with encoded filename only
-                new_path = base_path + '/' + encoded_filename
-                return urlunparse(parsed._replace(path=new_path))
-            return file_path  # Return as-is if can't parse
-        else:
-            # Relative path, construct full URL
-            if file_path.startswith('/'):
-                file_path = file_path[1:]
-            
-            parts = file_path.rsplit('/', 1)
-            if len(parts) == 2:
-                base_path = parts[0]
-                filename = parts[1]
-                encoded_filename = quote(filename, safe='')
-                full_url = f"https://files.thuvienphapluat.vn/{base_path}/{encoded_filename}"
-            else:
-                # Fallback: encode entire path
-                full_url = "https://" + quote(file_path, safe=':/')
-            
-            return full_url
+
+        if download_url:
+            FORM_AJAX_CACHE[cache_key] = download_url
+            log_form_ajax_timing(label, law_id, bookmark_id, "ok", ajax_started_at, download_url[:120])
+            return download_url
+
+        log_form_ajax_timing(label, law_id, bookmark_id, "no-url", ajax_started_at, detail)
+        return ""
         
     except Exception as e:
-        print(f"      ⚠️  Lỗi fetch form template URL: {e}")
         if retry_count < max_retries:
-            import time
-            time.sleep(random.uniform(1.0, 2.0))
-            return fetch_form_template_url(page, law_id, bookmark_id, retry_count + 1, max_retries)
+            log_form_ajax_timing(label, law_id, bookmark_id, "error", ajax_started_at, str(e))
+            time.sleep(random.uniform(0.8, 2.0))
+            return fetch_form_template_url(page, law_id, bookmark_id, template_text=template_text, retry_count=retry_count + 1, max_retries=max_retries)
+        log_form_ajax_timing(label, law_id, bookmark_id, "error-fail", ajax_started_at, str(e))
         return ""
+
+def resolve_and_replace_form_template(page, template_text: str, law_id: str, bookmark_id: str, element) -> str:
+    download_url = resolve_form_template_url(
+        page,
+        template_text,
+        law_id,
+        bookmark_id,
+        element=element,
+        retry_count=0,
+    )
+
+    if download_url:
+        markdown_link = f" [{template_text}]({download_url})"
+        element.replace_with(markdown_link)
+
+    return download_url
+
 def process_form_templates(page, content_div, base_url: str) -> dict:
     """
     Process all form templates và replace với markdown links.
     Returns: Dict mapping template text to download URL
     """
     print("📋 Đang xử lý biểu mẫu...")
+    FORM_AJAX_STATS.update({"count": 0, "ok": 0, "rate_limit": 0, "no_url": 0, "error": 0, "elapsed_ms": 0.0})
     
-    form_templates = extract_form_template_ids(content_div)
+    form_templates = extract_form_template_ids(content_div, base_url=base_url)
     template_urls = {}
-    
+    ajax_templates = []
+    retry_templates = []
+
     for template_text, law_id, bookmark_id, element in form_templates:
         print(f"   🔄 Fetching: {template_text}")
-        
-        # Try AJAX with retry logic (no fallback)
-        download_url = fetch_form_template_url(page, law_id, bookmark_id, retry_count=0, max_retries=3)
-        
+        direct_url = extract_direct_form_url(element)
+        if direct_url:
+            markdown_link = f" [{template_text}]({direct_url})"
+            element.replace_with(markdown_link)
+            template_urls[template_text] = direct_url
+            continue
+
+        if law_id and bookmark_id:
+            ajax_templates.append((template_text, law_id, bookmark_id, element))
+        else:
+            retry_templates.append((template_text, law_id, bookmark_id, element))
+
+    random.shuffle(ajax_templates)
+
+    if ajax_templates:
+        pending = ajax_templates[:]
+        attempt = 0
+        while pending and attempt <= 2:
+            if attempt > 0:
+                time.sleep(FORM_SECOND_PASS_DELAY * attempt + random.uniform(0.0, 0.5))
+
+            batch_size = FORM_REQUEST_CONCURRENCY if attempt == 0 else 1
+            next_pending = []
+
+            for start in range(0, len(pending), batch_size):
+                batch = pending[start:start + batch_size]
+                batch_payload = [
+                    {"templateText": template_text, "lawId": law_id, "bookmarkId": bookmark_id}
+                    for template_text, law_id, bookmark_id, _ in batch
+                ]
+
+                results = fetch_form_template_urls_batch(page, batch_payload, concurrency=min(batch_size, FORM_REQUEST_CONCURRENCY))
+                for (template_text, law_id, bookmark_id, element), result in zip(batch, results):
+                    if not result:
+                        if attempt < 2:
+                            next_pending.append((template_text, law_id, bookmark_id, element))
+                        else:
+                            print(f"   ⚠️  Bỏ qua: {template_text} (empty batch result)")
+                        continue
+
+                    if not result.get("ok"):
+                        if attempt < 2:
+                            next_pending.append((template_text, law_id, bookmark_id, element))
+                        else:
+                            print(f"   ⚠️  Bỏ qua: {template_text} ({result.get('error', 'error')})")
+                        continue
+
+                    response_text = result.get("text", "")
+                    download_url, status, detail = parse_form_ajax_response(response_text)
+
+                    if download_url:
+                        FORM_AJAX_CACHE[(law_id, bookmark_id)] = download_url
+                        markdown_link = f" [{template_text}]({download_url})"
+                        element.replace_with(markdown_link)
+                        template_urls[template_text] = download_url
+                        continue
+
+                    if status in {"rate-limit", "cloudflare"} and attempt < 2:
+                        next_pending.append((template_text, law_id, bookmark_id, element))
+                    else:
+                        print(f"   ⚠️  Bỏ qua: {template_text} ({detail})")
+
+                wait_between_form_batches()
+
+            if not next_pending:
+                break
+
+            print(f"   ⏳ Retry {len(next_pending)} biểu mẫu bị chặn (lượt {attempt + 1})...")
+            pending = next_pending
+            attempt += 1
+
+    for template_text, law_id, bookmark_id, element in retry_templates:
+        print(f"   🔁 Retry direct fallback: {template_text}")
+        time.sleep(FORM_SECOND_PASS_DELAY + random.uniform(0.0, 0.5))
+        download_url = resolve_and_replace_form_template(page, template_text, law_id, bookmark_id, element)
+
         if download_url:
             template_urls[template_text] = download_url
-            
-            # Create markdown link
-            markdown_link = f" [{template_text}]({download_url})"
-            
-            # Replace element with markdown link
-            element.replace_with(markdown_link)
-            print(f"   ✅ {template_text} -> {download_url[:80]}...")
         else:
-            # Keep original text if fetch fails completely (no fallback)
-            print(f"   ❌ Failed to fetch: {template_text}")
+            print(f"   ⚠️  Bỏ qua sau retry: {template_text}")
     
+    print_form_ajax_summary()
     return template_urls
 def save_form_template_urls(template_urls: dict, output_file: str):
     """
@@ -297,6 +650,84 @@ def extract_note_content(soup: BeautifulSoup, element) -> str:
         return f"\n{note_text}"
     return ""
 
+def normalize_image_url(src: str, base_url: str = None) -> str:
+    """Normalize image URLs before writing them as markdown images."""
+    if not src:
+        return ""
+
+    src = src.strip()
+    if src.startswith("//"):
+        return "https:" + src
+    if src.startswith("http://") or src.startswith("https://"):
+        return src
+    if base_url:
+        return urljoin(base_url, src)
+    return src
+
+def render_dom_children(node, base_url: str = None) -> str:
+    return "".join(render_dom_node(child, base_url) for child in getattr(node, "children", []))
+
+def render_math_node(node, base_url: str = None) -> str:
+    """Render sub/sup as LaTeX-like fragments."""
+    inner = render_dom_children(node, base_url)
+    if node.name == "sub":
+        return f"_{{{inner}}}" if inner else ""
+    if node.name == "sup":
+        return f"^{{{inner}}}" if inner else ""
+    return inner
+
+def render_dom_node(node, base_url: str = None) -> str:
+    """Render content DOM to text while preserving images and formula structure."""
+    if isinstance(node, NavigableString):
+        return str(node)
+    if not isinstance(node, Tag):
+        return ""
+
+    name = (node.name or "").lower()
+    if name in {"script", "style"}:
+        return ""
+    if name == "br":
+        return "\n"
+    if name == "img":
+        img_url = normalize_image_url(node.get("src", ""), base_url)
+        return f"![]({img_url})" if img_url else ""
+    if name in {"sub", "sup"}:
+        return render_math_node(node, base_url)
+
+    text = render_dom_children(node, base_url)
+    if name in {"p", "div", "section", "article", "blockquote", "center", "li", "tr", "td", "th", "h1", "h2", "h3", "h4", "h5", "h6"}:
+        return text + "\n"
+    return text
+
+def render_content_div(content_div, base_url: str = None) -> str:
+    rendered = render_dom_children(content_div, base_url)
+    rendered = re.sub(r"[ \t]+\n", "\n", rendered)
+    rendered = re.sub(r"\n{3,}", "\n\n", rendered)
+    return rendered.strip()
+
+def normalize_formula_text(line: str) -> str:
+    """Normalize multiplication only on formula-like lines."""
+    if '_{' not in line and '^{' not in line and '=' not in line:
+        return line
+    return re.sub(r'\s*\*\s*', r' \\times ', line)
+
+def normalize_appendix_breaks(text: str) -> str:
+    """Ensure PHỤ LỤC headings are separated from previous content.
+
+    The DOM renderer can flatten visually separated appendices into the
+    previous paragraph/signature text. Use a blank line before PHỤ LỤC so both
+    the raw crawl output and later chunking treat it as a hard boundary.
+    """
+    if not text:
+        return text
+
+    appendix_heading = r'(PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)'
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+    text = re.sub(r'([^\n])\s+' + appendix_heading, r'\1\n\n\2', text, flags=re.I | re.U)
+    text = re.sub(r'\n+[ \t]*' + appendix_heading, r'\n\n\1', text, flags=re.I | re.U)
+    text = re.sub(r'\n{3,}(?=PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)', '\n\n', text, flags=re.I | re.U)
+    return text
+
 def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
     """
     Xử lý các element có hover và chèn nội dung tooltip vào sau text.
@@ -350,7 +781,6 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
         if re.match(r'^Điều\s+\d+\.', text_content):
             normalized_text = ' '.join(text_content.split())
             b_tag.string = normalized_text
-            from bs4 import NavigableString
             b_tag.insert_after(NavigableString(DIEU_MARKER))
     
     # Xử lý các bảng
@@ -370,9 +800,10 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
             placeholder_div.string = placeholder
             table.replace_with(placeholder_div)
     
-    # Lấy text
-    text = content_div.get_text()
+    # Render DOM thay vì get_text() để không làm mất <img>, <sub>, <sup>.
+    text = render_content_div(content_div, base_url=url)
     text = text.replace(DIEU_MARKER, '\n')
+    text = normalize_appendix_breaks(text)
     
     # Chuẩn hóa dòng
     lines = text.split('\n')
@@ -413,6 +844,7 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
         line = line.strip()
         if not line:
             continue
+        line = normalize_formula_text(line)
         
         is_new_paragraph = any(re.match(p, line) for p in new_paragraph_patterns)
         
@@ -439,10 +871,13 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
         result.append(buffer)
     
     final_text = '\n'.join(result)
+    final_text = normalize_appendix_breaks(final_text)
     
     for placeholder, markdown in zip(table_placeholders, markdown_tables):
         markdown_with_spacing = f"\n{markdown.strip()}"
         final_text = final_text.replace(placeholder, markdown_with_spacing)
+
+    final_text = normalize_appendix_breaks(final_text)
     
     return final_text, form_template_urls
 
@@ -457,6 +892,7 @@ def postprocess(content: str, doc_name: str) -> str:
     content = content.replace('[Click vào để xem nội dung]', '')
     
     content = re.sub(r'(Mục\s+\d+\.)', rf'\n{doc_name}. \1', content)
+    content = normalize_appendix_breaks(content)
     
     content = re.sub(r'[""\u201c\u201d]\s*\n+\s*(Điều)', r'"\1', content)
     
@@ -470,7 +906,9 @@ def postprocess(content: str, doc_name: str) -> str:
     
     content = re.sub(r'\n(' + re.escape(doc_name) + r'\. Điều)', r'\n\1', content)
     
-    content = re.sub(r'\n{3,}', r'\n', content)
+    content = normalize_appendix_breaks(content)
+    content = re.sub(r'\n{3,}', r'\n\n', content)
+    content = normalize_appendix_breaks(content)
     content = content.lstrip('\n')
     
     return content
@@ -514,8 +952,8 @@ def run_pipeline(url: str, cookie_file: str = "cookies.txt", doc_name: str = Non
             print(f"🍪 Đã load {len(cookies)} cookies từ {cookie_file}")
         
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60000)
-        page.wait_for_timeout(3000)
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(1000)
         
         html = page.content()
         print(f"   ✓ Đã tải {len(html):,} bytes HTML")
