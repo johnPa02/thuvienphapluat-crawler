@@ -1,9 +1,29 @@
 #!/usr/bin/env python3
 import argparse
 import re
-import tiktoken
 from pathlib import Path
 from typing import List, Tuple
+
+try:
+    import tiktoken
+except ImportError:
+    tiktoken = None
+
+
+Chunk = Tuple[str, str]
+
+
+def normalize_appendix_breaks(text: str) -> str:
+    """Ensure PHỤ LỤC headings are split before chunk detection."""
+    if not text:
+        return text
+
+    appendix_heading = r'(PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)'
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
+    text = re.sub(r'([^\n])\s+' + appendix_heading, r'\1\n\n\2', text, flags=re.IGNORECASE | re.UNICODE)
+    text = re.sub(r'\n+[ \t]*' + appendix_heading, r'\n\n\1', text, flags=re.IGNORECASE | re.UNICODE)
+    text = re.sub(r'\n{3,}(?=PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)', '\n\n', text, flags=re.IGNORECASE | re.UNICODE)
+    return text
 
 
 def extract_title(text: str, filename: str) -> str:
@@ -30,39 +50,44 @@ def clean_chunk_lines(chunk: str, title_pattern: str) -> str:
     return '\n'.join(cleaned_lines)
 
 
-def split_into_chunks(text: str) -> List[str]:
+def split_into_chunks(text: str) -> List[Chunk]:
     text = text.replace('\r\n', '\n').replace('\r', '\n')
+    text = normalize_appendix_breaks(text)
     matches = []
 
     dieu_re = re.compile(r'^\s*Điều\s+(\d+\w*)\s*[.:]', re.IGNORECASE | re.UNICODE | re.MULTILINE)
     for m in dieu_re.finditer(text):
-        matches.append(m.start())
+        matches.append((m.start(), 'article'))
 
-    phu_luc_re = re.compile(r'(?<!\w)PHỤ LỤC\s+([IVXLCDM]+)(?=\s|$)', re.UNICODE)
+    phu_luc_re = re.compile(r'(?<!\w)PHỤ LỤC\s+([IVXLCDM]+)(?=\s|$)', re.IGNORECASE | re.UNICODE)
     for m in phu_luc_re.finditer(text):
-        matches.append(m.start())
+        matches.append((m.start(), 'appendix'))
+
+    for m in re.finditer(r'^\s*MỤC LỤC\s*$', text, re.IGNORECASE | re.UNICODE | re.MULTILINE):
+        matches.append((m.start(), 'toc'))
 
     bieu_so_re = re.compile(r'(?<!\w)Biểu số\s+(\d+)\s*:', re.IGNORECASE | re.UNICODE)
     for m in bieu_so_re.finditer(text):
-        matches.append(m.start())
+        matches.append((m.start(), 'table'))
 
-    matches = sorted(set(matches))
+    matches = sorted(set(matches), key=lambda x: x[0])
 
     if not matches:
-        return [text.strip()]
+        return [('article', text.strip())]
 
     chunks = []
-    if matches[0] > 0:
-        preamble = text[:matches[0]].strip()
+    if matches[0][0] > 0:
+        preamble = text[:matches[0][0]].strip()
         if preamble:
-            chunks.append(preamble)
+            chunks.append(('preamble', preamble))
 
     for i in range(len(matches)):
-        start = matches[i]
-        end = matches[i + 1] if i + 1 < len(matches) else len(text)
+        start = matches[i][0]
+        kind = matches[i][1]
+        end = matches[i + 1][0] if i + 1 < len(matches) else len(text)
         chunk = text[start:end].strip()
         if chunk:
-            chunks.append(chunk)
+            chunks.append((kind, chunk))
 
     return chunks
 
@@ -173,13 +198,13 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
     title_pattern = re.escape(title.strip())
 
     cleaned_chunks = []
-    for chunk in chunks:
+    for kind, chunk in chunks:
         c = chunk.strip()
         if not c:
             continue
-        c_cleaned = clean_chunk_lines(c, title_pattern).strip()
+        c_cleaned = c if kind in {'appendix', 'toc'} else clean_chunk_lines(c, title_pattern).strip()
         if c_cleaned:
-            cleaned_chunks.append(c_cleaned)
+            cleaned_chunks.append((kind, c_cleaned))
 
     chunks = cleaned_chunks
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -191,7 +216,12 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
     has_over_token = False
 
     with master_path.open('w', encoding='utf-8') as mf:
-        for chunk in chunks:
+        for kind, chunk in chunks:
+            if kind in {'appendix', 'toc'}:
+                mf.write(title.rstrip('.') + '.\n\n' + chunk.strip() + '\n\n')
+                total_subchunks += 1
+                continue
+
             subchunks = _split_by_token_limit(chunk, encoder, max_tokens=15000)
             if len(subchunks) > 1:
                 has_over_token = True  # ✅ Flag this file as over-token
