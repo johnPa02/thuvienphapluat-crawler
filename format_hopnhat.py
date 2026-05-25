@@ -4,17 +4,25 @@ import re
 from pathlib import Path
 
 
+_HEADING_RE = re.compile(r'^\s*(Chương|Phần|Mục|Tiểu\s+mục)\b', re.IGNORECASE)
+
+
+def _is_doc_watermark(line: str) -> bool:
+    """Phát hiện chuỗi base64 watermark định danh tài liệu"""
+    return bool(re.match(r'^[A-Za-z0-9+/]{10,}={0,2}$', line.strip()))
+
+
+def _is_metadata_block_start(line: str) -> bool:
+    """Phát hiện dòng bắt đầu block metadata cuối tài liệu"""
+    s = line.strip()
+    return s.startswith('Nơi nhận') or s.startswith('XÁC THỰC') or s.startswith('CHỦ NHIỆM')
+
+
 def resolve_footnotes(text: str) -> str:
     """
-    Giải quyết footnote: chuyển nội dung footnote [n] từ cuối văn bản lên vị trí đánh dấu [n] đầu tiên
-    Ví dụ:
-        Input:
-            Văn bản có footnote [1] tại đây.
-            ...
-            [1] Nội dung footnote giải thích thêm.
-        
-        Output:
-            Văn bản có footnote [Nội dung footnote giải thích thêm] tại đây.
+    Giải quyết footnote: chuyển nội dung footnote [n] từ cuối văn bản lên vị trí đánh dấu [n] đầu tiên.
+    Khi [n] xuất hiện ở cuối dòng (chapter heading), các dòng tiếp theo trong thân văn bản
+    (các điều, khoản) cũng được gộp vào cùng dòng đó cho đến khi gặp watermark hoặc metadata.
     """
     lines = text.splitlines()
     n = len(lines)
@@ -26,46 +34,97 @@ def resolve_footnotes(text: str) -> str:
             num = m.group(1)
             occurrences.setdefault(num, []).append(idx)
 
-    # BƯỚC 2: Xử lý từng footnote
+    # BƯỚC 2: Xây dựng nội dung footnote và đánh dấu xóa các dòng định nghĩa
     to_delete = set()
     replacements = {}  # num -> footnote content
 
     for num, positions in occurrences.items():
         if len(positions) < 2:
-            continue  # Chỉ xử lý khi có ít nhất 2 lần xuất hiện (đánh dấu + định nghĩa)
+            continue
 
-        # Lấy vị trí định nghĩa footnote (thường là lần xuất hiện thứ 2 trở đi)
         def_idx = positions[1]
         line = lines[def_idx]
         m = re.match(rf'^\s*\[{num}\]\s*(.*)$', line)
         if not m:
             continue
 
-        # Trích xuất toàn bộ nội dung footnote (kể cả các dòng tiếp theo không trống)
+        # Thu thập nội dung qua các dòng trống, dừng khi gặp footnote tiếp theo hoặc hết file
         content_parts = [m.group(1).strip()]
         j = def_idx + 1
-        while j < n and lines[j].strip() and not re.match(r'^\s*\[\d+\]\s*', lines[j]):
-            content_parts.append(lines[j].strip())
+        while j < n and not re.match(r'^\s*\[\d+\]\s*', lines[j]):
+            if lines[j].strip():
+                content_parts.append(lines[j].strip())
             j += 1
 
         footnote_content = ' '.join(content_parts).strip()
         if footnote_content:
             replacements[num] = footnote_content
-            # Đánh dấu xóa block footnote gốc
             for k in range(def_idx, j):
                 to_delete.add(k)
 
-    # BƯỚC 3: Thay thế [n] bằng nội dung footnote tại vị trí đầu tiên
-    new_lines = []
+    # BƯỚC 3: Thay thế [n] và gộp các dòng continuation khi [n] ở cuối dòng
+    line_modifications = {}   # idx -> dòng đã chỉnh sửa
+    continuation_deletes = set()
+
     for idx, line in enumerate(lines):
         if idx in to_delete:
             continue
-        # Thay thế tất cả [n] trong dòng bằng nội dung footnote tương ứng
-        for num, content in replacements.items():
-            line = re.sub(rf'\[{num}\]', f'[{content}]', line)
-        new_lines.append(line)
 
-    return '\n'.join(new_lines)
+        new_line = line
+        end_substitution = False
+
+        for num, content in replacements.items():
+            if f'[{num}]' in new_line:
+                # Chỉ trigger continuation khi [n] ở cuối dòng AND dòng là heading chương/mục
+                if re.search(rf'\[{num}\]\s*$', line) and _HEADING_RE.match(line):
+                    end_substitution = True
+                new_line = re.sub(rf'\[{num}\]', f'[{content}]', new_line)
+
+        line_modifications[idx] = new_line
+
+        # Nếu [n] ở cuối dòng → gộp các dòng tiếp theo vào cùng dòng
+        if end_substitution and new_line.rstrip().endswith(']'):
+            j = idx + 1
+            parts = []
+
+            while j < n and j not in to_delete:
+                stripped = lines[j].strip()
+
+                if not stripped:
+                    continuation_deletes.add(j)
+                    j += 1
+                    continue
+
+                if _is_doc_watermark(stripped) or _is_metadata_block_start(stripped):
+                    # Xóa toàn bộ watermark + metadata cho đến định nghĩa footnote
+                    while j < n and j not in to_delete:
+                        if re.match(r'^\s*\[\d+\]\s*', lines[j]):
+                            break
+                        continuation_deletes.add(j)
+                        j += 1
+                    break
+
+                if re.match(r'^\s*\[\d+\]\s*', stripped):
+                    break
+
+                parts.append(stripped)
+                continuation_deletes.add(j)
+                j += 1
+
+            if parts:
+                base = line_modifications[idx].rstrip()
+                # Chèn nội dung continuation vào bên trong dấu ']' cuối
+                line_modifications[idx] = base[:-1] + ' ' + ' '.join(parts) + ']'
+
+    # BƯỚC 4: Xây dựng output
+    all_deletes = to_delete | continuation_deletes
+    result_lines = []
+    for idx in range(n):
+        if idx in all_deletes:
+            continue
+        result_lines.append(line_modifications.get(idx, lines[idx]))
+
+    return '\n'.join(result_lines)
 
 
 def format_file(src_path: Path, out_dir: Path) -> Path:
