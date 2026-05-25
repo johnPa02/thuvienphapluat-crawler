@@ -23,6 +23,9 @@ def normalize_appendix_breaks(text: str) -> str:
     text = re.sub(r'([^\n])\s+' + appendix_heading, r'\1\n\n\2', text, flags=re.IGNORECASE | re.UNICODE)
     text = re.sub(r'\n+[ \t]*' + appendix_heading, r'\n\n\1', text, flags=re.IGNORECASE | re.UNICODE)
     text = re.sub(r'\n{3,}(?=PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)', '\n\n', text, flags=re.IGNORECASE | re.UNICODE)
+    # Unnumbered PHỤ LỤC (e.g. "PHỤ LỤC MỘT SỐ BIỂU MẪU...") merged onto previous line.
+    # Strict case (no re.I) so lowercase "phụ lục" inside normal sentences is untouched.
+    text = re.sub(r'([^\n]) +(PHỤ LỤC\b)', r'\1\n\n\2', text, flags=re.UNICODE)
     return text
 
 
@@ -59,7 +62,7 @@ def split_into_chunks(text: str) -> List[Chunk]:
     for m in dieu_re.finditer(text):
         matches.append((m.start(), 'article'))
 
-    phu_luc_re = re.compile(r'(?<!\w)PHỤ LỤC\s+([IVXLCDM]+)(?=\s|$)', re.IGNORECASE | re.UNICODE)
+    phu_luc_re = re.compile(r'^PHỤ LỤC\b', re.MULTILINE | re.UNICODE)
     for m in phu_luc_re.finditer(text):
         matches.append((m.start(), 'appendix'))
 
@@ -69,6 +72,11 @@ def split_into_chunks(text: str) -> List[Chunk]:
     bieu_so_re = re.compile(r'(?<!\w)Biểu số\s+(\d+)\s*:', re.IGNORECASE | re.UNICODE)
     for m in bieu_so_re.finditer(text):
         matches.append((m.start(), 'table'))
+
+    # Chương headings are NOT independent chunks — they belong to the next Điều.
+    # Track their positions so we can trim preamble/article tails and prepend to next chunk.
+    chuong_re = re.compile(r'^Chương\s+(?:[IVXLCDM]+|\d+)\b[^\n]*', re.MULTILINE | re.UNICODE)
+    chuong_positions = [(m.start(), m.end(), m.group(0)) for m in chuong_re.finditer(text)]
 
     matches = sorted(set(matches), key=lambda x: x[0])
 
@@ -89,7 +97,25 @@ def split_into_chunks(text: str) -> List[Chunk]:
         if chunk:
             chunks.append((kind, chunk))
 
-    return chunks
+    # Post-process: move any trailing Chương heading from the end of one chunk
+    # to the beginning of the next chunk (so it stays with its articles).
+    _chuong_tail_re = re.compile(r'\n+(Chương\s+(?:[IVXLCDM]+|\d+)\b[^\n]*)$', re.UNICODE)
+    merged: List[Chunk] = []
+    pending_chuong = ''
+    for kind, chunk in chunks:
+        if pending_chuong:
+            chunk = pending_chuong + '\n' + chunk
+            pending_chuong = ''
+        tail = _chuong_tail_re.search(chunk)
+        if tail:
+            pending_chuong = tail.group(1).strip()
+            chunk = chunk[:tail.start()].strip()
+        if chunk:
+            merged.append((kind, chunk))
+    # If there's a dangling Chương with no following chunk, keep it
+    if pending_chuong:
+        merged.append(('article', pending_chuong))
+    return merged
 
 
 def _get_token_encoder():
@@ -218,7 +244,7 @@ def format_file(src_path: Path, out_dir: Path) -> Tuple[Path, int, bool]:
     with master_path.open('w', encoding='utf-8') as mf:
         for kind, chunk in chunks:
             if kind in {'appendix', 'toc'}:
-                mf.write(title.rstrip('.') + '.\n\n' + chunk.strip() + '\n\n')
+                mf.write(title.rstrip('.') + '. ' + chunk.strip() + '\n\n')
                 total_subchunks += 1
                 continue
 

@@ -149,11 +149,15 @@ def extract_text_from_cell(cell: Tag, base_url: str = None) -> str:
 
         text = ' '.join(result_parts)
     else:
-        # No links, just get regular text
-        text = cell.get_text(separator=' ', strip=True)
+        # No links, just get regular text.
+        # Use separator='' so adjacent inline spans (e.g. split Vietnamese chars)
+        # are concatenated directly instead of getting spurious spaces.
+        # Natural whitespace between block elements is preserved and later
+        # collapsed by the re.sub below.
+        text = cell.get_text(separator='')
 
     # Remove extra whitespace
-    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip()
 
     # Handle special cases
     text = text.replace('□', '☐')  # Use empty checkbox

@@ -87,15 +87,29 @@ def crawl_html(url: str, cookie_file: str = None) -> str:
     """
     print(f"🌐 Đang crawl: {url}")
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context()
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--no-sandbox", "--disable-blink-features=AutomationControlled"]
+        )
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            )
+        )
         if cookie_file and os.path.exists(cookie_file):
             cookies = load_cookies_from_file(cookie_file)
             context.add_cookies(cookies)
             print(f"🍪 Đã load {len(cookies)} cookies từ {cookie_file}")
         page = context.new_page()
         page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        page.wait_for_timeout(1000)
+        # Chờ thêm để Cloudflare JS challenge hoàn thành nếu có
+        page.wait_for_timeout(3000)
+        title = page.title()
+        if "just a moment" in title.lower():
+            print("⚠️  Phát hiện Cloudflare challenge, đang chờ xử lý...")
+            page.wait_for_timeout(10000)
         html = page.content()
         browser.close()
         return html
@@ -726,6 +740,9 @@ def normalize_appendix_breaks(text: str) -> str:
     text = re.sub(r'([^\n])\s+' + appendix_heading, r'\1\n\n\2', text, flags=re.I | re.U)
     text = re.sub(r'\n+[ \t]*' + appendix_heading, r'\n\n\1', text, flags=re.I | re.U)
     text = re.sub(r'\n{3,}(?=PHỤ\s+LỤC\s+(?:[IVXLCDM]+|\d+)\b)', '\n\n', text, flags=re.I | re.U)
+    # Unnumbered PHỤ LỤC (e.g. "PHỤ LỤC MỘT SỐ BIỂU MẪU...") merged onto previous line.
+    # Use strict case (no re.I) so lowercase "phụ lục" inside normal sentences is untouched.
+    text = re.sub(r'([^\n]) +(PHỤ LỤC\b)', r'\1\n\n\2', text, flags=re.U)
     return text
 
 def process_element_with_hover(soup: BeautifulSoup, content_div) -> None:
@@ -762,7 +779,23 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
     print("📄 Đang trích xuất nội dung...")
     
     soup = BeautifulSoup(html, "html.parser")
+
+    # Kiểm tra Cloudflare block
+    page_title = soup.find("title")
+    if page_title and "just a moment" in page_title.text.lower():
+        raise ValueError(
+            "Trang bị Cloudflare chặn (Just a moment...). "
+            "Hãy cập nhật cookie 'cf_clearance' từ trình duyệt rồi thử lại."
+        )
+
     content_div = soup.find("div", class_="content1")
+    if content_div is None:
+        # Thử các selector thay thế
+        content_div = (
+            soup.find("div", class_="content2")
+            or soup.find("div", id="toanvan")
+            or soup.find("div", class_=lambda c: c and "fulltext" in c)
+        )
     if content_div is None:
         raise ValueError("Không tìm thấy thẻ <div class='content1'> trên trang")
     
@@ -859,7 +892,7 @@ def extract_content(html: str, url: str = None, page=None) -> tuple:
                 if re.search(dieu_title_end_pattern, buffer):
                     result.append(buffer)
                     buffer = line
-                elif re.search(r'[.;:?!]$', buffer):
+                elif re.search(r'[.;?!]$', buffer):
                     result.append(buffer)
                     buffer = line
                 else:
